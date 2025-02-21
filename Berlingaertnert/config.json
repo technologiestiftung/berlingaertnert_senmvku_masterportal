@@ -1,0 +1,174 @@
+{
+  "portalConfig": {
+    "map": {
+      "controls": {
+        "zoom": true,
+        "orientation": {
+          "zoomMode": "once"
+        }
+      },
+      "mapView": {
+        "backgroundImage": "./resources/img/backgroundCanvas.jpeg",
+        "startCenter": [389920, 5819697],
+        "extent": [310000, 5760000, 440000, 5865000],
+        "startZoomLevel": 1,
+        "epsg": "EPSG:25833"
+      },
+      "treeType": "light"
+    },
+    "portalFooter": {
+      "urls": [
+        {
+          "bezeichnung": "common:modules.portalFooter.designation",
+          "url": "https://www.berlin.de/sen/uvk/",
+          "alias": "Senatsverwaltung für Mobilität, Verkehr, Klimaschutz und Umwelt",
+          "alias_mobil": "SenMVKU"
+        }
+      ]
+    },
+    "tree": {
+
+      "highlightedFeatures": {
+        "active": true
+      }
+    },
+    "mainMenu": {
+      "expanded": true,
+      "title": {
+        "text": "Berlin Gärtnert Test",
+        "logo": "./resources/img/Kindertagesstaetten.svg",
+        "link": "https://masterportal.org",
+        "toolTip": "Masterportal"
+      },
+      "searchBar": {
+        "searchInterfaces": [
+          {
+            "type": "komootPhoton",
+            "minChars": 3,
+            "serviceId": "11",
+            "limit": 20,
+            "lang": "de",
+            "lat": 53.6,
+            "lon": 10.0,
+            "bbox": "9.6,53.3,10.4,53.8"
+          },
+          {
+            "type": "visibleVector",
+            "resultEvents": {
+              "onClick": ["openGetFeatureInfo", "setMarker", "zoomToResult"],
+              "onHover": ["setMarker"]
+            }
+          },
+          {
+            "type": "topicTree",
+            "hitTemplate": "layer"
+          }
+        ]
+      },
+      "sections": [
+        [
+          {
+            "icon": "bi-info-circle",
+            "type": "customMenuElement",
+            "name": "Über Berlin Gärtnert",
+            "htmlContent": "<div><p>Mit dem <a href=\"https://www.berlin.de/umweltatlas/\" target=\"_blank\">Umweltatlas</a> stellt die Berliner Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen raumbezogene Umweltdaten zur Verfügung. Sie geben Auskunft über unterschiedlichste umweltrelevante Themen – adressgenau, wohnblockbezogen oder zum Bezirk.</br>Die Umweltatlas Map ist die kartenzentrierte Erweiterung des klassischen Umweltatlas.</p><h5>Wie kann ich die Kartenanwendung nutzen?</p></h5>Im Menü auf der linken Seite können über die Suche und über den Themenbaum alle verfügbaren Daten des Umweltatlas sowie Luftbilder verschiedener Jahre gefunden und in die Kartenansicht hinzugeladen werden. Über den Infobutton lässt sich zu jedem Datensatz zusätzliche Information anzeigen. Dort findet sich auch der Link zu den ausführlichen Informationen eines Themas mit Datengrundlagen, Methode und Kartenbeschreibung im Umweltatlas. Zudem gibt es einen Link zu weiteren technischen Metadaten eines Themas in der Geodatensuche.</p>Für das professionelle Arbeiten stehen zu jedem Thema sogenannte Geodienste (WMS, WFS, ATOM-Feed) zur Verfügung, die eine individuelle Weiternutzung der Daten in Geoinformationssystemen oder Fachprogrammen ermöglichen. Zum Download steht alternativ auch eine PDF-Karte zur Verfügung.</p>Über die Werkzeuge auf der rechten Seite lassen sich verschiedene Tools hinzu schalten, zum Beispiel die Luftbildzeitreihe oder das Vergleichstool zum Vergleichen von zwei Karten.</p><h5>Wer arbeitet für den Umweltatlas?</h5><p>Wir verstehen uns als offenes Portal für alle Geodaten, die im Rahmen des Verwaltungshandeln erstellt oder erhoben werden. Für die meisten Themen nutzen wir Daten, Expertisen und das Engagement zahlreicher Fachabteilungen unserer Verwaltung sowie der Verwaltungen für Mobilität, Verkehr, Klimaschutz und Umwelt, für Wirtschaft, Energie und Betriebe und vieler weiterer Verantwortlichen.</p>Die Koordination des Umweltatlas wird durch Leilah Haag, Manuel Döllefeld und Lukas Hartbecke wahrgenommen. Unterstützt werden wir durch namhafte Ingenieurbüros aus Stadtplanung und Umweltschutz sowie universitären Einrichtungen. Die Kartenanwendung wurde mit Unterstützung der Open Data Informationsstelle der Technologiestiftung Berlin erstellt und basiert auf dem Open Source Code des Masterportals.</p><h5>Weitere Informationen</h5><p>Mehr Informationen und häufig gestellte Fragen und Antworten finden Sie auch unter <a href='https://www.berlin.de/umweltatlas/unser-portal/faq/'>FAQ</a>. Die Fragen und Antworten werden kontinuierlich erweitert. Offen gebliebene Fragen können Sie an <a href='mailto:umweltatlas@senstadt.berlin.de'>umweltatlas@senstadt.berlin.de</a> senden.</div>"
+          },
+          {
+            "type": "news"
+          },
+          {
+            "type": "contact",
+            "serviceId": "80001",
+            "includeSystemInfo": true,
+            "from": [
+              {
+                "email": "lgvgeoportal-hilfe@gv.hamburg.de",
+                "name": "LGVGeoportalHilfe"
+              }
+            ],
+            "to": [
+              {
+                "email": "lgvgeoportal-hilfe@gv.hamburg.de",
+                "name": "LGVGeoportalHilfe"
+              }
+            ]
+          },
+          {
+            "type": "language"
+          },
+          {
+            "type": "shareView",
+            "name": "Auswahl speichern und teilen"
+          }
+        ]
+      ]
+    },
+    "secondaryMenu": {
+      "expanded": false,
+      "sections": [
+        [
+          
+          {
+            "type": "legend"
+          },
+          {
+            "type": "scaleSwitcher"
+          },
+          {
+            "type": "shareView"
+          },
+          {
+            "type": "measure"
+          },
+          {
+            "type": "coordToolkit",
+            "heightLayerId": "19173",
+            "heightElementName": "value_0",
+            "heightValueWater": "-20",
+            "heightValueBuilding": "200",
+            "zoomLevel": 5
+          }
+        ]
+      ]
+    }
+  },
+  "layerConfig": {
+    "baselayer": {
+      "elements": [
+        {
+          "id": "basemap_raster_grau",
+          "name": "Berliner Hintergrundkarte",
+          "visibility": true
+        },
+        {
+          "id": "webatlas_wms_farb",
+          "name": "Berliner Hintergrundkarte farbig",
+          "visibility": false
+        },
+        {
+          "id": "truedop_2024:truedop_2024:copyForBasemap",
+          "name": "Luftbilder",
+          "visibility": false
+        }
+      ]
+    },
+    "subjectlayer": {
+      "elements": [
+        
+            {
+              "id": "kleingarten:wfs:kleingarten",
+              "name": "Kleingartenbestand",
+              "styleId":"kleingarten"
+            },
+            {
+              "id": "11111",
+              "name": "Gemeinschaftsgärten Test",
+              "styleId":"fis_kita_wfs"
+            }
+          
+        
+      ]
+    }
+  }
+}
+
