@@ -158,12 +158,14 @@
             {
               "id": "kleingarten:wfs:kleingarten",
               "name": "Kleingartenbestand",
-              "styleId":"kleingarten"
+              "styleId":"kleingarten",
+              "visibility": false
             },
             {
               "id": "11111",
               "name": "Gemeinschaftsgärten Test",
-              "styleId":"fis_kita_wfs"
+              "styleId":"fis_kita_wfs",
+              "visibility": false
             }
           
         
