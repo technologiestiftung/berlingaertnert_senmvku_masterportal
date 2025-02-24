@@ -99,6 +99,7 @@
 {
   "id" : "11111",
   "name" : "lokale GeoJSON",
+  "crs": "urn:ogc:def:crs:EPSG::25833",
   "url" : "resources/gaerten2.geojson",
   "typ" : "GeoJSON",
   "gfiAttributes" : "showAll",
