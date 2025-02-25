@@ -1,54 +1,53 @@
 [
   {
     "styleId": "fis_kita_wfs",
-    "rules": [{
-      
+    "rules": [
+      {
         "conditions": {
-            "properties": {
-                "Status": "beendet"
-            }
+          "properties": {
+            "Status": "beendet"
+          }
         },
         "style": {
-            "legendValue": "Status: beendet",
-            "type": "icon",
-            "imageName": "Kindertagesstaetten2.svg",
-            "imageScale": 0.05,
-            "imageWidth": 10,
-            "imageHeight": 10,
-            "imageOffsetX": 0.1,
-			"imageOffsetY": 0.1
-        }
-    },
-    {
-      
-      "conditions": {
-          "properties": {
-
-          }
-      },
-      "style": {
-          "legendValue": "Status: nicht beendet",
+          "legendValue": "Status: beendet",
           "type": "icon",
-          "imageName": "Kindertagesstaetten.svg",
-          "imageScale": 0.05,
+          "imageName": "Kindertagesstaetten2.png",
+          "imageScale": 0.3,
           "imageWidth": 10,
           "imageHeight": 10,
           "imageOffsetX": 0.1,
-    "imageOffsetY": 0.1
-      }
-  }]
-    },
-    {
-      "styleId": "kleingarten",
-      "rules": [
-          {
-          "style": {
-              "polygonStrokeColor": [45, 45, 45, 0.4],
-              "polygonStrokeWidth": 2,
-              "polygonFillColor": [60,179,113, 0.7]
-          }
-        }]
+          "imageOffsetY": 0.1
+        }
       },
+      {
+        "conditions": {
+          "properties": {}
+        },
+        "style": {
+          "legendValue": "Status: nicht beendet",
+          "type": "icon",
+          "imageName": "Kindertagesstaetten.png",
+          "imageScale": 0.3,
+          "imageWidth": 10,
+          "imageHeight": 10,
+          "imageOffsetX": 0.1,
+          "imageOffsetY": 0.1
+        }
+      }
+    ]
+  },
+  {
+    "styleId": "kleingarten",
+    "rules": [
+      {
+        "style": {
+          "polygonStrokeColor": [45, 45, 45, 0.4],
+          "polygonStrokeWidth": 2,
+          "polygonFillColor": [60, 179, 113, 0.7]
+        }
+      }
+    ]
+  },
   {
     "styleId": "1711",
     "rules": [
@@ -61,12 +60,7 @@
           "clusterImageName": "krankenhaus.png",
           "clusterTextOffsetX": 30,
           "clusterTextOffsetY": 0,
-          "clusterTextFillColor": [
-            0,
-            0,
-            255,
-            1
-          ]
+          "clusterTextFillColor": [0, 0, 255, 1]
         }
       }
     ]
@@ -74,39 +68,29 @@
   {
     "styleId": "kleingartenplan",
     "rules": [
-        {
-        "style": 
-  {
-    "polygonStrokeColor": [0, 0, 0, 1],
-    "polygonStrokeWidth": 2,
-    "polygonFillHatch": {
-        "pattern": "diagonal",
-        "lineWidth": 10,
-        "size": 30,
-        "backgroundColor": [60,179,113, 0.7],
-        "patternColor": [255, 255, 255, 0.4]
-    }
-}
-}]
+      {
+        "style": {
+          "polygonStrokeColor": [0, 0, 0, 1],
+          "polygonStrokeWidth": 2,
+          "polygonFillHatch": {
+            "pattern": "diagonal",
+            "lineWidth": 10,
+            "size": 30,
+            "backgroundColor": [60, 179, 113, 0.7],
+            "patternColor": [255, 255, 255, 0.4]
+          }
+        }
+      }
+    ]
   },
   {
     "styleId": "2003",
     "rules": [
       {
         "style": {
-          "polygonStrokeColor": [
-            0,
-            0,
-            0,
-            1
-          ],
+          "polygonStrokeColor": [0, 0, 0, 1],
           "polygonStrokeWidth": 1,
-          "polygonFillColor": [
-            10,
-            200,
-            0,
-            0.2
-          ]
+          "polygonFillColor": [10, 200, 0, 0.2]
         }
       }
     ]
@@ -308,18 +292,8 @@
           "clusterImageScale": 0.7,
           "clusterImageOffsetX": 0.9,
           "clusterImageOffsetY": 0.1,
-          "clusterTextFillColor": [
-            69,
-            96,
-            166,
-            1
-          ],
-          "clusterTextStrokeColor": [
-            240,
-            240,
-            240,
-            1
-          ],
+          "clusterTextFillColor": [69, 96, 166, 1],
+          "clusterTextStrokeColor": [240, 240, 240, 1],
           "clusterTextType": "none"
         }
       },
@@ -338,18 +312,8 @@
           "clusterImageScale": 0.7,
           "clusterImageOffsetX": 0.9,
           "clusterImageOffsetY": 0.1,
-          "clusterTextFillColor": [
-            69,
-            96,
-            166,
-            1
-          ],
-          "clusterTextStrokeColor": [
-            240,
-            240,
-            240,
-            1
-          ],
+          "clusterTextFillColor": [69, 96, 166, 1],
+          "clusterTextStrokeColor": [240, 240, 240, 1],
           "clusterTextType": "none"
         }
       },
@@ -368,18 +332,8 @@
           "clusterImageScale": 0.7,
           "clusterImageOffsetX": 0.9,
           "clusterImageOffsetY": 0.1,
-          "clusterTextFillColor": [
-            69,
-            96,
-            166,
-            1
-          ],
-          "clusterTextStrokeColor": [
-            240,
-            240,
-            240,
-            1
-          ],
+          "clusterTextFillColor": [69, 96, 166, 1],
+          "clusterTextStrokeColor": [240, 240, 240, 1],
           "clusterTextType": "none"
         }
       },
@@ -398,18 +352,8 @@
           "clusterImageScale": 0.7,
           "clusterImageOffsetX": 0.9,
           "clusterImageOffsetY": 0.1,
-          "clusterTextFillColor": [
-            69,
-            96,
-            166,
-            1
-          ],
-          "clusterTextStrokeColor": [
-            240,
-            240,
-            240,
-            1
-          ],
+          "clusterTextFillColor": [69, 96, 166, 1],
+          "clusterTextStrokeColor": [240, 240, 240, 1],
           "clusterTextType": "none"
         }
       }
@@ -421,10 +365,7 @@
       {
         "conditions": {
           "properties": {
-            "@Datastreams.0.Observations.0.result": [
-              1,
-              1000
-            ]
+            "@Datastreams.0.Observations.0.result": [1, 1000]
           }
         },
         "style": {
