@@ -36,7 +36,7 @@
       "expanded": true,
       "title": {
         "text": "Berlin Gärtnert Test",
-        "logo": "./resources/img/Kindertagesstaetten.svg",
+        "logo": "./resources/img/blatter.png",
         "link": "https://masterportal.org",
         "toolTip": "Masterportal"
       },
@@ -125,6 +125,12 @@
       "sections": [
         [
           {
+            "type": "fileImport"
+          },
+          {
+            "type": "addWMS"
+          },
+          {
             "type": "measure"
           },
           {
@@ -144,7 +150,7 @@
       "elements": [
         {
           "id": "basemap_raster_grau",
-          "name": "Berlin Hintergrundkarte grau",
+          "name": "Hintergrundkarte (grau)",
           "visibility": true
         },
         {
@@ -156,135 +162,158 @@
           "id": "truedop_2024:truedop_2024:copyForBasemap",
           "name": "Berlin Luftbild",
           "visibility": false
+        },
+        {
+          "id": "kleingarten:wfs:kleingarten",
+          "name": "Kleingartenbestand",
+          "styleId":"kleingarten",
+          "visibility": true
+        },
+        {
+          "id": "gemeinschaftsgaerten",
+          "name": "Gemeinschaftsgärten Test",
+          "styleId":"fis_kita_wfs",
+          "visibility": true
         }
       ]
     },
     "subjectlayer": {
       "elements": [
-        
-            {
-              "id": "kleingarten:wfs:kleingarten",
-              "name": "Kleingartenbestand",
-              "styleId":"kleingarten",
-              "visibility": true
-            },
-            {
-              "id": "gemeinschaftsgaerten",
-              "name": "Gemeinschaftsgärten Test",
-              "styleId":"fis_kita_wfs",
-              "visibility": true
-            },
+        {
+          "name": "Stadtgrün",
+          "type": "folder",
+          "elements": [
             {
               "id": "gruenanlagen",
               "name": "Grünanlagen",
               "styleId":"fis_kita_wfs",
-              "visibility": true
+              "visibility": false
             },
             {
               "id": "gruenflaechen",
               "name": "Grünflächen 2022",
               "styleId":"fis_kita_wfs",
-              "visibility": true
+              "visibility": false
             },
             {
               "id": "baumbestand-anlagenbaeume",
               "name": "Baumbestand Berlin - Anlagenbäume",
-              "styleId":"fis_kita_wfs",
-              "visibility": true
+              "visibility": false
             },
             {
               "id": "baumbestand-straßenbaeume",
-              "name": "Baumbestand Berlin - Straßenbaeume",
-              "styleId":"fis_kita_wfs",
-              "visibility": true
+              "name": "Baumbestand Berlin - Straßenbäume",
+              "visibility": false
             },
             {
               "id": "baumbestand_gruen_berlin",
               "name": "Baumbestand Liegenschaft Grün Berlin",
-              "styleId":"fis_kita_wfs",
-              "visibility": true
+              "visibility": false
             },
             {
               "id": "ua_gruendaecher_2020:wfs:d_gebaeude",
               "name": "Gründacher Gebäude 2020",
               "styleId":"fis_kita_wfs",
-              "visibility": true
-            },
-            {
-              "id": "ua_versiegelung_2021:wfs:versieg2021_str",
-              "name": "Versiegelung Straßenflächen 2021",
-              "styleId":"fis_kita_wfs",
               "visibility": false
             },
             {
-              "id": "ua_bodenarten_2020:wfs:bodenarten2020",
-              "name": "Bodenarten 2020",
-              "styleId":"fis_kita_wfs",
-              "visibility": false
-            },
-            {
-              "id": "ua_boden_ertragfkt_2020:wfs:ertrag2020",
-              "name": "Ertragsfunktion der Böden für Kulturpflanzen 2020",
-              "styleId":"fis_kita_wfs",
-              "visibility": false
-            },
-            {
-              "id": "ua_boden_humus_2020:wfs:humus2020",
-              "name": "Humusmenge der Böden 2020",
-              "styleId":"fis_kita_wfs",
-              "visibility": false
-            },
-            {
-              "id": "schulen:wfs:schulen",
-              "name": "Schulen",
-              "styleId":"fis_kita_wfs",
-              "visibility": false
-            },
-            {
-              "id": "kita:wfs:kita",
-              "name": "Kindertagesstätten",
-              "styleId":"fis_kita_wfs",
-              "visibility": false
-            },
-            {
-              "id": "jfe:wfs:jfe",
-              "name": "Jugendfreizeiteinrichtungen",
-              "styleId":"fis_kita_wfs",
-              "visibility": false
-            },
-            {
-              "id": "pflegeeinrichtungen:wfs:a_pflegeeinrichtungen_voll",
-              "name": "Pflegeeinrichtungen",
-              "styleId":"fis_kita_wfs",
-              "visibility": false
-            },
-            {
-              "id": "ua_einwohnerdichte_2023:wfs:einwohnerdichte2023_entw",
-              "name": "Einwohnerdichte 2023",
-              "styleId":"fis_kita_wfs",
-              "visibility": false
-            },
-            {
-              "id": "s06_05gruenversorg2020_gruenanl",
-              "name": "Versorgung mit öffentlichen Grünanlagen 2020",
-              "styleId":"fis_kita_wfs",
-              "visibility": false
-            },
-            {
-              "id": "s09_01_8UGthematisch_2013",
-              "name": "Umweltgerechtigkeit: integrierte Mehrfachbelastung 2013",
-              "styleId":"fis_kita_wfs",
-              "visibility": false
-            },
-            {
-              "id": "liegenschaftsplan:wfs:liegenschaftsplan",
-              "name": "Umweltgerechtigkeit: integrierte Mehrfachbelastung 2013",
+              "id": "sp_gruene_wege_wander",
+              "name": "20 Grüne Hauptwege - Wanderwege",
               "styleId":"fis_kita_wfs",
               "visibility": false
             }
-            
-          
-        
+      ]
+    },
+    {
+      "name": "Boden",
+      "type": "folder",
+      "elements": [
+        {
+          "id": "ua_versiegelung_2021:wfs:versieg2021_str",
+          "name": "Versiegelung Straßenflächen 2021",
+          "styleId":"fis_kita_wfs",
+          "visibility": false
+        },
+        {
+          "id": "ua_bodenarten_2020:wfs:bodenarten2020",
+          "name": "Bodenarten 2020",
+          "styleId":"fis_kita_wfs",
+          "visibility": false
+        },
+        {
+          "id": "ua_boden_ertragfkt_2020:wfs:ertrag2020",
+          "name": "Ertragsfunktion der Böden für Kulturpflanzen 2020",
+          "styleId":"fis_kita_wfs",
+          "visibility": false
+        },
+        {
+          "id": "ua_boden_humus_2020:wfs:humus2020",
+          "name": "Humusmenge der Böden 2020",
+          "styleId":"fis_kita_wfs",
+          "visibility": false
+        }
+  ]
+},
+{
+  "name": "Soziale Einrichtungen",
+  "type": "folder",
+  "elements": [
+    {
+      "id": "schulen:wfs:schulen",
+      "name": "Schulen",
+      "visibility": false
+    },
+    {
+      "id": "kita:wfs:kita",
+      "name": "Kindertagesstätten",
+      "visibility": false
+    },
+    {
+      "id": "jfe:wfs:jfe",
+      "name": "Jugendfreizeiteinrichtungen",
+      "visibility": false
+    },
+    {
+      "id": "pflegeeinrichtungen:wfs:a_pflegeeinrichtungen_voll",
+      "name": "Pflegeeinrichtungen",
+      "visibility": false
+    }
+]
+},
+{
+  "name": "Stadtentwicklung",
+  "type": "folder",
+  "elements": [
+    {
+      "id": "schulen:wfs:schulen",
+      "name": "Schulen",
+      "visibility": false
+    },
+    {
+      "id": "ua_einwohnerdichte_2023:wfs:einwohnerdichte2023_entw",
+      "name": "Einwohnerdichte 2023",
+      "visibility": false
+    },
+    {
+      "id": "s06_05gruenversorg2020_gruenanl",
+      "name": "Versorgung mit öffentlichen Grünanlagen 2020",
+      "styleId":"fis_kita_wfs",
+      "visibility": false
+    },
+    {
+      "id": "s09_01_8UGthematisch_2013",
+      "name": "Umweltgerechtigkeit: integrierte Mehrfachbelastung 2013",
+      "styleId":"fis_kita_wfs",
+      "visibility": false
+    },
+    {
+      "id": "liegenschaftsplan:wfs:liegenschaftsplan",
+      "name": "Liegenschaftsplan",
+      "styleId":"fis_kita_wfs",
+      "visibility": false
+    }
+]
+}
       ]
     }
   }
