@@ -20,23 +20,27 @@
       }
     ]
   },
-{
-  "id": "hintergrund_orthophoto",
-  "name": "Digitale Orthophotos 2024",
-  "url": "https://gdi.berlin.de/services/wmts/truedop_2024",
-  "capabilitiesUrl": "https://gdi.berlin.de/services/wmts/truedop_2024?request=getcapabilities&service=WMTS&version=1.0.0",
-  "typ": "WMTS",
-  "layers": "truedop_2024",
-  "tileMatrixSet": "GDIBE:25833",
-  "datasets": [
-      {
-          "md_id": "aff8a8a5-2b48-44e8-949b-ea5f7d382a4f",
-          "rs_id": "https://registry.gdi-de.org/id/de.be.csw/f8e73787-217b-3242-8aa5-80dedf9f05cf",
-          "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
-      }
-  ],
-  "optionsFromCapabilities": true,
-  "layerAttribution": "FÃ¼r die Nutzung der Daten ist die Datenlizenz Deutschland - Namensnennung - Version 2.0 anzuwenden. Die Lizenz ist Ã¼ber https://www.govdata.de/dl-de/by-2-0 abrufbar. Der Quellenvermerk gemÃ¤ÃŸ (2) der Lizenz lautet \"Geoportal Berlin / [Titel des Datensatzes]\""
+  {
+    "id": "basemap_raster_farbe",
+    "name": "basemap.de Web Raster Farbe",
+    "name_lang": "basemap.de Web Raster Farbe",
+    "capabilitiesUrl": "https://sgx.geodatenzentrum.de/wmts_basemapde/1.0.0/WMTSCapabilities.xml",
+    "url": "https://sgx.geodatenzentrum.de/wmts_basemapde/1.0.0/",
+    "typ": "WMTS",
+    "gfiAttributes": "ignore",
+    "tileMatrixSet": "DE_EPSG_25833_ADV",
+    "layers": "de_basemapde_web_raster_farbe",
+    "optionsFromCapabilities": true,
+    "crs": "http://www.opengis.net/def/crs/EPSG/0/25833",
+    "legend": "https://sgx.geodatenzentrum.de/wms_basemapde?format=image%2Fpng&layer=de_basemapde_web_raster_farbe&sld_version=1.1.0&request=GetLegendGraphic&service=WMS&version=1.1.1&styles=",
+    "datasets": [
+        {
+            "md_id": "FE1D2837-ABE0-46B5-9821-BB11BAF22531",
+            "rs_id": "https://registry.gdi-de.org/id/de.bund.bkg.csw/68f48957-a20f-3d93-bd62-e59ce6bd99fa",
+            "csw_url": "https://gdk.gdi-de.org/gdi-de/srv/ger/csw",
+            "show_doc_url": "https://gdz.bkg.bund.de/index.php/default/wmts-basemapde-webraster-wmts-basemapde-webraster.html#"
+        }
+    ]
 },
 {
   "id": "truedop_2024:truedop_2024:copyForBasemap",

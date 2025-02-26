@@ -38,10 +38,10 @@
     "mainMenu": {
       "expanded": true,
       "title": {
-        "text": "Berlin Gärtnert Test",
+        "text": "Berlin gärtnert",
         "logo": "./resources/img/blatter.png",
-        "link": "https://masterportal.org",
-        "toolTip": "Masterportal"
+        "link": "",
+        "toolTip": "Berlin gärtnert"
       },
       "searchBar": {
         "searchInterfaces": [
@@ -157,31 +157,79 @@
           "visibility": true
         },
         {
-          "id": "webatlas_wms_farb",
-          "name": "Berlin Hintergrundkarte farbig",
+          "id": "basemap_raster_farbe",
+          "name": "Berlin Hintergrundkarte (farbig)",
           "visibility": false
         },
         {
           "id": "truedop_2024:truedop_2024:copyForBasemap",
           "name": "Berlin Luftbild",
           "visibility": false
-        },
-        {
-          "id": "kleingarten:wfs:kleingarten",
-          "name": "Kleingartenbestand",
-          "styleId":"kleingarten",
-          "visibility": true
-        },
-        {
-          "id": "gemeinschaftsgaerten",
-          "name": "Gemeinschaftsgärten Test",
-          "styleId":"fis_kita_wfs",
-          "visibility": true
         }
       ]
     },
     "subjectlayer": {
       "elements": [
+        {
+          "name": "Berlin gärtnert",
+          "type": "folder",
+          "elements": [
+            {
+              "id": "gemeinschaftsgaerten",
+              "name": "Gemeinschaftsgärten Test",
+              "styleId":"fis_kita_wfs",
+              "visibility": true
+            },
+            {
+              "id": "kleingarten:wfs:kleingarten",
+              "name": "Kleingartenbestand",
+              "styleId":"kleingarten",
+              "visibility": true
+            },
+            {
+              "id": "kleingarten:wfs:kleingarten",
+              "name": "Solidarische Landwirtschaft",
+              "styleId":"kleingarten",
+              "visibility": true
+            },
+            {
+              "id": "kleingarten:wfs:kleingarten",
+              "name": "Flächenpotentiale",
+              "styleId":"kleingarten",
+              "visibility": true
+            },
+            {
+              "id": "kleingarten:wfs:kleingarten",
+              "name": "Selbsterntegärten",
+              "styleId":"kleingarten",
+              "visibility": true
+            },
+            {
+              "id": "kleingarten:wfs:kleingarten",
+              "name": "Beetpatenschaften",
+              "styleId":"kleingarten",
+              "visibility": true
+            },
+            {
+              "id": "kleingarten:wfs:kleingarten",
+              "name": "Gartenarbeitsschule",
+              "styleId":"kleingarten",
+              "visibility": true
+            },
+            {
+              "id": "kleingarten:wfs:kleingarten",
+              "name": "Parklets",
+              "styleId":"kleingarten",
+              "visibility": true
+            },
+            {
+              "id": "kleingarten:wfs:kleingarten",
+              "name": "Kita- und Schulgärten",
+              "styleId":"kleingarten",
+              "visibility": true
+            }
+      ]
+    },
         {
           "name": "Stadtgrün",
           "type": "folder",
