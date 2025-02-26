@@ -76,7 +76,7 @@
   "gfiTheme": "default"
 },
 {
-  "id": "gruenanlagen",
+  "id": "gruenanlagen:wfs:gruenanlagen",
   "name": "Grünanlagen",
   "crs": "urn:ogc:def:crs:EPSG::25833",
   "url": "https://gdi.berlin.de/services/wfs/gruenanlagen",
@@ -112,7 +112,7 @@
   "gfiAttributes": "showAll"
 },
 {
-  "id": "baumbestand-anlagenbaeume",
+  "id": "baumbestand:wfs:anlagenbaeume",
   "name": "Baumbestand Berlin - Anlagenbaeume",
   "crs": "urn:ogc:def:crs:EPSG::25833",
   "url": "https://gdi.berlin.de/services/wfs/baumbestand",
@@ -148,7 +148,7 @@
   "gfiAttributes": "showAll"
 },
 {
-  "id": "baumbestand_gruen_berlin",
+  "id": "baumbestand_gruen_berlin:wfs:anlagenbaum_gruenberlin",
   "name": "Baumbestand in den Liegenschaften der GrÃ¼n Berlin GmbH (AnlagenbÃ¤ume)",
   "crs": "urn:ogc:def:crs:EPSG::25833",
   "url": "https://gdi.berlin.de/services/wfs/baumbestand_gruen_berlin",

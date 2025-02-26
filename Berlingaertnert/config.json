@@ -1,6 +1,9 @@
 {
   "portalConfig": {
     "map": {
+      "baselayerSwitcher": {
+        "active": true
+      },
       "controls": {
         "zoom": true,
         "orientation": {
@@ -184,8 +187,8 @@
           "type": "folder",
           "elements": [
             {
-              "id": "gruenanlagen",
-              "name": "Grünanlagen",
+              "id": "gruenanlagen:wfs:gruenanlagen",
+              "name": "Grünanlagenbestand Berlin",
               "styleId":"fis_kita_wfs",
               "visibility": false
             },
@@ -196,17 +199,17 @@
               "visibility": false
             },
             {
-              "id": "baumbestand-anlagenbaeume",
+              "id": "baumbestand:wfs:anlagenbaeume",
               "name": "Baumbestand Berlin - Anlagenbäume",
               "visibility": false
             },
             {
-              "id": "baumbestand-straßenbaeume",
+              "id": "baumbestand:wfs:strassenbaeume",
               "name": "Baumbestand Berlin - Straßenbäume",
               "visibility": false
             },
             {
-              "id": "baumbestand_gruen_berlin",
+              "id": "baumbestand_gruen_berlin:wfs:anlagenbaum_gruenberlin",
               "name": "Baumbestand Liegenschaft Grün Berlin",
               "visibility": false
             },
