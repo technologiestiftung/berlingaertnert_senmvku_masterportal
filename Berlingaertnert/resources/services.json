@@ -20,38 +20,6 @@
       }
     ]
   },
-  {
-    "id": "webatlas_wms_farb",
-    "name": "WebAtlas halbton",
-    "name_lang": "WebAtlas halbton",
-    "crs": "http://www.opengis.net/def/crs/EPSG/0/25833",
-    "url": "https://isk.geobasis-bb.de/mapproxy/webatlasde/service/wms",
-    "legend": "https://fbinter.stadt-berlin.de/fb_daten/legenden/leg_webatlas.png",
-    "typ": "WMS",
-    "layers": "WebAtlasDE_BEBB_halbton",
-    "format": "image/png",
-    "version": "1.3.0",
-    "singleTile": false,
-    "transparent": true,
-    "transparency": 0,
-    "urlIsVisible": true,
-    "tilesize": 512,
-    "gutter": 0,
-    "infoFormat": "text/xml",
-    "gfiAttributes": "ignore",
-    "gfiTheme": "default",
-    "gfiComplex": false,
-    "cache": false,
-    "featureCount": 1,
-    "datasets": [
-        {
-            "md_id": "d2eaa212-f68d-4e2d-a7e7-8e8063d1b855",
-            "rs_id": "https://registry.gdi-de.org/id/de.bb.metadata/d2eaa212-f68d-4e2d-a7e7-8e8063d1b855",
-            "csw_url": "https://gdk.gdi-de.org/gdi-de/srv/ger/csw",
-            "show_doc_url": "https://geobroker.geobasis-bb.de/gbss.php?MODE=GetProductInformation&PRODUCTID=d2eaa212-f68d-4e2d-a7e7-8e8063d1b855#"
-        }
-    ]
-},
 {
   "id": "hintergrund_orthophoto",
   "name": "Digitale Orthophotos 2024",
@@ -97,7 +65,7 @@
   "infoFormat": "application/json"
 },
 {
-  "id" : "11111",
+  "id" : "gemeinschaftsgaerten",
   "name" : "lokale GeoJSON",
   "crs": "urn:ogc:def:crs:EPSG::25833",
   "url" : "resources/gaerten2.geojson",
@@ -108,18 +76,108 @@
   "gfiTheme": "default"
 },
 {
-  "id": "kleingartentwicklungsplan2030:wfs:kleingartenentwicklungsplan2030",
-  "name": "Kleingartenentwicklungsplan",
+  "id": "gruenanlagen",
+  "name": "Grünanlagen",
   "crs": "urn:ogc:def:crs:EPSG::25833",
-  "url": "https://gdi.berlin.de/services/wfs/kleingartenentwicklungsplan2030",
+  "url": "https://gdi.berlin.de/services/wfs/gruenanlagen",
   "typ": "WFS",
-  "featureType": "kleingartentwicklungsplan2030:kleingartenentwicklungsplan2030",
-  "featureNS": "kleingartentwicklungsplan2030",
+  "featureType": "gruenanlagen:gruenanlagen",
+  "featureNS": "gruenanlagen",
   "datasets": [
       {
-          "md_name": "Kleingartenentwicklungsplan 2030 - Entwicklungskategorien",
-          "md_id": "b34a7f3c-5944-4f43-9eac-2b1a567aa22f",
-          "rs_id": "https://registry.gdi-de.org/id/de.be.csw/cf818435-a2e0-364a-87c9-d85886da8897",
+          "md_name": "GrÃ¼nanlagenbestand Berlin (einschlieÃŸlich der Ã¶ffentlichen SpielplÃ¤tze)",
+          "md_id": "848d2266-d757-36d2-9db6-8636bd5f2216",
+          "rs_id": "https://registry.gdi-de.org/id/de.be.csw/19f9a3e9-d99a-39c2-8557-418ecb5f1f21",
+          "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
+      }
+  ],
+  "gfiAttributes": "showAll"
+},
+{
+  "id": "gruenflaechen",
+  "name": "Grünflächen 2022",
+  "crs": "urn:ogc:def:crs:EPSG::25833",
+  "url": "https://gdi.berlin.de/services/wfs/ua_klimaanalyse_2022",
+  "typ": "WFS",
+  "featureType": "ua_klimaanalyse_2022:tl_kak_gruenfl_2022",
+  "featureNS": "ua_klimaanalyse_2022",
+  "datasets": [
+      {
+          "md_name": "Klimaanalysekarten 2022 (Umweltatlas)",
+          "md_id": "8ea601b2-9a12-4123-bb19-b5774fe3003b",
+          "rs_id": "https://registry.gdi-de.org/id/de.be.csw/78c87800-446e-3e83-8171-03ca776eaa7f",
+          "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
+      }
+  ],
+  "gfiAttributes": "showAll"
+},
+{
+  "id": "baumbestand-anlagenbaeume",
+  "name": "Baumbestand Berlin - Anlagenbaeume",
+  "crs": "urn:ogc:def:crs:EPSG::25833",
+  "url": "https://gdi.berlin.de/services/wfs/baumbestand",
+  "typ": "WFS",
+  "featureType": "baumbestand:anlagenbaeume",
+  "featureNS": "baumbestand",
+  "datasets": [
+      {
+          "md_name": "Baumbestand Berlin",
+          "md_id": "3368004a-d596-336a-8fdf-c4391f3313dd",
+          "rs_id": "https://registry.gdi-de.org/id/de.be.csw/101a1c6e-4991-3df3-afbd-078495cb2f37",
+          "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
+      }
+  ],
+  "gfiAttributes": "showAll"
+},
+{
+  "id": "baumbestand:wfs:strassenbaeume",
+  "name": "Baumbestand Berlin - Straßenbaeume",
+  "crs": "urn:ogc:def:crs:EPSG::25833",
+  "url": "https://gdi.berlin.de/services/wfs/baumbestand",
+  "typ": "WFS",
+  "featureType": "baumbestand:strassenbaeume",
+  "featureNS": "baumbestand",
+  "datasets": [
+      {
+          "md_name": "Baumbestand Berlin",
+          "md_id": "3368004a-d596-336a-8fdf-c4391f3313dd",
+          "rs_id": "https://registry.gdi-de.org/id/de.be.csw/101a1c6e-4991-3df3-afbd-078495cb2f37",
+          "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
+      }
+  ],
+  "gfiAttributes": "showAll"
+},
+{
+  "id": "baumbestand_gruen_berlin",
+  "name": "Baumbestand in den Liegenschaften der GrÃ¼n Berlin GmbH (AnlagenbÃ¤ume)",
+  "crs": "urn:ogc:def:crs:EPSG::25833",
+  "url": "https://gdi.berlin.de/services/wfs/baumbestand_gruen_berlin",
+  "typ": "WFS",
+  "featureType": "baumbestand_gruen_berlin:anlagenbaum_gruenberlin",
+  "featureNS": "baumbestand_gruen_berlin",
+  "datasets": [
+      {
+          "md_name": "Baumbestand in den Liegenschaften der GrÃ¼n Berlin GmbH (AnlagenbÃ¤ume)",
+          "md_id": "558eed2a-2d05-4447-a580-e26e7dccd48a",
+          "rs_id": "https://registry.gdi-de.org/id/de.be.csw/1a704001-5f6e-3135-afa9-eb2f95bd7a66",
+          "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
+      }
+  ],
+  "gfiAttributes": "showAll"
+},
+{
+  "id": "ua_gruendaecher_2020:wfs:d_gebaeude",
+  "name": "GebÃ¤ude 2020",
+  "crs": "urn:ogc:def:crs:EPSG::25833",
+  "url": "https://gdi.berlin.de/services/wfs/ua_gruendaecher_2020",
+  "typ": "WFS",
+  "featureType": "ua_gruendaecher_2020:d_gebaeude",
+  "featureNS": "ua_gruendaecher_2020",
+  "datasets": [
+      {
+          "md_name": "GrÃ¼ndÃ¤cher 2020 (Umweltatlas)",
+          "md_id": "2dc1787a-2ab8-49aa-ac07-1b4a116071b4",
+          "rs_id": "https://registry.gdi-de.org/id/de.be.csw/6513504d-2375-3a73-a2c1-345e5007cae0",
           "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
       }
   ],
@@ -143,63 +201,256 @@
   ],
   "gfiAttributes": "showAll"
 },
+{
+  "id": "ua_versiegelung_2021:wfs:versieg2021_str",
+  "name": "Versiegelung der StraÃŸenflÃ¤chen 2021",
+  "crs": "urn:ogc:def:crs:EPSG::25833",
+  "url": "https://gdi.berlin.de/services/wfs/ua_versiegelung_2021",
+  "typ": "WFS",
+  "featureType": "ua_versiegelung_2021:versieg2021_str",
+  "featureNS": "ua_versiegelung_2021",
+  "datasets": [
+      {
+          "md_name": "Versiegelung 2021 (Umweltatlas)",
+          "md_id": "2c8a769b-364e-4596-ace4-4c05cd8eb872",
+          "rs_id": "https://registry.gdi-de.org/id/de.be.csw/25091cc2-3b41-3d21-b479-b2895fd9ec8a",
+          "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
+      }
+  ],
+  "gfiAttributes": "showAll"
+},
+{
+  "id": "ua_bodenarten_2020:wfs:bodenarten2020",
+  "name": "Bodenarten 2020",
+  "crs": "urn:ogc:def:crs:EPSG::25833",
+  "url": "https://gdi.berlin.de/services/wfs/ua_bodenarten_2020",
+  "typ": "WFS",
+  "featureType": "ua_bodenarten_2020:bodenarten2020",
+  "featureNS": "ua_bodenarten_2020",
+  "datasets": [
+      {
+          "md_name": "Bodenarten 2020 (Umweltatlas)",
+          "md_id": "70b9fe9c-bdcc-4672-9b37-e2c8d49c4fb5",
+          "rs_id": "https://registry.gdi-de.org/id/de.be.csw/20ad8cd6-d70f-3ae7-8254-49b1b2de2a06",
+          "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
+      }
+  ],
+  "gfiAttributes": "showAll"
+},
+{
+  "id": "ua_boden_ertragfkt_2020:wfs:ertrag2020",
+  "name": "Ertragsfunktion der BÃ¶den fÃ¼r Kulturpflanzen 2020",
+  "crs": "urn:ogc:def:crs:EPSG::25833",
+  "url": "https://gdi.berlin.de/services/wfs/ua_boden_ertragfkt_2020",
+  "typ": "WFS",
+  "featureType": "ua_boden_ertragfkt_2020:ertrag2020",
+  "featureNS": "ua_boden_ertragfkt_2020",
+  "datasets": [
+      {
+          "md_name": "Ertragsfunktion der BÃ¶den fÃ¼r Kulturpflanzen 2020 (Umweltatlas)",
+          "md_id": "35c5a667-b395-4c22-8d52-30c6ad299eda",
+          "rs_id": "https://registry.gdi-de.org/id/de.be.csw/f11dff3b-0db9-38f8-a905-219b077fba07",
+          "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
+      }
+  ],
+  "gfiAttributes": "showAll"
+},
+{
+  "id": "ua_boden_humus_2020:wfs:humus2020",
+  "name": "Humusmenge der BÃ¶den 2020",
+  "crs": "urn:ogc:def:crs:EPSG::25833",
+  "url": "https://gdi.berlin.de/services/wfs/ua_boden_humus_2020",
+  "typ": "WFS",
+  "featureType": "ua_boden_humus_2020:humus2020",
+  "featureNS": "ua_boden_humus_2020",
+  "datasets": [
+      {
+          "md_name": "Humusmenge der BÃ¶den 2020 (Umweltatlas)",
+          "md_id": "70b9fe9c-bdcc-4672-9b37-e2c8d49c4fb5",
+          "rs_id": "https://registry.gdi-de.org/id/de.be.csw/20ad8cd6-d70f-3ae7-8254-49b1b2de2a06",
+          "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
+      }
+  ],
+  "gfiAttributes": "showAll"
+},
+{
+  "id": "schulen:wfs:schulen",
+  "name": "Schulen",
+  "crs": "urn:ogc:def:crs:EPSG::25833",
+  "url": "https://gdi.berlin.de/services/wfs/schulen",
+  "typ": "WFS",
+  "featureType": "schulen:schulen",
+  "featureNS": "schulen",
+  "datasets": [
+      {
+          "md_name": "Schulen",
+          "md_id": "2656f411-e4e9-3e57-8dc7-b4533426e048",
+          "rs_id": "https://registry.gdi-de.org/id/de.be.csw/decd827f-58cf-3a56-b2b7-5c72bbc5d984",
+          "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
+      }
+  ],
+  "gfiAttributes": "showAll"
+},
+{
+  "id": "kita:wfs:kita",
+  "name": "KindertagesstÃ¤tten",
+  "crs": "urn:ogc:def:crs:EPSG::25833",
+  "url": "https://gdi.berlin.de/services/wfs/kita",
+  "typ": "WFS",
+  "featureType": "kita:kita",
+  "featureNS": "kita",
+  "datasets": [
+      {
+          "md_name": "KindertagesstÃ¤tten",
+          "md_id": "9d60f82f-7a3d-441e-8ffa-89ba87995196",
+          "rs_id": "https://registry.gdi-de.org/id/de.be.csw/cd8414c7-f1b0-37c7-b9d5-18751942c4c3",
+          "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
+      }
+  ],
+  "gfiAttributes": "showAll"
+},
+{
+  "id": "jfe:wfs:jfe",
+  "name": "Jugendfreizeiteinrichtungen",
+  "crs": "urn:ogc:def:crs:EPSG::25833",
+  "url": "https://gdi.berlin.de/services/wfs/jfe",
+  "typ": "WFS",
+  "featureType": "jfe:jfe",
+  "featureNS": "jfe",
+  "datasets": [
+      {
+          "md_name": "Jugendfreizeiteinrichtungen",
+          "md_id": "66acf6d2-5180-4668-96e3-caf7c65d60cd",
+          "rs_id": "https://registry.gdi-de.org/id/de.be.csw/d619c84e-aeae-3f7e-be41-46d8ebf96997",
+          "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
+      }
+  ],
+  "gfiAttributes": "showAll"
+},
+{
+  "id": "pflegeeinrichtungen:wfs:a_pflegeeinrichtungen_voll",
+  "name": "VollstationÃ¤re Pflegeeinrichtungen",
+  "crs": "urn:ogc:def:crs:EPSG::25833",
+  "url": "https://gdi.berlin.de/services/wfs/pflegeeinrichtungen",
+  "typ": "WFS",
+  "featureType": "pflegeeinrichtungen:a_pflegeeinrichtungen_voll",
+  "featureNS": "pflegeeinrichtungen",
+  "datasets": [
+      {
+          "md_name": "AusgewÃ¤hlte Pflege- und pflegeflankierende Angebote in Berlin",
+          "md_id": "b0122abe-5bdc-4f1a-bfdf-7f544d99d81a",
+          "rs_id": "https://registry.gdi-de.org/id/de.be.csw/c54eebcb-9eae-3b60-b112-bcb291eeddc7",
+          "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
+      }
+  ],
+  "gfiAttributes": "showAll"
+},
+{
+  "id": "pflegeeinrichtungen:wfs:a_pflegeeinrichtungen_voll",
+  "name": "VollstationÃ¤re Pflegeeinrichtungen",
+  "crs": "urn:ogc:def:crs:EPSG::25833",
+  "url": "https://gdi.berlin.de/services/wfs/pflegeeinrichtungen",
+  "typ": "WFS",
+  "featureType": "pflegeeinrichtungen:a_pflegeeinrichtungen_voll",
+  "featureNS": "pflegeeinrichtungen",
+  "datasets": [
+      {
+          "md_name": "AusgewÃ¤hlte Pflege- und pflegeflankierende Angebote in Berlin",
+          "md_id": "b0122abe-5bdc-4f1a-bfdf-7f544d99d81a",
+          "rs_id": "https://registry.gdi-de.org/id/de.be.csw/c54eebcb-9eae-3b60-b112-bcb291eeddc7",
+          "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
+      }
+  ],
+  "gfiAttributes": "showAll"
+},
+{
+  "id": "ua_einwohnerdichte_2023:wfs:einwohnerdichte2023_entw",
+  "name": "Einwohnerentwicklung zwischen 2022 und 2023",
+  "crs": "urn:ogc:def:crs:EPSG::25833",
+  "url": "https://gdi.berlin.de/services/wfs/ua_einwohnerdichte_2023",
+  "typ": "WFS",
+  "featureType": "ua_einwohnerdichte_2023:einwohnerdichte2023_entw",
+  "featureNS": "ua_einwohnerdichte_2023",
+  "datasets": [
+      {
+          "md_name": "Einwohnerdichte 2023 (Umweltatlas)",
+          "md_id": "ca78eb01-db63-4f50-9823-73c2adbc541b",
+          "rs_id": "https://registry.gdi-de.org/id/de.be.csw/d46e6c1e-05fd-3e99-a48f-5699f1140d46",
+          "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
+      }
+  ],
+  "gfiAttributes": "showAll"
+},
+{
+  "id": "s06_05gruenversorg2020_gruenanl",
+  "name": "Versorgung mit Ã¶ffentlichen, wohnungsnahen GrÃ¼nanlagen 2020 - GrÃ¼nanlagen (Umweltatlas)",
+  "crs": "urn:ogc:def:crs:EPSG:6.9:25833",
+  "url": "https://fbinter.stadt-berlin.de/fb/wfs/data/senstadt/s06_05gruenversorg2020_gruenanl",
+  "typ": "WFS",
+  "featureType": "fis:s06_05gruenversorg2020_gruenanl",
+  "featureNS": "http://www.berlin.de/broker",
+  "datasets": [
+      {
+          "md_name": "Versorgung mit Ã¶ffentlichen, wohnungsnahen GrÃ¼nanlagen 2020 - GrÃ¼nanlagen (Umweltatlas)",
+          "md_id": "e7419261-f29e-403d-a235-41f53fa540f0",
+          "rs_id": "https://registry.gdi-de.org/id/de.be.csw/be9f12f5-5f4f-34ac-9725-7690b644f01c",
+          "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
+      }
+  ],
+  "gfiAttributes": "showAll"
+},
+{
+  "id": "s09_01_8UGthematisch_2013",
+  "name": "Umweltgerechtigkeit: Integrierte Mehrfachbelastungskarte - thematisch 2013 (Umweltatlas)",
+  "crs": "urn:ogc:def:crs:EPSG:6.9:25833",
+  "url": "https://fbinter.stadt-berlin.de/fb/wfs/data/senstadt/s09_01_8UGthematisch_2013",
+  "typ": "WFS",
+  "featureType": "fis:s09_01_8UGthematisch_2013",
+  "featureNS": "http://www.berlin.de/broker",
+  "datasets": [
+      {
+          "md_name": "Umweltgerechtigkeit: Integrierte Mehrfachbelastungskarte - thematisch 2013 (Umweltatlas)",
+          "md_id": "e8c64e5c-e00f-3a9c-96bd-adffdb212975",
+          "rs_id": "https://registry.gdi-de.org/id/de.be.csw/0b0d7137-54a7-37c6-b3bf-99213a025212",
+          "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
+      }
+  ],
+  "gfiAttributes": "showAll"
+},
+{
+  "id": "liegenschaftsplan:wfs:liegenschaftsplan",
+  "name": "Liegenschaftsplan",
+  "crs": "urn:ogc:def:crs:EPSG::25833",
+  "url": "https://gdi.berlin.de/services/wfs/liegenschaftsplan",
+  "typ": "WFS",
+  "featureType": "liegenschaftsplan:liegenschaftsplan",
+  "featureNS": "liegenschaftsplan",
+  "datasets": [
+      {
+          "md_name": "Liegenschaftsplan",
+          "md_id": "2a8ab3ce-f999-434b-8723-d2c492277f38",
+          "rs_id": "https://registry.gdi-de.org/id/de.be.csw/84cb1a65-22f6-33a5-a5f1-eba950a89445",
+          "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
+      }
+  ],
+  "gfiAttributes": "showAll"
+},
   {
     "id": "kleingarten:wfs:kleingarten",
-
     "name": "Kleingartenbestand Berlin",
-
     "crs": "urn:ogc:def:crs:EPSG::25833",
-
     "url": "https://gdi.berlin.de/services/wfs/kleingarten",
-
     "typ": "WFS",
-
     "featureType": "kleingarten:kleingarten",
-
     "featureNS": "kleingarten",
-
     "datasets": [
       {
         "md_name": "Kleingartenbestand Berlin",
-
         "md_id": "f3c8b4d4-ce97-33d7-bc12-f74d930169bd",
-
         "rs_id": "https://registry.gdi-de.org/id/de.be.csw/0cd68b02-ee11-31b0-801f-e8fe5814b8a6",
-
         "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
       }
     ],
-
-    "gfiAttributes": "showAll"
-  },
-
-  {
-    "id": "kleingartentwicklungsplan2030:wfs:kleingartenentwicklungsplan2030",
-
-    "name": "Kleingartenentwicklungsplan",
-
-    "crs": "urn:ogc:def:crs:EPSG::25833",
-
-    "url": "https://gdi.berlin.de/services/wfs/kleingartenentwicklungsplan2030",
-
-    "typ": "WFS",
-
-    "featureType": "kleingartentwicklungsplan2030:kleingartenentwicklungsplan2030",
-
-    "featureNS": "kleingartentwicklungsplan2030",
-
-    "datasets": [
-      {
-        "md_name": "Kleingartenentwicklungsplan 2030 - Entwicklungskategorien",
-
-        "md_id": "b34a7f3c-5944-4f43-9eac-2b1a567aa22f",
-
-        "rs_id": "https://registry.gdi-de.org/id/de.be.csw/cf818435-a2e0-364a-87c9-d85886da8897",
-
-        "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
-      }
-    ],
-
     "gfiAttributes": "showAll"
   }
 ]
