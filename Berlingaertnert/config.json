@@ -88,14 +88,14 @@
             "includeSystemInfo": true,
             "from": [
               {
-                "email": "lgvgeoportal-hilfe@gv.hamburg.de",
-                "name": "LGVGeoportalHilfe"
+                "email": "toni.karge@senmvku.berlin.de",
+                "name": "Senatsverwaltung für Mobilität, Verkehr, Klimaschutz und Umwelt"
               }
             ],
             "to": [
               {
-                "email": "lgvgeoportal-hilfe@gv.hamburg.de",
-                "name": "LGVGeoportalHilfe"
+                "email": "toni.karge@senmvku.berlin.de",
+                "name": "Senatsverwaltung für Mobilität, Verkehr, Klimaschutz und Umwelt"
               }
             ]
           },
@@ -127,12 +127,6 @@
       "expanded": false,
       "sections": [
         [
-          {
-            "type": "fileImport"
-          },
-          {
-            "type": "addWMS"
-          },
           {
             "type": "measure"
           },
@@ -237,13 +231,11 @@
             {
               "id": "gruenanlagen:wfs:gruenanlagen",
               "name": "Grünanlagenbestand Berlin",
-              "styleId":"fis_kita_wfs",
               "visibility": false
             },
             {
               "id": "gruenflaechen",
               "name": "Grünflächen 2022",
-              "styleId":"fis_kita_wfs",
               "visibility": false
             },
             {
@@ -261,16 +253,14 @@
               "name": "Baumbestand Liegenschaft Grün Berlin",
               "visibility": false
             },
-            {
+              {
               "id": "ua_gruendaecher_2020:wfs:d_gebaeude",
-              "name": "Gründacher Gebäude 2020",
-              "styleId":"fis_kita_wfs",
+              "name": "Gründächer Gebäude 2020",
               "visibility": false
             },
             {
               "id": "sp_gruene_wege_wander",
               "name": "20 Grüne Hauptwege - Wanderwege",
-              "styleId":"fis_kita_wfs",
               "visibility": false
             }
       ]
@@ -282,25 +272,21 @@
         {
           "id": "ua_versiegelung_2021:wfs:versieg2021_str",
           "name": "Versiegelung Straßenflächen 2021",
-          "styleId":"fis_kita_wfs",
           "visibility": false
         },
         {
           "id": "ua_bodenarten_2020:wfs:bodenarten2020",
           "name": "Bodenarten 2020",
-          "styleId":"fis_kita_wfs",
           "visibility": false
         },
         {
           "id": "ua_boden_ertragfkt_2020:wfs:ertrag2020",
           "name": "Ertragsfunktion der Böden für Kulturpflanzen 2020",
-          "styleId":"fis_kita_wfs",
           "visibility": false
         },
         {
           "id": "ua_boden_humus_2020:wfs:humus2020",
           "name": "Humusmenge der Böden 2020",
-          "styleId":"fis_kita_wfs",
           "visibility": false
         }
   ]
@@ -348,19 +334,16 @@
     {
       "id": "s06_05gruenversorg2020_gruenanl",
       "name": "Versorgung mit öffentlichen Grünanlagen 2020",
-      "styleId":"fis_kita_wfs",
       "visibility": false
     },
     {
       "id": "s09_01_8UGthematisch_2013",
       "name": "Umweltgerechtigkeit: integrierte Mehrfachbelastung 2013",
-      "styleId":"fis_kita_wfs",
       "visibility": false
     },
     {
       "id": "liegenschaftsplan:wfs:liegenschaftsplan",
       "name": "Liegenschaftsplan",
-      "styleId":"fis_kita_wfs",
       "visibility": false
     }
 ]
