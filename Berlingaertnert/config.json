@@ -10,13 +10,14 @@
           "zoomMode": "once"
         }
       },
-      "mapView": {
-        "backgroundImage": "./resources/img/backgroundCanvas.jpeg",
-        "startCenter": [389920, 5819697],
-        "extent": [310000, 5760000, 440000, 5865000],
-        "startZoomLevel": 1,
-        "epsg": "EPSG:25833"
-      },
+"mapView": {
+    "backgroundImage": "./resources/img/backgroundCanvas.jpeg",
+    "startCenter": [1490594.33, 6891924.15],  
+    "extent": [1444000, 6860000, 1538000, 6925000],
+    "startZoomLevel": 1,
+    "epsg": "EPSG:3857"
+},
+
       "treeType": "light"
     },
     "portalFooter": {
@@ -148,7 +149,7 @@
         {
           "id": "basemap_raster_grau",
           "name": "Hintergrundkarte (grau)",
-          "visibility": true
+          "visibility": false
         },
         {
           "id": "basemap_raster_farbe",
@@ -159,7 +160,13 @@
           "id": "truedop_2024:truedop_2024:copyForBasemap",
           "name": "Berlin Luftbild",
           "visibility": false
-        }
+        },
+      
+      {"id": "123",
+      "name": "Hintergrundkarte",
+      "visibility": true,
+      "styleId": "STYLE_1"
+    }
       ]
     },
     "subjectlayer": {

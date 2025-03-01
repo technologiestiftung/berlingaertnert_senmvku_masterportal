@@ -1,4 +1,27 @@
-[
+[{
+    "id": "123",
+    "name": "Basemap",
+    "epsg":"EPSG:3857",
+    "url": "https://sgx.geodatenzentrum.de/gdz_basemapde_vektor/tiles/v1/bm_web_de_3857/{z}/{x}/{y}.pbf",
+    "typ": "VectorTile",
+    "transparency": 0,
+    "visibility": true,
+    "legend": false,
+    "gfiAttributes": "showAll",
+    "gfiTheme": "default",
+    "vtStyles": [
+      {
+        "id": "STYLE_1",
+        "name": "Tagesansicht",
+        "url": "resources/basemap_style.json",
+        "defaultStyle": true
+      }
+    ],
+    "preview":{
+    
+      }
+  },
+
   {
     "id": "basemap_raster_grau",
     "name": "Hintergrundkarte (grau)",
