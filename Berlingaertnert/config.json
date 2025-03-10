@@ -236,6 +236,17 @@
           "type": "folder",
           "elements": [
             {
+              "name": "Gründächer",
+              "type": "folder",
+              "elements": [
+                {
+                  "id": "ua_gruendaecher_2020:wfs:d_gebaeude",
+                  "name": "Gründächer Gebäude 2020",
+                  "visibility": false
+                }
+              ]
+            },
+            {
               "id": "gruenanlagen:wfs:gruenanlagen",
               "name": "Grünanlagenbestand Berlin",
               "visibility": false
@@ -261,11 +272,6 @@
               "visibility": false
             },
             {
-              "id": "ua_gruendaecher_2020:wfs:d_gebaeude",
-              "name": "Gründächer Gebäude 2020",
-              "visibility": false
-            },
-            {
               "id": "sp_gruene_wege_wander",
               "name": "20 Grüne Hauptwege - Wanderwege",
               "visibility": false
@@ -276,11 +282,6 @@
           "name": "Boden",
           "type": "folder",
           "elements": [
-            {
-              "id": "ua_versiegelung_2021:wfs:versieg2021_str",
-              "name": "Versiegelung Straßenflächen 2021",
-              "visibility": false
-            },
             {
               "id": "ua_bodenarten_2020:wfs:bodenarten2020",
               "name": "Bodenarten 2020",
@@ -295,6 +296,17 @@
               "id": "ua_boden_humus_2020:wfs:humus2020",
               "name": "Humusmenge der Böden 2020",
               "visibility": false
+            },
+            {
+              "name": "Versiegelung",
+              "type": "folder",
+              "elements": [
+                {
+                  "id": "ua_versiegelung_2021:wfs:versieg2021_str",
+                  "name": "Versiegelung Straßenflächen 2021",
+                  "visibility": false
+                }
+              ]
             }
           ]
         },
