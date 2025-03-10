@@ -1,0 +1,1305 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.353807382004895,
+                    52.475096114973994
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.518141296022726,
+                    52.51906713310671
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.304149678331854,
+                    52.422839502809
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.267923198317405,
+                    52.5743601386659
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.30295038953692,
+                    52.425042708330736
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.446955264916735,
+                    52.46378571744184
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39563845599326,
+                    52.47603970608366
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.385221783470461,
+                    52.57710388095282
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.453601097801016,
+                    52.53520697710732
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.544218091127142,
+                    52.40749958704379
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.262829009134208,
+                    52.46204569433451
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.568654421840211,
+                    52.493649795830876
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.57875129608357,
+                    52.48483694477827
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.217865981143671,
+                    52.47547140830634
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.403940332039587,
+                    52.42238037094503
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.595963155004247,
+                    52.43305388882215
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.395351182298402,
+                    52.512386677383084
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.21575319891108,
+                    52.50010341970189
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.197970248902154,
+                    52.50542258058596
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.415108013962312,
+                    52.498858937461065
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.325185821842718,
+                    52.46501452584309
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.28109727229736,
+                    52.427835570350695
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.454252436225845,
+                    52.48417658929961
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.389167694977342,
+                    52.45591804748306
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.606650558210921,
+                    52.42602048450189
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.573880125402221,
+                    52.51026590220845
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.458937827398888,
+                    52.412847865794284
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.34800765883977,
+                    52.41788307411399
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.486437736003797,
+                    52.57611153342873
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.57340549470558,
+                    52.4481174126649
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.364819392784682,
+                    52.48364151090772
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.435780570021109,
+                    52.42258937284077
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.593781161691503,
+                    52.57767006945046
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.335574777901048,
+                    52.57381494122995
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.530879199037257,
+                    52.44473752703947
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.163330850201747,
+                    52.52145459543638
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.334199888559981,
+                    52.49619159699273
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.285606169681259,
+                    52.439234093535696
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.522193603814962,
+                    52.42262787287457
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.46875852280909,
+                    52.53842996216156
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.372168310374779,
+                    52.486474543786585
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.173048740454595,
+                    52.45605568878904
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.191622368678347,
+                    52.54792258649953
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.452595438084325,
+                    52.48005729173319
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.55267802075058,
+                    52.40966576464943
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.603875690514974,
+                    52.42140688131586
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.324498729338192,
+                    52.46976778388311
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.161084824469006,
+                    52.4474196213622
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.349252667121526,
+                    52.41313371433402
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.289737893764775,
+                    52.422071565033534
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.594797935971327,
+                    52.439909469575255
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.377091524215023,
+                    52.51041584565717
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.550729503746297,
+                    52.42556620618982
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1669306612768,
+                    52.46673494029458
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.316439287399168,
+                    52.52783411224376
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.235254095119215,
+                    52.48887970827727
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.450438240976503,
+                    52.45988903711211
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.208566398785404,
+                    52.55284341977438
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.335274544906637,
+                    52.5661536741849
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.40233573537226,
+                    52.535051500811996
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.577805222704589,
+                    52.433297968129956
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.276783496052627,
+                    52.47313291537279
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.217303222391958,
+                    52.449568357781054
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.561559537917148,
+                    52.534068271918215
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.346221260269438,
+                    52.56585272069891
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.22103207141676,
+                    52.54916879792538
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.293777543008417,
+                    52.43297539697944
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.390032570273167,
+                    52.57593991158256
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.487689481112511,
+                    52.46967551983489
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.59740911210177,
+                    52.55633908064534
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.330112303872943,
+                    52.43141464749784
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.528460550725924,
+                    52.523471950048226
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.409472890549804,
+                    52.55133569089909
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.305854774841443,
+                    52.573862402984936
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.564623974006535,
+                    52.51839813752137
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.225177353745917,
+                    52.43131505413016
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.530085762504287,
+                    52.47419531312701
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.374052207470495,
+                    52.43803715044396
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.602589891658562,
+                    52.41517721817458
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.25645275898717,
+                    52.56861267430192
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.313627293512859,
+                    52.54639442554838
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39136086609549,
+                    52.46790646183805
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.178835451360804,
+                    52.51623571617004
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.315398261359102,
+                    52.45785130460383
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.163762653274045,
+                    52.56787847205045
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.504949805987447,
+                    52.53463088935637
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.603427246784749,
+                    52.526910361610554
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.302433295194124,
+                    52.55654672850861
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.501103591756078,
+                    52.515270844661444
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.160878777671973,
+                    52.539907957357705
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.541671590410603,
+                    52.46069917081613
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.378533884157822,
+                    52.57558231236261
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.229875353060326,
+                    52.550779089814235
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.42283059804504,
+                    52.53681771618738
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.20611221098734,
+                    52.511304573820496
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.413928922236604,
+                    52.56622467885979
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.195982011447633,
+                    52.4867077122816
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.561249885306742,
+                    52.47172736003882
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.351086526451834,
+                    52.43336141979872
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.538501092863097,
+                    52.47908600264652
+                ]
+            },
+            "properties": {
+                "Gartentyp": "SolidarischeLandwirtschaft"
+            }
+        }
+    ]
+}

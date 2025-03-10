@@ -1,0 +1,1305 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.357104019736576,
+                    52.46971078028144
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.379778289654915,
+                    52.48901922290411
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.317381682640045,
+                    52.500471876537496
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.481405116358761,
+                    52.53677560212014
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.387363960193227,
+                    52.53128468493415
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.207301998537794,
+                    52.53502680243748
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.299134975595708,
+                    52.4236031702529
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.303836046265818,
+                    52.53757568026624
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.43922983938321,
+                    52.53655117702037
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.20934039470383,
+                    52.49670640856777
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.363777201493463,
+                    52.44462987373692
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.534725283096199,
+                    52.49992329943426
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.178365689630612,
+                    52.44584808979491
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.525664254719654,
+                    52.56856912351431
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.609740470965992,
+                    52.42172051882873
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.429415035202416,
+                    52.49758260955406
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33450334008439,
+                    52.50249992230555
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.247682446928682,
+                    52.420562830486865
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.324017251619066,
+                    52.492725608078075
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.20212313100388,
+                    52.56112505183626
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.439836228617132,
+                    52.42140296098218
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.195043230438252,
+                    52.51558926040628
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.282842557410445,
+                    52.5623142446051
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.27337670557829,
+                    52.52661960157753
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.280575410010192,
+                    52.45397191422536
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.346833740620571,
+                    52.54785061028473
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.162716245383592,
+                    52.467830361126694
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.496252509331294,
+                    52.51425875144373
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.447717334653202,
+                    52.40891854457517
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.485676869935341,
+                    52.41104952019751
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.352063912693577,
+                    52.4941790730027
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.585390338736731,
+                    52.51617219962701
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.326419968477703,
+                    52.4232479974791
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.492193726669052,
+                    52.517970642838
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.448780768020791,
+                    52.45826855309534
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.400305204816155,
+                    52.541789133392285
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.165198865016784,
+                    52.5590724965558
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.26826870577801,
+                    52.43910930831883
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.16708831821144,
+                    52.57903147427769
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.530039777866014,
+                    52.559101870321676
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.167907884754083,
+                    52.470241888456975
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.313075735692962,
+                    52.50748604205767
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.48264184423147,
+                    52.426302664889434
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.57645517887529,
+                    52.488305938149296
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.46337707532151,
+                    52.47618812404444
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.438911069975397,
+                    52.518734562775585
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.51904171118043,
+                    52.44949737293691
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.215042029848476,
+                    52.45983096825182
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.343536687769452,
+                    52.538245734331134
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.250426051427628,
+                    52.52522696093369
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.52705248243765,
+                    52.44770690463705
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.425299554624432,
+                    52.45121072643567
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.44754935248093,
+                    52.49773519753887
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.192181840940146,
+                    52.51575149792072
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.486992877776043,
+                    52.50741703837841
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.385390643980394,
+                    52.43048290923101
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.231754539577167,
+                    52.50789438904795
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.601829368216624,
+                    52.49816092616927
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.271639596358602,
+                    52.47490139697386
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.448729530951594,
+                    52.478769993004796
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.573280853595811,
+                    52.53006115188452
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.199938824660618,
+                    52.52308138668659
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.368297082019232,
+                    52.41956552915273
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.48561215689043,
+                    52.46354369745225
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.291849915164107,
+                    52.48511667323377
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.291338065224855,
+                    52.55193233959978
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.200392888530414,
+                    52.51841064997706
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.217493673252205,
+                    52.54324463833561
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.37840277419208,
+                    52.561524062130026
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.34473922660512,
+                    52.40984405101137
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.20352619944109,
+                    52.48824276991825
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.257871438236121,
+                    52.56005415036119
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.433106391144278,
+                    52.570347961142176
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.29605475002271,
+                    52.458863581208405
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.310620076789352,
+                    52.425703166409136
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.519485495957253,
+                    52.513032640418075
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.327145916076018,
+                    52.449062375314824
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.36131692694307,
+                    52.473266856497
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.251020453747996,
+                    52.500900986952516
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.231533430806024,
+                    52.42719300205109
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.170429264808133,
+                    52.50308020482031
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.521941798454188,
+                    52.488799335333404
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.236470481709231,
+                    52.47464484671582
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.428794949719363,
+                    52.42171339331207
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.597978502833445,
+                    52.50070080199708
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.500406188761167,
+                    52.4218584220074
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.44321503741409,
+                    52.47834118460696
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.251154639674596,
+                    52.48178787074297
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.337533252408084,
+                    52.57480587076911
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.381586320440144,
+                    52.574282774161844
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.412253589886067,
+                    52.53598020964565
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.403930779481499,
+                    52.43132967699583
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.585140607328077,
+                    52.534533438908596
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.484570402528037,
+                    52.49700865091451
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23814484095081,
+                    52.4504402913557
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.314530302733614,
+                    52.46844033795092
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.383116252410924,
+                    52.44785709113556
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.30786559604521,
+                    52.4517164492559
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.516507409671945,
+                    52.515445895223
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.352497396702505,
+                    52.440342019818374
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Gartenarbeitsschule"
+            }
+        }
+    ]
+}

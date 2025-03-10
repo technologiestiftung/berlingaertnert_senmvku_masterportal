@@ -1,0 +1,1305 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.438557774309496,
+                    52.43094281234785
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5387800445207,
+                    52.47873567117317
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.20052911260176,
+                    52.537963108661
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.307101642497125,
+                    52.53824842428811
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.414933948547386,
+                    52.43281510954833
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.250619252847338,
+                    52.407690071087096
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.420987493572818,
+                    52.45544386877698
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.442351350766948,
+                    52.53152266881343
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.211412107776823,
+                    52.53980238278216
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.45895626409444,
+                    52.48513599095992
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.329334812478763,
+                    52.58069463775507
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.408988650174607,
+                    52.43495418151266
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.190700207257576,
+                    52.525927451321934
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.194362938158275,
+                    52.4509492265576
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.447189977150623,
+                    52.521914721437
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.280215990969554,
+                    52.555620915082066
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.247320295314633,
+                    52.54463875235365
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.313771027527196,
+                    52.461476568487406
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.52193591791338,
+                    52.56850789981082
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.406859763335408,
+                    52.5502532873856
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.382960048253862,
+                    52.42520654717647
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.207398518032797,
+                    52.51395209008865
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.18406493624681,
+                    52.52015362726611
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.35069237268086,
+                    52.46252334557583
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.216685091849712,
+                    52.49932117869298
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.550679687805491,
+                    52.579126993370956
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.384448535153986,
+                    52.491745900653456
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.214123900783969,
+                    52.50424769393297
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.413857398309545,
+                    52.419933212793936
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.557055335243156,
+                    52.527832036254814
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.561743207771169,
+                    52.51362096030305
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.303047055748982,
+                    52.540141486983764
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.195890776543228,
+                    52.43468289842857
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.299132683618154,
+                    52.5048132753718
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.524299841813214,
+                    52.51625639347465
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.313380464686709,
+                    52.419964255668695
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.46891844910763,
+                    52.52813465098244
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.416719742931443,
+                    52.42259364082016
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.405999060826419,
+                    52.455460826941
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.221990976918768,
+                    52.5182260608885
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.219369337828052,
+                    52.57820577347523
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.26253702465687,
+                    52.56963974956006
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.56600365116633,
+                    52.52774684017167
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.588265085399334,
+                    52.4949780253239
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.375048641872624,
+                    52.411099242678276
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.411039385473705,
+                    52.56221062427754
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.402717727581877,
+                    52.43462454318014
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.319886840675313,
+                    52.57224801930649
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.470927932417837,
+                    52.474023400150735
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.483379387990656,
+                    52.41179559206498
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.35310979205025,
+                    52.509740618688795
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.26596169884563,
+                    52.417299089639954
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.369908685448202,
+                    52.526247284791324
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.223090072713374,
+                    52.45269763967109
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.312195825381268,
+                    52.436242949862965
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.219655362224032,
+                    52.51281746982375
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.38734596241941,
+                    52.56457368028127
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.237473755193136,
+                    52.46307547168039
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.189127191989144,
+                    52.57219220233416
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.220961905834058,
+                    52.5523732514681
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.478600670342011,
+                    52.422121410329545
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.492407772000366,
+                    52.48677341663666
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.342338706397154,
+                    52.44065382162017
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.224203515614638,
+                    52.46023178668996
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.42238727793458,
+                    52.49274375831485
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.237451671017064,
+                    52.51479525825134
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.516911714399544,
+                    52.49211437238242
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.599577132182471,
+                    52.56392290720527
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.466088615653574,
+                    52.57141672145211
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.386372539867663,
+                    52.40908215131601
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.262965727934514,
+                    52.53773361333574
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.336085610095596,
+                    52.53562060269636
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.586411175677549,
+                    52.48279104036891
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.163046397808104,
+                    52.495438407879895
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.236128390603039,
+                    52.46142671963541
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.234560958888459,
+                    52.422440828780445
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.435500648020081,
+                    52.52658823085118
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.17497842259377,
+                    52.427178948484915
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.593432216406413,
+                    52.533824613204956
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.226750302870977,
+                    52.5615680884886
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.60998913473841,
+                    52.577954712830426
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.442424681299059,
+                    52.54515456688433
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.238279338465093,
+                    52.4709433530139
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.486263926557854,
+                    52.466329080634154
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.547466615248618,
+                    52.501509755264856
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.404871530530883,
+                    52.49328661524009
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.34629691011103,
+                    52.45328373927969
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.223262927444821,
+                    52.51864638729576
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.474642722813735,
+                    52.45632365639354
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.315066006665408,
+                    52.51747878785302
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.525062059486606,
+                    52.49248682596827
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.196531981731349,
+                    52.56931557047955
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.282050397677338,
+                    52.4718522077179
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.36557070588617,
+                    52.454098886693956
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.166301940301281,
+                    52.485574013632004
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.59107148552337,
+                    52.51193482187562
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.501693637516036,
+                    52.542970082091074
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.60417374059336,
+                    52.555480251081114
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.269915196073516,
+                    52.543111594571776
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.445521176899064,
+                    52.411960545169606
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Parklets"
+            }
+        }
+    ]
+}

@@ -42,8 +42,120 @@
       {
         "style": {
           "polygonStrokeColor": [45, 45, 45, 0.4],
-          "polygonStrokeWidth": 2,
+          "polygonStrokeWidth": 1,
           "polygonFillColor": [60, 179, 113, 0.7]
+        }
+      }
+    ]
+  },
+  {
+    "styleId": "gemeinschaftsgaerten",
+    "rules": [
+      {
+        "style": {
+          "type": "circle",
+          "circleFillColor": [255, 200, 50, 0.9],
+          "circleRadius": 4,
+          "circleStrokeColor": [255, 255, 255],
+          "circleStrokeWidth": 2
+        }
+      }
+    ]
+  },
+  {
+    "styleId": "solidarischelandwirtschaft",
+    "rules": [
+      {
+        "style": {
+          "type": "circle",
+          "circleFillColor": [50, 200, 50, 0.9],
+          "circleRadius": 4,
+          "circleStrokeColor": [255, 255, 255],
+          "circleStrokeWidth": 2
+        }
+      }
+    ]
+  },
+  {
+    "styleId": "flaechenpotentiale",
+    "rules": [
+      {
+        "style": {
+          "type": "circle",
+          "circleFillColor": [50, 150, 255, 0.9],
+          "circleRadius": 4,
+          "circleStrokeColor": [255, 255, 255],
+          "circleStrokeWidth": 2
+        }
+      }
+    ]
+  },
+  {
+    "styleId": "selbsterntegaerten",
+    "rules": [
+      {
+        "style": {
+          "type": "circle",
+          "circleFillColor": [150, 50, 255, 0.9],
+          "circleRadius": 4,
+          "circleStrokeColor": [255, 255, 255],
+          "circleStrokeWidth": 2
+        }
+      }
+    ]
+  },
+  {
+    "styleId": "beetpatenschaften",
+    "rules": [
+      {
+        "style": {
+          "type": "circle",
+          "circleFillColor": [255, 100, 50, 0.9],
+          "circleRadius": 4,
+          "circleStrokeColor": [255, 255, 255],
+          "circleStrokeWidth": 2
+        }
+      }
+    ]
+  },
+  {
+    "styleId": "gartenarbeitsschule",
+    "rules": [
+      {
+        "style": {
+          "type": "circle",
+          "circleFillColor": [255, 50, 150, 0.9],
+          "circleRadius": 4,
+          "circleStrokeColor": [255, 255, 255],
+          "circleStrokeWidth": 2
+        }
+      }
+    ]
+  },
+  {
+    "styleId": "parklets",
+    "rules": [
+      {
+        "style": {
+          "type": "circle",
+          "circleFillColor": [50, 200, 255, 0.9],
+          "circleRadius": 4,
+          "circleStrokeColor": [255, 255, 255],
+          "circleStrokeWidth": 2
+        }
+      }
+    ]
+  },
+  {
+    "styleId": "kitaschulgaerten",
+    "rules": [
+      {
+        "style": {
+          "type": "circle",
+          "circleFillColor": [200, 50, 150, 0.9],
+          "circleRadius": 4,
+          "circleStrokeColor": [255, 255, 255],
+          "circleStrokeWidth": 2
         }
       }
     ]

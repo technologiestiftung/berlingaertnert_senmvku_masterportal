@@ -177,8 +177,8 @@
           "elements": [
             {
               "id": "gemeinschaftsgaerten",
-              "name": "Gemeinschaftsgärten Test",
-              "styleId": "fis_kita_wfs",
+              "name": "Gemeinschaftsgärten",
+              "styleId": "gemeinschaftsgaerten",
               "visibility": true
             },
             {
@@ -188,45 +188,45 @@
               "visibility": true
             },
             {
-              "id": "kleingarten:wfs:kleingarten",
+              "id": "solidarischelandwirtschaft",
               "name": "Solidarische Landwirtschaft",
-              "styleId": "kleingarten",
+              "styleId": "solidarischelandwirtschaft",
               "visibility": true
             },
             {
-              "id": "kleingarten:wfs:kleingarten",
+              "id": "flaechenpotentiale",
               "name": "Flächenpotentiale",
-              "styleId": "kleingarten",
+              "styleId": "flaechenpotentiale",
               "visibility": true
             },
             {
-              "id": "kleingarten:wfs:kleingarten",
+              "id": "selbsterntegaerten",
               "name": "Selbsterntegärten",
-              "styleId": "kleingarten",
+              "styleId": "selbsterntegaerten",
               "visibility": true
             },
             {
-              "id": "kleingarten:wfs:kleingarten",
+              "id": "beetpatenschaften",
               "name": "Beetpatenschaften",
-              "styleId": "kleingarten",
+              "styleId": "beetpatenschaften",
               "visibility": true
             },
             {
-              "id": "kleingarten:wfs:kleingarten",
+              "id": "gartenarbeitsschule",
               "name": "Gartenarbeitsschule",
-              "styleId": "kleingarten",
+              "styleId": "gartenarbeitsschule",
               "visibility": true
             },
             {
-              "id": "kleingarten:wfs:kleingarten",
+              "id": "parklets",
               "name": "Parklets",
-              "styleId": "kleingarten",
+              "styleId": "parklets",
               "visibility": true
             },
             {
-              "id": "kleingarten:wfs:kleingarten",
+              "id": "kitaschulgaerten",
               "name": "Kita- und Schulgärten",
-              "styleId": "kleingarten",
+              "styleId": "kitaschulgaerten",
               "visibility": true
             }
           ]

@@ -1,0 +1,1305 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.175283074474482,
+                    52.56575819864736
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.234003099246122,
+                    52.42087224093429
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.178834954950522,
+                    52.4556429671527
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.530213246527424,
+                    52.57814912570898
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.552356590237327,
+                    52.52160713268291
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.583920775347105,
+                    52.45326090844241
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.402810353524323,
+                    52.48462147991439
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.56273759210864,
+                    52.45156085273248
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.520439943636912,
+                    52.566311651018694
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.543821017925477,
+                    52.408665741582865
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.174699666285116,
+                    52.560075557084815
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.413183351703978,
+                    52.471895194006535
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.29197190021282,
+                    52.57798308229794
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.22482164412838,
+                    52.47286612109169
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.393649142210428,
+                    52.56304388348249
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.347409933357305,
+                    52.46864772130068
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.58737894816113,
+                    52.526652771478375
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.407989777168956,
+                    52.45085358553439
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.576508710357146,
+                    52.43173370067315
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.609994385633362,
+                    52.475525789063795
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.327817941058333,
+                    52.42786894791961
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.20833692816444,
+                    52.409055291531224
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.237705450498702,
+                    52.41705264477204
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.421963005005338,
+                    52.437570946724954
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.353745719939836,
+                    52.41856951238487
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.297969780344706,
+                    52.57205079010515
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.343543269812434,
+                    52.42678270579333
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.262412887621226,
+                    52.57559443409419
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.185632507250618,
+                    52.51773007124399
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.20836487517439,
+                    52.50309208762374
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.18701863250339,
+                    52.54711906530126
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.446893581473919,
+                    52.45317033604876
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.368422231324395,
+                    52.538466980277214
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.548492682262141,
+                    52.45282774896845
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.470179535093589,
+                    52.500072703615686
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.493569628204503,
+                    52.542778087947944
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.397491513311936,
+                    52.542672569841336
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.303869732281767,
+                    52.57022647344948
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.282045383314658,
+                    52.50335794431169
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.555799424544675,
+                    52.45156619732857
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.581122375644922,
+                    52.562826941185044
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.31119184772719,
+                    52.468724007533204
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.57757856796837,
+                    52.529511020743975
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.403162033253011,
+                    52.573404287289236
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.275317340002664,
+                    52.519737975304224
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.551033367924555,
+                    52.43570183316283
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.57192402223057,
+                    52.451034103301176
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.192473180323272,
+                    52.496754069015644
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.47394496001906,
+                    52.454646209867796
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.479040201737584,
+                    52.4575096782854
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.46804060433743,
+                    52.45947248968656
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.474353695281279,
+                    52.53586218595374
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.522544156240388,
+                    52.491311537054465
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.365981116134853,
+                    52.41226050720749
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.569144507139686,
+                    52.552765551651746
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.548525114968166,
+                    52.49111760680145
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.170415655792247,
+                    52.448515060958286
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.262212443447153,
+                    52.44002377184042
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.475652574830766,
+                    52.50543880593042
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.233257771854095,
+                    52.43820115460711
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.509573999037464,
+                    52.449769738247376
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.27954882443243,
+                    52.447711874968995
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.27945705464122,
+                    52.42025756158524
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.497201886413816,
+                    52.536496733189985
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.556997261719925,
+                    52.54888677147929
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.252820875672526,
+                    52.46674028627041
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.198830481827041,
+                    52.49012512191893
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.306163779671529,
+                    52.532138945202725
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.368468812081765,
+                    52.442011861587986
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.579016958930072,
+                    52.41995336569911
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.375358812594158,
+                    52.48828262056975
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.204096841663798,
+                    52.57061176287901
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.523694340998647,
+                    52.458864937858465
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.446559789750768,
+                    52.45666907431293
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.270732327980554,
+                    52.56912450066594
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2289440421101,
+                    52.55252506351971
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.611500047912633,
+                    52.470943438732625
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.192887192356496,
+                    52.544231734672366
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.532666335761045,
+                    52.5562673338721
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.49714461376142,
+                    52.527597594429466
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.18464668774899,
+                    52.448794661431386
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.324833608807499,
+                    52.55504506613185
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.194833462065889,
+                    52.52653504641125
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.516088214941771,
+                    52.56515927053454
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.559187593894563,
+                    52.57945051624701
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.517534853429929,
+                    52.49884958153184
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.48813355999904,
+                    52.41350706172147
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.337102294379612,
+                    52.48600705149472
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.410893928702865,
+                    52.51304139589164
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23292214557101,
+                    52.52590844916685
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.587816688339986,
+                    52.47363229619202
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.38149823693325,
+                    52.53497405197443
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.205062976901097,
+                    52.561163187544366
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.352302408113374,
+                    52.57345281332479
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.390564494719973,
+                    52.493315212593224
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.340387729515895,
+                    52.55831585379506
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3798374208496,
+                    52.547872516987695
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.308534851303978,
+                    52.49691595738535
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.55743665586885,
+                    52.48471518136001
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.330895535322247,
+                    52.446213922746715
+                ]
+            },
+            "properties": {
+                "Gartentyp": "Flaechenpotentiale"
+            }
+        }
+    ]
+}

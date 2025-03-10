@@ -1,0 +1,1305 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.254311222271497,
+                    52.42126785983089
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.445297653744452,
+                    52.55303120493461
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.236960005819187,
+                    52.563500650873536
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.304714068674752,
+                    52.55639124237196
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.416269884968775,
+                    52.54377085037888
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.594682627082047,
+                    52.55944724197595
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.42786801987093,
+                    52.4974130646929
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.596888610407156,
+                    52.54061646565644
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.16661144495816,
+                    52.57564368844911
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.471726860562331,
+                    52.45672797896898
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.291221498770858,
+                    52.48247897507082
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.52690832859732,
+                    52.58069971107506
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.228463801784843,
+                    52.51096948373255
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.328334480391963,
+                    52.55994306520282
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.357047095080718,
+                    52.43812311681287
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.532611424925982,
+                    52.420762808568185
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.388218559116691,
+                    52.509413886005284
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.201088193834355,
+                    52.412509472968
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.612526626353866,
+                    52.422195510889615
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.555344551298983,
+                    52.45261361368744
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.31541291388077,
+                    52.46244480475238
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.208532252828938,
+                    52.52789374715894
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.218019161718995,
+                    52.521560426125056
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.476663012488956,
+                    52.49403404952851
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.361626532358038,
+                    52.4946331175668
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.178805765722961,
+                    52.43490937628783
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.302228469421147,
+                    52.55090401062952
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.337254004304615,
+                    52.4534267350761
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.271754889633401,
+                    52.523133623595605
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.230226353760816,
+                    52.580205463272286
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.277257049567286,
+                    52.53762992720171
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.464948684338724,
+                    52.53734368799839
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.514155800999966,
+                    52.446005394699945
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.523128726495006,
+                    52.56650870313966
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.226043766980009,
+                    52.553397200175134
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.431775219747612,
+                    52.45943636083481
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.261006753286908,
+                    52.50344049649999
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.213961747563493,
+                    52.44285378191208
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.318264012425868,
+                    52.547104618547735
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.546490447252935,
+                    52.44612853706867
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.306952794089625,
+                    52.560079823563015
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.540958332795311,
+                    52.47205337573315
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.357371864790077,
+                    52.50979208967704
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.599084789113723,
+                    52.565842626437714
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.604979480474457,
+                    52.44071477394242
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.348743752617398,
+                    52.523232970817126
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.276767556852173,
+                    52.547392497280136
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.316845916503256,
+                    52.577872559212494
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.292932487472044,
+                    52.542688488143796
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.463407945333273,
+                    52.53025462112152
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.315962308073253,
+                    52.487452795285
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.272642787680466,
+                    52.46213872648765
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.208168196676414,
+                    52.542218358822296
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.596799893419238,
+                    52.46794709153935
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39149641050006,
+                    52.47100962148341
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.240542001840177,
+                    52.56376748244621
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.421126222891134,
+                    52.48271688570393
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.220438762634668,
+                    52.49816211966453
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.516323107004888,
+                    52.51586466956112
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.55406344026853,
+                    52.54946120550166
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.293209500662321,
+                    52.57871267744775
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.323925352405917,
+                    52.417534408492536
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.544736961841691,
+                    52.46248019761525
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.464297906476968,
+                    52.55859815464012
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.530105900243242,
+                    52.42289072510736
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.186210123853417,
+                    52.428869104926804
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33001883474195,
+                    52.418579157806995
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.256213726751952,
+                    52.429459287188905
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.438884748362616,
+                    52.4420602758392
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.433666625209156,
+                    52.4142272295425
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.574278566136579,
+                    52.49021928497654
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33483107697835,
+                    52.44227147541337
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.542880906320113,
+                    52.50992660321036
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.552708301845609,
+                    52.50260275572824
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.252815543032616,
+                    52.516110095895534
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.520615860666927,
+                    52.423373102022545
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.293915108023576,
+                    52.43273931553338
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.18052105207944,
+                    52.478525257663264
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.456984676254446,
+                    52.53363799519888
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.580727944261929,
+                    52.41708053060805
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.354022321509593,
+                    52.48284919291037
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.310025888499183,
+                    52.51518397850688
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.361623165834958,
+                    52.43445437672739
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.40867903345655,
+                    52.474310633356595
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.591910136073757,
+                    52.41993489166402
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.324142716298375,
+                    52.539786801960055
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.461504725698365,
+                    52.43055968851106
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.484709015184206,
+                    52.44015249396941
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.324833408358796,
+                    52.47069208697503
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.585322050436332,
+                    52.545722820978376
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.349649319046456,
+                    52.55739955631726
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.546756414741038,
+                    52.478471027680946
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.249467048761414,
+                    52.43590800747055
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.409406128312545,
+                    52.492105917574435
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.524409945678833,
+                    52.45144539019449
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.483065418117073,
+                    52.45763501484349
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.54418958055109,
+                    52.58075825663817
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.322230101670884,
+                    52.489381571079
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.471065243623539,
+                    52.56081142183109
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.356316941653501,
+                    52.492122502524424
+                ]
+            },
+            "properties": {
+                "Gartentyp": "KitaSchulgaerten"
+            }
+        }
+    ]
+}
