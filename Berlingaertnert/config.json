@@ -11,10 +11,10 @@
         }
       },
       "mapView": {
-        "backgroundImage": "./resources/img/backgroundCanvas.jpeg",
-        "startCenter": [1490594.33, 6891924.15],
+        "backgroundImage": "./resources/img/backgroundCanvas_color.jpeg",
+        "startCenter": [1481994.33, 6891924.15],
         "extent": [1444000, 6860000, 1538000, 6925000],
-        "startZoomLevel": 1,
+        "startZoomLevel": 0,
         "epsg": "EPSG:3857"
       },
 
@@ -25,21 +25,16 @@
         {
           "bezeichnung": "common:modules.portalFooter.designation",
           "url": "https://www.berlin.de/sen/uvk/",
-          "alias": "Senatsverwaltung für Mobilität, Verkehr, Klimaschutz und Umwelt",
+          "alias": "-",
           "alias_mobil": "SenMVKU"
         }
       ]
-    },
-    "tree": {
-      "highlightedFeatures": {
-        "active": true
-      }
     },
     "mainMenu": {
       "expanded": true,
       "title": {
         "text": "Berlin gärtnert",
-        "logo": "./resources/img/blatter.png",
+        "logo": "./resources/img/Baer_Logo.png",
         "link": "",
         "toolTip": "Berlin gärtnert"
       },
@@ -51,9 +46,9 @@
             "serviceId": "11",
             "limit": 20,
             "lang": "de",
-            "lat": 53.6,
-            "lon": 10.0,
-            "bbox": "9.6,53.3,10.4,53.8"
+            "lat": 52.52,
+            "lon": 13.405,
+            "bbox": "13.0,52.3,13.7,52.7"
           },
           {
             "type": "visibleVector",
@@ -81,23 +76,6 @@
           },
           {
             "type": "news"
-          },
-          {
-            "type": "contact",
-            "serviceId": "80001",
-            "includeSystemInfo": true,
-            "from": [
-              {
-                "email": "toni.karge@senmvku.berlin.de",
-                "name": "Senatsverwaltung für Mobilität, Verkehr, Klimaschutz und Umwelt"
-              }
-            ],
-            "to": [
-              {
-                "email": "toni.karge@senmvku.berlin.de",
-                "name": "Senatsverwaltung für Mobilität, Verkehr, Klimaschutz und Umwelt"
-              }
-            ]
           },
           {
             "type": "language"
@@ -146,16 +124,16 @@
     "baselayer": {
       "elements": [
         {
-          "id": "truedop_2024:truedop_2024:copyForBasemap",
-          "name": "Berlin Luftbild",
+          "id": "Luftbild",
+          "name": "Luftbild",
           "visibility": true
         },
 
         {
-          "id": "123",
+          "id": "Basemap",
           "name": "Hintergrundkarte",
           "visibility": true,
-          "styleId": "STYLE_1"
+          "styleId": "basemap_style"
         }
       ]
     },

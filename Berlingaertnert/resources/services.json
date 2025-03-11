@@ -1,9 +1,9 @@
 [
   {
-    "id": "123",
+    "id": "Basemap",
     "name": "Basemap",
     "epsg": "EPSG:3857",
-    "url": "https://sgx.geodatenzentrum.de/gdz_basemapde_vektor/tiles/v1/bm_web_de_3857/{z}/{x}/{y}.pbf",
+    "url": "https://sgx.geodatenzentrum.de/gdz_basemapde_vektor/tiles/v2/bm_web_de_3857/{z}/{x}/{y}.pbf",
     "typ": "VectorTile",
     "transparency": 0,
     "visibility": true,
@@ -12,27 +12,29 @@
     "gfiTheme": "default",
     "vtStyles": [
       {
-        "id": "STYLE_1",
+        "id": "basemap_style",
         "name": "Tagesansicht",
         "url": "resources/basemap_style.json",
         "defaultStyle": true
       }
     ],
-    "preview": {}
+    "preview": {
+      "src": "./resources/img/vectortile_preview.png"
+    }
   },
   {
-    "id": "truedop_2024:truedop_2024:copyForBasemap",
+    "id": "Luftbild",
     "name": "Luftbild 2024",
-    "name_lang": "Digitale farbige TrueOrthophotos 2024 (DOP20RGBI) (Digitale farbige TrueOrthophotos 2024 (DOP20RGBI))",
+    "name_lang": "Digitale farbige TrueOrthophotos 2024 (DOP20RGBI)",
     "crs": "EPSG:25833",
     "url": "https://gdi.berlin.de/services/wms/truedop_2024",
     "typ": "WMS",
     "gfiAttributes": "ignore",
     "layers": "truedop_2024",
-    "legend": true,
+    "legend": false,
     "datasets": [
       {
-        "md_name": "Digitale farbige TrueOrthophotos 2024 (DOP20RGBI)",
+        "md_name": "Luftbild Berlin 2024",
         "md_id": "aff8a8a5-2b48-44e8-949b-ea5f7d382a4f",
         "rs_id": "https://registry.gdi-de.org/id/de.be.csw/f8e73787-217b-3242-8aa5-80dedf9f05cf",
         "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
@@ -44,7 +46,10 @@
     "gfiTheme": "default",
     "transparent": true,
     "singleTile": true,
-    "infoFormat": "application/json"
+    "infoFormat": "application/json",
+    "preview": {
+      "src": "./resources/img/luftbild_preview.png"
+    }
   },
   {
     "id": "gemeinschaftsgaerten",
