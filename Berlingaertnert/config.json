@@ -146,19 +146,9 @@
     "baselayer": {
       "elements": [
         {
-          "id": "basemap_raster_grau",
-          "name": "Hintergrundkarte (grau)",
-          "visibility": false
-        },
-        {
-          "id": "basemap_raster_farbe",
-          "name": "Berlin Hintergrundkarte (farbig)",
-          "visibility": false
-        },
-        {
           "id": "truedop_2024:truedop_2024:copyForBasemap",
           "name": "Berlin Luftbild",
-          "visibility": false
+          "visibility": true
         },
 
         {
