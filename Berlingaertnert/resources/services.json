@@ -60,7 +60,14 @@
     "gfiAttributes": "showAll",
     "layerAttribution": "nicht vorhanden",
     "legendURL": "",
-    "gfiTheme": "default"
+    "gfiTheme": "default",
+    "datasets": [{
+      "md_id": "gemeinschaftsgarten.xml",
+      "csw_url": "resources/data/metadata/gemeinschaftsgarten.xml",
+      "show_doc_url": "resources/data/metadata/",
+      "md_name": "Gemeinschaftsgärten",
+      "bbox": "13.079,52.3284,13.7701,52.6877"
+}]
   },
   {
     "id": "beetpatenschaften",

@@ -165,7 +165,8 @@
               "id": "flaechenpotentiale",
               "name": "Flächenpotentiale",
               "styleId": "flaechenpotentiale",
-              "visibility": true
+              "visibility": false,
+              "showInLayerTree": true
             },
             {
               "id": "selbsterntegaerten",
@@ -180,17 +181,20 @@
               "visibility": true
             },
             {
-              "id": "gartenarbeitsschule",
-              "name": "Gartenarbeitsschule",
-              "styleId": "gartenarbeitsschule",
-              "visibility": true
-            },
-            {
               "id": "parklets",
               "name": "Parklets",
               "styleId": "parklets",
-              "visibility": true
+              "visibility": false,
+              "showInLayerTree": true
             },
+            {
+              "id": "gartenarbeitsschule",
+              "name": "Gartenarbeitsschule",
+              "styleId": "gartenarbeitsschule",
+              "visibility": false,
+              "showInLayerTree": true
+            },
+
             {
               "id": "kitaschulgaerten",
               "name": "Kita- und Schulgärten",
