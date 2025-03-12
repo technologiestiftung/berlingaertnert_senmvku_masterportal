@@ -241,6 +241,24 @@
     "gfiAttributes": "showAll"
   },
   {
+    "id": "ua_gruendaecher_2020:wfs:d_gebaeude",
+    "name": "GebÃ¤ude 2020",
+    "crs": "urn:ogc:def:crs:EPSG::25833",
+    "url": "https://gdi.berlin.de/services/wfs/ua_gruendaecher_2020",
+    "typ": "WFS",
+    "featureType": "ua_gruendaecher_2020:d_gebaeude",
+    "featureNS": "ua_gruendaecher_2020",
+    "datasets": [
+        {
+            "md_name": "GrÃ¼ndÃ¤cher 2020 (Umweltatlas)",
+            "md_id": "2dc1787a-2ab8-49aa-ac07-1b4a116071b4",
+            "rs_id": "https://registry.gdi-de.org/id/de.be.csw/6513504d-2375-3a73-a2c1-345e5007cae0",
+            "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
+        }
+    ],
+    "gfiAttributes": "showAll"
+},
+  {
     "id": "sp_gruene_wege_wander",
     "name": "20 GrÃ¼ne Hauptwege - Wanderkarte",
     "crs": "urn:ogc:def:crs:EPSG:6.9:25833",
@@ -253,24 +271,6 @@
         "md_name": "20 GrÃ¼ne Hauptwege - Wanderkarte",
         "md_id": "769e0768-7efc-3328-93ea-2c54c45c9dee",
         "rs_id": "https://registry.gdi-de.org/id/de.be.csw/42a8b8a8-a611-383a-9559-2a6c2d1cac3a",
-        "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
-      }
-    ],
-    "gfiAttributes": "showAll"
-  },
-  {
-    "id": "ua_versiegelung_2021:wfs:versieg2021_str",
-    "name": "Versiegelung der StraÃŸenflÃ¤chen 2021",
-    "crs": "urn:ogc:def:crs:EPSG::25833",
-    "url": "https://gdi.berlin.de/services/wfs/ua_versiegelung_2021",
-    "typ": "WFS",
-    "featureType": "ua_versiegelung_2021:versieg2021_str",
-    "featureNS": "ua_versiegelung_2021",
-    "datasets": [
-      {
-        "md_name": "Versiegelung 2021 (Umweltatlas)",
-        "md_id": "2c8a769b-364e-4596-ace4-4c05cd8eb872",
-        "rs_id": "https://registry.gdi-de.org/id/de.be.csw/25091cc2-3b41-3d21-b479-b2895fd9ec8a",
         "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
       }
     ],
@@ -294,6 +294,42 @@
     ],
     "gfiAttributes": "showAll"
   },
+  {
+    "id": "ua_versiegelung_2021:wfs:versieg2021",
+    "name": "Versiegelung der Block- und BlockteilflÃ¤chen 2021",
+    "crs": "urn:ogc:def:crs:EPSG::25833",
+    "url": "https://gdi.berlin.de/services/wfs/ua_versiegelung_2021",
+    "typ": "WFS",
+    "featureType": "ua_versiegelung_2021:versieg2021",
+    "featureNS": "ua_versiegelung_2021",
+    "datasets": [
+        {
+            "md_name": "Versiegelung 2021 (Umweltatlas)",
+            "md_id": "2c8a769b-364e-4596-ace4-4c05cd8eb872",
+            "rs_id": "https://registry.gdi-de.org/id/de.be.csw/25091cc2-3b41-3d21-b479-b2895fd9ec8a",
+            "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
+        }
+    ],
+    "gfiAttributes": "showAll"
+},
+{
+  "id": "ua_versiegelung_2021:wfs:versieg2021_str",
+  "name": "Versiegelung der StraÃŸenflÃ¤chen 2021",
+  "crs": "urn:ogc:def:crs:EPSG::25833",
+  "url": "https://gdi.berlin.de/services/wfs/ua_versiegelung_2021",
+  "typ": "WFS",
+  "featureType": "ua_versiegelung_2021:versieg2021_str",
+  "featureNS": "ua_versiegelung_2021",
+  "datasets": [
+      {
+          "md_name": "Versiegelung 2021 (Umweltatlas)",
+          "md_id": "2c8a769b-364e-4596-ace4-4c05cd8eb872",
+          "rs_id": "https://registry.gdi-de.org/id/de.be.csw/25091cc2-3b41-3d21-b479-b2895fd9ec8a",
+          "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
+      }
+  ],
+  "gfiAttributes": "showAll"
+},
   {
     "id": "ua_boden_ertragfkt_2020:wfs:ertrag2020",
     "name": "Ertragsfunktion der BÃ¶den fÃ¼r Kulturpflanzen 2020",
