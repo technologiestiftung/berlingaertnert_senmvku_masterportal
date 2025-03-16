@@ -41,9 +41,15 @@
     "rules": [
       {
         "style": {
-          "polygonStrokeColor": [45, 45, 45, 0.4],
-          "polygonStrokeWidth": 1,
-          "polygonFillColor": [60, 179, 113, 0.7]
+          "polygonStrokeColor": [145,133,190,0.5],
+          "polygonStrokeWidth": 2,
+          "polygonFillHatch": {
+            "pattern": "diagonal",
+            "lineWidth": 10,
+            "size": 50,
+            "backgroundColor": [155,207,175,0.3],
+            "patternColor": [145,133,190,0.65]
+        }
         }
       }
     ]
@@ -52,12 +58,27 @@
     "styleId": "gemeinschaftsgaerten",
     "rules": [
       {
+        "conditions": {
+          "properties": {
+            "Status": "beendet"
+          }
+        },
         "style": {
-          "type": "circle",
-          "circleFillColor": [255, 200, 50, 0.9],
-          "circleRadius": 4,
-          "circleStrokeColor": [255, 255, 255],
-          "circleStrokeWidth": 2
+          "legendValue": "Nicht mehr aktiver Gemeinschaftsgarten",
+          "type": "icon",
+          "imageName": "Gemeinschaftsgaerten_beendet.png",
+          "imageScale": 0.5
+        }
+      },
+      {
+        "conditions": {
+          "properties": {}
+        },
+        "style": {
+          "legendValue": "Aktiver Gemeinschaftsgarten",
+          "type": "icon",
+          "imageName": "Gemeinschaftsgaerten.png",
+          "imageScale": 0.06
         }
       }
     ]
