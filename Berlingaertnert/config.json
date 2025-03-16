@@ -12,9 +12,9 @@
       },
       "mapView": {
         "backgroundImage": "./resources/img/backgroundCanvas_color.jpeg",
-        "startCenter": [1481994.33, 6891924.15],
+        "startCenter": [1487994.33, 6891924.15],
         "extent": [1444000, 6860000, 1538000, 6925000],
-        "startZoomLevel": 0,
+        "startZoomLevel": 0.5,
         "epsg": "EPSG:3857"
       },
 
@@ -126,7 +126,7 @@
         {
           "id": "Luftbild",
           "name": "Luftbild",
-          "visibility": true
+          "visibility": false
         },
 
         {
