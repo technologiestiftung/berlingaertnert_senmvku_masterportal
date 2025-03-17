@@ -33,7 +33,7 @@
     "mainMenu": {
       "expanded": true,
       "title": {
-        "text": "Berlin gärtnert",
+        "text": "",
         "logo": "./resources/img/Baer_Logo.png",
         "link": "",
         "toolTip": "Berlin gärtnert"
