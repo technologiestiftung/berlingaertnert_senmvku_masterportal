@@ -163,5 +163,17 @@
         }
       }
     ]
+  },
+  {
+    "styleId": "schulen",
+    "rules": [
+        {
+          "style": {
+            "type": "icon",
+            "imageName": "schule.png",
+            "imageScale": 0.4
+          }
+      }
+    ]
   }
 ]
