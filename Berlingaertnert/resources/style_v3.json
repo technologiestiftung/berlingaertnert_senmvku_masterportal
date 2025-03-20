@@ -1,42 +1,5 @@
 [
   {
-    "styleId": "fis_kita_wfs",
-    "rules": [
-      {
-        "conditions": {
-          "properties": {
-            "Status": "beendet"
-          }
-        },
-        "style": {
-          "legendValue": "Status: beendet",
-          "type": "icon",
-          "imageName": "gießkanne_gruen.png",
-          "imageScale": 0.3,
-          "imageWidth": 10,
-          "imageHeight": 10,
-          "imageOffsetX": 0.1,
-          "imageOffsetY": 0.1
-        }
-      },
-      {
-        "conditions": {
-          "properties": {}
-        },
-        "style": {
-          "legendValue": "Status: nicht beendet",
-          "type": "icon",
-          "imageName": "gießkanne_orange.png",
-          "imageScale": 0.3,
-          "imageWidth": 10,
-          "imageHeight": 10,
-          "imageOffsetX": 0.1,
-          "imageOffsetY": 0.1
-        }
-      }
-    ]
-  },
-  {
     "styleId": "kleingarten",
     "rules": [
       {
@@ -67,7 +30,7 @@
           "legendValue": "Nicht mehr aktiver Gemeinschaftsgarten",
           "type": "icon",
           "imageName": "Gemeinschaftsgaerten_beendet.png",
-          "imageScale": 0.5
+          "imageScale": 0.06
         }
       },
       {
@@ -84,15 +47,30 @@
     ]
   },
   {
-    "styleId": "solidarischelandwirtschaft",
+    "styleId": "solawi",
     "rules": [
       {
+        "conditions": {
+          "properties": {
+            "Status": "beendet"
+          }
+        },
         "style": {
-          "type": "circle",
-          "circleFillColor": [50, 200, 50, 0.9],
-          "circleRadius": 4,
-          "circleStrokeColor": [255, 255, 255],
-          "circleStrokeWidth": 2
+          "legendValue": "Anbaustation",
+          "type": "icon",
+          "imageName": "SoLawi_1.png",
+          "imageScale": 0.06
+        }
+      },
+      {
+        "conditions": {
+          "properties": {}
+        },
+        "style": {
+          "legendValue": "Abholstation",
+          "type": "icon",
+          "imageName": "SoLawi_2.png",
+          "imageScale": 0.06
         }
       }
     ]
@@ -102,11 +80,9 @@
     "rules": [
       {
         "style": {
-          "type": "circle",
-          "circleFillColor": [50, 150, 255, 0.9],
-          "circleRadius": 4,
-          "circleStrokeColor": [255, 255, 255],
-          "circleStrokeWidth": 2
+          "type": "icon",
+          "imageName": "Flaechenpotentiale.png",
+          "imageScale": 0.06
         }
       }
     ]
@@ -115,12 +91,10 @@
     "styleId": "selbsterntegaerten",
     "rules": [
       {
-        "style": {
-          "type": "circle",
-          "circleFillColor": [150, 50, 255, 0.9],
-          "circleRadius": 4,
-          "circleStrokeColor": [255, 255, 255],
-          "circleStrokeWidth": 2
+        "style":{
+          "type": "icon",
+          "imageName": "Selbsterntegaerten.png",
+          "imageScale": 0.06
         }
       }
     ]
@@ -130,11 +104,9 @@
     "rules": [
       {
         "style": {
-          "type": "circle",
-          "circleFillColor": [255, 100, 50, 0.9],
-          "circleRadius": 4,
-          "circleStrokeColor": [255, 255, 255],
-          "circleStrokeWidth": 2
+          "type": "icon",
+          "imageName": "Beetpatenschaften.png",
+          "imageScale": 0.06
         }
       }
     ]
@@ -144,11 +116,9 @@
     "rules": [
       {
         "style": {
-          "type": "circle",
-          "circleFillColor": [255, 50, 150, 0.9],
-          "circleRadius": 4,
-          "circleStrokeColor": [255, 255, 255],
-          "circleStrokeWidth": 2
+          "type": "icon",
+          "imageName": "Gartenarbeitsschule.png",
+          "imageScale": 0.06
         }
       }
     ]
@@ -158,11 +128,9 @@
     "rules": [
       {
         "style": {
-          "type": "circle",
-          "circleFillColor": [50, 200, 255, 0.9],
-          "circleRadius": 4,
-          "circleStrokeColor": [255, 255, 255],
-          "circleStrokeWidth": 2
+          "type": "icon",
+          "imageName": "Parklet.png",
+          "imageScale": 0.06
         }
       }
     ]
@@ -171,12 +139,27 @@
     "styleId": "kitaschulgaerten",
     "rules": [
       {
+        "conditions": {
+          "properties": {
+            "Status": "beendet"
+          }
+        },
         "style": {
-          "type": "circle",
-          "circleFillColor": [200, 50, 150, 0.9],
-          "circleRadius": 4,
-          "circleStrokeColor": [255, 255, 255],
-          "circleStrokeWidth": 2
+          "legendValue": "Kitagarten",
+          "type": "icon",
+          "imageName": "Kitagaerten.png",
+          "imageScale": 0.06
+        }
+      },
+      {
+        "conditions": {
+          "properties": {}
+        },
+        "style": {
+          "legendValue": "Schulgarten",
+          "type": "icon",
+          "imageName": "Schulgaerten.png",
+          "imageScale": 0.06
         }
       }
     ]
