@@ -1,0 +1,471 @@
+{
+    "type": "FeatureCollection",
+    "name": "DatenbasisKarteGAS",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4622,
+                    52.50032
+                ]
+            },
+            "properties": {
+                "Lfd Nummer": "GAS-01",
+                "Name": "Gartenarbeitsschule Friedrichshain-Kreuzberg (Agrarwirtschaftlicher Außenstandort der August-Sander-Schule)",
+                "Gartentyp": "Gartenarbeitsschule",
+                "Uber uns  Selbstbeschreibung": null,
+                "Status": "vertraglich unbefristet bestehend",
+                "Strasse": "Persiusstraße 9",
+                "PLZ": "10245 Berlin",
+                "Bezirk": "Friedrichshain-Kreuzberg",
+                "Website  Social Media": "https://august-sander-schule.de/schulportrait/gartenarbeitsschule",
+                "EMail  Kontakt": "Tel: +49 30 2936880 E-Mail: schulfarm@august-sander-schule.de",
+                "Seit wann": "1960er",
+                "Flachengrosse m²": 15000.0,
+                "Organisationsform": null,
+                "Trager": null,
+                "Nutzung": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.330896,
+                    52.561717
+                ]
+            },
+            "properties": {
+                "Lfd Nummer": "GAS-02",
+                "Name": "Gartenarbeitsschule Wedding-Tiergarten (Schul-Umwelt-Zentrum Mitte)",
+                "Gartentyp": "Gartenarbeitsschule",
+                "Uber uns  Selbstbeschreibung": null,
+                "Status": "vertraglich unbefristet bestehend",
+                "Strasse": "Scharnweberstraße 159",
+                "PLZ": "13405 Berlin",
+                "Bezirk": "Mitte",
+                "Website  Social Media": "www.schulumweltzentrum.de",
+                "EMail  Kontakt": "Tel: +49 30 39494206 E-Mail: info@schulumweltzentrum.de",
+                "Seit wann": null,
+                "Flachengrosse m²": null,
+                "Organisationsform": "sonstige Organisationsform",
+                "Trager": "Schul-Umwelt-Zentrum Mitte",
+                "Nutzung": "Bildung"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33961,
+                    52.53306
+                ]
+            },
+            "properties": {
+                "Lfd Nummer": "GAS-03",
+                "Name": "Gartenarbeitsschule Tiergarten (Schul-Umwelt-Zentrum Mitte)",
+                "Gartentyp": "Gartenarbeitsschule",
+                "Uber uns  Selbstbeschreibung": null,
+                "Status": "vertraglich unbefristet bestehend",
+                "Strasse": "Birkenstraße 35",
+                "PLZ": "10551 Berlin",
+                "Bezirk": "Mitte",
+                "Website  Social Media": "www.schulumweltzentrum.de",
+                "EMail  Kontakt": "Tel: +49 30 39494206 E-Mail: info@schulumweltzentrum.de",
+                "Seit wann": null,
+                "Flachengrosse m²": null,
+                "Organisationsform": "sonstige Organisationsform",
+                "Trager": "Schul-Umwelt-Zentrum Mitte",
+                "Nutzung": "Bildung"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.361784,
+                    52.472938
+                ]
+            },
+            "properties": {
+                "Lfd Nummer": "GAS-04",
+                "Name": "Gartenarbeitsschule & Freilandlabor Tempelhof-Schöneberg",
+                "Gartentyp": "Gartenarbeitsschule",
+                "Uber uns  Selbstbeschreibung": null,
+                "Status": "vertraglich unbefristet bestehend",
+                "Strasse": "Matthäifriedhofsweg 15",
+                "PLZ": "10829 Berlin",
+                "Bezirk": "Tempelhof-Schöneberg",
+                "Website  Social Media": "http://www.berlin.de/ba-tempelhof-schoeneberg/gartenarbeitsschule",
+                "EMail  Kontakt": "Tel: +49 30 902774389 +49 1575 4441510 E-Mail: info@gartenarbeits.schule",
+                "Seit wann": "1922",
+                "Flachengrosse m²": 25000.0,
+                "Organisationsform": "sonstige Organisationsform",
+                "Trager": "Bezirksamt Tempelhof Schöneberg",
+                "Nutzung": "Lebensmittelanbau, Bildung"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.511112,
+                    52.480286
+                ]
+            },
+            "properties": {
+                "Lfd Nummer": "GAS-05",
+                "Name": "Gartenarbeitsschule Lichtenberg",
+                "Gartentyp": "Gartenarbeitsschule",
+                "Uber uns  Selbstbeschreibung": null,
+                "Status": "vertraglich unbefristet bestehend",
+                "Strasse": "Trautenauer Straße 40",
+                "PLZ": "10318 Berlin",
+                "Bezirk": "Lichtenberg",
+                "Website  Social Media": "www.berlin.de/ba-lichtenberg/gartenarbeitsschule",
+                "EMail  Kontakt": "Tel: +49 30 5099628 E-Mail: gartenarbeitsschule-lichtenberg@gmx.de",
+                "Seit wann": "1968",
+                "Flachengrosse m²": 10000.0,
+                "Organisationsform": "sonstige Organisationsform",
+                "Trager": "Bezirksamt Lichtenberg",
+                "Nutzung": "Lebensmittelanbau, Bildung"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.42657,
+                    52.5815
+                ]
+            },
+            "properties": {
+                "Lfd Nummer": "GAS-06",
+                "Name": "Gartenarbeitsschule Pankow",
+                "Gartentyp": "Gartenarbeitsschule",
+                "Uber uns  Selbstbeschreibung": null,
+                "Status": "vertraglich unbefristet bestehend",
+                "Strasse": "Galenusstraße 51",
+                "PLZ": "13187 Berlin",
+                "Bezirk": "Pankow",
+                "Website  Social Media": "www.gartenarbeitsschule-pankow.de",
+                "EMail  Kontakt": "Tel: +49 30 4761343 E-Mail: gas-pankow@gmx.de",
+                "Seit wann": "1950er",
+                "Flachengrosse m²": null,
+                "Organisationsform": "sonstige Organisationsform",
+                "Trager": "Bezirksamt Pankow, Förderverein der Gartenarbeitsschule Pankow e.V.",
+                "Nutzung": "Bildung"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.304233,
+                    52.469758
+                ]
+            },
+            "properties": {
+                "Lfd Nummer": "GAS-07",
+                "Name": "Gartenarbeitsschule Ilse Demme Charlottenburg-Wilmersdorf",
+                "Gartentyp": "Gartenarbeitsschule",
+                "Uber uns  Selbstbeschreibung": null,
+                "Status": "vertraglich unbefristet bestehend",
+                "Strasse": "Dillenburger Straße 57",
+                "PLZ": "14199 Berlin",
+                "Bezirk": "Charlottenburg-Wilmersdorf",
+                "Website  Social Media": "http://www.gartenarbeitsschule.de/",
+                "EMail  Kontakt": "Tel: +49 30 51654858 +49 30 51654755 E-Mail: gruener-lernort@gartenarbeitsschule-ilse-demme.de",
+                "Seit wann": "1921",
+                "Flachengrosse m²": null,
+                "Organisationsform": "sonstige Organisationsform",
+                "Trager": "Förderverein der Gartenarbeitsschule Wilmersdorf e.V.",
+                "Nutzung": "Bildung"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.322303,
+                    52.447869
+                ]
+            },
+            "properties": {
+                "Lfd Nummer": "GAS-08",
+                "Name": "Gartenarbeitsschule Steglitz-Zehlendorf (Schul-Umwelt-Zentrum Steglitz-Zehlendorf)",
+                "Gartentyp": "Gartenarbeitsschule",
+                "Uber uns  Selbstbeschreibung": null,
+                "Status": "vertraglich unbefristet bestehend",
+                "Strasse": "Haydnstraße 20",
+                "PLZ": "12203 Berlin",
+                "Bezirk": "Steglitz-Zehlendorf",
+                "Website  Social Media": "www.schulumweltzentrum-sz.de/",
+                "EMail  Kontakt": "E-Mail: gartenarbeitsschule@schulumweltzentrum-sz.de",
+                "Seit wann": "1920er",
+                "Flachengrosse m²": null,
+                "Organisationsform": "sonstige Organisationsform",
+                "Trager": null,
+                "Nutzung": "Bildung"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.192222,
+                    52.540566
+                ]
+            },
+            "properties": {
+                "Lfd Nummer": "GAS-09",
+                "Name": "Gartenarbeitsschule Borkzeile (Schul-Umwelt-Zentrum Spandau)",
+                "Gartentyp": "Gartenarbeitsschule",
+                "Uber uns  Selbstbeschreibung": null,
+                "Status": "vertraglich unbefristet bestehend",
+                "Strasse": "Borkzeile 34",
+                "PLZ": "13583 Berlin",
+                "Bezirk": "Spandau",
+                "Website  Social Media": "https://www.gas-borkzeile.de/",
+                "EMail  Kontakt": "Tel: +49 30 26305345 E-Mail: borkzeile@suz-spandau.de",
+                "Seit wann": "1964",
+                "Flachengrosse m²": null,
+                "Organisationsform": "sonstige Organisationsform",
+                "Trager": null,
+                "Nutzung": "Bildung"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.214323,
+                    52.568312
+                ]
+            },
+            "properties": {
+                "Lfd Nummer": "GAS-10",
+                "Name": "Gartenarbeitsschule Hakenfelde (Schul-Umwelt-Zentrum Spandau)",
+                "Gartentyp": "Gartenarbeitsschule",
+                "Uber uns  Selbstbeschreibung": null,
+                "Status": "vertraglich unbefristet bestehend",
+                "Strasse": "Bernkastler Weg 26",
+                "PLZ": "13587 Berlin",
+                "Bezirk": "Spandau",
+                "Website  Social Media": "http://gas-hakenfelde.de/",
+                "EMail  Kontakt": "Tel: +49 30 3351852 E-Mail: hakenfelde@suz-spandau.de",
+                "Seit wann": "1946",
+                "Flachengrosse m²": 23000.0,
+                "Organisationsform": "sonstige Organisationsform",
+                "Trager": "Bezirksamt Spandau in Kooperation mit der SenBJF",
+                "Nutzung": "Bildung"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.273532,
+                    52.574356
+                ]
+            },
+            "properties": {
+                "Lfd Nummer": "GAS-11",
+                "Name": "Gartenarbeitsschule Reinickendorf",
+                "Gartentyp": "Gartenarbeitsschule",
+                "Uber uns  Selbstbeschreibung": null,
+                "Status": "vertraglich unbefristet bestehend",
+                "Strasse": "Billerbecker Weg 123 a",
+                "PLZ": "13507 Berlin",
+                "Bezirk": "Reinickendorf",
+                "Website  Social Media": "www.gartenreinickendorf.de/",
+                "EMail  Kontakt": "Tel: +49 151 16253611 E-Mail: gartenarbeitsschule@reinickendorf.berlin.de",
+                "Seit wann": "1952, Neueröffnung 2018",
+                "Flachengrosse m²": null,
+                "Organisationsform": "sonstige Organisationsform",
+                "Trager": "Bezirksamt Reinickendorf",
+                "Nutzung": "Bildung"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.447888,
+                    52.442669
+                ]
+            },
+            "properties": {
+                "Lfd Nummer": "GAS-12",
+                "Name": "August-Heyn-Gartenarbeitsschule Neukölln",
+                "Gartentyp": "Gartenarbeitsschule",
+                "Uber uns  Selbstbeschreibung": null,
+                "Status": "vertraglich unbefristet bestehend",
+                "Strasse": "Fritz-Reuter-Allee 121",
+                "PLZ": "12359 Berlin",
+                "Bezirk": "Neukölln",
+                "Website  Social Media": "http://www.ahgasn.de",
+                "EMail  Kontakt": "Tel: +49 30 60258874 E-Mail: buero@ahgasn.de leitung@ahgasn.de",
+                "Seit wann": "1920",
+                "Flachengrosse m²": 33000.0,
+                "Organisationsform": "sonstige Organisationsform",
+                "Trager": "Bezirksamt Neukölln",
+                "Nutzung": "Lebensmittelanbau, Bildung"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.58113,
+                    52.45119
+                ]
+            },
+            "properties": {
+                "Lfd Nummer": "GAS-13",
+                "Name": "Gartenarbeitsschule Treptow-Köpenick",
+                "Gartentyp": "Gartenarbeitsschule",
+                "Uber uns  Selbstbeschreibung": null,
+                "Status": "vertraglich unbefristet bestehend",
+                "Strasse": "Friedrichshagener Straße 7",
+                "PLZ": "12555 Berlin",
+                "Bezirk": "Treptow-Köpenick",
+                "Website  Social Media": "www.gartenarbeitsschule-tk.de/",
+                "EMail  Kontakt": "Tel: +49 30 6560960 E-Mail: info@gartenarbeitsschule-tk.de",
+                "Seit wann": null,
+                "Flachengrosse m²": 10000.0,
+                "Organisationsform": "sonstige Organisationsform",
+                "Trager": null,
+                "Nutzung": "Bildung"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.548318,
+                    52.544928
+                ]
+            },
+            "properties": {
+                "Lfd Nummer": "GAS-14",
+                "Name": "Gartenarbeitsschule Marzahn-Hellersdorf (zukünftig; Im Aufbau)",
+                "Gartentyp": "Gartenarbeitsschule",
+                "Uber uns  Selbstbeschreibung": null,
+                "Status": "vertraglich unbefristet bestehend",
+                "Strasse": "Mühlenbecker Weg/Franz-Stenzer-Straße",
+                "PLZ": "12679 Berlin",
+                "Bezirk": "Marzahn-Hellersdorf",
+                "Website  Social Media": "https://www.berlin.de/ba-marzahn-hellersdorf/politik-und-verwaltung/aemter/schul-und-sportamt/schule/gartenarbeitsschule-marzahn-hellersdorf-1433857.php",
+                "EMail  Kontakt": null,
+                "Seit wann": "2018",
+                "Flachengrosse m²": null,
+                "Organisationsform": "sonstige Organisationsform",
+                "Trager": null,
+                "Nutzung": "Bildung"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.363931,
+                    52.556145
+                ]
+            },
+            "properties": {
+                "Lfd Nummer": "GAS-15",
+                "Name": "Gartenarbeitsschule Wedding (Schul-Umwelt-Zentrum Mitte) mit dem interkultureller Garten der Generationen",
+                "Gartentyp": "Gartenarbeitsschule",
+                "Uber uns  Selbstbeschreibung": "Die fast 100-jährige Gartenarbeitsschule in Steglitz, eine der ältesten Gartenarbeitsschulen Berlins, ist im Berliner Schulgesetz verankert und bietet Unterrichtsangebote gemäß dem Berliner Rahmenlehrplan. Sie lädt ein zum Arbeiten und Forschen und ist gleichzeitig Heimat vieler Insekten und anderer, teils auch seltener Tier- und Pflanzenarten. Unsere Angebote finden im Garten, unter der überdachten Veranda oder in dem neuen Holz-Klassenzimmer statt. Die Schülerinnen und Schüler entwickeln ein Verständnis für ökologische Zusammenhänge als Grundlage einer nachhaltigen Entwicklung und eines nachhaltigen Konsumverhaltens, lernen handwerkliche Fähigkeiten und erleben die Schönheit und Vielfalt des Lebens. Ein Wildbienen-Lehrpfad bildet die Hauptachse des Gartens. Viele Apfelbäume wachsen verstreut im Gelände und im Vorfrühling sind es tausende Frühblüher, die die Kinder in den Garten locken.",
+                "Status": "vertraglich unbefristet bestehend",
+                "Strasse": "Seestraße 74, 13347 Berlin",
+                "PLZ": "13347 Berlin",
+                "Bezirk": "Mitte",
+                "Website  Social Media": "www.schulumweltzentrum.de",
+                "EMail  Kontakt": "Tel: +49 30 45022373 E-Mail: info@schulumweltzentrum.de",
+                "Seit wann": null,
+                "Flachengrosse m²": null,
+                "Organisationsform": "sonstige Organisationsform",
+                "Trager": null,
+                "Nutzung": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.330432,
+                    52.434787
+                ]
+            },
+            "properties": {
+                "Lfd Nummer": "GAS-16",
+                "Name": "Freilandlabor Steglitz (Schul-Umwelt-Zentrum Steglitz-Zehlendorf)",
+                "Gartentyp": "Gartenarbeitsschule",
+                "Uber uns  Selbstbeschreibung": "Das Freilandlabor Steglitz liegt als Stadtbrache mitten zwischen bebauten Gartengrundstücken mit waldartigen Bereich, verwilderten Wiesen und Hecken und bietet ein Rückzugsgebiet für viele einheimische Pflanzen- und Tierarten. Die Schülerinnen und Schüler erhalten die Möglichkeit, Pflanzen und Tiere in ihren natürlichen Lebensräumen kennenzulernen und zu bestimmen. Im \"Kutscherhaus\" kann Unterricht durchgeführt werden. Unterrichtsmaterialien, Geräte und verschiedene Anschauungsobjekte sind vorhanden. In der Ameisenarena können die Tiere bei ihrem natürlichen Verhalten beobachtet werden.",
+                "Status": "vertraglich unbefristet bestehend",
+                "Strasse": "Gärtnerstraße 14-16",
+                "PLZ": "12207 Berlin",
+                "Bezirk": "Steglitz-Zehlendorf",
+                "Website  Social Media": "www.schulumweltzentrum-sz.de/",
+                "EMail  Kontakt": "Tel: +49 30 70177772 E-Mail: dreher@f-d-gs.de",
+                "Seit wann": null,
+                "Flachengrosse m²": null,
+                "Organisationsform": "sonstige Organisationsform",
+                "Trager": null,
+                "Nutzung": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.251532,
+                    52.411546
+                ]
+            },
+            "properties": {
+                "Lfd Nummer": "GAS-17",
+                "Name": "Freilandlabor Zehlendorf (Schul-Umwelt-Zentrum Steglitz-Zehlendorf)",
+                "Gartentyp": "Gartenarbeitsschule",
+                "Uber uns  Selbstbeschreibung": "Das Freilandlabor Zehlendorf ist mit seinen etwa 30.000m² ein ganz besonderes schützenswertes Stück Natur mit einer Vielfalt an Lebensräumen: Teichen, verschiedenen Wiesenarten, Bienen und Imkerstand, Bruchwald, Eidechsengarten, Fledermauskeller, Kopfweiden sowie Obstbäumen auf unserer Streuobstwiese. Hier kann der Jahreslauf besonders intensiv erfahren werden.\nHier ist ein handlungspädagogisch orientierter Schulbauernhof entstanden, der es Kindern ermöglicht, an seinen Kreisläufen sinnvoll, handhabbar und verstehbar teilzuhaben. Nachhaltiger und kohärenzorientierter Unterricht ist dann gut möglich, wenn der Unterricht nach RLP mit dem vorgegebenen Jahresrhythmus der Natur und der Hofkreisläufe verknüpft werden können. Deshalb werden über das Jahr verteilte, verschiedene Unterrichtsmodule angeboten.",
+                "Status": "vertraglich unbefristet bestehend",
+                "Strasse": "Sachtlebenstraße 30-32",
+                "PLZ": "14165 Berlin",
+                "Bezirk": "Steglitz-Zehlendorf",
+                "Website  Social Media": "www.schulumweltzentrum-sz.de/",
+                "EMail  Kontakt": "Tel: +49 30 8183612",
+                "Seit wann": null,
+                "Flachengrosse m²": 30000.0,
+                "Organisationsform": "sonstige Organisationsform",
+                "Trager": null,
+                "Nutzung": null
+            }
+        }
+    ]
+}

@@ -7,9 +7,9 @@
           "polygonStrokeColor": [145,133,190,0.5],
           "polygonStrokeWidth": 2,
           "polygonFillHatch": {
-            "pattern": "diagonal",
-            "lineWidth": 10,
-            "size": 50,
+            "pattern": "triangle",
+            "lineWidth": 1.5,
+            "size": 40,
             "backgroundColor": [155,207,175,0.3],
             "patternColor": [145,133,190,0.65]
         }
@@ -30,7 +30,7 @@
           "legendValue": "Nicht mehr aktiver Gemeinschaftsgarten",
           "type": "icon",
           "imageName": "Gemeinschaftsgaerten_inaktiv.png",
-          "imageScale": 0.06
+          "imageScale": 0.15
         }
       },
       {
@@ -41,36 +41,38 @@
           "legendValue": "Aktiver Gemeinschaftsgarten",
           "type": "icon",
           "imageName": "Gemeinschaftsgaerten.png",
-          "imageScale": 0.06
+          "imageScale": 0.15
         }
       }
     ]
   },
   {
-    "styleId": "solawi",
+    "styleId": "solidarischelandwirtschaft",
     "rules": [
       {
         "conditions": {
           "properties": {
-            "Status": "beendet"
+            "Gartentyp": "SolidarischeLandwirtschaft"
           }
         },
         "style": {
           "legendValue": "Anbaustation",
           "type": "icon",
           "imageName": "SoLawi_1.png",
-          "imageScale": 0.06
+          "imageScale": 0.15
         }
       },
       {
         "conditions": {
-          "properties": {}
+          "properties": {
+            "Gartentyp": "Abholstation"
+          }
         },
         "style": {
           "legendValue": "Abholstation",
           "type": "icon",
           "imageName": "SoLawi_2.png",
-          "imageScale": 0.06
+          "imageScale": 0.15
         }
       }
     ]
@@ -82,7 +84,7 @@
         "style": {
           "type": "icon",
           "imageName": "Flaechenpotentiale.png",
-          "imageScale": 0.06
+          "imageScale": 0.15
         }
       }
     ]
@@ -94,7 +96,7 @@
         "style":{
           "type": "icon",
           "imageName": "Selbsterntegaerten.png",
-          "imageScale": 0.06
+          "imageScale": 0.15
         }
       }
     ]
@@ -105,8 +107,8 @@
       {
         "style": {
           "type": "icon",
-          "imageName": "Beetpatenschaften.png",
-          "imageScale": 0.06
+          "imageName": "Beetpatenschaft.png",
+          "imageScale": 0.15
         }
       }
     ]
@@ -118,7 +120,7 @@
         "style": {
           "type": "icon",
           "imageName": "Gartenarbeitsschule.png",
-          "imageScale": 0.06
+          "imageScale": 0.15
         }
       }
     ]
@@ -130,7 +132,7 @@
         "style": {
           "type": "icon",
           "imageName": "Parklet.png",
-          "imageScale": 0.06
+          "imageScale": 0.15
         }
       }
     ]
@@ -141,38 +143,42 @@
       {
         "conditions": {
           "properties": {
-            "Status": "beendet"
+            "Gartentyp" : "Offener Schulgarten"
           }
         },
         "style": {
           "legendValue": "Kitagarten",
           "type": "icon",
           "imageName": "Kitagaerten.png",
-          "imageScale": 0.06
+          "imageScale": 0.15
         }
       },
       {
         "conditions": {
-          "properties": {}
+          "properties": {
+            "Gartentyp" : "Schulgarten"
+          }
         },
         "style": {
           "legendValue": "Schulgarten",
           "type": "icon",
           "imageName": "Schulgaerten.png",
-          "imageScale": 0.06
+          "imageScale": 0.15
         }
       }
     ]
-  },
+  }, 
   {
-    "styleId": "schulen",
+    "styleId": "defaultpointlayer",
     "rules": [
         {
           "style": {
-            "type": "icon",
-            "imageName": "schule.png",
-            "imageScale": 0.4
-          }
+            "type": "circle",
+            "circleStrokeColor" : [145,133,190,0.65],	
+            "circleStrokeWidth" : 1,
+            "circleRadius": 9,
+            "circleFillColor" : [155,207,175,0.5]
+        }
       }
     ]
   }

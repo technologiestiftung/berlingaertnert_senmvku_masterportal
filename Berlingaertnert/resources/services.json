@@ -52,10 +52,10 @@
     }
   },
   {
-    "id": "gemeinschaftsgaerten",
+    "id": "gemeinschaftsgaerten_epsg25833",
     "name": "lokale GeoJSON",
     "crs": "urn:ogc:def:crs:EPSG::25833",
-    "url": "resources/data/gaerten2.geojson",
+    "url": "resources/data/gemeinschaftsgaerten.geojson",
     "typ": "GeoJSON",
     "gfiAttributes": "showAll",
     "layerAttribution": "nicht vorhanden",
@@ -68,6 +68,16 @@
       "md_name": "Gemeinschaftsgärten",
       "bbox": "13.079,52.3284,13.7701,52.6877"
 }]
+  },
+  {
+    "id": "gemeinschaftsgaerten",
+    "name": "Gemeinschaftsgaerten",
+    "crs": "urn:ogc:def:crs:EPSG::4326",
+    "url": "resources/data/gemeinschaftsgaerten.geojson",
+    "typ": "GeoJSON",
+    "gfiAttributes": "showAll",
+    "legendURL": "",
+    "gfiTheme": "default"
   },
   {
     "id": "beetpatenschaften",
@@ -83,7 +93,7 @@
     "id": "gartenarbeitsschule",
     "name": "gartenarbeitsschule",
     "crs": "urn:ogc:def:crs:EPSG::4326",
-    "url": "resources/data/gartenarbeitsschule.geojson",
+    "url": "resources/data/gartenarbeitsschulen.geojson",
     "typ": "GeoJSON",
     "gfiAttributes": "showAll",
     "legendURL": "",
@@ -339,7 +349,7 @@
 },
   {
     "id": "ua_boden_ertragfkt_2020:wfs:ertrag2020",
-    "name": "Ertragsfunktion der BÃ¶den fÃ¼r Kulturpflanzen 2020",
+    "name": "Ertragsfunktion der Böden für Kulturpflanzen 2020",
     "crs": "urn:ogc:def:crs:EPSG::25833",
     "url": "https://gdi.berlin.de/services/wfs/ua_boden_ertragfkt_2020",
     "typ": "WFS",
@@ -347,7 +357,7 @@
     "featureNS": "ua_boden_ertragfkt_2020",
     "datasets": [
       {
-        "md_name": "Ertragsfunktion der BÃ¶den fÃ¼r Kulturpflanzen 2020 (Umweltatlas)",
+        "md_name": "Ertragsfunktion der Böden für Kulturpflanzen 2020 (Umweltatlas)",
         "md_id": "35c5a667-b395-4c22-8d52-30c6ad299eda",
         "rs_id": "https://registry.gdi-de.org/id/de.be.csw/f11dff3b-0db9-38f8-a905-219b077fba07",
         "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
@@ -357,7 +367,7 @@
   },
   {
     "id": "ua_boden_humus_2020:wfs:humus2020",
-    "name": "Humusmenge der BÃ¶den 2020",
+    "name": "Humusmenge der Böden 2020",
     "crs": "urn:ogc:def:crs:EPSG::25833",
     "url": "https://gdi.berlin.de/services/wfs/ua_boden_humus_2020",
     "typ": "WFS",
@@ -365,7 +375,7 @@
     "featureNS": "ua_boden_humus_2020",
     "datasets": [
       {
-        "md_name": "Humusmenge der BÃ¶den 2020 (Umweltatlas)",
+        "md_name": "Humusmenge der Böden 2020 (Umweltatlas)",
         "md_id": "70b9fe9c-bdcc-4672-9b37-e2c8d49c4fb5",
         "rs_id": "https://registry.gdi-de.org/id/de.be.csw/20ad8cd6-d70f-3ae7-8254-49b1b2de2a06",
         "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
@@ -393,7 +403,7 @@
   },
   {
     "id": "kita:wfs:kita",
-    "name": "KindertagesstÃ¤tten",
+    "name": "Kindertagesstätten",
     "crs": "urn:ogc:def:crs:EPSG::25833",
     "url": "https://gdi.berlin.de/services/wfs/kita",
     "typ": "WFS",
@@ -401,7 +411,7 @@
     "featureNS": "kita",
     "datasets": [
       {
-        "md_name": "KindertagesstÃ¤tten",
+        "md_name": "Kindertagesstätten",
         "md_id": "9d60f82f-7a3d-441e-8ffa-89ba87995196",
         "rs_id": "https://registry.gdi-de.org/id/de.be.csw/cd8414c7-f1b0-37c7-b9d5-18751942c4c3",
         "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"

@@ -1,17 +1,39 @@
 {
     "type": "FeatureCollection",
+    "name": "DatenbasisKarteSE",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
     "features": [
         {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.409740946525567,
-                    52.51067040603983
+                    13.398488,
+                    52.604377
                 ]
             },
             "properties": {
-                "Gartentyp": "Selbsterntegaerten"
+                "Lfd Nummer": "SE-001",
+                "Name": "Bauerngarten Blankenfelde",
+                "Gartentyp": "Selbsterntegarten",
+                "Uber uns  Selbstbeschreibung": null,
+                "Status": "Status unbekannt",
+                "Strasse": "Blankenfelder Chaussee 5",
+                "PLZ": "13159 Berlin",
+                "Bezirk": "Pankow",
+                "Website  Social Media": "https://www.bauerngarten.net/standorte/#bauerngarten-pankow",
+                "EMail": "info@bauerngarten.net",
+                "Seit wann": 2010.0,
+                "Flachengrosse m²": 15000.0,
+                "Organisationsform": "GbR",
+                "Trager": "Max von Grafenstein - Hof Wendelin",
+                "Nutzung": "Lebensmittelanbau, Bildung",
+                "MitmachMoglichkeiten": "Mieten eigener Parzelle"
             }
         },
         {
@@ -19,12 +41,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.561723672829586,
-                    52.48994863464616
+                    13.173248,
+                    52.47332
                 ]
             },
             "properties": {
-                "Gartentyp": "Selbsterntegaerten"
+                "Lfd Nummer": "SE-002",
+                "Name": "Bauerngarten Havelmathen",
+                "Gartentyp": "Selbsterntegarten",
+                "Uber uns  Selbstbeschreibung": null,
+                "Status": "Status unbekannt",
+                "Strasse": "Kladower Damm 57",
+                "PLZ": "14089 Berlin",
+                "Bezirk": "Spandau",
+                "Website  Social Media": "https://www.bauerngarten.net/standorte/#bauerngarten-havelmathen",
+                "EMail": "info@bauerngarten.net",
+                "Seit wann": 2010.0,
+                "Flachengrosse m²": null,
+                "Organisationsform": "GbR",
+                "Trager": "Max von Grafenstein - Hof Wendelin",
+                "Nutzung": "Lebensmittelanbau, Bildung",
+                "MitmachMoglichkeiten": "Mieten eigener Parzelle"
             }
         },
         {
@@ -32,12 +69,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.172690167099557,
-                    52.44036643235262
+                    13.526357,
+                    52.577952
                 ]
             },
             "properties": {
-                "Gartentyp": "Selbsterntegaerten"
+                "Lfd Nummer": "SE-003",
+                "Name": "meine Ernte Wartenberg - Gartenbaubetrieb Vogel",
+                "Gartentyp": "Selbsterntegarten",
+                "Uber uns  Selbstbeschreibung": null,
+                "Status": "Status unbekannt",
+                "Strasse": "Gartenbaubetrieb Vogel, Straße 10",
+                "PLZ": "13059 Berlin",
+                "Bezirk": "Lichtenberg",
+                "Website  Social Media": "https://www.meine-ernte.de/shop/gemuesegarten-mieten-in-berlin-wartenberg/",
+                "EMail": "info@meine-ernte.de",
+                "Seit wann": null,
+                "Flachengrosse m²": null,
+                "Organisationsform": null,
+                "Trager": "meine ernte GmbH",
+                "Nutzung": "Anbau von Lebensmitteln",
+                "MitmachMoglichkeiten": "Mieten eigener Parzelle"
             }
         },
         {
@@ -45,12 +97,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.60612282211399,
-                    52.55539669870442
+                    13.476558,
+                    52.400667
                 ]
             },
             "properties": {
-                "Gartentyp": "Selbsterntegaerten"
+                "Lfd Nummer": "SE-004",
+                "Name": "meine Ernte Berlin-Rudow - Gemüsegärten",
+                "Gartentyp": "Selbsterntegarten",
+                "Uber uns  Selbstbeschreibung": null,
+                "Status": "vertraglich befristet bestehend",
+                "Strasse": "Hof Lutz Gericke, Klein-Ziethener-Weg 17",
+                "PLZ": "12355 Berlin",
+                "Bezirk": "Neukölln",
+                "Website  Social Media": "https://www.meine-ernte.de/shop/gemuesegarten-mieten-in-berlin-baumschulenweg/",
+                "EMail": "info@meine-ernte.de",
+                "Seit wann": 2011.0,
+                "Flachengrosse m²": 10000.0,
+                "Organisationsform": "sonstige Organisationsform",
+                "Trager": "meine ernte GmbH in Kooperation mit Hof Gericke",
+                "Nutzung": "Anbau von Lebensmitteln",
+                "MitmachMoglichkeiten": "Mieten eigener Parzelle"
             }
         },
         {
@@ -58,12 +125,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.196573744832039,
-                    52.409352138025035
+                    13.461556,
+                    52.456559
                 ]
             },
             "properties": {
-                "Gartentyp": "Selbsterntegaerten"
+                "Lfd Nummer": "SE-005",
+                "Name": "meine Ernte Baumschulenweg - Hof Lutz Gericke",
+                "Gartentyp": "Selbsterntegarten",
+                "Uber uns  Selbstbeschreibung": null,
+                "Status": "Status unbekannt",
+                "Strasse": "Neue Späthstraße",
+                "PLZ": "12359 Berlin",
+                "Bezirk": "Treptow-Köpenick",
+                "Website  Social Media": "https://www.meine-ernte.de/shop/gemuesegarten-mieten-in-berlin-rudow/",
+                "EMail": "info@meine-ernte.de",
+                "Seit wann": null,
+                "Flachengrosse m²": null,
+                "Organisationsform": null,
+                "Trager": "meine ernte GmbH",
+                "Nutzung": "Anbau von Lebensmitteln",
+                "MitmachMoglichkeiten": "Mieten eigener Parzelle"
             }
         },
         {
@@ -71,12 +153,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.325259654355971,
-                    52.566915838613546
+                    13.447389,
+                    52.404258
                 ]
             },
             "properties": {
-                "Gartentyp": "Selbsterntegaerten"
+                "Lfd Nummer": "SE-006",
+                "Name": "Bauerngarten  Mette",
+                "Gartentyp": "Selbsterntegarten",
+                "Uber uns  Selbstbeschreibung": "Im sonnigen Süden Berlins liegt unser bauerngarten-Standort Mette, in einer weiten märkischen Landschaft mit Getreidefeldern und freier Sicht bis zum Horizont, von fern grüßt der Fernsehturm am Alex. Der Standort ist beispielhaft für die bäuerliche Landwirtschaft am Stadtrand und wird an uns verpachtet vom Namensgeber Bauer Werner Mette, einem Urgestein der Berliner Stadtlandwirtschaft. Die Lage ist ruhig und abgeschieden, nur vereinzelt kommen Passanten vorbei.\nHier, unter dem weiten Himmel Brandenburgs, haben wir viel Platz und Ruhe für unsere Gartenkreise. Fernab von jeglichem Straßenlärm zwitschern beim Gärtnern über uns die Feldlerchen, der bauerngarten ist eingerahmt von Äckern und Wiesen. Die Mitglieder bilden eine besonders nette und aktive Gemeinschaft, Neue werden hilfsbereit und mit offenen Armen empfangen. Man kann auf der weitläufigen Fläche picknicken, in der Hängematte liegen oder nach getaner Gartenarbeit grillen.\nDie Gärten sind gut zu erreichen aus den Bezirken Friedrichshain-Kreuzberg, Tempelhof, Lichtenrade, Neukölln, Buckow, Rudow, Mahlow, Gropiusstadt, Schöneweide und Schönefeld. Der Standort Mette liegt an der südlichen Berliner Stadtgrenze bei Großziethen, an der Grenze zu Buckow:\nAuch mit dem Fahrrad vom Hermannplatz aus ist der bauerngarten gut erreichbar – über die Hermannstraße und den Buckower Damm immer geradewegs Richtung Süden, schon ist man da.",
+                "Status": "Status unbekannt",
+                "Strasse": "Querweg 6 1/2",
+                "PLZ": "12529 Schönefeld",
+                "Bezirk": null,
+                "Website  Social Media": "https://www.bauerngarten.net/standorte/#bauerngarten-mette",
+                "EMail": "info@bauerngarten.net",
+                "Seit wann": null,
+                "Flachengrosse m²": null,
+                "Organisationsform": null,
+                "Trager": null,
+                "Nutzung": "Anbau von Lebensmitteln ",
+                "MitmachMoglichkeiten": "Mieten eigener Parzelle"
             }
         },
         {
@@ -84,1221 +181,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.518071834733092,
-                    52.41059577945331
+                    13.58767,
+                    52.569942
                 ]
             },
             "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.462016577731852,
-                    52.53073714505394
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.508372332480656,
-                    52.52687018479128
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.301244221824733,
-                    52.569774163023
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.34537926982054,
-                    52.4291999636445
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.318443324772993,
-                    52.503814925362576
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.448617171777837,
-                    52.529865037651724
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.351649776423592,
-                    52.49016621247792
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.569961034635147,
-                    52.57852443689153
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.456607089010623,
-                    52.46172747691089
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.359850635811002,
-                    52.57855905224682
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.49459727588346,
-                    52.510805422997784
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.341116336746849,
-                    52.51814829747287
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.567713056733457,
-                    52.46278530881021
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.472289046765601,
-                    52.4894137476482
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.59811767301092,
-                    52.45312815914088
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.180235925835454,
-                    52.46105643971547
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.515423258606615,
-                    52.54669935496668
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.200004838002673,
-                    52.56957840628036
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.341409738553839,
-                    52.46791885960496
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.442442283944349,
-                    52.41239804616289
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.435380120639866,
-                    52.43301292502144
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.238591059027414,
-                    52.448275318880874
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.264407948893604,
-                    52.51697093219865
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.33304356992016,
-                    52.53129747194988
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.562538622382835,
-                    52.43543988336249
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.385764818396451,
-                    52.56049853064904
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.351615642675279,
-                    52.409876030513935
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.447340282469538,
-                    52.42677572682822
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.275810266520482,
-                    52.443945005190876
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.269901262563357,
-                    52.449807438875
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.57666308827839,
-                    52.48372104412415
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.412107366632059,
-                    52.44169488826995
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.571307907081337,
-                    52.457193794936195
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.30267488834771,
-                    52.5185621064015
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.20520268550447,
-                    52.55460147011678
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.546995523002819,
-                    52.445564522773225
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.52575229570123,
-                    52.49888192505859
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.419776974040829,
-                    52.49297064342262
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.409901098738017,
-                    52.533752069962375
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.271011385392221,
-                    52.53739885331613
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.483241583465713,
-                    52.45405537065133
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.39709701579814,
-                    52.56097303928704
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.417037036905016,
-                    52.50802605814909
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.427353459347573,
-                    52.46014372937872
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.55392824509751,
-                    52.42403238262885
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.326748016215381,
-                    52.5075891453756
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.347030786149812,
-                    52.460872571160664
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.488033388633536,
-                    52.480147564072595
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.522942140688826,
-                    52.48363530058895
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.605884388347683,
-                    52.5219810870372
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.191866800550976,
-                    52.49713232435292
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.465883755499103,
-                    52.507604186666605
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.514570502881408,
-                    52.46863428644578
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.33430354096052,
-                    52.479190793072696
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.290399986462575,
-                    52.45992510281351
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.28115961490122,
-                    52.51729846759628
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.272175550008582,
-                    52.45792165676367
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.403279632878608,
-                    52.57174616912239
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.309787928442658,
-                    52.43934827709127
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.17245875149705,
-                    52.4471228743446
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.16420598481806,
-                    52.541459316484676
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.237226162667858,
-                    52.49426439493591
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.344938380372199,
-                    52.45340600850745
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.314025657233431,
-                    52.53697267968384
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.16164839761103,
-                    52.553914429087385
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.373623236658924,
-                    52.4377271210735
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.166940273638987,
-                    52.499315427416256
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.183092890744533,
-                    52.525290312062005
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.487834349168947,
-                    52.53672627573746
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.197786038747665,
-                    52.509766022933945
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.533933190673649,
-                    52.41100945958778
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.344817403807163,
-                    52.570933439818496
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.306314101419982,
-                    52.41172718750325
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.55848183487577,
-                    52.49563494729682
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.194967810628555,
-                    52.427771445083785
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.393031745326795,
-                    52.5413866842164
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.353981322856765,
-                    52.47796070408831
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.2659435226802,
-                    52.47395751116184
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.436596535072724,
-                    52.426047044114746
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.46045515858268,
-                    52.56805488976922
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.335543933257215,
-                    52.57213467874004
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.512585350695126,
-                    52.41505063505432
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.409885278960996,
-                    52.41146584280594
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.58304353858933,
-                    52.541547162761574
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.463538101865423,
-                    52.4727534664681
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.607020399909645,
-                    52.54829611900398
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.508336002698437,
-                    52.53126703159117
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.207331939881112,
-                    52.49372939341954
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.520881370718097,
-                    52.45254134017192
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.188320141339258,
-                    52.417537454753194
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.606419230700034,
-                    52.432816238198384
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.332180967771937,
-                    52.40777581403088
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.374758488706163,
-                    52.464736163109635
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Selbsterntegaerten"
+                "Lfd Nummer": "SE-007",
+                "Name": "Bauerngarten Ahrensfelde ",
+                "Gartentyp": "Selbsterntegarten",
+                "Uber uns  Selbstbeschreibung": "Von unserem zwei Hektar großen sonnigen Acker in Ahrensfelde eröffnet sich ein beeindruckender Ausblick – von den weiten Feldern des Barnims im Osten über den alten Dorfkern von Ahrensfelde im Norden bis hin zu den imposanten Hochhäusern des Berliner Stadtteils Marzahn im Westen. Der kleine Ort Ahrensfelde liegt geografisch schon im ländlichen Brandenburg, die Großstadt Berlin ist dennoch zum Greifen nah.\nIn der Ferne tuckert ein Traktor über die Felder, die Feldlerchen zwitschern am Himmel ihr vertrautes Lied. Auf der weitläufigen bauerngarten-Fläche kann man nach getaner Arbeit wunderbar ausruhen oder bei einem Picknick das selbst geerntete Gemüse genießen. In nur 100 Metern Entfernung führt der Wuhletalweg vorbei, der die (Alte) Wuhle von Ahrensfelde bis zu ihrer Mündung in die Spree in Köpenick begleitet.",
+                "Status": "Status unbekannt",
+                "Strasse": "Eichner Grenzweg/Ahrensfelder Chaussee",
+                "PLZ": "16356 Ahrensfelde",
+                "Bezirk": null,
+                "Website  Social Media": "https://www.bauerngarten.net/standorte/#bauerngarten-ahrensfelde",
+                "EMail": "info@bauerngarten.net",
+                "Seit wann": null,
+                "Flachengrosse m²": 20000.0,
+                "Organisationsform": null,
+                "Trager": null,
+                "Nutzung": "Anbau von lebensmitteln ",
+                "MitmachMoglichkeiten": "Mieten eigener Parzelle"
             }
         }
     ]

@@ -1,17 +1,27 @@
 {
     "type": "FeatureCollection",
+    "name": "DatenbasisKartePL",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
     "features": [
         {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.438557774309496,
-                    52.43094281234785
+                    13.471624,
+                    52.514979
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": "Parklet Waldeyerstraße 9",
+                "Strasse": "Waldeyerstr. 9",
+                "PLZ": 10247,
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -19,12 +29,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.5387800445207,
-                    52.47873567117317
+                    13.458349,
+                    52.508697
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": "Parklet Simplonstraße 16",
+                "Strasse": "Simplonstr. 16",
+                "PLZ": 10245,
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -32,12 +45,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.20052911260176,
-                    52.537963108661
+                    13.405733,
+                    52.500558
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": "Parklet Wassertorstraße 48",
+                "Strasse": "Wassertorstr. 48",
+                "PLZ": 10969,
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -45,12 +61,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.307101642497125,
-                    52.53824842428811
+                    13.449269,
+                    52.52207
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": "Parklet Straßmannstraße 17",
+                "Strasse": "Straßmannstr. 17",
+                "PLZ": 10249,
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -58,12 +77,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.414933948547386,
-                    52.43281510954833
+                    13.46419,
+                    52.505557
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": "Parklet Simplonstraße 54",
+                "Strasse": "Simplonstr. 54",
+                "PLZ": 10245,
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -71,12 +93,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.250619252847338,
-                    52.407690071087096
+                    13.449979,
+                    52.525706
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": "Parklet Heidenfeldstr. 5-6",
+                "Strasse": "Heidenfeldstr. 5-6",
+                "PLZ": 10249,
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -84,12 +109,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.420987493572818,
-                    52.45544386877698
+                    13.299753,
+                    52.511883
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": "Parklet Fritschestraße 31",
+                "Strasse": "Fritschestr. 31",
+                "PLZ": 10585,
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -97,12 +125,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.442351350766948,
-                    52.53152266881343
+                    13.467275,
+                    52.515977
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": "Parklet Rigaer Str. 41",
+                "Strasse": "Rigaer Str. 41",
+                "PLZ": 10247,
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -110,12 +141,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.211412107776823,
-                    52.53980238278216
+                    13.462019,
+                    52.506725
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": "Parklet gegenüber Simplonstr. 38 ",
+                "Strasse": "Simplonstr. 38",
+                "PLZ": 10245,
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -123,12 +157,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.45895626409444,
-                    52.48513599095992
+                    13.433191,
+                    52.504904
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": "Parklet Pücklerstr. 51",
+                "Strasse": "Pücklerstr. 51",
+                "PLZ": 10997,
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -136,12 +173,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.329334812478763,
-                    52.58069463775507
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Straßmannstr. 29",
+                "PLZ": 10249,
+                "Bezirk": null
             }
         },
         {
@@ -149,12 +189,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.408988650174607,
-                    52.43495418151266
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Papierstr. 11",
+                "PLZ": 13409,
+                "Bezirk": null
             }
         },
         {
@@ -162,12 +205,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.190700207257576,
-                    52.525927451321934
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Waldemarstr. 44",
+                "PLZ": 10999,
+                "Bezirk": null
             }
         },
         {
@@ -175,12 +221,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.194362938158275,
-                    52.4509492265576
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Fidicinstr. 40",
+                "PLZ": 10965,
+                "Bezirk": null
             }
         },
         {
@@ -188,12 +237,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.447189977150623,
-                    52.521914721437
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Fidicinstr. 4",
+                "PLZ": 10965,
+                "Bezirk": null
             }
         },
         {
@@ -201,12 +253,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.280215990969554,
-                    52.555620915082066
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Krumme Str. 58",
+                "PLZ": 10627,
+                "Bezirk": null
             }
         },
         {
@@ -214,12 +269,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.247320295314633,
-                    52.54463875235365
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Malplaquetstr. 6",
+                "PLZ": 13347,
+                "Bezirk": null
             }
         },
         {
@@ -227,12 +285,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.313771027527196,
-                    52.461476568487406
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Kreutziger Str. 18/19",
+                "PLZ": 10247,
+                "Bezirk": null
             }
         },
         {
@@ -240,12 +301,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.52193591791338,
-                    52.56850789981082
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Lasdehner Str. 17 gegenüber",
+                "PLZ": 10243,
+                "Bezirk": null
             }
         },
         {
@@ -253,12 +317,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.406859763335408,
-                    52.5502532873856
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Paretzer Str. 7",
+                "PLZ": 10713,
+                "Bezirk": null
             }
         },
         {
@@ -266,12 +333,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.382960048253862,
-                    52.42520654717647
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Fichtestr. 2",
+                "PLZ": 10967,
+                "Bezirk": null
             }
         },
         {
@@ -279,12 +349,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.207398518032797,
-                    52.51395209008865
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Jahnstr. 4-5",
+                "PLZ": 10967,
+                "Bezirk": null
             }
         },
         {
@@ -292,12 +365,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.18406493624681,
-                    52.52015362726611
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Weidenweg 35/37",
+                "PLZ": 10249,
+                "Bezirk": null
             }
         },
         {
@@ -305,12 +381,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.35069237268086,
-                    52.46252334557583
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Adolfstr. 27a",
+                "PLZ": 13347,
+                "Bezirk": null
             }
         },
         {
@@ -318,12 +397,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.216685091849712,
-                    52.49932117869298
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Stettiner Str. 4",
+                "PLZ": 13345,
+                "Bezirk": null
             }
         },
         {
@@ -331,12 +413,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.550679687805491,
-                    52.579126993370956
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Stettiner Str. 38",
+                "PLZ": 13345,
+                "Bezirk": null
             }
         },
         {
@@ -344,12 +429,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.384448535153986,
-                    52.491745900653456
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Friedrichstr. 18/19",
+                "PLZ": 10969,
+                "Bezirk": null
             }
         },
         {
@@ -357,12 +445,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.214123900783969,
-                    52.50424769393297
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Fritschestr. 29a",
+                "PLZ": 10585,
+                "Bezirk": null
             }
         },
         {
@@ -370,12 +461,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.413857398309545,
-                    52.419933212793936
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Kochhannstr. 20/21",
+                "PLZ": 10249,
+                "Bezirk": null
             }
         },
         {
@@ -383,12 +477,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.557055335243156,
-                    52.527832036254814
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Kunkelstr. 13",
+                "PLZ": 13347,
+                "Bezirk": null
             }
         },
         {
@@ -396,12 +493,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.561743207771169,
-                    52.51362096030305
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Sprengelstr. 15",
+                "PLZ": 13353,
+                "Bezirk": null
             }
         },
         {
@@ -409,12 +509,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.303047055748982,
-                    52.540141486983764
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Richard-Sorge-str. 69",
+                "PLZ": 10249,
+                "Bezirk": null
             }
         },
         {
@@ -422,12 +525,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.195890776543228,
-                    52.43468289842857
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Niederbarnimstr. 21",
+                "PLZ": 10247,
+                "Bezirk": null
             }
         },
         {
@@ -435,12 +541,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.299132683618154,
-                    52.5048132753718
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Manteuffelstr. 72",
+                "PLZ": 10999,
+                "Bezirk": null
             }
         },
         {
@@ -448,12 +557,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.524299841813214,
-                    52.51625639347465
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Oranienstr. 183/Rio-Reiser-Platz",
+                "PLZ": 10999,
+                "Bezirk": null
             }
         },
         {
@@ -461,12 +573,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.313380464686709,
-                    52.419964255668695
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Cuvrystr. 36",
+                "PLZ": 10997,
+                "Bezirk": null
             }
         },
         {
@@ -474,12 +589,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.46891844910763,
-                    52.52813465098244
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Spenerstr. 28",
+                "PLZ": 10557,
+                "Bezirk": null
             }
         },
         {
@@ -487,12 +605,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.416719742931443,
-                    52.42259364082016
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Paul-Linke-Ufer 21",
+                "PLZ": 10999,
+                "Bezirk": null
             }
         },
         {
@@ -500,12 +621,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.405999060826419,
-                    52.455460826941
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Mühsamstr. 74",
+                "PLZ": 10249,
+                "Bezirk": null
             }
         },
         {
@@ -513,12 +637,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.221990976918768,
-                    52.5182260608885
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Ohlauer Str. 41",
+                "PLZ": 10999,
+                "Bezirk": null
             }
         },
         {
@@ -526,12 +653,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.219369337828052,
-                    52.57820577347523
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Petersburger Platz 5",
+                "PLZ": 10249,
+                "Bezirk": null
             }
         },
         {
@@ -539,12 +669,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.26253702465687,
-                    52.56963974956006
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Hasestr. 2",
+                "PLZ": 10245,
+                "Bezirk": null
             }
         },
         {
@@ -552,12 +685,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.56600365116633,
-                    52.52774684017167
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Oderstr. 34",
+                "PLZ": 10247,
+                "Bezirk": null
             }
         },
         {
@@ -565,12 +701,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.588265085399334,
-                    52.4949780253239
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Grüntaler Str. 21",
+                "PLZ": 13357,
+                "Bezirk": null
             }
         },
         {
@@ -578,12 +717,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.375048641872624,
-                    52.411099242678276
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Moritzstr. 6-7",
+                "PLZ": 10969,
+                "Bezirk": null
             }
         },
         {
@@ -591,12 +733,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.411039385473705,
-                    52.56221062427754
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Strausberger Str. 47",
+                "PLZ": 10243,
+                "Bezirk": null
             }
         },
         {
@@ -604,12 +749,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.402717727581877,
-                    52.43462454318014
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Lausitzer Str. 22",
+                "PLZ": 10999,
+                "Bezirk": null
             }
         },
         {
@@ -617,12 +765,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.319886840675313,
-                    52.57224801930649
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Lausitzer Str. 10/11",
+                "PLZ": 10999,
+                "Bezirk": null
             }
         },
         {
@@ -630,12 +781,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.470927932417837,
-                    52.474023400150735
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Genter Str. 56",
+                "PLZ": 13353,
+                "Bezirk": null
             }
         },
         {
@@ -643,12 +797,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.483379387990656,
-                    52.41179559206498
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Heiligenberger Str. 4",
+                "PLZ": 10318,
+                "Bezirk": null
             }
         },
         {
@@ -656,12 +813,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.35310979205025,
-                    52.509740618688795
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Demminer Str. 28",
+                "PLZ": 13355,
+                "Bezirk": null
             }
         },
         {
@@ -669,12 +829,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.26596169884563,
-                    52.417299089639954
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Gutzkowstr. 11",
+                "PLZ": 10827,
+                "Bezirk": null
             }
         },
         {
@@ -682,12 +845,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.369908685448202,
-                    52.526247284791324
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Ebersstr. 66",
+                "PLZ": 10827,
+                "Bezirk": null
             }
         },
         {
@@ -695,12 +861,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.223090072713374,
-                    52.45269763967109
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Freienwalder Str. 17",
+                "PLZ": 13359,
+                "Bezirk": null
             }
         },
         {
@@ -708,12 +877,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.312195825381268,
-                    52.436242949862965
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Freienwalder Str. 27",
+                "PLZ": 13359,
+                "Bezirk": null
             }
         },
         {
@@ -721,12 +893,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.219655362224032,
-                    52.51281746982375
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Lübecker Str. 43",
+                "PLZ": 10559,
+                "Bezirk": null
             }
         },
         {
@@ -734,12 +909,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.38734596241941,
-                    52.56457368028127
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Lübecker Str. 42",
+                "PLZ": 10559,
+                "Bezirk": null
             }
         },
         {
@@ -747,12 +925,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.237473755193136,
-                    52.46307547168039
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Lübecker Str. 6",
+                "PLZ": 10559,
+                "Bezirk": null
             }
         },
         {
@@ -760,12 +941,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.189127191989144,
-                    52.57219220233416
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": "Zweier-Parklet",
+                "Strasse": "Koburger Str. 16",
+                "PLZ": 10825,
+                "Bezirk": null
             }
         },
         {
@@ -773,12 +957,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.220961905834058,
-                    52.5523732514681
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Graefestr. 35",
+                "PLZ": 10967,
+                "Bezirk": null
             }
         },
         {
@@ -786,12 +973,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.478600670342011,
-                    52.422121410329545
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Bouchéstr. 20",
+                "PLZ": 12435,
+                "Bezirk": null
             }
         },
         {
@@ -799,12 +989,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.492407772000366,
-                    52.48677341663666
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Togostr. 78",
+                "PLZ": 13351,
+                "Bezirk": null
             }
         },
         {
@@ -812,12 +1005,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.342338706397154,
-                    52.44065382162017
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Nollendorfstr. 27",
+                "PLZ": 10777,
+                "Bezirk": null
             }
         },
         {
@@ -825,12 +1021,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.224203515614638,
-                    52.46023178668996
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Kadiner Str. 13",
+                "PLZ": 10243,
+                "Bezirk": null
             }
         },
         {
@@ -838,12 +1037,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.42238727793458,
-                    52.49274375831485
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Prühßstr. 31",
+                "PLZ": 12105,
+                "Bezirk": null
             }
         },
         {
@@ -851,12 +1053,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.237451671017064,
-                    52.51479525825134
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Fehmarner Str. 14",
+                "PLZ": 13353,
+                "Bezirk": null
             }
         },
         {
@@ -864,12 +1069,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.516911714399544,
-                    52.49211437238242
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Falckensteinstr. 22",
+                "PLZ": 10997,
+                "Bezirk": null
             }
         },
         {
@@ -877,12 +1085,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.599577132182471,
-                    52.56392290720527
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Helmstedter Str. 18",
+                "PLZ": 10717,
+                "Bezirk": null
             }
         },
         {
@@ -890,12 +1101,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.466088615653574,
-                    52.57141672145211
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Grüntaler Str. 38",
+                "PLZ": 13359,
+                "Bezirk": null
             }
         },
         {
@@ -903,12 +1117,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.386372539867663,
-                    52.40908215131601
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Borsigstr. 32",
+                "PLZ": 10115,
+                "Bezirk": null
             }
         },
         {
@@ -916,12 +1133,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.262965727934514,
-                    52.53773361333574
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Behaimstr. 17",
+                "PLZ": 10585,
+                "Bezirk": null
             }
         },
         {
@@ -929,12 +1149,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.336085610095596,
-                    52.53562060269636
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Körtestr. 19",
+                "PLZ": 10967,
+                "Bezirk": null
             }
         },
         {
@@ -942,12 +1165,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.586411175677549,
-                    52.48279104036891
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Dolziger Str. 47",
+                "PLZ": 10247,
+                "Bezirk": null
             }
         },
         {
@@ -955,12 +1181,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.163046397808104,
-                    52.495438407879895
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Stendaler Str. 9",
+                "PLZ": 10559,
+                "Bezirk": null
             }
         },
         {
@@ -968,12 +1197,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.236128390603039,
-                    52.46142671963541
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Salzufer 18",
+                "PLZ": 10587,
+                "Bezirk": null
             }
         },
         {
@@ -981,12 +1213,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.234560958888459,
-                    52.422440828780445
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Cranachstr. 7",
+                "PLZ": 12157,
+                "Bezirk": null
             }
         },
         {
@@ -994,12 +1229,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.435500648020081,
-                    52.52658823085118
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Schreinerstr. 15",
+                "PLZ": 10247,
+                "Bezirk": null
             }
         },
         {
@@ -1007,12 +1245,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.17497842259377,
-                    52.427178948484915
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": "Zweier-Parklet",
+                "Strasse": "Jessnerstr. 41",
+                "PLZ": 10247,
+                "Bezirk": null
             }
         },
         {
@@ -1020,12 +1261,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.593432216406413,
-                    52.533824613204956
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": "Zweier-Parklet",
+                "Strasse": "Seelingstr. 57",
+                "PLZ": 14059,
+                "Bezirk": null
             }
         },
         {
@@ -1033,12 +1277,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.226750302870977,
-                    52.5615680884886
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Pettenkofer Str. 34",
+                "PLZ": 10247,
+                "Bezirk": null
             }
         },
         {
@@ -1046,12 +1293,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.60998913473841,
-                    52.577954712830426
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Malplaquetstr. 32",
+                "PLZ": 13347,
+                "Bezirk": null
             }
         },
         {
@@ -1059,12 +1309,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.442424681299059,
-                    52.54515456688433
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Hausburgstr. 17",
+                "PLZ": 10249,
+                "Bezirk": null
             }
         },
         {
@@ -1072,12 +1325,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.238279338465093,
-                    52.4709433530139
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Samariterstr. 36",
+                "PLZ": 10247,
+                "Bezirk": null
             }
         },
         {
@@ -1085,12 +1341,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.486263926557854,
-                    52.466329080634154
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": null,
+                "Strasse": "Riemannstr. 21",
+                "PLZ": 10961,
+                "Bezirk": null
             }
         },
         {
@@ -1098,12 +1357,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.547466615248618,
-                    52.501509755264856
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": "Dreier-Parklet Cuvrystr. 21",
+                "Strasse": "Cuvrystr. 21",
+                "PLZ": 10997,
+                "Bezirk": null
             }
         },
         {
@@ -1111,12 +1373,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.404871530530883,
-                    52.49328661524009
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": "Doppel-Parklet Bellermannstraße 81",
+                "Strasse": "Bellermannstr. 81",
+                "PLZ": 13357,
+                "Bezirk": null
             }
         },
         {
@@ -1124,12 +1389,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.34629691011103,
-                    52.45328373927969
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": "Doppel-Parklet Genter Straße 60",
+                "Strasse": "Genter Str. 60",
+                "PLZ": 13353,
+                "Bezirk": null
             }
         },
         {
@@ -1137,12 +1405,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.223262927444821,
-                    52.51864638729576
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": "Zweier-Parklet Margaretenstraße 23",
+                "Strasse": "Margaretenstr. 23",
+                "PLZ": 10317,
+                "Bezirk": null
             }
         },
         {
@@ -1150,12 +1421,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.474642722813735,
-                    52.45632365639354
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": "Zweier-Parklet Ketschendorfer Weg 11",
+                "Strasse": "Ketschendorfer Weg 11",
+                "PLZ": 12683,
+                "Bezirk": null
             }
         },
         {
@@ -1163,12 +1437,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.315066006665408,
-                    52.51747878785302
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": "Parklet Pfarrstraße 93",
+                "Strasse": "Pfarrstr. 93",
+                "PLZ": 10317,
+                "Bezirk": null
             }
         },
         {
@@ -1176,12 +1453,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.525062059486606,
-                    52.49248682596827
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
+                "Name": "Parklet Muskauer Straße 11A",
+                "Strasse": "Muskauer Str. 11A",
+                "PLZ": 10997,
+                "Bezirk": null
             }
         },
         {
@@ -1189,116 +1469,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.196531981731349,
-                    52.56931557047955
+                    null,
+                    null
                 ]
             },
             "properties": {
-                "Gartentyp": "Parklets"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.282050397677338,
-                    52.4718522077179
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Parklets"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.36557070588617,
-                    52.454098886693956
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Parklets"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.166301940301281,
-                    52.485574013632004
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Parklets"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.59107148552337,
-                    52.51193482187562
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Parklets"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.501693637516036,
-                    52.542970082091074
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Parklets"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.60417374059336,
-                    52.555480251081114
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Parklets"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.269915196073516,
-                    52.543111594571776
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Parklets"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.445521176899064,
-                    52.411960545169606
-                ]
-            },
-            "properties": {
-                "Gartentyp": "Parklets"
+                "Name": "Parklet Fürbringer Straße 21",
+                "Strasse": "Fürbringer Str. 21",
+                "PLZ": 10961,
+                "Bezirk": null
             }
         }
     ]
