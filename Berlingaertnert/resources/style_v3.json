@@ -29,7 +29,7 @@
         "style": {
           "legendValue": "Nicht mehr aktiver Gemeinschaftsgarten",
           "type": "icon",
-          "imageName": "Gemeinschaftsgaerten_inaktiv.png",
+          "imageName": "Gemeinschaftsgaerten_inaktiv_grey.png",
           "imageScale": 0.15
         }
       },
@@ -52,7 +52,7 @@
       {
         "conditions": {
           "properties": {
-            "Gartentyp": "SolidarischeLandwirtschaft"
+            "Typ": "SoLaWi-Anbaufläche"
           }
         },
         "style": {
@@ -65,7 +65,7 @@
       {
         "conditions": {
           "properties": {
-            "Gartentyp": "Abholstation"
+            "Typ": "SoLaWi-Abholstation"
           }
         },
         "style": {
