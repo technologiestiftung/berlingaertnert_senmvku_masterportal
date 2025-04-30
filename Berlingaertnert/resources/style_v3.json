@@ -52,7 +52,7 @@
       {
         "conditions": {
           "properties": {
-            "Typ": "SoLaWi-Anbaufläche"
+            "Gartentyp": "SoLaWi-Anbaufläche"
           }
         },
         "style": {
@@ -65,7 +65,7 @@
       {
         "conditions": {
           "properties": {
-            "Typ": "SoLaWi-Abholstation"
+            "Gartentyp": "SoLaWi-Abholstation"
           }
         },
         "style": {
@@ -142,9 +142,16 @@
     "rules": [
       {
         "conditions": {
-          "properties": {
-            "Gartentyp" : "Offener Schulgarten"
+          "properties": [
+            {
+              "attrName": {
+                "name": "Gartentyp",
+                "type": "string",
+                "conditions": "contains"
+              },
+              "value": ["Offener Schulgarten und Nachbarschaftsgarten"]
           }
+        ]
         },
         "style": {
           "legendValue": "Kitagarten",
