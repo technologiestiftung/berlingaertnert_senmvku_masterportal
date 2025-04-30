@@ -167,6 +167,43 @@
         }
       }
     ]
+  },
+  {"styleId": "building",
+    "rules":[
+      {
+        "style": {
+          "legendValue": "Gebäude",
+          "type": "icon",
+          "imageName": "house-fill.svg",
+          "imageScale": 0.9
+        }
+      }
+    ]
+  },
+  {"styleId": "tree",
+    "rules":[
+      {
+        "style": {
+          "legendValue": "Baum",
+          "type": "icon",
+          "imageName": "tree.svg",
+          "imageScale": 0.9
+        }
+      }
+    ]
+  },
+  {
+    "styleId": "BerlinMapMarkerPoint",
+    "rules":[
+      { 
+        "style": {
+          "legendValue": "MapMarker",
+          "type": "icon",
+          "imageName": "marker.svg",
+          "imageScale": 0.5
+        }
+      }
+    ]
   }, 
   {
     "styleId": "defaultpointlayer",
