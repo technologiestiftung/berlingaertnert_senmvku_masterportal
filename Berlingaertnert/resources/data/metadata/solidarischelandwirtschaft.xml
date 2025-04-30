@@ -18,7 +18,7 @@
             <gmd:address>
               <gmd:CI_Address>
                 <gmd:electronicMailAddress>
-                  <gco:CharacterString>toni.karge(at)senmvku.berlin.de</gco:CharacterString>
+                  <gco:CharacterString>toni.karge@senmvku.berlin.de</gco:CharacterString>
                 </gmd:electronicMailAddress>
               </gmd:CI_Address>
             </gmd:address>
@@ -64,12 +64,12 @@
         <gmd:citation>
           <gmd:CI_Citation>
             <gmd:title>
-              <gco:CharacterString>Gemeinschaftsgarten</gco:CharacterString>
+              <gco:CharacterString>Beetpatenschaften</gco:CharacterString>
             </gmd:title>
             <gmd:date>
               <gmd:CI_Date>
                 <gmd:date>
-                  <gco:Date>2020-03-31</gco:Date>
+                  <gco:Date>2020-04-07</gco:Date>
                 </gmd:date>
                 <gmd:dateType>
                   <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation" />
@@ -89,8 +89,7 @@
           </gmd:CI_Citation>
         </gmd:citation>
         <gmd:abstract>
-          <gco:CharacterString><![CDATA[Standorte von Gemeinschaftsgärten in Berlin. Der Datensatz beinhaltet Informationen zum Gemeinschaftsgarten-Typ, Namen, Anschrift und Bezirk des Gartens. Soweit vorliegend enthält der Datensatz auch Information über den Flächenstatus und Eröffnungsjahr, die öffentliche Zugänglichkeit, die Flächengröße, die Organisationsform und Trägerschaft, die Nutzung, etwaige Ausleih- und Mitmachmöglichkeiten, sowie Kontaktmöglichkeiten und eine Selbstdarstellung des Gemeinschaftsgartens.<br/> Die Angaben beruhen auf älteren Karten der Gemeinschaftsgarten-Szene („Tomatenkarte“, 2013, und „Möhrenkarte“, 2017), Listen der Anstiftung und von stadtacker.net (bis 2017) sowie Selbstauskünften der Gemeinschaftsgärten (via Melde-Formular) und einer ergänzenden Recherche durch die SenMVKU.<br/>Es werden nur Gärten dargestellt, die der SenMVKU bekannt sind. Eine Meldung des Gartens kann über dieses Formular (Link folgt) erfolgen. <br/><p>
-Ansprechpartner: <br/>Senatsverwaltung für Mobilität, Verkehr, Klimaschutz und Umwelt Referat Freiraumplanung und Stadtgrün<br/> Toni Karge<br/> Email: toni.karge@senmvku.berlin.de<br/>
+          <gco:CharacterString><![CDATA[Standorte von SoLaWi-Verteilstationen in Berlin und SoLaWi-Anbauflächen in und um Berlin. Der Datensatz beinhaltet Informationen zum Namen, Anschrift und Ort der SoLaWi. Soweit vorliegend enthält der Datensatz auch Information über den Flächenstatus und Eröffnungsjahr, die öffentliche Zugänglichkeit, die Flächengröße, die Organisationsform und Trägerschaft, Mitmach- und Kontaktmöglichkeiten sowie eine Selbstdarstellung des Gemeinschaftsgartens.<br/>Die Angaben beruhen auf Daten des Netzwerks Solidarische Landwirtschaft (https://www.solidarische-landwirtschaft.org/startseite/) und einer ergänzenden Recherche durch die SenMVKU.<br/>Es werden nur SoLaWis dargestellt, die der SenMVKU bekannt sind. Eine Meldung einer Verteilstation kann über dieses Formular (Link folgt) erfolgen.<br/><p>Ansprechpartner:<br/>Senatsverwaltung für Mobilität, Verkehr, Klimaschutz und Umwelt<br/>Referat Freiraumplanung und Stadtgrün<br/>Toni Karge<br/>Email: toni.karge@senmvku.berlin.de
 ]]></gco:CharacterString>
         </gmd:abstract>
       </srv:SV_ServiceIdentification>
