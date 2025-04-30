@@ -21,11 +21,11 @@
                 "Lfd Nummer": "FP-001",
                 "Name": "Seefelder Straße",
                 "Ausstattung": "kein Zaun",
-                "Strasse": "Seefelder Str. / Hauptstraße 50",
+                "Straße": "Seefelder Str. / Hauptstraße 50",
                 "PLZ": "13055 Berlin",
                 "Bezirk": "Lichtenberg",
-                "Flachengrosse m²": 1300,
-                "Flacheneigentumerin": "BIM",
+                "Flächengröße m²": 1300,
+                "Flächeneigentümerin": "BIM",
                 "derzeitige Nutzung": "Wegenutzung",
                 "An wen wenden": "SPK Lichtenberg"
             }

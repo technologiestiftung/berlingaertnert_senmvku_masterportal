@@ -18,8 +18,9 @@
                 ]
             },
             "properties": {
+                "Lfd Nummer": "PL-001",
                 "Name": "Parklet Waldeyerstraße 9",
-                "Strasse": "Waldeyerstr. 9",
+                "Straße": "Waldeyerstr. 9",
                 "PLZ": 10247,
                 "Bezirk": "Friedrichshain-Kreuzberg"
             }
@@ -34,8 +35,9 @@
                 ]
             },
             "properties": {
+                "Lfd Nummer": "PL-002",
                 "Name": "Parklet Simplonstraße 16",
-                "Strasse": "Simplonstr. 16",
+                "Straße": "Simplonstr. 16",
                 "PLZ": 10245,
                 "Bezirk": "Friedrichshain-Kreuzberg"
             }
@@ -50,8 +52,9 @@
                 ]
             },
             "properties": {
+                "Lfd Nummer": "PL-003",
                 "Name": "Parklet Wassertorstraße 48",
-                "Strasse": "Wassertorstr. 48",
+                "Straße": "Wassertorstr. 48",
                 "PLZ": 10969,
                 "Bezirk": "Friedrichshain-Kreuzberg"
             }
@@ -66,8 +69,9 @@
                 ]
             },
             "properties": {
+                "Lfd Nummer": "PL-004",
                 "Name": "Parklet Straßmannstraße 17",
-                "Strasse": "Straßmannstr. 17",
+                "Straße": "Straßmannstr. 17",
                 "PLZ": 10249,
                 "Bezirk": "Friedrichshain-Kreuzberg"
             }
@@ -82,8 +86,9 @@
                 ]
             },
             "properties": {
+                "Lfd Nummer": "PL-005",
                 "Name": "Parklet Simplonstraße 54",
-                "Strasse": "Simplonstr. 54",
+                "Straße": "Simplonstr. 54",
                 "PLZ": 10245,
                 "Bezirk": "Friedrichshain-Kreuzberg"
             }
@@ -98,8 +103,9 @@
                 ]
             },
             "properties": {
+                "Lfd Nummer": "PL-006",
                 "Name": "Parklet Heidenfeldstr. 5-6",
-                "Strasse": "Heidenfeldstr. 5-6",
+                "Straße": "Heidenfeldstr. 5-6",
                 "PLZ": 10249,
                 "Bezirk": "Friedrichshain-Kreuzberg"
             }
@@ -114,8 +120,9 @@
                 ]
             },
             "properties": {
+                "Lfd Nummer": "PL-007",
                 "Name": "Parklet Fritschestraße 31",
-                "Strasse": "Fritschestr. 31",
+                "Straße": "Fritschestr. 31",
                 "PLZ": 10585,
                 "Bezirk": "Friedrichshain-Kreuzberg"
             }
@@ -130,8 +137,9 @@
                 ]
             },
             "properties": {
+                "Lfd Nummer": "PL-008",
                 "Name": "Parklet Rigaer Str. 41",
-                "Strasse": "Rigaer Str. 41",
+                "Straße": "Rigaer Str. 41",
                 "PLZ": 10247,
                 "Bezirk": "Friedrichshain-Kreuzberg"
             }
@@ -146,8 +154,9 @@
                 ]
             },
             "properties": {
+                "Lfd Nummer": "PL-009",
                 "Name": "Parklet gegenüber Simplonstr. 38 ",
-                "Strasse": "Simplonstr. 38",
+                "Straße": "Simplonstr. 38",
                 "PLZ": 10245,
                 "Bezirk": "Friedrichshain-Kreuzberg"
             }
@@ -162,8 +171,9 @@
                 ]
             },
             "properties": {
+                "Lfd Nummer": "PL-010",
                 "Name": "Parklet Pücklerstr. 51",
-                "Strasse": "Pücklerstr. 51",
+                "Straße": "Pücklerstr. 51",
                 "PLZ": 10997,
                 "Bezirk": "Friedrichshain-Kreuzberg"
             }
@@ -173,15 +183,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.451808,
+                    52.522695
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Straßmannstr. 29",
+                "Lfd Nummer": "PL-011",
+                "Name": "Parklet Straßmannstr. 29",
+                "Straße": "Straßmannstr. 29",
                 "PLZ": 10249,
-                "Bezirk": null
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -189,15 +200,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.379452,
+                    52.564536
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Papierstr. 11",
+                "Lfd Nummer": "PL-012",
+                "Name": "Parklet Papierstr. 11",
+                "Straße": "Papierstr. 11",
                 "PLZ": 13409,
-                "Bezirk": null
+                "Bezirk": "Mitte"
             }
         },
         {
@@ -205,15 +217,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.420242,
+                    52.503345
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Waldemarstr. 44",
+                "Lfd Nummer": "PL-013",
+                "Name": "Parklet Waldemarstr. 44",
+                "Straße": "Waldemarstr. 44",
                 "PLZ": 10999,
-                "Bezirk": null
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -221,15 +234,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.388645,
+                    52.487135
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Fidicinstr. 40",
+                "Lfd Nummer": "PL-014",
+                "Name": "Parklet Fidicinstr. 40",
+                "Straße": "Fidicinstr. 40",
                 "PLZ": 10965,
-                "Bezirk": null
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -237,15 +251,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.388292,
+                    52.487111
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Fidicinstr. 4",
+                "Lfd Nummer": "PL-015",
+                "Name": "Parklet Fidicinstr. 4",
+                "Straße": "Fidicinstr. 4",
                 "PLZ": 10965,
-                "Bezirk": null
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -253,15 +268,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.309484,
+                    52.507657
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Krumme Str. 58",
+                "Lfd Nummer": "PL-016",
+                "Name": "Parklet Krumme Str. 58",
+                "Straße": "Krumme Str. 58",
                 "PLZ": 10627,
-                "Bezirk": null
+                "Bezirk": "Charlottenburg-Wilmersdorf"
             }
         },
         {
@@ -269,15 +285,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.361241,
+                    52.54981
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Malplaquetstr. 6",
+                "Lfd Nummer": "PL-017",
+                "Name": "Parklet Malplaquetstr. 6",
+                "Straße": "Malplaquetstr. 6",
                 "PLZ": 13347,
-                "Bezirk": null
+                "Bezirk": "Mitte"
             }
         },
         {
@@ -285,15 +302,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.459713,
+                    52.512876
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Kreutziger Str. 18/19",
+                "Lfd Nummer": "PL-018",
+                "Name": "Parklet  Kreutziger Str. 18/19",
+                "Straße": "Kreutziger Str. 18/19",
                 "PLZ": 10247,
-                "Bezirk": null
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -301,15 +319,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.44893,
+                    52.514653
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Lasdehner Str. 17 gegenüber",
+                "Lfd Nummer": "PL-019",
+                "Name": "Parklet gegenüber Lasdehner Str. 17",
+                "Straße": "Lasdehner Str. 17 gegenüber",
                 "PLZ": 10243,
-                "Bezirk": null
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -317,15 +336,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.317171,
+                    52.481518
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Paretzer Str. 7",
+                "Lfd Nummer": "PL-020",
+                "Name": "Parklet Paretzer Str. 7",
+                "Straße": "Paretzer Str. 7",
                 "PLZ": 10713,
-                "Bezirk": null
+                "Bezirk": "Charlottenburg-Wilmersdorf"
             }
         },
         {
@@ -333,15 +353,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.413015,
+                    52.491068
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Fichtestr. 2",
+                "Lfd Nummer": "PL-021",
+                "Name": "Parklet Fichtestr. 2",
+                "Straße": "Fichtestr. 2",
                 "PLZ": 10967,
-                "Bezirk": null
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -349,15 +370,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.419521,
+                    52.489039
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Jahnstr. 4-5",
+                "Lfd Nummer": "PL-022",
+                "Name": "Parklet Jahnstr. 4-5",
+                "Straße": "Jahnstr. 4-5",
                 "PLZ": 10967,
-                "Bezirk": null
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -365,15 +387,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.450324,
+                    52.517992
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Weidenweg 35/37",
+                "Lfd Nummer": "PL-023",
+                "Name": "Parklet Weidenweg 35/37",
+                "Straße": "Weidenweg 35/37",
                 "PLZ": 10249,
-                "Bezirk": null
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -381,15 +404,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.366815,
+                    52.546862
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Adolfstr. 27a",
+                "Lfd Nummer": "PL-024",
+                "Name": "Parklet Adolfstr. 27a",
+                "Straße": "Adolfstr. 27a",
                 "PLZ": 13347,
-                "Bezirk": null
+                "Bezirk": "Mitte"
             }
         },
         {
@@ -397,15 +421,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.384453,
+                    52.55195
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Stettiner Str. 4",
+                "Lfd Nummer": "PL-025",
+                "Name": "Parklet Stettiner Str. 4",
+                "Straße": "Stettiner Str. 4",
                 "PLZ": 13345,
-                "Bezirk": null
+                "Bezirk": "Mitte"
             }
         },
         {
@@ -413,15 +438,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.388025,
+                    52.554426
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Stettiner Str. 38",
+                "Lfd Nummer": "PL-026",
+                "Name": "Parklet Stettiner Str. 38",
+                "Straße": "Stettiner Str. 38",
                 "PLZ": 13345,
-                "Bezirk": null
+                "Bezirk": "Mitte"
             }
         },
         {
@@ -429,15 +455,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.39119,
+                    52.502911
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Friedrichstr. 18/19",
+                "Lfd Nummer": "PL-027",
+                "Name": "Parklet Friedrichstr. 18/19",
+                "Straße": "Friedrichstr. 18/19",
                 "PLZ": 10969,
-                "Bezirk": null
+                "Bezirk": "Mitte"
             }
         },
         {
@@ -445,15 +472,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.299738,
+                    52.511874
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Fritschestr. 29a",
+                "Lfd Nummer": "PL-028",
+                "Name": "Parklet Fritschestr. 29a",
+                "Straße": "Fritschestr. 29a",
                 "PLZ": 10585,
-                "Bezirk": null
+                "Bezirk": "Charlottenburg-Wilmersdorf"
             }
         },
         {
@@ -461,15 +489,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.453244,
+                    52.525437
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Kochhannstr. 20/21",
+                "Lfd Nummer": "PL-029",
+                "Name": "Parklet Kochhannstr. 20/21",
+                "Straße": "Kochhannstr. 20/21",
                 "PLZ": 10249,
-                "Bezirk": null
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -477,15 +506,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.3731,
+                    52.542762
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Kunkelstr. 13",
+                "Lfd Nummer": "PL-030",
+                "Name": "Parklet Kunkelstr. 13",
+                "Straße": "Kunkelstr. 13",
                 "PLZ": 13347,
-                "Bezirk": null
+                "Bezirk": "Mitte"
             }
         },
         {
@@ -493,15 +523,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.354777,
+                    52.541777
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Sprengelstr. 15",
+                "Lfd Nummer": "PL-031",
+                "Name": "Parklet Sprengelstr. 15",
+                "Straße": "Sprengelstr. 15",
                 "PLZ": 13353,
-                "Bezirk": null
+                "Bezirk": "Mitte"
             }
         },
         {
@@ -509,15 +540,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.446762,
+                    52.521052
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Richard-Sorge-str. 69",
+                "Lfd Nummer": "PL-032",
+                "Name": "Parklet Richard-Sorge-Str. 69",
+                "Straße": "Richard-Sorge-Str. 69",
                 "PLZ": 10249,
-                "Bezirk": null
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -525,15 +557,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.45913,
+                    52.514005
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Niederbarnimstr. 21",
+                "Lfd Nummer": "PL-033",
+                "Name": "Parklet Niederbarnimstr. 21",
+                "Straße": "Niederbarnimstr. 21",
                 "PLZ": 10247,
-                "Bezirk": null
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -541,15 +574,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.424234,
+                    52.496716
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Manteuffelstr. 72",
+                "Lfd Nummer": "PL-034",
+                "Name": "Parklet Manteuffelstr. 72",
+                "Straße": "Manteuffelstr. 72",
                 "PLZ": 10999,
-                "Bezirk": null
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -557,15 +591,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.422867,
+                    52.500207
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Oranienstr. 183/Rio-Reiser-Platz",
+                "Lfd Nummer": "PL-035",
+                "Name": "Parklet Oranienstr. 183/Rio-Reiser-Platz",
+                "Straße": "Oranienstr. 183/Rio-Reiser-Platz",
                 "PLZ": 10999,
-                "Bezirk": null
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -573,15 +608,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.443338,
+                    52.496997
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Cuvrystr. 36",
+                "Lfd Nummer": "PL-036",
+                "Name": "Parklet Cuvrystr. 36",
+                "Straße": "Cuvrystr. 36",
                 "PLZ": 10997,
-                "Bezirk": null
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -589,15 +625,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.353211,
+                    52.521785
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Spenerstr. 28",
+                "Lfd Nummer": "PL-037",
+                "Name": "Parklet Spenerstr. 28",
+                "Straße": "Spenerstr. 28",
                 "PLZ": 10557,
-                "Bezirk": null
+                "Bezirk": "Mitte"
             }
         },
         {
@@ -605,15 +642,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.429293,
+                    52.493689
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Paul-Linke-Ufer 21",
+                "Lfd Nummer": "PL-038",
+                "Name": "Parklet Paul-Linke-Ufer 21",
+                "Straße": "Paul-Linke-Ufer 21",
                 "PLZ": 10999,
-                "Bezirk": null
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -621,15 +659,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.454341,
+                    52.521075
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Mühsamstr. 74",
+                "Lfd Nummer": "PL-039",
+                "Name": "Parklet Mühsamstr. 74",
+                "Straße": "Mühsamstr. 74",
                 "PLZ": 10249,
-                "Bezirk": null
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -637,15 +676,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.429297,
+                    52.494463
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Ohlauer Str. 41",
+                "Lfd Nummer": "PL-040",
+                "Name": "Parklet Ohlauer Str. 41",
+                "Straße": "Ohlauer Str. 41",
                 "PLZ": 10999,
-                "Bezirk": null
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -653,15 +693,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.450057,
+                    52.521058
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Petersburger Platz 5",
+                "Lfd Nummer": "PL-041",
+                "Name": "Parklet Petersburger Platz 5",
+                "Straße": "Petersburger Platz 5",
                 "PLZ": 10249,
-                "Bezirk": null
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -669,15 +710,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.461461,
+                    52.506741
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Hasestr. 2",
+                "Lfd Nummer": "PL-042",
+                "Name": "Parklet Haasestr. 2",
+                "Straße": "Haasestr. 2",
                 "PLZ": 10245,
-                "Bezirk": null
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -685,15 +727,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.472776,
+                    52.50949
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Oderstr. 34",
+                "Lfd Nummer": "PL-043",
+                "Name": "Parklet Oderstr. 34",
+                "Straße": "Oderstr. 34",
                 "PLZ": 10247,
-                "Bezirk": null
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -701,15 +744,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.388951,
+                    52.553532
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Grüntaler Str. 21",
+                "Lfd Nummer": "PL-044",
+                "Name": "Parklet Grüntaler Str. 21",
+                "Straße": "Grüntaler Str. 21",
                 "PLZ": 13357,
-                "Bezirk": null
+                "Bezirk": "Mitte"
             }
         },
         {
@@ -717,15 +761,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.4057,
+                    52.49934
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Moritzstr. 6-7",
+                "Lfd Nummer": "PL-045",
+                "Name": "Parklet Moritzstr. 6-7",
+                "Straße": "Moritzstr. 6-7",
                 "PLZ": 10969,
-                "Bezirk": null
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -733,15 +778,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.432555,
+                    52.522017
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Strausberger Str. 47",
+                "Lfd Nummer": "PL-046",
+                "Name": "Parklet Strausberger Str. 47",
+                "Straße": "Strausberger Str. 47",
                 "PLZ": 10243,
-                "Bezirk": null
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -749,15 +795,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.427044,
+                    52.495672
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Lausitzer Str. 22",
+                "Lfd Nummer": "PL-047",
+                "Name": "Parklet Lausitzer Str. 22",
+                "Straße": "Lausitzer Str. 22",
                 "PLZ": 10999,
-                "Bezirk": null
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -765,15 +812,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.428685,
+                    52.497287
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Lausitzer Str. 10/11",
+                "Lfd Nummer": "PL-048",
+                "Name": "Parklet Lausitzer Str. 10/11",
+                "Straße": "Lausitzer Str. 10/11",
                 "PLZ": 10999,
-                "Bezirk": null
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -781,15 +829,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.352767,
+                    52.548092
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Genter Str. 56",
+                "Lfd Nummer": "PL-049",
+                "Name": "Parklet Genter Str. 56",
+                "Straße": "Genter Str. 56",
                 "PLZ": 13353,
-                "Bezirk": null
+                "Bezirk": "Mitte"
             }
         },
         {
@@ -797,15 +846,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.522828,
+                    52.480978
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Heiligenberger Str. 4",
+                "Lfd Nummer": "PL-050",
+                "Name": "Parklet Heiligenberger Str. 4",
+                "Straße": "Heiligenberger Str. 4",
                 "PLZ": 10318,
-                "Bezirk": null
+                "Bezirk": "Treptow-Köpenick"
             }
         },
         {
@@ -813,15 +863,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.396166,
+                    52.541768
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Demminer Str. 28",
+                "Lfd Nummer": "PL-051",
+                "Name": "Parklet Demminer Str. 28",
+                "Straße": "Demminer Str. 28",
                 "PLZ": 13355,
-                "Bezirk": null
+                "Bezirk": "Mitte"
             }
         },
         {
@@ -829,15 +880,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.347782,
+                    52.479679
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Gutzkowstr. 11",
+                "Lfd Nummer": "PL-052",
+                "Name": "Parklet Gutzkowstr. 11",
+                "Straße": "Gutzkowstr. 11",
                 "PLZ": 10827,
-                "Bezirk": null
+                "Bezirk": "Tempelhof-Schöneberg"
             }
         },
         {
@@ -845,15 +897,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.349873,
+                    52.47938
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Ebersstr. 66",
+                "Lfd Nummer": "PL-053",
+                "Name": "Parklet Ebersstr. 66",
+                "Straße": "Ebersstr. 66",
                 "PLZ": 10827,
-                "Bezirk": null
+                "Bezirk": "Tempelhof-Schöneberg"
             }
         },
         {
@@ -861,15 +914,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.39223,
+                    52.558121
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Freienwalder Str. 17",
+                "Lfd Nummer": "PL-054",
+                "Name": "Parklet Freienwalder Str. 17",
+                "Straße": "Freienwalder Str. 17",
                 "PLZ": 13359,
-                "Bezirk": null
+                "Bezirk": "Mitte"
             }
         },
         {
@@ -877,15 +931,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.391501,
+                    52.557394
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Freienwalder Str. 27",
+                "Lfd Nummer": "PL-055",
+                "Name": "Parklet Freienwalder Str. 27",
+                "Straße": "Freienwalder Str. 27",
                 "PLZ": 13359,
-                "Bezirk": null
+                "Bezirk": "Mitte"
             }
         },
         {
@@ -893,15 +948,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.345326,
+                    52.527997
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Lübecker Str. 43",
+                "Lfd Nummer": "PL-056",
+                "Name": "Parklet Lübecker Str. 43",
+                "Straße": "Lübecker Str. 43",
                 "PLZ": 10559,
-                "Bezirk": null
+                "Bezirk": "Mitte"
             }
         },
         {
@@ -909,15 +965,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.34531,
+                    52.528166
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Lübecker Str. 42",
+                "Lfd Nummer": "PL-057",
+                "Name": "Parklet Lübecker Str. 42",
+                "Straße": "Lübecker Str. 42",
                 "PLZ": 10559,
-                "Bezirk": null
+                "Bezirk": "Mitte"
             }
         },
         {
@@ -925,15 +982,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.345443,
+                    52.527575
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Lübecker Str. 6",
+                "Lfd Nummer": "PL-058",
+                "Name": "Parklet Lübecker Str. 6",
+                "Straße": "Lübecker Str. 6",
                 "PLZ": 10559,
-                "Bezirk": null
+                "Bezirk": "Mitte"
             }
         },
         {
@@ -941,15 +999,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.346337,
+                    52.481123
                 ]
             },
             "properties": {
-                "Name": "Zweier-Parklet",
-                "Strasse": "Koburger Str. 16",
+                "Lfd Nummer": "PL-059",
+                "Name": "Zweier-Parklet Koburger Str. 16",
+                "Straße": "Koburger Str. 16",
                 "PLZ": 10825,
-                "Bezirk": null
+                "Bezirk": "Tempelhof-Schöneberg"
             }
         },
         {
@@ -957,15 +1016,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.415327,
+                    52.489914
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Graefestr. 35",
+                "Lfd Nummer": "PL-060",
+                "Name": "Parklet Graefestr. 35",
+                "Straße": "Graefestr. 35",
                 "PLZ": 10967,
-                "Bezirk": null
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -973,15 +1033,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.448896,
+                    52.49053
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Bouchéstr. 20",
+                "Lfd Nummer": "PL-061",
+                "Name": "Parklet Bouchéstr. 20",
+                "Straße": "Bouchéstr. 20",
                 "PLZ": 12435,
-                "Bezirk": null
+                "Bezirk": "Treptow-Köpenick"
             }
         },
         {
@@ -989,15 +1050,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.347225,
+                    52.549385
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Togostr. 78",
+                "Lfd Nummer": "PL-062",
+                "Name": "Parklet Togostr. 78",
+                "Straße": "Togostr. 78",
                 "PLZ": 13351,
-                "Bezirk": null
+                "Bezirk": "Mitte"
             }
         },
         {
@@ -1005,15 +1067,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.351543,
+                    52.497697
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Nollendorfstr. 27",
+                "Lfd Nummer": "PL-063",
+                "Name": "Parklet Nollendorfstr. 27",
+                "Straße": "Nollendorfstr. 27",
                 "PLZ": 10777,
-                "Bezirk": null
+                "Bezirk": "Tempelhof-Schöneberg"
             }
         },
         {
@@ -1021,15 +1084,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.450044,
+                    52.513143
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Kadiner Str. 13",
+                "Lfd Nummer": "PL-064",
+                "Name": "Parklet Kadiner Str. 13",
+                "Straße": "Kadiner Str. 13",
                 "PLZ": 10243,
-                "Bezirk": null
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -1037,15 +1101,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.383353,
+                    52.443109
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Prühßstr. 31",
+                "Lfd Nummer": "PL-065",
+                "Name": "Parklet Prühßstr. 31",
+                "Straße": "Prühßstr. 31",
                 "PLZ": 12105,
-                "Bezirk": null
+                "Bezirk": "Tempelhof-Schöneberg"
             }
         },
         {
@@ -1053,15 +1118,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.350284,
+                    52.539702
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Fehmarner Str. 14",
+                "Lfd Nummer": "PL-066",
+                "Name": "Parklet Fehmarner Str. 14",
+                "Straße": "Fehmarner Str. 14",
                 "PLZ": 13353,
-                "Bezirk": null
+                "Bezirk": "Mitte"
             }
         },
         {
@@ -1069,15 +1135,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.440629,
+                    52.496893
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Falckensteinstr. 22",
+                "Lfd Nummer": "PL-067",
+                "Name": "Parklet Falckensteinstr. 22",
+                "Straße": "Falckensteinstr. 22",
                 "PLZ": 10997,
-                "Bezirk": null
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -1085,15 +1152,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.334408,
+                    52.488157
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Helmstedter Str. 18",
+                "Lfd Nummer": "PL-068",
+                "Name": "Parklet Helmstedter Str. 18",
+                "Straße": "Helmstedter Str. 18",
                 "PLZ": 10717,
-                "Bezirk": null
+                "Bezirk": "Charlottenburg-Wilmersdorf"
             }
         },
         {
@@ -1101,15 +1169,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.393303,
+                    52.556061
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Grüntaler Str. 38",
+                "Lfd Nummer": "PL-069",
+                "Name": "Parklet Grüntaler Str. 38",
+                "Straße": "Grüntaler Str. 38",
                 "PLZ": 13359,
-                "Bezirk": null
+                "Bezirk": "Mitte"
             }
         },
         {
@@ -1117,15 +1186,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.390553,
+                    52.528771
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Borsigstr. 32",
+                "Lfd Nummer": "PL-070",
+                "Name": "Parklet Borsigstr. 32",
+                "Straße": "Borsigstr. 32",
                 "PLZ": 10115,
-                "Bezirk": null
+                "Bezirk": "Mitte"
             }
         },
         {
@@ -1133,15 +1203,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.303951,
+                    52.516541
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Behaimstr. 17",
+                "Lfd Nummer": "PL-071",
+                "Name": "Parklet Behaimstr. 17",
+                "Straße": "Behaimstr. 17",
                 "PLZ": 10585,
-                "Bezirk": null
+                "Bezirk": "Charlottenburg-Wilmersdorf"
             }
         },
         {
@@ -1149,15 +1220,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.409802,
+                    52.490364
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Körtestr. 19",
+                "Lfd Nummer": "PL-072",
+                "Name": "Parklet Körtestr. 19",
+                "Straße": "Körtestr. 19",
                 "PLZ": 10967,
-                "Bezirk": null
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -1165,15 +1237,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.465361,
+                    52.519372
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Dolziger Str. 47",
+                "Lfd Nummer": "PL-073",
+                "Name": "Parklet Dolziger Str. 47",
+                "Straße": "Dolziger Str. 47",
                 "PLZ": 10247,
-                "Bezirk": null
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -1181,15 +1254,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.34788,
+                    52.532897
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Stendaler Str. 9",
+                "Lfd Nummer": "PL-074",
+                "Name": "Parklet Stendaler Str. 9",
+                "Straße": "Stendaler Str. 9",
                 "PLZ": 10559,
-                "Bezirk": null
+                "Bezirk": "Mitte"
             }
         },
         {
@@ -1197,15 +1271,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.321419,
+                    52.518745
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Salzufer 18",
+                "Lfd Nummer": "PL-075",
+                "Name": "Parklet Salzufer 18",
+                "Straße": "Salzufer 18",
                 "PLZ": 10587,
-                "Bezirk": null
+                "Bezirk": "Charlottenburg-Wilmersdorf"
             }
         },
         {
@@ -1213,15 +1288,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.342058,
+                    52.468065
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Cranachstr. 7",
+                "Lfd Nummer": "PL-076",
+                "Name": "Parklet Cranachstr. 7",
+                "Straße": "Cranachstr. 7",
                 "PLZ": 12157,
-                "Bezirk": null
+                "Bezirk": "Tempelhof-Schöneberg"
             }
         },
         {
@@ -1229,15 +1305,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.466427,
+                    52.517141
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Schreinerstr. 15",
+                "Lfd Nummer": "PL-077",
+                "Name": "Parklet Schreinerstr. 15",
+                "Straße": "Schreinerstr. 15",
                 "PLZ": 10247,
-                "Bezirk": null
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -1245,15 +1322,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.471362,
+                    52.510706
                 ]
             },
             "properties": {
-                "Name": "Zweier-Parklet",
-                "Strasse": "Jessnerstr. 41",
+                "Lfd Nummer": "PL-078",
+                "Name": "Zweier-Parklet Jessnerstr. 41",
+                "Straße": "Jessnerstr. 41",
                 "PLZ": 10247,
-                "Bezirk": null
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -1261,15 +1339,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.288509,
+                    52.515206
                 ]
             },
             "properties": {
-                "Name": "Zweier-Parklet",
-                "Strasse": "Seelingstr. 57",
+                "Lfd Nummer": "PL-079",
+                "Name": "Zweier-Parklet Seelingstr. 57",
+                "Straße": "Seelingstr. 57",
                 "PLZ": 14059,
-                "Bezirk": null
+                "Bezirk": "Charlottenburg-Wilmersdorf"
             }
         },
         {
@@ -1277,15 +1356,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.47043,
+                    52.519058
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Pettenkofer Str. 34",
+                "Lfd Nummer": "PL-080",
+                "Name": "Parklet Pettenkofer Str. 34",
+                "Straße": "Pettenkofer Str. 34",
                 "PLZ": 10247,
-                "Bezirk": null
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -1293,15 +1373,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.358972,
+                    52.551001
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Malplaquetstr. 32",
+                "Lfd Nummer": "PL-081",
+                "Name": "Parklet Malplaquetstr. 32",
+                "Straße": "Malplaquetstr. 32",
                 "PLZ": 13347,
-                "Bezirk": null
+                "Bezirk": "Mitte"
             }
         },
         {
@@ -1309,15 +1390,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.454191,
+                    52.524669
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Hausburgstr. 17",
+                "Lfd Nummer": "PL-082",
+                "Name": "Parklet Hausburgstr. 17",
+                "Straße": "Hausburgstr. 17",
                 "PLZ": 10249,
-                "Bezirk": null
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -1325,15 +1407,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.464775,
+                    52.515799
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Samariterstr. 36",
+                "Lfd Nummer": "PL-083",
+                "Name": "Parklet Samariterstr. 36",
+                "Straße": "Samariterstr. 36",
                 "PLZ": 10247,
-                "Bezirk": null
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -1341,15 +1424,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.391158,
+                    52.490647
                 ]
             },
             "properties": {
-                "Name": null,
-                "Strasse": "Riemannstr. 21",
+                "Lfd Nummer": "PL-084",
+                "Name": "Parklet Riemannstr. 21",
+                "Straße": "Riemannstr. 21",
                 "PLZ": 10961,
-                "Bezirk": null
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -1357,15 +1441,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.443453,
+                    52.497255
                 ]
             },
             "properties": {
+                "Lfd Nummer": "PL-085",
                 "Name": "Dreier-Parklet Cuvrystr. 21",
-                "Strasse": "Cuvrystr. 21",
+                "Straße": "Cuvrystr. 21",
                 "PLZ": 10997,
-                "Bezirk": null
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -1373,15 +1458,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.38788,
+                    52.552482
                 ]
             },
             "properties": {
+                "Lfd Nummer": "PL-086",
                 "Name": "Doppel-Parklet Bellermannstraße 81",
-                "Strasse": "Bellermannstr. 81",
+                "Straße": "Bellermannstr. 81",
                 "PLZ": 13357,
-                "Bezirk": null
+                "Bezirk": "Mitte"
             }
         },
         {
@@ -1389,15 +1475,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.352197,
+                    52.548446
                 ]
             },
             "properties": {
+                "Lfd Nummer": "PL-087",
                 "Name": "Doppel-Parklet Genter Straße 60",
-                "Strasse": "Genter Str. 60",
+                "Straße": "Genter Str. 60",
                 "PLZ": 13353,
-                "Bezirk": null
+                "Bezirk": "Mitte"
             }
         },
         {
@@ -1405,15 +1492,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.498498,
+                    52.507681
                 ]
             },
             "properties": {
+                "Lfd Nummer": "PL-088",
                 "Name": "Zweier-Parklet Margaretenstraße 23",
-                "Strasse": "Margaretenstr. 23",
+                "Straße": "Margaretenstr. 23",
                 "PLZ": 10317,
-                "Bezirk": null
+                "Bezirk": "Lichtenberg"
             }
         },
         {
@@ -1421,15 +1509,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.553177,
+                    52.531023
                 ]
             },
             "properties": {
+                "Lfd Nummer": "PL-089",
                 "Name": "Zweier-Parklet Ketschendorfer Weg 11",
-                "Strasse": "Ketschendorfer Weg 11",
+                "Straße": "Ketschendorfer Weg 11",
                 "PLZ": 12683,
-                "Bezirk": null
+                "Bezirk": "Marzahn-Hellersdorf"
             }
         },
         {
@@ -1437,15 +1526,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.477748,
+                    52.506071
                 ]
             },
             "properties": {
+                "Lfd Nummer": "PL-090",
                 "Name": "Parklet Pfarrstraße 93",
-                "Strasse": "Pfarrstr. 93",
+                "Straße": "Pfarrstr. 93",
                 "PLZ": 10317,
-                "Bezirk": null
+                "Bezirk": "Lichtenberg"
             }
         },
         {
@@ -1453,15 +1543,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.431195,
+                    52.501624
                 ]
             },
             "properties": {
+                "Lfd Nummer": "PL-091",
                 "Name": "Parklet Muskauer Straße 11A",
-                "Strasse": "Muskauer Str. 11A",
+                "Straße": "Muskauer Str. 11A",
                 "PLZ": 10997,
-                "Bezirk": null
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -1469,15 +1560,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    null,
-                    null
+                    13.397655,
+                    52.492997
                 ]
             },
             "properties": {
+                "Lfd Nummer": "PL-092",
                 "Name": "Parklet Fürbringer Straße 21",
-                "Strasse": "Fürbringer Str. 21",
+                "Straße": "Fürbringer Str. 21",
                 "PLZ": 10961,
-                "Bezirk": null
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         }
     ]

@@ -21,16 +21,16 @@
                 "Lfd Nummer": "SG-001",
                 "Name": "Bauerngarten der Hagenbeck-Schule",
                 "Gartentyp": "Schulgarten",
-                "Uber uns  Selbstbeschreibung": "Wer unseren Bauerngarten betritt, dem fällt auf, dass die Beete außergewöhnlich angeordnet sind. Beim Anlegen des Gartens haben wir uns landschaftsarchitektonisch an traditionellen Vorgaben orientiert. Unter Berücksichtigung unseres Leitgedankens Biologische Vielfalt beachten wir die Fruchtfolge, pflanzen in Mischkulturen und verzichten auf den Einsatz chemischer Produkte. Hier findet man eine Allee aus alten Apfelbaumsorten, Beerensträucher, einheimisches Gemüse, Kräuter, Mehlfrüchte sowie Färber- und Faserpflanzen. Die Lernenden unserer Schule beteiligen sich aktiv an der Planung, der Bodenvorbereitung, der Aussaat, den laufenden Pflegearbeiten, der Ernte und der nachhaltigen Verwertung unserer Erträge. In verschiedenen Projekten entstand ein Freilandlabor, ein Lehmbackofen, drei Hochbeete, eine Sitzmauer mit einer Feuerstelle sowie ein Weinberg. Alle Schülerinnen und Schüler sind eingeladen, im WAT-Unterricht, in Wahlpflichtkursen, in AGs und Schülerfirmen in unserem Bauerngarten mitzuwirken.",
-                "offentlich zuganglich": "nein",
-                "Strasse": "Gustav-Adolf-Straße 60",
+                "Über uns  Selbstbeschreibung": "Wer unseren Bauerngarten betritt, dem fällt auf, dass die Beete außergewöhnlich angeordnet sind. Beim Anlegen des Gartens haben wir uns landschaftsarchitektonisch an traditionellen Vorgaben orientiert. Unter Berücksichtigung unseres Leitgedankens Biologische Vielfalt beachten wir die Fruchtfolge, pflanzen in Mischkulturen und verzichten auf den Einsatz chemischer Produkte. Hier findet man eine Allee aus alten Apfelbaumsorten, Beerensträucher, einheimisches Gemüse, Kräuter, Mehlfrüchte sowie Färber- und Faserpflanzen. Die Lernenden unserer Schule beteiligen sich aktiv an der Planung, der Bodenvorbereitung, der Aussaat, den laufenden Pflegearbeiten, der Ernte und der nachhaltigen Verwertung unserer Erträge. In verschiedenen Projekten entstand ein Freilandlabor, ein Lehmbackofen, drei Hochbeete, eine Sitzmauer mit einer Feuerstelle sowie ein Weinberg. Alle Schülerinnen und Schüler sind eingeladen, im WAT-Unterricht, in Wahlpflichtkursen, in AGs und Schülerfirmen in unserem Bauerngarten mitzuwirken.",
+                "öffentlich zugänglich": "nein",
+                "Straße": "Gustav-Adolf-Straße 60",
                 "PLZ": "13086 Berlin",
                 "Bezirk": "Pankow",
                 "Website  Social Media": "https://hagenbeck-schule.de/profil/bauernhof/",
                 "EMail  Kontakt": "a.trauzettel@hagenbeck-schule.de",
                 "Seit wann": null,
-                "Flachengrosse m²": 1600.0,
-                "Trager": "Hagenbeck-Oberschule"
+                "Flächengröße m²": 1600.0,
+                "Träger": "Hagenbeck-Oberschule"
             }
         },
         {
@@ -46,16 +46,16 @@
                 "Lfd Nummer": "SG-002",
                 "Name": "Friedensburg-Oberschule",
                 "Gartentyp": "Schulgarten",
-                "Uber uns  Selbstbeschreibung": null,
-                "offentlich zuganglich": null,
-                "Strasse": null,
+                "Über uns  Selbstbeschreibung": null,
+                "öffentlich zugänglich": null,
+                "Straße": null,
                 "PLZ": null,
                 "Bezirk": "Charlottenburg-Wilmersdorf",
                 "Website  Social Media": null,
                 "EMail  Kontakt": null,
                 "Seit wann": null,
-                "Flachengrosse m²": 250.0,
-                "Trager": "Friedensburg-Oberschule "
+                "Flächengröße m²": 250.0,
+                "Träger": "Friedensburg-Oberschule "
             }
         },
         {
@@ -71,16 +71,16 @@
                 "Lfd Nummer": "SG-003",
                 "Name": "Max Pflanzen",
                 "Gartentyp": "Offener Schulgarten und Nachbarschaftsgarten",
-                "Uber uns  Selbstbeschreibung": "Max Pflanzen ist ein Schul- und Gemeinschaftsgarten in der Nähe des Alexanderplatzes in Berlin. Er wurde im April 2015 von einer internationalen Gruppe junger Menschen ins Leben gerufen. Das Max-Planck-Gymnasium Berlin stellte dafür seinen alten, brach liegenden Schulgarten zur Verfügung. Von Anfang an war es die Idee, den Garten den Schülern und auch der Öffentlichkeit zugänglich zu machen. Nun bauen wir dort gemeinsam mit Kiezbewohnern auf ökologische Weise Gemüse und Blumen an.",
-                "offentlich zuganglich": null,
-                "Strasse": "Singerstraße 8a",
+                "Über uns  Selbstbeschreibung": "Max Pflanzen ist ein Schul- und Gemeinschaftsgarten in der Nähe des Alexanderplatzes in Berlin. Er wurde im April 2015 von einer internationalen Gruppe junger Menschen ins Leben gerufen. Das Max-Planck-Gymnasium Berlin stellte dafür seinen alten, brach liegenden Schulgarten zur Verfügung. Von Anfang an war es die Idee, den Garten den Schülern und auch der Öffentlichkeit zugänglich zu machen. Nun bauen wir dort gemeinsam mit Kiezbewohnern auf ökologische Weise Gemüse und Blumen an.",
+                "öffentlich zugänglich": null,
+                "Straße": "Singerstraße 8a",
                 "PLZ": "10179 Berlin",
                 "Bezirk": "Mitte",
                 "Website  Social Media": "https://maxpflanzen.wordpress.com/",
                 "EMail  Kontakt": null,
                 "Seit wann": 2015.0,
-                "Flachengrosse m²": 2000.0,
-                "Trager": "Max-Planck-Gymnasium und Nachbar:innen"
+                "Flächengröße m²": 2000.0,
+                "Träger": "Max-Planck-Gymnasium und Nachbar:innen"
             }
         },
         {
@@ -96,16 +96,16 @@
                 "Lfd Nummer": "SG-004",
                 "Name": "Quartiersschulgarten Pusteblume-Grundschule ",
                 "Gartentyp": "Offener Schulgarten",
-                "Uber uns  Selbstbeschreibung": "In der Erde wühlen, Schmetterlinge beobachten, Tomaten-Pflanzen gießen und pflegen, Erdbeeren direkt vom Beet naschen. Der Quartiersschulgarten Pusteblume bietet Schülerinnen und Schüler einen ganzheitlichen Lern- und Erfahrungsraum entlang der verschiedenen Jahreszeiten. Im Schulgarten findet handlungsorientiertes Lernen für alle Sinne statt, neben naturwissenschaftlichen Inhalten werden ebenso soziale Kompetenzen wie Teamarbeit, Planungsfähigkeit, motorisches Geschick und Geduld erlernt. Der Garten mit seinen 18 Gemüsebeeten und den vielfältigen Elementen, von Naschsträuchern über Komposthaufen bis hin zur Wetterstation, bietet anschauliches Lernmaterial zum Erfahren und Begreifen. Unterrichtsinhalte aus verschiedenen Themenfeldern und Fächern können direkt im Schulgarten durchgeführt werden: z.B. Boden und seine Bewohner untersuchen, einen Komposthaufen anlegen, Pflanzensteckbriefe anfertigen, Naturbeobachtungen durchführen und dokumentieren, Keimversuche auswerten und vieles mehr. ",
-                "offentlich zuganglich": null,
-                "Strasse": "Kastanienallee 118",
+                "Über uns  Selbstbeschreibung": "In der Erde wühlen, Schmetterlinge beobachten, Tomaten-Pflanzen gießen und pflegen, Erdbeeren direkt vom Beet naschen. Der Quartiersschulgarten Pusteblume bietet Schülerinnen und Schüler einen ganzheitlichen Lern- und Erfahrungsraum entlang der verschiedenen Jahreszeiten. Im Schulgarten findet handlungsorientiertes Lernen für alle Sinne statt, neben naturwissenschaftlichen Inhalten werden ebenso soziale Kompetenzen wie Teamarbeit, Planungsfähigkeit, motorisches Geschick und Geduld erlernt. Der Garten mit seinen 18 Gemüsebeeten und den vielfältigen Elementen, von Naschsträuchern über Komposthaufen bis hin zur Wetterstation, bietet anschauliches Lernmaterial zum Erfahren und Begreifen. Unterrichtsinhalte aus verschiedenen Themenfeldern und Fächern können direkt im Schulgarten durchgeführt werden: z.B. Boden und seine Bewohner untersuchen, einen Komposthaufen anlegen, Pflanzensteckbriefe anfertigen, Naturbeobachtungen durchführen und dokumentieren, Keimversuche auswerten und vieles mehr. ",
+                "öffentlich zugänglich": null,
+                "Straße": "Kastanienallee 118",
                 "PLZ": "12627 Berlin",
                 "Bezirk": "Marzahn-Hellersdorf",
                 "Website  Social Media": "https://www.pusteblume-grundschule.de/",
                 "EMail  Kontakt": "sekretariat@pusteblume.schule.berlin.de",
                 "Seit wann": 2018.0,
-                "Flachengrosse m²": null,
-                "Trager": "Pusteblume-Grundschule"
+                "Flächengröße m²": null,
+                "Träger": "Pusteblume-Grundschule"
             }
         },
         {
@@ -121,16 +121,16 @@
                 "Lfd Nummer": "SG-005",
                 "Name": "Inselgärtnerei und Landwirtschaft der Schulfarm Insel Scharfenberg (Staatl. Gymnasium und Internat)",
                 "Gartentyp": "Schulgarten und Landwirtschaft",
-                "Uber uns  Selbstbeschreibung": null,
-                "offentlich zuganglich": "nein",
-                "Strasse": "Schwarzer Weg 103",
+                "Über uns  Selbstbeschreibung": null,
+                "öffentlich zugänglich": "nein",
+                "Straße": "Schwarzer Weg 103",
                 "PLZ": "13505 Berlin",
                 "Bezirk": "Reinickendorf",
                 "Website  Social Media": "https://insel-scharfenberg.de/specials/inselgaertnerei/",
                 "EMail  Kontakt": null,
                 "Seit wann": 1922.0,
-                "Flachengrosse m²": null,
-                "Trager": "Schulfarm Insel Scharfenberg (Staatl. Gymnasium und Internat)"
+                "Flächengröße m²": null,
+                "Träger": "Schulfarm Insel Scharfenberg (Staatl. Gymnasium und Internat)"
             }
         },
         {
@@ -146,16 +146,16 @@
                 "Lfd Nummer": "SG-006",
                 "Name": "Agrarwirtschaftlicher Außenstandort der August-Sander-Schule",
                 "Gartentyp": "Schulgarten",
-                "Uber uns  Selbstbeschreibung": null,
-                "offentlich zuganglich": null,
-                "Strasse": "Alt-Stralau 40-41",
+                "Über uns  Selbstbeschreibung": null,
+                "öffentlich zugänglich": null,
+                "Straße": "Alt-Stralau 40-41",
                 "PLZ": "10245 Berlin",
                 "Bezirk": "Friedrichshain-Kreuzberg",
                 "Website  Social Media": "https://august-sander-schule.de/schulprofil/garten-umweltschule-fair-trade/",
                 "EMail  Kontakt": null,
                 "Seit wann": null,
-                "Flachengrosse m²": null,
-                "Trager": null
+                "Flächengröße m²": null,
+                "Träger": null
             }
         }
     ]
