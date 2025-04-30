@@ -8,7 +8,7 @@
     "transparency": 0,
     "visibility": true,
     "legend": false,
-    "gfiAttributes": "showAll",
+    "gfiAttributes": "ignore",
     "gfiTheme": "default",
     "vtStyles": [
       {
@@ -67,7 +67,8 @@
       "show_doc_url": "resources/data/metadata/",
       "md_name": "Gemeinschaftsgärten",
       "bbox": "13.079,52.3284,13.7701,52.6877"
-}]
+    }
+  ] 
   },
   {
     "id": "gemeinschaftsgaerten",
@@ -77,7 +78,14 @@
     "typ": "GeoJSON",
     "gfiAttributes": "showAll",
     "legendURL": "",
-    "gfiTheme": "default"
+    "gfiTheme": "default",
+    "datasets": [{
+      "md_id": "gemeinschaftsgarten.xml",
+      "csw_url": "resources/data/metadata/gemeinschaftsgaerten.xml",
+      "show_doc_url": "resources/data/metadata/",
+      "md_name": "Gemeinschaftsgärten",
+      "bbox": "13.079,52.3284,13.7701,52.6877"
+    }]
   },
   {
     "id": "beetpatenschaften",
@@ -87,7 +95,14 @@
     "typ": "GeoJSON",
     "gfiAttributes": "showAll",
     "legendURL": "",
-    "gfiTheme": "default"
+    "gfiTheme": "default",
+    "datasets": [{
+      "md_id": "beetpatenschaften.xml",
+      "csw_url": "resources/data/metadata/beetpatenschaften.xml",
+      "show_doc_url": "resources/data/metadata/",
+      "md_name": "Beetpatenschaften",
+      "bbox": "13.079,52.3284,13.7701,52.6877"
+    }]
   },
   {
     "id": "gartenarbeitsschule",
@@ -97,7 +112,14 @@
     "typ": "GeoJSON",
     "gfiAttributes": "showAll",
     "legendURL": "",
-    "gfiTheme": "default"
+    "gfiTheme": "default",
+    "datasets": [{
+      "md_id": "gartenarbeitschulen.xml",
+      "csw_url": "resources/data/metadata/gartenarbeitschulen.xml",
+      "show_doc_url": "resources/data/metadata/",
+      "md_name": "Gartenarbeitsschulen",
+      "bbox": "13.079,52.3284,13.7701,52.6877"
+    }]
   },
   {
     "id": "kitaschulgaerten",
@@ -107,7 +129,14 @@
     "typ": "GeoJSON",
     "gfiAttributes": "showAll",
     "legendURL": "",
-    "gfiTheme": "default"
+    "gfiTheme": "default",
+    "datasets": [{
+      "md_id": "kitaschulgaerten.xml",
+      "csw_url": "resources/data/metadata/kitaschulgaerten.xml",
+      "show_doc_url": "resources/data/metadata/",
+      "md_name": "Kita- und Schulgärten",
+      "bbox": "13.079,52.3284,13.7701,52.6877"
+    }]
   },
   {
     "id": "parklets",
@@ -117,7 +146,14 @@
     "typ": "GeoJSON",
     "gfiAttributes": "showAll",
     "legendURL": "",
-    "gfiTheme": "default"
+    "gfiTheme": "default",
+    "datasets": [{
+      "md_id": "parklets.xml",
+      "csw_url": "resources/data/metadata/parklets.xml",
+      "show_doc_url": "resources/data/metadata/",
+      "md_name": "Parklets",
+      "bbox": "13.079,52.3284,13.7701,52.6877"
+    }]
   },
   {
     "id": "selbsterntegaerten",
@@ -127,7 +163,15 @@
     "typ": "GeoJSON",
     "gfiAttributes": "showAll",
     "legendURL": "",
-    "gfiTheme": "default"
+    "gfiTheme": "default",
+    "zIndex": 1000,
+    "datasets": [{
+      "md_id": "selbsterntegaerten.xml",
+      "csw_url": "resources/data/metadata/selbsterntegaerten.xml",
+      "show_doc_url": "resources/data/metadata/",
+      "md_name": "Selbsterntegärten",
+      "bbox": "13.079,52.3284,13.7701,52.6877"
+    }]
   },
   {
     "id": "solidarischelandwirtschaft",
@@ -137,7 +181,14 @@
     "typ": "GeoJSON",
     "gfiAttributes": "showAll",
     "legendURL": "",
-    "gfiTheme": "default"
+    "gfiTheme": "default",
+    "datasets": [{
+      "md_id": "solidarischelandwirtschaft.xml",
+      "csw_url": "resources/data/metadata/solidarischelandwirtschaft.xml",
+      "show_doc_url": "resources/data/metadata/",
+      "md_name": "Solidarische Landwirtschaft",
+      "bbox": "13.079,52.3284,13.7701,52.6877"
+    }]
   },
   {
     "id": "flaechenpotentiale",
@@ -147,7 +198,14 @@
     "typ": "GeoJSON",
     "gfiAttributes": "showAll",
     "legendURL": "",
-    "gfiTheme": "default"
+    "gfiTheme": "default",
+    "datasets": [{
+      "md_id": "flaechenpotentiale.xml",
+      "csw_url": "resources/data/metadata/flaechenpotentiale.xml",
+      "show_doc_url": "resources/data/metadata/",
+      "md_name": "Flächenpotentiale",
+      "bbox": "13.079,52.3284,13.7701,52.6877"
+    }]
   },
   {
     "id": "gruenanlagen:wfs:gruenanlagen",
@@ -159,7 +217,7 @@
     "featureNS": "gruenanlagen",
     "datasets": [
       {
-        "md_name": "GrÃ¼nanlagenbestand Berlin (einschlieÃŸlich der Ã¶ffentlichen SpielplÃ¤tze)",
+        "md_name": "Grünanlagenbestand Berlin (einschliesslich der öffentlichen Spielplätze)",
         "md_id": "848d2266-d757-36d2-9db6-8636bd5f2216",
         "rs_id": "https://registry.gdi-de.org/id/de.be.csw/19f9a3e9-d99a-39c2-8557-418ecb5f1f21",
         "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
@@ -241,7 +299,7 @@
   },
   {
     "id": "ua_gruendaecher_2020:wfs:d_gebaeude",
-    "name": "GebÃ¤ude 2020",
+    "name": "Gebäude 2020",
     "crs": "urn:ogc:def:crs:EPSG::25833",
     "url": "https://gdi.berlin.de/services/wfs/ua_gruendaecher_2020",
     "typ": "WFS",
@@ -249,25 +307,7 @@
     "featureNS": "ua_gruendaecher_2020",
     "datasets": [
       {
-        "md_name": "GrÃ¼ndÃ¤cher 2020 (Umweltatlas)",
-        "md_id": "2dc1787a-2ab8-49aa-ac07-1b4a116071b4",
-        "rs_id": "https://registry.gdi-de.org/id/de.be.csw/6513504d-2375-3a73-a2c1-345e5007cae0",
-        "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
-      }
-    ],
-    "gfiAttributes": "showAll"
-  },
-  {
-    "id": "ua_gruendaecher_2020:wfs:d_gebaeude",
-    "name": "GebÃ¤ude 2020",
-    "crs": "urn:ogc:def:crs:EPSG::25833",
-    "url": "https://gdi.berlin.de/services/wfs/ua_gruendaecher_2020",
-    "typ": "WFS",
-    "featureType": "ua_gruendaecher_2020:d_gebaeude",
-    "featureNS": "ua_gruendaecher_2020",
-    "datasets": [
-        {
-            "md_name": "GrÃ¼ndÃ¤cher 2020 (Umweltatlas)",
+        "md_name": "Gründächer 2020 (Umweltatlas)",
             "md_id": "2dc1787a-2ab8-49aa-ac07-1b4a116071b4",
             "rs_id": "https://registry.gdi-de.org/id/de.be.csw/6513504d-2375-3a73-a2c1-345e5007cae0",
             "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
@@ -277,7 +317,7 @@
 },
   {
     "id": "sp_gruene_wege_wander",
-    "name": "20 GrÃ¼ne Hauptwege - Wanderkarte",
+    "name": "20 Grüne Hauptwege - Wanderkarte",
     "crs": "urn:ogc:def:crs:EPSG:6.9:25833",
     "url": "https://fbinter.stadt-berlin.de/fb/wfs/data/senstadt/sp_gruene_wege_wander",
     "typ": "WFS",
@@ -285,7 +325,7 @@
     "featureNS": "http://www.berlin.de/broker",
     "datasets": [
       {
-        "md_name": "20 GrÃ¼ne Hauptwege - Wanderkarte",
+        "md_name": "20 Grüne Hauptwege - Wanderkarte",
         "md_id": "769e0768-7efc-3328-93ea-2c54c45c9dee",
         "rs_id": "https://registry.gdi-de.org/id/de.be.csw/42a8b8a8-a611-383a-9559-2a6c2d1cac3a",
         "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
@@ -313,7 +353,7 @@
   },
   {
     "id": "ua_versiegelung_2021:wfs:versieg2021",
-    "name": "Versiegelung der Block- und BlockteilflÃ¤chen 2021",
+    "name": "Versiegelung der Block- und Blockteilflächen 2021",
     "crs": "urn:ogc:def:crs:EPSG::25833",
     "url": "https://gdi.berlin.de/services/wfs/ua_versiegelung_2021",
     "typ": "WFS",
@@ -331,7 +371,7 @@
 },
 {
   "id": "ua_versiegelung_2021:wfs:versieg2021_str",
-  "name": "Versiegelung der StraÃŸenflÃ¤chen 2021",
+  "name": "Versiegelung der Strassenflächen 2021",
   "crs": "urn:ogc:def:crs:EPSG::25833",
   "url": "https://gdi.berlin.de/services/wfs/ua_versiegelung_2021",
   "typ": "WFS",
@@ -439,25 +479,7 @@
   },
   {
     "id": "pflegeeinrichtungen:wfs:a_pflegeeinrichtungen_voll",
-    "name": "VollstationÃ¤re Pflegeeinrichtungen",
-    "crs": "urn:ogc:def:crs:EPSG::25833",
-    "url": "https://gdi.berlin.de/services/wfs/pflegeeinrichtungen",
-    "typ": "WFS",
-    "featureType": "pflegeeinrichtungen:a_pflegeeinrichtungen_voll",
-    "featureNS": "pflegeeinrichtungen",
-    "datasets": [
-      {
-        "md_name": "AusgewÃ¤hlte Pflege- und pflegeflankierende Angebote in Berlin",
-        "md_id": "b0122abe-5bdc-4f1a-bfdf-7f544d99d81a",
-        "rs_id": "https://registry.gdi-de.org/id/de.be.csw/c54eebcb-9eae-3b60-b112-bcb291eeddc7",
-        "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
-      }
-    ],
-    "gfiAttributes": "showAll"
-  },
-  {
-    "id": "pflegeeinrichtungen:wfs:a_pflegeeinrichtungen_voll",
-    "name": "VollstationÃ¤re Pflegeeinrichtungen",
+    "name": "Vollstationäre Pflegeeinrichtungen",
     "crs": "urn:ogc:def:crs:EPSG::25833",
     "url": "https://gdi.berlin.de/services/wfs/pflegeeinrichtungen",
     "typ": "WFS",
@@ -493,7 +515,7 @@
   },
   {
     "id": "s06_05gruenversorg2020_gruenanl",
-    "name": "Versorgung mit Ã¶ffentlichen, wohnungsnahen GrÃ¼nanlagen 2020 - GrÃ¼nanlagen (Umweltatlas)",
+    "name": "Versorgung mit öffentlichen, wohnungsnahen Grünanlagen 2020 - Grünanlagen (Umweltatlas)",
     "crs": "urn:ogc:def:crs:EPSG:6.9:25833",
     "url": "https://fbinter.stadt-berlin.de/fb/wfs/data/senstadt/s06_05gruenversorg2020_gruenanl",
     "typ": "WFS",
