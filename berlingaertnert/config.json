@@ -180,17 +180,10 @@
               "showInLayerTree": true
             },
             {
-              "id": "kleingarten:wfs:kleingarten",
-              "name": "Kleingartenbestand",
-              "styleId": "kleingarten",
+              "id": "beetpatenschaften",
+              "name": "Beetpatenschaften",
+              "styleId": "beetpatenschaften",
               "visibility": true,
-              "showInLayerTree": true
-            },
-            {
-              "id": "gemeinschaftsgaerten",
-              "name": "Gemeinschaftsgärten",
-              "styleId": "gemeinschaftsgaerten",
-              "visibility": false,
               "showInLayerTree": true
             },
             {
@@ -202,16 +195,9 @@
             },
             {
               "id": "solidarischelandwirtschaft",
-              "name": "Solidarische Landwirtschaft",
+              "name": "Solidarische Landwirtschaft (SoLawi)",
               "styleId": "solidarischelandwirtschaft",
-              "visibility": true,
-              "showInLayerTree": true
-            },
-            {
-              "id": "beetpatenschaften",
-              "name": "Beetpatenschaften",
-              "styleId": "beetpatenschaften",
-              "visibility": true,
+              "visibility": false,
               "showInLayerTree": true
             },
             {
@@ -222,16 +208,30 @@
               "showInLayerTree": true
             },
             {
+              "id": "kitaschulgaerten",
+              "name": "Kita- und Schulgärten",
+              "styleId": "kitaschulgaerten",
+              "visibility": true,
+              "showInLayerTree": true
+            },
+            {
               "id": "gartenarbeitsschule",
-              "name": "Gartenarbeitsschule",
+              "name": "Gartenarbeitsschulen",
               "styleId": "gartenarbeitsschule",
               "visibility": true,
               "showInLayerTree": true
             },
             {
-              "id": "kitaschulgaerten",
-              "name": "Kita- und Schulgärten",
-              "styleId": "kitaschulgaerten",
+              "id": "kleingarten:wfs:kleingarten",
+              "name": "Kleingartenbestand",
+              "styleId": "kleingarten",
+              "visibility": true,
+              "showInLayerTree": true
+            },
+            {
+              "id": "gemeinschaftsgaerten",
+              "name": "Gemeinschaftsgärten",
+              "styleId": "gemeinschaftsgaerten",
               "visibility": true,
               "showInLayerTree": true
             }
