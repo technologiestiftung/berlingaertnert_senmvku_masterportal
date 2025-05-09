@@ -21,8 +21,6 @@
                 "Lfd Nummer": "GG-001",
                 "Name": "Abenteuerspielplatz und Gemüsegarten Marzahn-West",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Ahrensfelder Chaussee 26",
                 "PLZ": "12689 Berlin",
@@ -30,10 +28,7 @@
                 "Social Media": "http://www.spielplatzinitiative.de/index.php?option=com_content&view=article&id=41:abenteuerspielplatz-marzahn-west&catid=18&Itemid=144",
                 "Kontakt": "kontakt@spielplatzinitiative.de",
                 "Seit wann": "1991",
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": "Spielplatzinitiative Marzahn e.V.",
-                "Nutzung": null
+                "Träger": "Spielplatzinitiative Marzahn e.V."
             }
         },
         {
@@ -49,19 +44,13 @@
                 "Lfd Nummer": "GG-002",
                 "Name": "Abenteuerspielplatz und Kinderbauernhof Fort Robinson",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Wartiner Straße 79",
                 "PLZ": "13057 Berlin",
                 "Bezirk": "Pankow",
                 "Social Media": "http://www.akib.de/platz/abenteuerspielplatz-fort-robinson",
                 "Kontakt": "asp@kietzfuerkids.de",
-                "Seit wann": "1991",
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Seit wann": "1991"
             }
         },
         {
@@ -77,19 +66,14 @@
                 "Lfd Nummer": "GG-003",
                 "Name": "Abenteuerspielplatz und Kinderbauernhof Köpenick",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Alte Kaulsdorfer Straße 18",
                 "PLZ": "12555 Berlin",
                 "Bezirk": "Treptow-Köpenick",
                 "Social Media": "http://www.akib.de/platz/natur-und-abenteuerspielplatz-koepenick",
                 "Kontakt": "abenteuerspielplatz@sozdia.de",
-                "Seit wann": null,
                 "Flächengröße m2": "7000",
-                "Organisationsform": null,
-                "Träger": "Soz Dia",
-                "Nutzung": null
+                "Träger": "Soz Dia"
             }
         },
         {
@@ -105,19 +89,13 @@
                 "Lfd Nummer": "GG-004",
                 "Name": "Abenteuerspielplatz und Bauernhof WASLALA",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Venusstraße 88",
                 "PLZ": "12524 Berlin",
                 "Bezirk": "Treptow-Köpenick",
                 "Social Media": "http://www.aspwaslala.de",
                 "Kontakt": "aspwaslala@fippev.de",
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": "FiPP e.V. - Fortbildungsinstitut für die pädagogische Praxis",
-                "Nutzung": null
+                "Träger": "FiPP e.V. - Fortbildungsinstitut für die pädagogische Praxis"
             }
         },
         {
@@ -133,19 +111,11 @@
                 "Lfd Nummer": "GG-005",
                 "Name": "Agrarbörse KulturGut",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Alt-Marzahn 23",
                 "PLZ": "12685 Berlin",
                 "Bezirk": "Marzahn-Hellersdorf",
-                "Social Media": "http://www.agrar-boerse-ev.de/standorte-projekte/marzahn-hellersdorf/kulturgut/",
-                "Kontakt": null,
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Social Media": "http://www.agrar-boerse-ev.de/standorte-projekte/marzahn-hellersdorf/kulturgut/"
             }
         },
         {
@@ -161,13 +131,10 @@
                 "Lfd Nummer": "GG-006",
                 "Name": "Alfreds Garten",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "vertraglich unbefristet bestehend",
                 "Straße": "Alfred-Randt-Straße 11/13",
                 "PLZ": "12559 Berlin",
                 "Bezirk": "Treptow-Köpenick",
-                "Social Media": null,
                 "Kontakt": "hannah.rottkord@degewo.de",
                 "Seit wann": "2017",
                 "Flächengröße m2": "500",
@@ -189,19 +156,10 @@
                 "Lfd Nummer": "GG-007",
                 "Name": "AWO-Familiengarten am Droryplatz",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Kanner Straße 12",
                 "PLZ": "12055 Berlin",
-                "Bezirk": "Neukölln",
-                "Social Media": null,
-                "Kontakt": null,
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Bezirk": "Neukölln"
             }
         },
         {
@@ -217,8 +175,6 @@
                 "Lfd Nummer": "GG-008",
                 "Name": "Beettinchen",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "vertraglich befristet bestehend",
                 "Straße": "Treuenbrietzener Str. 32",
                 "PLZ": "13439 Berlin",
@@ -245,14 +201,11 @@
                 "Lfd Nummer": "GG-009",
                 "Name": "Begegnungsgarten Biene und Tomate",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "vertraglich unbefristet bestehend",
                 "Straße": "Lindenberger Weg 25",
                 "PLZ": "13125 Berlin",
                 "Bezirk": "Pankow",
                 "Social Media": "http://www.ubb.de",
-                "Kontakt": null,
                 "Seit wann": "2020",
                 "Flächengröße m2": "250",
                 "Organisationsform": "Verein (e.V.)",
@@ -273,8 +226,6 @@
                 "Lfd Nummer": "GG-010",
                 "Name": "Berolina-Generationengarten",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Neue Jakobstraße 30",
                 "PLZ": "10179 Berlin",
@@ -282,8 +233,6 @@
                 "Social Media": "http://berolina.info/webseite/generationengarten/",
                 "Kontakt": "mail@berolina.info",
                 "Seit wann": "2012",
-                "Flächengröße m2": null,
-                "Organisationsform": null,
                 "Träger": "Wohnungsbaugenossenschaft \"Berolina\" e.G.",
                 "Nutzung": "sozialer Austausch"
             }
@@ -301,14 +250,10 @@
                 "Lfd Nummer": "GG-011",
                 "Name": "Berolina-Nachbarschaftsgarten Dresdener Karree",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "vertraglich unbefristet bestehend",
                 "Straße": "Dresdener Str. 87",
                 "PLZ": "10179 Berlin",
                 "Bezirk": "Mitte",
-                "Social Media": null,
-                "Kontakt": null,
                 "Seit wann": "2019",
                 "Flächengröße m2": "100",
                 "Organisationsform": "sonstige Organisationsform",
@@ -329,14 +274,11 @@
                 "Lfd Nummer": "GG-012",
                 "Name": "Bildungsgarten im Stadtpark I e.V.",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "vertraglich unbefristet bestehend",
                 "Straße": "in der Kleingartenanlage \"Am Stadtpark I\", Block 3, Kufsteiner Str. (Parzelle 97)",
                 "PLZ": "10825 Berlin",
                 "Bezirk": "Charlottenburg-Wilmersdorf",
                 "Social Media": "https://www.kolonie-am-stadtpark.de/projekt-ernaehrungswende-im-kleingarten",
-                "Kontakt": null,
                 "Seit wann": "2023",
                 "Flächengröße m2": "150",
                 "Organisationsform": "eingetragener Verein (e.V.)",
@@ -357,8 +299,6 @@
                 "Lfd Nummer": "GG-013",
                 "Name": "Blätterlaube@SUSTAIN IT! FU Berlin",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "vertraglich befristet bestehend",
                 "Straße": "Thielallee 36, Ecke Otto-von-Simson-Str.",
                 "PLZ": "14195 Berlin",
@@ -366,7 +306,6 @@
                 "Social Media": "https://www.fu-berlin.de/sites/sustain/nhkonkret/blaetterlaube/index.html",
                 "Kontakt": "k.hensse@fu-berlin.de",
                 "Seit wann": "2020",
-                "Flächengröße m2": null,
                 "Organisationsform": "sonstige Organisationsform",
                 "Träger": "Nachhaltigkeitsinitiative SUSTAIN IT! und Blühender Campus der Freien Universität Berlin",
                 "Nutzung": "Erholung, Anbau von Lebensmitteln, Bildung, sozialer Austausch, sonstige Nutzung(en)"
@@ -385,19 +324,13 @@
                 "Lfd Nummer": "GG-014",
                 "Name": "Bohnen für die Marie",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Marienburger Straße 41-46",
                 "PLZ": "10405 Berlin",
                 "Bezirk": "Pankow",
                 "Social Media": "https://www.freundeskreismarie.wordpress.com",
-                "Kontakt": null,
-                "Seit wann": null,
                 "Flächengröße m2": "5000",
-                "Organisationsform": null,
-                "Träger": "Freundeskreis Marie e.V.",
-                "Nutzung": null
+                "Träger": "Freundeskreis Marie e.V."
             }
         },
         {
@@ -413,8 +346,6 @@
                 "Lfd Nummer": "GG-015",
                 "Name": "Bunter Garten Buchholz",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Aubertstraße 1",
                 "PLZ": "13127 Berlin",
@@ -441,8 +372,6 @@
                 "Lfd Nummer": "GG-016",
                 "Name": "Bürgergarten Helle Oase",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Tangermünder Straße 127-129",
                 "PLZ": "12627 Berlin",
@@ -469,8 +398,6 @@
                 "Lfd Nummer": "GG-017",
                 "Name": "Bürgergarten Laskerwiese",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "vertraglich unbefristet bestehend",
                 "Straße": "Laskerstraße 6-8",
                 "PLZ": "10245 Berlin",
@@ -478,7 +405,6 @@
                 "Social Media": "http://www.laskerwiese.de",
                 "Kontakt": "laskerwiese@web.de",
                 "Seit wann": "2005",
-                "Flächengröße m2": null,
                 "Organisationsform": "Verein (e.V.)",
                 "Träger": "Mitglieder des Bürgergarten Laskerwiese e.V.",
                 "Nutzung": "Erholung, Anbau von Lebensmitteln, sozialer Austausch"
@@ -497,19 +423,13 @@
                 "Lfd Nummer": "GG-018",
                 "Name": "Bürgergarten Moabit ",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Siemensstraße 27",
                 "PLZ": "10551 Berlin",
                 "Bezirk": "Mitte",
                 "Social Media": "http://stephankiez.de/cms/front_content.php?idart=53",
                 "Kontakt": "info@stephankiez.de",
-                "Seit wann": "2013",
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Seit wann": "2013"
             }
         },
         {
@@ -525,8 +445,6 @@
                 "Lfd Nummer": "GG-019",
                 "Name": "Bürgerpark Krausnickdreieck",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Oranienburger Straße 20",
                 "PLZ": "10178 Berlin",
@@ -534,10 +452,8 @@
                 "Social Media": "https://krausnickpark.de/",
                 "Kontakt": "krausnickpark@gmail.com",
                 "Seit wann": "1999",
-                "Flächengröße m2": null,
                 "Organisationsform": "Verein (e.V.)",
-                "Träger": "\"Bürgerpark Krausnickdreieck\" e.V",
-                "Nutzung": null
+                "Träger": "\"Bürgerpark Krausnickdreieck\" e.V"
             }
         },
         {
@@ -553,19 +469,15 @@
                 "Lfd Nummer": "GG-020",
                 "Name": "CampusGärten Charlottenburg",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Straße des 17. Juni 135",
                 "PLZ": "10623 Berlin",
                 "Bezirk": "Charlottenburg-Wilmersdorf",
                 "Social Media": "https://unigardening.de/netzwerk/tu-projektwerkstatt/",
-                "Kontakt": null,
                 "Seit wann": "2015",
                 "Flächengröße m2": "7 Kleinstgärten auf dem Campus Charlottenburg (TU Berlin / UdK Berlin)",
                 "Organisationsform": "Projektwerkstatt",
-                "Träger": "UniGardening-Netzwerk / TU Berlin / UdK Berlin",
-                "Nutzung": null
+                "Träger": "UniGardening-Netzwerk / TU Berlin / UdK Berlin"
             }
         },
         {
@@ -581,19 +493,12 @@
                 "Lfd Nummer": "GG-021",
                 "Name": "Charlottes Garten",
                 "Gartentyp": "beendeter Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "beendet",
                 "Straße": "Wansdorfer Steig 16",
                 "PLZ": "13587 Berlin",
                 "Bezirk": "Spandau",
                 "Social Media": "https://charlottesgarten.wordpress.com/",
-                "Kontakt": null,
-                "Seit wann": "2013",
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Seit wann": "2013"
             }
         },
         {
@@ -609,8 +514,6 @@
                 "Lfd Nummer": "GG-022",
                 "Name": "Comenius Garten",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Richardstraße 35",
                 "PLZ": "12043 Berlin",
@@ -618,10 +521,7 @@
                 "Social Media": "http://comenius-garten.de/garten/",
                 "Kontakt": "comenius-garten@t-online.de",
                 "Seit wann": "1992",
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": "Förderkreis Böhmisches Dorf in Berlin- Neukölln e.V./ Herr Vierck",
-                "Nutzung": null
+                "Träger": "Förderkreis Böhmisches Dorf in Berlin- Neukölln e.V./ Herr Vierck"
             }
         },
         {
@@ -637,19 +537,12 @@
                 "Lfd Nummer": "GG-023",
                 "Name": "CRCLR Garden / Agora Collectiv",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "unbefristet bestehend",
                 "Straße": "Rollbergstraße 26",
                 "PLZ": "12053 Berlin",
                 "Bezirk": "Neukölln",
                 "Social Media": "https://crclr.org/spaces/space_neukoelln/garden",
-                "Kontakt": "hello@crclr.org, Annette.Biernath@degewo.de ,wadzi@crclr.org",
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Kontakt": "hello@crclr.org, Annette.Biernath@degewo.de ,wadzi@crclr.org"
             }
         },
         {
@@ -665,14 +558,10 @@
                 "Lfd Nummer": "GG-024",
                 "Name": "Dachterrasse Graunstraße 12",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "vertraglich unbefristet bestehend",
                 "Straße": "Graunstraße 12",
                 "PLZ": "13355 Berlin",
                 "Bezirk": "Mitte",
-                "Social Media": null,
-                "Kontakt": null,
                 "Seit wann": "2018",
                 "Flächengröße m2": "150",
                 "Organisationsform": "sonstige Organisationsform",
@@ -693,14 +582,11 @@
                 "Lfd Nummer": "GG-025",
                 "Name": "Die Weiße Rose Haselhorst",
                 "Gartentyp": "beendeter Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "beendet",
                 "Straße": "Rhenaniastr.36, In den Wiesenweg hinein, 3. Garten links, Parzelle 12",
                 "PLZ": "13599 Berlin",
                 "Bezirk": "Spandau",
                 "Social Media": "http://permakultur-waldgarten.de",
-                "Kontakt": null,
                 "Seit wann": "2012",
                 "Flächengröße m2": "800m²",
                 "Organisationsform": "sonstige Organisationsform",
@@ -721,19 +607,11 @@
                 "Lfd Nummer": "GG-026",
                 "Name": "Ein Beet am Kracauerplatz",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
-                "Status": null,
                 "Straße": "Heilbronner Straße 12-13",
                 "PLZ": "10711 Berlin",
                 "Bezirk": "Charlottenburg-Wilmersdorf",
                 "Social Media": "https://kracauerplatz.wordpress.com/das-beet/",
-                "Kontakt": null,
-                "Seit wann": "2011",
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Seit wann": "2011"
             }
         },
         {
@@ -777,8 +655,6 @@
                 "Lfd Nummer": "GG-028",
                 "Name": "Elstergarten",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Innenhof Graunstraße 33",
                 "PLZ": "13355 Berlin",
@@ -787,7 +663,6 @@
                 "Kontakt": "elster-garten@gmx.de",
                 "Seit wann": "2017",
                 "Flächengröße m2": "300",
-                "Organisationsform": null,
                 "Träger": "Elstergärtner, Mieter_innen der degewo AG in Selbstverwaltung",
                 "Nutzung": "Erholung, sozialer Austausch"
             }
@@ -805,19 +680,10 @@
                 "Lfd Nummer": "GG-029",
                 "Name": "Esperanto-Garten",
                 "Gartentyp": "beendeter Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "beendet",
                 "Straße": "Schudomastraße 32",
                 "PLZ": "12055 Berlin",
-                "Bezirk": "Neukölln",
-                "Social Media": null,
-                "Kontakt": null,
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Bezirk": "Neukölln"
             }
         },
         {
@@ -833,19 +699,13 @@
                 "Lfd Nummer": "GG-030",
                 "Name": "Familiengarten Kotti e.V.",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Oranienstraße 34",
                 "PLZ": "10999 Berlin",
                 "Bezirk": "Friedrichshain-Kreuzberg",
                 "Social Media": "https://kotti-berlin.de/stadtteilzentrum-familiengarten/",
                 "Kontakt": "kotti.neriman-kurt@online.de, info@generationengaerten.de",
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": "Planwerkstatt Generationengärten",
-                "Nutzung": null
+                "Träger": "Planwerkstatt Generationengärten"
             }
         },
         {
@@ -861,8 +721,6 @@
                 "Lfd Nummer": "GG-031",
                 "Name": "Familiengarten der Villa Nova",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Rauchstraße 66",
                 "PLZ": "13587 Berlin",
@@ -870,10 +728,8 @@
                 "Social Media": "http://www.kompaxx.de/index.php?id=62",
                 "Kontakt": "villanova@kompaxx.de",
                 "Seit wann": "2016",
-                "Flächengröße m2": null,
                 "Organisationsform": "Verein (e.V.)",
-                "Träger": "Kompaxx",
-                "Nutzung": null
+                "Träger": "Kompaxx"
             }
         },
         {
@@ -889,7 +745,6 @@
                 "Lfd Nummer": "GG-032",
                 "Name": "Fortuna KiezPark",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
                 "öffentlich zugänglich": "ja",
                 "Status": "Status unbekannt",
                 "Straße": "Schwarzburger Straße",
@@ -900,8 +755,7 @@
                 "Seit wann": "2010-2012",
                 "Flächengröße m2": "11000",
                 "Organisationsform": "eG",
-                "Träger": "Genossenschaft Fortuna eG ",
-                "Nutzung": null
+                "Träger": "Genossenschaft Fortuna eG "
             }
         },
         {
@@ -917,8 +771,6 @@
                 "Lfd Nummer": "GG-033",
                 "Name": "Frieda Süd",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "vertraglich befristet bestehend",
                 "Straße": "Friedrichstraße 18-19",
                 "PLZ": "10969 Berlin",
@@ -945,8 +797,6 @@
                 "Lfd Nummer": "GG-034",
                 "Name": "FrobenGarten",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Frobenstraße 6",
                 "PLZ": "10783 Berlin",
@@ -955,9 +805,7 @@
                 "Kontakt": "frobengarten@gmail.com, info@gruppef.com",
                 "Seit wann": "2018",
                 "Flächengröße m2": "600",
-                "Organisationsform": null,
-                "Träger": "Gruppe F landschaftsarchitekten?",
-                "Nutzung": null
+                "Träger": "Gruppe F landschaftsarchitekten?"
             }
         },
         {
@@ -973,16 +821,12 @@
                 "Lfd Nummer": "GG-035",
                 "Name": "Garten am Haus der Nachbarschafft",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Straße am Schoelerpark 37",
                 "PLZ": "10715 Berlin",
                 "Bezirk": "Charlottenburg-Wilmersdorf",
                 "Social Media": "https://www.nachbarschafft-ev.de",
                 "Kontakt": "info@nachbarschafft-ev.de",
-                "Seit wann": null,
-                "Flächengröße m2": null,
                 "Organisationsform": "eingetragener Verein (e.V.)",
                 "Träger": "Nachbarschafft e.V.",
                 "Nutzung": "Erholung, Sozialer Austausch, sonstige Nutzung(en)"
@@ -1001,8 +845,6 @@
                 "Lfd Nummer": "GG-036",
                 "Name": "Garten der Begegnung",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "vertraglich ungeregelt bestehend",
                 "Straße": "Ludwig-Renn-Straße 33b",
                 "PLZ": "12679 Berlin",
@@ -1029,19 +871,11 @@
                 "Lfd Nummer": "GG-037",
                 "Name": "Garten der FuudCoop der FU Berlin",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Schwedenerstraße 33",
                 "PLZ": "14195 Berlin",
                 "Bezirk": "Steglitz-Zehlendorf",
-                "Social Media": "https://fuudkorb.wordpress.com/",
-                "Kontakt": null,
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Social Media": "https://fuudkorb.wordpress.com/"
             }
         },
         {
@@ -1057,8 +891,6 @@
                 "Lfd Nummer": "GG-038",
                 "Name": "Garten der Hoffnung bustan-ul-amal",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Alfred-Randt-Straße 19",
                 "PLZ": "12559 Berlin",
@@ -1085,19 +917,12 @@
                 "Lfd Nummer": "GG-039",
                 "Name": "Garten der Länder",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Tirschenreuther Ring 14a",
                 "PLZ": "12279 Berlin",
                 "Bezirk": "Tempelhof-Schöneberg",
                 "Social Media": "https://www.waldsassener-strasse.de/Garten-der-Laender-Projektfonds-2015.1248.0.html",
-                "Kontakt": "Annette.Biernath@degewo.de",
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Kontakt": "Annette.Biernath@degewo.de"
             }
         },
         {
@@ -1113,8 +938,6 @@
                 "Lfd Nummer": "GG-040",
                 "Name": "Garten der Sinne",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "vertraglich unbefristet bestehend",
                 "Straße": "Wodanstraße 40",
                 "PLZ": "12623 Berlin",
@@ -1122,7 +945,6 @@
                 "Social Media": "www.ev-mittendrin.de/Garten_der_Sinne",
                 "Kontakt": "pr@ev-mittendrin.de",
                 "Seit wann": "2008",
-                "Flächengröße m2": null,
                 "Organisationsform": "eingetragener Verein (e.V.)",
                 "Träger": "MITTENDRIN leben e.V.",
                 "Nutzung": "Erholung, Anbau von Lebensmitteln, Bildung, sozialer Austausch"
@@ -1141,8 +963,6 @@
                 "Lfd Nummer": "GG-041",
                 "Name": "Garten Duett - Lichtgarten ",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Alter Markt 6  ",
                 "PLZ": "13088 Berlin",
@@ -1151,8 +971,6 @@
                 "Kontakt": "NadinFreitag@gmx.de",
                 "Seit wann": "2007",
                 "Flächengröße m2": "Schatteng: 600 / Lichtg: ?",
-                "Organisationsform": null,
-                "Träger": null,
                 "Nutzung": " "
             }
         },
@@ -1169,19 +987,12 @@
                 "Lfd Nummer": "GG-042",
                 "Name": "Garten Duett - Schattengarten",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Alter Markt 12",
                 "PLZ": "13088 Berlin",
                 "Bezirk": "Treptow-Köpenick",
                 "Social Media": "http://www.stadtkunstprojekte.de/projekte/kaiak/balto/balto.html",
-                "Kontakt": null,
-                "Seit wann": "2007",
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Seit wann": "2007"
             }
         },
         {
@@ -1197,19 +1008,13 @@
                 "Lfd Nummer": "GG-043",
                 "Name": "Garten im Naturschutzzentrum Ökowerk",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Teufelsseechaussee 22-24",
                 "PLZ": "14193 Berlin",
                 "Bezirk": "Charlottenburg-Wilmersdorf",
                 "Social Media": "https://www.oekowerk.de/oekowerk/unser-gelaende/",
                 "Kontakt": "info@oekowerk.de",
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": "Ökowerk Berlin e.V. - Ökologische Bildungs- und Tagungsstätte",
-                "Träger": null,
-                "Nutzung": null
+                "Organisationsform": "Ökowerk Berlin e.V. - Ökologische Bildungs- und Tagungsstätte"
             }
         },
         {
@@ -1225,19 +1030,13 @@
                 "Lfd Nummer": "GG-044",
                 "Name": "Gartenlabor Berlin-Neukölln",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Kannerstraße/Ecke Braunschweigerstraße 80",
                 "PLZ": "12055 Berlin",
                 "Bezirk": "Neukölln",
                 "Social Media": "https://www.trial-error.org/projektraum/gartenlabor/",
                 "Kontakt": "gartenlabor@trial-error.org",
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": "Kulturlabor Trial & Error",
-                "Nutzung": null
+                "Träger": "Kulturlabor Trial & Error"
             }
         },
         {
@@ -1253,8 +1052,6 @@
                 "Lfd Nummer": "GG-045",
                 "Name": "Gartenland am Beerenpfuhl",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Tangermünder Straße 26-28",
                 "PLZ": "12627 Berlin",
@@ -1264,8 +1061,7 @@
                 "Seit wann": "2006/7",
                 "Flächengröße m2": "3000",
                 "Organisationsform": "Verein (e.V.)",
-                "Träger": "Verein \"Gartenland am Beerenpfuhl e.V.\", QM Hellersdorfer Promenade",
-                "Nutzung": null
+                "Träger": "Verein \"Gartenland am Beerenpfuhl e.V.\", QM Hellersdorfer Promenade"
             }
         },
         {
@@ -1281,8 +1077,6 @@
                 "Lfd Nummer": "GG-046",
                 "Name": "Gemeinschaftsgarten Allmende-Kontor",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Oderstraße",
                 "PLZ": "12049 Berlin",
@@ -1309,19 +1103,11 @@
                 "Lfd Nummer": "GG-047",
                 "Name": "Gemeinschaftsgarten am Familienzentrum Mehringdamm",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Mehringdamm 114",
                 "PLZ": "10965 Berlin",
                 "Bezirk": "Friedrichshain-Kreuzberg",
-                "Social Media": null,
-                "Kontakt": "jeanine.fornacon@googlemail.com, familienzentrum-mehringdamm@pfh-berlin.de",
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Kontakt": "jeanine.fornacon@googlemail.com, familienzentrum-mehringdamm@pfh-berlin.de"
             }
         },
         {
@@ -1337,8 +1123,6 @@
                 "Lfd Nummer": "GG-048",
                 "Name": "Gemeinschaftsgarten am Hang",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "vertraglich unbefristet bestehend",
                 "Straße": "Berliner Straße 80 (in der Kleingartenanlage Hohenzollerndamm, Weidenweg 139)",
                 "PLZ": " 10713 Berlin",
@@ -1365,19 +1149,11 @@
                 "Lfd Nummer": "GG-049",
                 "Name": "Gemeinschaftsgarten an der Offenen Familienwohnung von Casablanca",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Kraepelinweg 17",
                 "PLZ": "13589 Berlin",
                 "Bezirk": "Spandau",
-                "Social Media": null,
-                "Kontakt": "dkreckel@g-casablanca.de, garten@klimawerkstatt-spandau.de",
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Kontakt": "dkreckel@g-casablanca.de, garten@klimawerkstatt-spandau.de"
             }
         },
         {
@@ -1393,8 +1169,6 @@
                 "Lfd Nummer": "GG-050",
                 "Name": "Gemeinschaftsgarten Biesdorf",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "vertraglich unbefristet bestehend",
                 "Straße": "Lötschbergstraße, Ecke Bruchgrabenweg",
                 "PLZ": "12683 Berlin",
@@ -1421,19 +1195,12 @@
                 "Lfd Nummer": "GG-051",
                 "Name": "Gemeinschaftsgarten Datsche",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Britzer Damm 54b",
                 "PLZ": "12347 Berlin",
                 "Bezirk": "Neukölln",
                 "Social Media": "http://permakulturdatsche.wordpress.com/",
-                "Kontakt": "datsche@riseup.net",
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Kontakt": "datsche@riseup.net"
             }
         },
         {
@@ -1449,14 +1216,10 @@
                 "Lfd Nummer": "GG-052",
                 "Name": "Gemeinschaftsgarten Graunstraße",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "vertraglich unbefristet bestehend",
                 "Straße": "Innenhof Graunstraße 29",
                 "PLZ": "13355 Berlin",
                 "Bezirk": "Mitte",
-                "Social Media": null,
-                "Kontakt": null,
                 "Seit wann": "2014",
                 "Flächengröße m2": "30",
                 "Organisationsform": "sonstige Organisationsform",
@@ -1477,14 +1240,10 @@
                 "Lfd Nummer": "GG-053",
                 "Name": "Gemeinschaftsgarten Großstraße",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "vertraglich unbefristet bestehend",
                 "Straße": "Großstraße 6",
                 "PLZ": "12459 Berlin",
                 "Bezirk": "Treptow-Köpenick",
-                "Social Media": null,
-                "Kontakt": null,
                 "Seit wann": "2017",
                 "Flächengröße m2": "30",
                 "Organisationsform": "sonstige Organisationsform",
@@ -1505,8 +1264,6 @@
                 "Lfd Nummer": "GG-054",
                 "Name": "Gemeinschaftsgarten Grüne Blase",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Blasewitzer Ring 28-34",
                 "PLZ": "13593 Berlin",
@@ -1515,9 +1272,7 @@
                 "Kontakt": "walther@gruppef.com, marie.gurke@web.de",
                 "Seit wann": "2015",
                 "Flächengröße m2": "600",
-                "Organisationsform": null,
-                "Träger": "Gruppe F Landschaftsarchitekten",
-                "Nutzung": null
+                "Träger": "Gruppe F Landschaftsarchitekten"
             }
         },
         {
@@ -1533,19 +1288,13 @@
                 "Lfd Nummer": "GG-055",
                 "Name": "Gemeinschaftsgarten Heerstraße Nord",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Blasewitzer Ring",
                 "PLZ": "13593 Berlin",
                 "Bezirk": "Spandau",
                 "Social Media": "https://www.staaken.info/projekt/gemeinschaftsgarten/",
-                "Kontakt": null,
                 "Seit wann": "2015",
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": "Gewobag WBG",
-                "Nutzung": null
+                "Träger": "Gewobag WBG"
             }
         },
         {
@@ -1561,19 +1310,12 @@
                 "Lfd Nummer": "GG-056",
                 "Name": "Gemeinschaftsgarten in der Buschallee",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Buschallee 91a-93a",
                 "PLZ": "13088 Berlin",
                 "Bezirk": "Pankow",
                 "Social Media": "http://www.das-leben-wagen.org/",
-                "Kontakt": "balling@snafu.de ",
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Kontakt": "balling@snafu.de "
             }
         },
         {
@@ -1589,17 +1331,11 @@
                 "Lfd Nummer": "GG-057",
                 "Name": "Gemeinschaftsgarten in der Kleingartenkolonie Potsdamer Güterbahnhof  POG",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Bülowstraße 68, Park am Gleisdreieck",
                 "PLZ": "10963 Berlin",
                 "Bezirk": "Friedrichshain-Kreuzberg",
                 "Social Media": "https://pog-berlin.de/",
-                "Kontakt": null,
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
                 "Träger": "Kleingartenkolonie Potsdamer Güterbahnhof  POG",
                 "Nutzung": "  "
             }
@@ -1617,8 +1353,6 @@
                 "Lfd Nummer": "GG-058",
                 "Name": "Gemeinschaftsgarten Karma Kultur Garten",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Böhmische Straße 30a",
                 "PLZ": "12055 Berlin",
@@ -1626,10 +1360,7 @@
                 "Social Media": "https://www.facebook.com/karmakulturgarten/",
                 "Kontakt": "hello@karma-kultur.de",
                 "Seit wann": "2017",
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": "Karma Kultur e.V.",
-                "Nutzung": null
+                "Träger": "Karma Kultur e.V."
             }
         },
         {
@@ -1645,8 +1376,6 @@
                 "Lfd Nummer": "GG-059",
                 "Name": "Gemeinschaftsgarten Kraut & Rüben",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Murtzaner Ring 15",
                 "PLZ": "12681 Berlin",
@@ -1673,8 +1402,6 @@
                 "Lfd Nummer": "GG-060",
                 "Name": "Gemeinschaftsgarten Neustadtoasen Mittelstraße",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "unbefristet bestehend",
                 "Straße": "Mittelstraße 1620",
                 "PLZ": "13585 Berlin",
@@ -1682,10 +1409,7 @@
                 "Social Media": "http://neustadtoasen.de/",
                 "Kontakt": "team@neustadtoasen.de, jeanine.fornacon@googlemail.com",
                 "Seit wann": "2012",
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": "Kompaxx",
-                "Nutzung": null
+                "Träger": "Kompaxx"
             }
         },
         {
@@ -1701,8 +1425,6 @@
                 "Lfd Nummer": "GG-061",
                 "Name": "Gemeinschaftsgarten Niemandsland",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Bernauer Straße 4",
                 "PLZ": "10115 Berlin",
@@ -1729,19 +1451,11 @@
                 "Lfd Nummer": "GG-062",
                 "Name": "Gemeinschaftsgarten Ohlauer Straße ",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Ohlauer Straße 22",
                 "PLZ": "10999 Berlin",
                 "Bezirk": "Friedrichshain-Kreuzberg",
-                "Social Media": null,
-                "Kontakt": "Kevin.Eggebrecht@johanniter.de",
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Kontakt": "Kevin.Eggebrecht@johanniter.de"
             }
         },
         {
@@ -1757,8 +1471,6 @@
                 "Lfd Nummer": "GG-063",
                 "Name": "Gemeinschaftsgarten Prachttomate",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Bornsdorfer Straße 9-11",
                 "PLZ": "12053 Berlin",
@@ -1766,10 +1478,7 @@
                 "Social Media": "http://www.prachttomate.de/",
                 "Kontakt": "stadtraumkultur@googlemail.com ",
                 "Seit wann": "2011",
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": "netzwerk stadtraumkultur e.V.",
-                "Nutzung": null
+                "Träger": "netzwerk stadtraumkultur e.V."
             }
         },
         {
@@ -1785,15 +1494,11 @@
                 "Lfd Nummer": "GG-064",
                 "Name": "Gemeinschaftsgarten Ramlerstraße",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "vertraglich unbefristet bestehend",
                 "Straße": "Innenhof Ramlerstraße 5",
                 "PLZ": "13355 Berlin",
                 "Bezirk": "Mitte",
-                "Social Media": null,
                 "Kontakt": "beatrix.viergott@degewo.de",
-                "Seit wann": null,
                 "Flächengröße m2": "150",
                 "Organisationsform": "sonstige Organisationsform",
                 "Träger": "Mieter:innen der degewo in Selbstverwaltung",
@@ -1813,8 +1518,6 @@
                 "Lfd Nummer": "GG-065",
                 "Name": "Gemeinschaftsgarten Rote Beete",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Müllerstraße 74",
                 "PLZ": "13349 Berlin",
@@ -1822,10 +1525,8 @@
                 "Social Media": "https://centre-francais.de/de/gemeinschaftsgaerten-und-bienen/ https://www.facebook.com/RoteBeeteGemGa/  oder https://www.instagram.com/rotebeeteberlin/",
                 "Kontakt": "gaerten@centre-francais.de",
                 "Seit wann": "2017",
-                "Flächengröße m2": null,
                 "Organisationsform": "gGmbH",
-                "Träger": "Centre Français",
-                "Nutzung": null
+                "Träger": "Centre Français"
             }
         },
         {
@@ -1841,19 +1542,14 @@
                 "Lfd Nummer": "GG-066",
                 "Name": "Gemeinschaftsgarten Rübezahl",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Oderstraße",
                 "PLZ": "12059 Berlin",
                 "Bezirk": "Neukölln",
                 "Social Media": "http://www.ruebezahl-tempelhof.de",
                 "Kontakt": "info@ruebezahl-tempelhof.de",
-                "Seit wann": null,
                 "Flächengröße m2": "600",
-                "Organisationsform": null,
-                "Träger": "Rübezahl Gemeinschaftsgarten gemeinnütziger e.V.",
-                "Nutzung": null
+                "Träger": "Rübezahl Gemeinschaftsgarten gemeinnütziger e.V."
             }
         },
         {
@@ -1869,14 +1565,10 @@
                 "Lfd Nummer": "GG-067",
                 "Name": "Gemeinschaftsgarten Swinemünder Straße",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "vertraglich unbefristet bestehend",
                 "Straße": "Innenhof Swinemünder Straße 26",
                 "PLZ": "13355 Berlin",
                 "Bezirk": "Mitte",
-                "Social Media": null,
-                "Kontakt": null,
                 "Seit wann": "2011",
                 "Flächengröße m2": "70",
                 "Organisationsform": "sonstige Organisationsform",
@@ -1897,14 +1589,10 @@
                 "Lfd Nummer": "GG-068",
                 "Name": "Gemeinschaftsgarten Usedomer/ Wattstraße",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "vertraglich unbefristet bestehend",
                 "Straße": "Innenhof Usedomer Straße 25-27/ Wattstraße 21",
                 "PLZ": "13355 Berlin",
                 "Bezirk": "Mitte",
-                "Social Media": null,
-                "Kontakt": null,
                 "Seit wann": "2019",
                 "Flächengröße m2": "40",
                 "Organisationsform": "sonstige Organisationsform",
@@ -1925,8 +1613,6 @@
                 "Lfd Nummer": "GG-069",
                 "Name": "Gemeinschaftsgarten Wachsen lassen im Familiengarten Mitte",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Kluckstraße 11",
                 "PLZ": "10785 Berlin",
@@ -1934,10 +1620,7 @@
                 "Social Media": "https://wachsenlassen.wordpress.com/",
                 "Kontakt": "wachsenlassen@web.de",
                 "Seit wann": "2010",
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": "Stadtteilverein Tiergarten Süd e.V.",
-                "Nutzung": null
+                "Träger": "Stadtteilverein Tiergarten Süd e.V."
             }
         },
         {
@@ -1953,19 +1636,13 @@
                 "Lfd Nummer": "GG-070",
                 "Name": "Gemeinschaftsgarten Zehlenwandler",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Stewardstraße/Am Waldfriedhof",
                 "PLZ": "14169 Berlin",
                 "Bezirk": "Steglitz-Zehlendorf",
                 "Social Media": "https://zehlenwandel.wordpress.com/gemeinschaftsgarten/",
                 "Kontakt": "zehlenwandel@gmail.com",
-                "Seit wann": "2014",
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Seit wann": "2014"
             }
         },
         {
@@ -1981,19 +1658,12 @@
                 "Lfd Nummer": "GG-071",
                 "Name": "Gemeinschaftsunterkunft Blume",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Blumberger Damm 163-165",
                 "PLZ": "12685 Berlin",
                 "Bezirk": "Marzahn-Hellersdorf",
                 "Social Media": "https://www.prisod.de/index.php/projekte/180-ein-interkultureller-garten-fuer-alle",
-                "Kontakt": null,
-                "Seit wann": "2017",
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Seit wann": "2017"
             }
         },
         {
@@ -2009,8 +1679,6 @@
                 "Lfd Nummer": "GG-072",
                 "Name": "Gemüsegarten im OTTO-Spielplatz",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Alt-Moabit 34",
                 "PLZ": "10555 Berlin",
@@ -2018,10 +1686,7 @@
                 "Social Media": "https://moabiter-ratschlag.de/otto-spielplatz/",
                 "Kontakt": "info@moabiter-ratschlag.de",
                 "Seit wann": "2015",
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": "Moabiter Ratschlag e.V.",
-                "Nutzung": null
+                "Träger": "Moabiter Ratschlag e.V."
             }
         },
         {
@@ -2037,19 +1702,13 @@
                 "Lfd Nummer": "GG-073",
                 "Name": "Generationengarten AWO Begegnungszentrum",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Adalbertstraße 23a",
                 "PLZ": "10997 Berlin",
                 "Bezirk": "Friedrichshain-Kreuzberg",
                 "Social Media": " ",
                 "Kontakt": "info@generationengaerten.de",
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": "Planwerkstatt Generationengärten",
-                "Nutzung": null
+                "Träger": "Planwerkstatt Generationengärten"
             }
         },
         {
@@ -2065,19 +1724,14 @@
                 "Lfd Nummer": "GG-074",
                 "Name": "Generationengarten Boseclub",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Bosestraße 6",
                 "PLZ": "12103 Berlin",
                 "Bezirk": "Tempelhof-Schöneberg",
                 "Social Media": "https://nusz.de/kinder-jugend/boseclub/",
                 "Kontakt": "boseclub@nusz.de",
-                "Seit wann": null,
                 "Flächengröße m2": "300",
-                "Organisationsform": null,
-                "Träger": "Generationengarten Boseclub",
-                "Nutzung": null
+                "Träger": "Generationengarten Boseclub"
             }
         },
         {
@@ -2093,19 +1747,13 @@
                 "Lfd Nummer": "GG-075",
                 "Name": "Generationengarten Nachbarschaftshaus Centrum e.V. oder Kiezanker 36",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Cuvrystraße 13-14",
                 "PLZ": "10997 Berlin",
                 "Bezirk": "Friedrichshain-Kreuzberg",
                 "Social Media": "http://familienzentrum-wrangelkiez.de/kategorie/themen/garten/",
                 "Kontakt": "info@generationengaerten.de",
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": "Planwerkstatt Generationengärten",
-                "Nutzung": null
+                "Träger": "Planwerkstatt Generationengärten"
             }
         },
         {
@@ -2121,19 +1769,12 @@
                 "Lfd Nummer": "GG-076",
                 "Name": "Generationengarten Paul Gerhard Stift",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Müllerstraße 56-58",
                 "PLZ": "13349 Berlin",
                 "Bezirk": "Mitte",
-                "Social Media": null,
                 "Kontakt": "info@generationengaerten.de",
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": "Planwerkstatt Generationengärten",
-                "Nutzung": null
+                "Träger": "Planwerkstatt Generationengärten"
             }
         },
         {
@@ -2149,19 +1790,13 @@
                 "Lfd Nummer": "GG-077",
                 "Name": "Generationengarten Pestalozzi-Treff",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Pestalozzistraße 1a",
                 "PLZ": "12623 Berlin",
                 "Bezirk": "Marzahn-Hellersdorf",
                 "Social Media": "https://humanistisch.de/x/stz-pestalozzi/inhalte/generationengarten",
                 "Kontakt": "info@generationengaerten.de",
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": "Planwerkstatt Generationengärten",
-                "Nutzung": null
+                "Träger": "Planwerkstatt Generationengärten"
             }
         },
         {
@@ -2177,19 +1812,14 @@
                 "Lfd Nummer": "GG-078",
                 "Name": "Generationengarten Mehrgenerationenhaus Phoenix",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Teltower Damm 228",
                 "PLZ": "14167 Berlin",
                 "Bezirk": "Steglitz-Zehlendorf",
                 "Social Media": "https://www.mittelhof.org/angebote/gartengruppe/",
                 "Kontakt": "mgh@mittelhof.org",
-                "Seit wann": null,
-                "Flächengröße m2": null,
                 "Organisationsform": "Verein (e.V.)",
-                "Träger": "Mittelhof e.V.",
-                "Nutzung": null
+                "Träger": "Mittelhof e.V."
             }
         },
         {
@@ -2205,19 +1835,12 @@
                 "Lfd Nummer": "GG-079",
                 "Name": "Generationengarten Tessa e.V.",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Lipschitzallee 80",
                 "PLZ": "12353 Berlin",
                 "Bezirk": "Neukölln ",
-                "Social Media": null,
                 "Kontakt": "shkgropiusstadt@t-online.de, info@generationengaerten.de",
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": "Planwerkstatt Generationengärten / Selbsthilfe- und Stadtteilzentrum Neukölln Süd, Gesundheitszentrum Gropiusstadt e. V",
-                "Nutzung": null
+                "Träger": "Planwerkstatt Generationengärten / Selbsthilfe- und Stadtteilzentrum Neukölln Süd, Gesundheitszentrum Gropiusstadt e. V"
             }
         },
         {
@@ -2233,19 +1856,13 @@
                 "Lfd Nummer": "GG-080",
                 "Name": "Generationengarten Villa Folke Bernadotte",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Jungfernstieg 19",
                 "PLZ": "12207 Berlin",
                 "Bezirk": "Steglitz-Zehlendorf",
                 "Social Media": "https://www.mittelhof.org/villa-folke-bernadotte/",
                 "Kontakt": "folke.bernadotte@mittelhof.org",
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": "Mittelhof e.V.",
-                "Nutzung": null
+                "Träger": "Mittelhof e.V."
             }
         },
         {
@@ -2261,19 +1878,13 @@
                 "Lfd Nummer": "GG-081",
                 "Name": "Generationengarten Villa Mittelhof",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Königstraße 42-43",
                 "PLZ": "14163 Berlin",
                 "Bezirk": "Steglitz-Zehlendorf",
                 "Social Media": "https://www.mittelhof.org/villa-mittelhof/",
                 "Kontakt": " villa@mittelhof.org, info@generationengaerten.de",
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": "Mittelhof e.V.",
-                "Nutzung": null
+                "Träger": "Mittelhof e.V."
             }
         },
         {
@@ -2289,19 +1900,14 @@
                 "Lfd Nummer": "GG-082",
                 "Name": "Generationengarten Wrangelkiez in der Begegnungsstätte Falckensteinstraße",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Falckensteinstr. 6",
                 "PLZ": "10997 Berlin",
                 "Bezirk": "Friedrichshain-Kreuzberg",
                 "Social Media": "http://falckensteinstrasse.de/",
                 "Kontakt": "begegnungsstaette@falckensteinstrasse.de",
-                "Seit wann": null,
                 "Flächengröße m2": "80",
-                "Organisationsform": null,
-                "Träger": "Seniorenfreizeitstätte Falkensteinstraße",
-                "Nutzung": null
+                "Träger": "Seniorenfreizeitstätte Falkensteinstraße"
             }
         },
         {
@@ -2317,8 +1923,6 @@
                 "Lfd Nummer": "GG-083",
                 "Name": "Geo G.E.M.U.E.S.E. Garten",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "vertraglich ungeregelt bestehend",
                 "Straße": "Malteserstraße 74",
                 "PLZ": "12249 Berlin",
@@ -2327,9 +1931,7 @@
                 "Kontakt": "lisajohann@zedat.fu-berlin.de",
                 "Seit wann": "2017",
                 "Flächengröße m2": "150",
-                "Organisationsform": null,
-                "Träger": "Geo Campus Lankwitz",
-                "Nutzung": null
+                "Träger": "Geo Campus Lankwitz"
             }
         },
         {
@@ -2345,7 +1947,6 @@
                 "Lfd Nummer": "GG-084",
                 "Name": "GleisBeet",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
                 "öffentlich zugänglich": "ja",
                 "Status": "vertraglich befristet bestehend",
                 "Straße": "Helsingforser Straße 29",
@@ -2373,19 +1974,13 @@
                 "Lfd Nummer": "GG-085",
                 "Name": "Glogauer 13",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Glogauer Straße 13",
                 "PLZ": "10999 Berlin",
                 "Bezirk": "Friedrichshain-Kreuzberg",
                 "Social Media": "http://glogauer13.wordpress.com/",
                 "Kontakt": "glogauer13@lists.riseup.net",
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": "common grounds e.V.",
-                "Nutzung": null
+                "Träger": "common grounds e.V."
             }
         },
         {
@@ -2401,19 +1996,13 @@
                 "Lfd Nummer": "GG-086",
                 "Name": "Grabelandparzellen Oberweißbacher Straße",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
                 "öffentlich zugänglich": "ja",
                 "Status": "Status unbekannt",
                 "Straße": "Oberweißbacher Straße 12-14",
                 "PLZ": "12687 Berlin",
                 "Bezirk": "Marzahn-Hellersdorf",
-                "Social Media": null,
-                "Kontakt": null,
                 "Seit wann": "2004",
-                "Flächengröße m2": "2000",
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Flächengröße m2": "2000"
             }
         },
         {
@@ -2429,8 +2018,6 @@
                 "Lfd Nummer": "GG-087",
                 "Name": "Grüne Weiten",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Wönnichstraße 104",
                 "PLZ": "10317 Berlin",
@@ -2457,8 +2044,6 @@
                 "Lfd Nummer": "GG-088",
                 "Name": "Gutsgarten Hellersdorf",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Alt Hellersdorf 17",
                 "PLZ": "12629 Berlin",
@@ -2466,10 +2051,8 @@
                 "Social Media": "https://guthellersdorf.net/ueber/",
                 "Kontakt": "gartenbau@prinzessinnengarten.net",
                 "Seit wann": "2016",
-                "Flächengröße m2": null,
                 "Organisationsform": " ",
-                "Träger": " ",
-                "Nutzung": null
+                "Träger": " "
             }
         },
         {
@@ -2485,8 +2068,6 @@
                 "Lfd Nummer": "GG-089",
                 "Name": "Heilegarten",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "akut bedroht",
                 "Straße": "Pankgrafenstraße 12d",
                 "PLZ": "13125 Berlin",
@@ -2495,9 +2076,7 @@
                 "Kontakt": "thomas.bochmann@pankgraefin.de",
                 "Seit wann": "2017",
                 "Flächengröße m2": "1000",
-                "Organisationsform": null,
-                "Träger": "Die Pankgräfin e.V.",
-                "Nutzung": null
+                "Träger": "Die Pankgräfin e.V."
             }
         },
         {
@@ -2513,7 +2092,6 @@
                 "Lfd Nummer": "GG-090",
                 "Name": "Himmelbeet",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
                 "öffentlich zugänglich": "ja",
                 "Status": "vertraglich befristet bestehend",
                 "Straße": "Gartenstraße / Ecke Grenzstaße",
@@ -2541,19 +2119,10 @@
                 "Lfd Nummer": "GG-091",
                 "Name": "Hofgemeinschaftsgarten",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Königin-Elisabeth-Straße 33",
                 "PLZ": "14059 Berlin",
-                "Bezirk": "Charlottenburg-Wilmersdorf",
-                "Social Media": null,
-                "Kontakt": null,
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Bezirk": "Charlottenburg-Wilmersdorf"
             }
         },
         {
@@ -2569,19 +2138,13 @@
                 "Lfd Nummer": "GG-092",
                 "Name": "Inklusiver Kräutergarten am Haus der Lebenshilfe",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Dohnagestell 10",
                 "PLZ": "13351 Berlin",
                 "Bezirk": "Mitte",
                 "Social Media": "https://himmelbeet.de/projekt/kr%C3%A4utervielfalt-am-dohnagestell",
                 "Kontakt": "elleboudtromain@himmelbeet.de",
-                "Seit wann": "2016",
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Seit wann": "2016"
             }
         },
         {
@@ -2597,19 +2160,13 @@
                 "Lfd Nummer": "GG-093",
                 "Name": "InselGarten Berlin-Schöneberg",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Cheruskerstraße 2",
                 "PLZ": "10829 Berlin",
                 "Bezirk": "Tempelhof-Schöneberg",
                 "Social Media": "https://ueberdentellerrand.org/inselgarten/ https://de-de.facebook.com/roteinselgarten/",
                 "Kontakt": "inselgarten@ueberdentellerrand.org",
-                "Seit wann": "2016",
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Seit wann": "2016"
             }
         },
         {
@@ -2625,19 +2182,11 @@
                 "Lfd Nummer": "GG-094",
                 "Name": "Interkultureller Bio-Garten",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Prinzenstraße 23",
                 "PLZ": "10969 Berlin",
                 "Bezirk": "Friedrichshain-Kreuzberg",
-                "Social Media": null,
-                "Kontakt": null,
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": "Türkisch-Deutsches Umweltzentrum",
-                "Nutzung": null
+                "Träger": "Türkisch-Deutsches Umweltzentrum"
             }
         },
         {
@@ -2653,19 +2202,15 @@
                 "Lfd Nummer": "GG-095",
                 "Name": "Interkultureller Garten Berlin-Altglienicke",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Rudower Straße 51",
                 "PLZ": "12557 Berlin",
                 "Bezirk": "Treptow-Köpenick",
-                "Social Media": null,
                 "Kontakt": "artur.ebert.20@googlemail.com, buero@agenda21-treptow-koepenick.de",
                 "Seit wann": "2007",
                 "Flächengröße m2": "3000",
                 "Organisationsform": "Verein (e.V.)",
-                "Träger": "Förderverein Lokale Agenda 21 Treptow-Köpenick e.V., AG Interkultureller Garten Altglienicke",
-                "Nutzung": null
+                "Träger": "Förderverein Lokale Agenda 21 Treptow-Köpenick e.V., AG Interkultureller Garten Altglienicke"
             }
         },
         {
@@ -2681,8 +2226,6 @@
                 "Lfd Nummer": "GG-096",
                 "Name": "Interkultureller Garten Marzahn",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Golliner Straße 11",
                 "PLZ": "12689 Berlin",
@@ -2692,8 +2235,7 @@
                 "Seit wann": "2005",
                 "Flächengröße m2": "5630",
                 "Organisationsform": "Verein (e.V.)",
-                "Träger": "Interkultureller Garten Marzahn e.V.",
-                "Nutzung": null
+                "Träger": "Interkultureller Garten Marzahn e.V."
             }
         },
         {
@@ -2709,8 +2251,6 @@
                 "Lfd Nummer": "GG-097",
                 "Name": "Interkultureller Garten Bunte Beete",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Zeughofstraße 24",
                 "PLZ": "10997 Berlin",
@@ -2719,9 +2259,7 @@
                 "Kontakt": "buntebeete@gmail.com",
                 "Seit wann": "2004",
                 "Flächengröße m2": "1200",
-                "Organisationsform": null,
-                "Träger": "Bunte Beete e.V. - Interkultureller Garten Berlin-Kreuzberg",
-                "Nutzung": null
+                "Träger": "Bunte Beete e.V. - Interkultureller Garten Berlin-Kreuzberg"
             }
         },
         {
@@ -2737,8 +2275,6 @@
                 "Lfd Nummer": "GG-098",
                 "Name": "Interkultureller Garten City",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "vertraglich ungeregelt bestehend",
                 "Straße": "Lützowstraße 28",
                 "PLZ": "10785 Berlin",
@@ -2765,8 +2301,6 @@
                 "Lfd Nummer": "GG-099",
                 "Name": "Interkultureller Garten der Generationen Berlin-Mitte",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Seestraße 74, Scharnweberstraße 159",
                 "PLZ": "13347 Berlin",
@@ -2775,9 +2309,7 @@
                 "Kontakt": "info@suz-mitte.de, fuhrmann@suz-mitte.de",
                 "Seit wann": "2015",
                 "Flächengröße m2": "2000",
-                "Organisationsform": null,
-                "Träger": "Schul-Umwelt-Zentrum Mitte von Berlin",
-                "Nutzung": null
+                "Träger": "Schul-Umwelt-Zentrum Mitte von Berlin"
             }
         },
         {
@@ -2793,19 +2325,14 @@
                 "Lfd Nummer": "GG-100",
                 "Name": "Interkultureller Garten der Künste",
                 "Gartentyp": "beendeter Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "beendet",
                 "Straße": "Pallasstraße 7",
                 "PLZ": "10781 Berlin",
                 "Bezirk": "Tempelhof-Schöneberg",
-                "Social Media": null,
                 "Kontakt": "stadtraumkultur@googlemail.com, pallasgaerten@gmx.de",
                 "Seit wann": "2009",
-                "Flächengröße m2": null,
                 "Organisationsform": "Verein (e.V.)",
-                "Träger": "netzwerk stadtraumkultur e.V. ",
-                "Nutzung": null
+                "Träger": "netzwerk stadtraumkultur e.V. "
             }
         },
         {
@@ -2821,19 +2348,12 @@
                 "Lfd Nummer": "GG-101",
                 "Name": "Interkultureller Garten der Poesie - Interkultureller Garten Rixdorf",
                 "Gartentyp": "beendeter Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "beendet",
                 "Straße": "Kirchgasse 5",
                 "PLZ": "12043 Berlin",
                 "Bezirk": "Neukölln",
-                "Social Media": null,
                 "Kontakt": "manal-9@live.de",
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": "netzwerk stadtraumkultur e.V",
-                "Nutzung": null
+                "Träger": "netzwerk stadtraumkultur e.V"
             }
         },
         {
@@ -2849,19 +2369,12 @@
                 "Lfd Nummer": "GG-102",
                 "Name": "Interkultureller Garten Hermsdorfer Fließtal Naturfreundehaus",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Seebadstraße 26a",
                 "PLZ": "13467 Berlin",
                 "Bezirk": "Reinickendorf",
-                "Social Media": null,
                 "Kontakt": "nfh-hermsdorf@naturfreunde-berlin.de",
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": "Naturfreunde e.V.",
-                "Nutzung": null
+                "Träger": "Naturfreunde e.V."
             }
         },
         {
@@ -2877,19 +2390,13 @@
                 "Lfd Nummer": "GG-103",
                 "Name": "Interkultureller Garten im Görlitzer Park",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Wiener Straße 59b",
                 "PLZ": "10999 Berlin",
                 "Bezirk": "Friedrichshain-Kreuzberg",
-                "Social Media": null,
                 "Kontakt": "goerlikinderbauernhof@gmx.de",
-                "Seit wann": null,
                 "Flächengröße m2": "200",
-                "Organisationsform": null,
-                "Träger": "Türkisch-Deutsches Zentrum e.V. / Türkisch-Deutsches Umweltzentrum",
-                "Nutzung": null
+                "Träger": "Türkisch-Deutsches Zentrum e.V. / Türkisch-Deutsches Umweltzentrum"
             }
         },
         {
@@ -2905,19 +2412,14 @@
                 "Lfd Nummer": "GG-104",
                 "Name": "Interkultureller Garten Berlin-Lichtenberg ",
                 "Gartentyp": "beendeter Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "beendet",
                 "Straße": "Liebenwalder Straße 12-18",
                 "PLZ": "13055 Berlin",
                 "Bezirk": "Lichtenberg",
                 "Social Media": "http://www.sozdia.de/Interkultureller-Garten.484.0.html",
                 "Kontakt": "interkulturellergarten@sozdia.de",
-                "Seit wann": null,
                 "Flächengröße m2": "13000",
-                "Organisationsform": null,
-                "Träger": "Sozialdiakonische Jugendarbeit Lichtenberg e.V.",
-                "Nutzung": null
+                "Träger": "Sozialdiakonische Jugendarbeit Lichtenberg e.V."
             }
         },
         {
@@ -2933,19 +2435,13 @@
                 "Lfd Nummer": "GG-105",
                 "Name": "Interkultureller Garten Mitte Museum am Gesundbrunnen",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Pankstraße 47",
                 "PLZ": "13357 Berlin",
                 "Bezirk": "Mitte",
-                "Social Media": null,
                 "Kontakt": "ikg@mittemuseum.de",
                 "Seit wann": "2009",
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": "Interessengemeínschaft Interkultureller Garten Mitte Museum am Gesundbrunnen",
-                "Nutzung": null
+                "Träger": "Interessengemeínschaft Interkultureller Garten Mitte Museum am Gesundbrunnen"
             }
         },
         {
@@ -2961,19 +2457,13 @@
                 "Lfd Nummer": "GG-106",
                 "Name": "Interkultureller Garten Oberschöneweide",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Kottmeierstraße 2-4",
                 "PLZ": "12459 Berlin",
                 "Bezirk": "Treptow-Köpenick",
-                "Social Media": null,
                 "Kontakt": " ahmad-isa@arcor.de",
                 "Seit wann": "2005",
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": "ISA Indische Solidaritätsaktion e.V",
-                "Nutzung": null
+                "Träger": "ISA Indische Solidaritätsaktion e.V"
             }
         },
         {
@@ -2989,14 +2479,11 @@
                 "Lfd Nummer": "GG-107",
                 "Name": "Interkultureller Garten Perivoli",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "befristet bestehend",
                 "Straße": "Koppelweg 10",
                 "PLZ": "12347 Berlin",
                 "Bezirk": "Neukölln",
                 "Social Media": "https://perivoli.jimdofree.com/",
-                "Kontakt": null,
                 "Seit wann": "2002",
                 "Flächengröße m2": "3500",
                 "Organisationsform": "Verein (e.V.)",
@@ -3017,8 +2504,6 @@
                 "Lfd Nummer": "GG-108",
                 "Name": "Interkultureller Garten Rosenduft",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Möckernstraße 26, Park am Gleisdreieck",
                 "PLZ": "10963 Berlin",
@@ -3045,19 +2530,10 @@
                 "Lfd Nummer": "GG-109",
                 "Name": "Interkultureller Garten Wrangelstraße",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Wrangelstraße 98",
                 "PLZ": "10997 Berlin",
-                "Bezirk": "Friedrichshain-Kreuzberg",
-                "Social Media": null,
-                "Kontakt": null,
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -3073,8 +2549,6 @@
                 "Lfd Nummer": "GG-110",
                 "Name": "Interkultureller Garten Wuhlegarten Berlin-Köpenick",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Cardinalplatz 1c",
                 "PLZ": "12555 Berlin",
@@ -3083,9 +2557,7 @@
                 "Kontakt": "info@wuhlegarten.de",
                 "Seit wann": "2003",
                 "Flächengröße m2": "5000",
-                "Organisationsform": null,
-                "Träger": "Wuhlegarten Interkultureller Garten Berlin  Köpenick e.V.",
-                "Nutzung": null
+                "Träger": "Wuhlegarten Interkultureller Garten Berlin  Köpenick e.V."
             }
         },
         {
@@ -3101,8 +2573,6 @@
                 "Lfd Nummer": "GG-111",
                 "Name": "Interkultureller Garten 103+",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "vertraglich unbefristet bestehend",
                 "Straße": "Tempelhofer Damm 103",
                 "PLZ": "12099 Berlin",
@@ -3129,8 +2599,6 @@
                 "Lfd Nummer": "GG-112",
                 "Name": "Interkultureller Gemeinschaftsgarten Garten-Buch",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "akut bedroht",
                 "Straße": "Groscurthstraße 33",
                 "PLZ": "13125 Berlin",
@@ -3157,19 +2625,14 @@
                 "Lfd Nummer": "GG-113",
                 "Name": "Interkultureller Gemeinschaftsgarten Gatow",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Gatower Straße 199",
                 "PLZ": "13595 Berlin",
                 "Bezirk": "Spandau",
-                "Social Media": null,
                 "Kontakt": "jennifer-linn.schreiter@sos-kinderdorf.de",
                 "Seit wann": "2016",
                 "Flächengröße m2": "1000",
-                "Organisationsform": null,
-                "Träger": "SOS-Kinderdorf e.V.",
-                "Nutzung": null
+                "Träger": "SOS-Kinderdorf e.V."
             }
         },
         {
@@ -3185,19 +2648,13 @@
                 "Lfd Nummer": "GG-114",
                 "Name": "Interkultureller Gemeinschaftsgarten an der Jeremia-Kirche",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Burbacher Weg 3",
                 "PLZ": "13583 Berlin",
                 "Bezirk": "Spandau",
                 "Social Media": " ",
                 "Kontakt": "mi.fleischhauer@web.de, michaelfly@web.de",
-                "Seit wann": "2007",
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Seit wann": "2007"
             }
         },
         {
@@ -3213,17 +2670,13 @@
                 "Lfd Nummer": "GG-115",
                 "Name": "Interkultureller Generationengarten Blohmgarten",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Blohmstraße 71-73",
                 "PLZ": "12307 Berlin",
                 "Bezirk": "Tempelhof-Schöneberg",
-                "Social Media": null,
                 "Kontakt": "generationengarten@nusz.de, IKGG@nusz.de",
                 "Seit wann": "2009",
                 "Flächengröße m2": "5000",
-                "Organisationsform": null,
                 "Träger": "Nachbarschafts- und Selbsthilfezentrum in der ufaFabrik e. V",
                 "Nutzung": " "
             }
@@ -3241,8 +2694,6 @@
                 "Lfd Nummer": "GG-116",
                 "Name": "Interkultureller Generationengarten der Zufluchtgemeinde Falkenhagener Feld Ost",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Westerwaldstraße 16",
                 "PLZ": "13589 Berlin",
@@ -3250,10 +2701,7 @@
                 "Social Media": "https://zuflucht-jeremia-gemeinde.de/gaertnern/",
                 "Kontakt": "garten@klimawerkstatt-spandau.de",
                 "Seit wann": "2013",
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": "KlimaWerkStatt Spandau",
-                "Nutzung": null
+                "Träger": "KlimaWerkStatt Spandau"
             }
         },
         {
@@ -3269,19 +2717,13 @@
                 "Lfd Nummer": "GG-117",
                 "Name": "Interkultureller Heilgarten Berlin-Moabit",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Turmstraße 21",
                 "PLZ": "10559 Berlin",
                 "Bezirk": "Mitte",
                 "Social Media": "https://www.ueberleben.org/unsere-arbeit/schwerpunkte/gartentherapie/",
                 "Kontakt": "r.rohner@bzfo.de,  info@bzfo.de",
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": "Behandlungszentrums für Folteropfer e.V. (bzfo)",
-                "Nutzung": null
+                "Träger": "Behandlungszentrums für Folteropfer e.V. (bzfo)"
             }
         },
         {
@@ -3297,8 +2739,6 @@
                 "Lfd Nummer": "GG-118",
                 "Name": "Interkultureller Kiez-Garten",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Friedrichstraße 2",
                 "PLZ": "10969 Berlin",
@@ -3306,8 +2746,6 @@
                 "Social Media": "https://kma-ev.de/index.php?id=20",
                 "Kontakt": "info@kma-antenne.de, info@intihaus.de",
                 "Seit wann": "2011",
-                "Flächengröße m2": null,
-                "Organisationsform": null,
                 "Träger": "Kreuzberger Musikalische Aktion e.V.",
                 "Nutzung": "sozialer Austausch"
             }
@@ -3325,19 +2763,14 @@
                 "Lfd Nummer": "GG-119",
                 "Name": "Interkultureller Nachbarschaftsgarten am Mariannenplatz Ton Steine Gärten",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Mariannenplatz 1A",
                 "PLZ": "10997 Berlin",
                 "Bezirk": "Friedrichshain-Kreuzberg",
                 "Social Media": "http://gaerten-am-mariannenplatz.blogspot.com/",
                 "Kontakt": "tonsteinegaerten@gmx.de",
-                "Seit wann": null,
                 "Flächengröße m2": "1000",
-                "Organisationsform": null,
-                "Träger": "Ton Steine Gärten e.V.",
-                "Nutzung": null
+                "Träger": "Ton Steine Gärten e.V."
             }
         },
         {
@@ -3353,8 +2786,6 @@
                 "Lfd Nummer": "GG-120",
                 "Name": "Jugend- und Familienfarm Lübars - Alte Fasanerie",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Fasanerie 10",
                 "PLZ": "13469 Berlin",
@@ -3362,10 +2793,7 @@
                 "Social Media": "http://www.alte-fasanerie-luebars.de/",
                 "Kontakt": "altefasanerie@elisabethstift-berlin.de",
                 "Seit wann": "1978",
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": "Elisabethstift Berlin ",
-                "Nutzung": null
+                "Träger": "Elisabethstift Berlin "
             }
         },
         {
@@ -3381,19 +2809,13 @@
                 "Lfd Nummer": "GG-121",
                 "Name": "Jugendfarm Moritzhof",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Schwedter Straße 90",
                 "PLZ": "10437 Berlin",
                 "Bezirk": "Pankow",
                 "Social Media": "https://www.jugendfarm-moritzhof.de/",
                 "Kontakt": "moritzhof@netzwerkspielkultur.de",
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": "Netzwerk Spiel/Kultur Prenzlauer Berg e.V.",
-                "Nutzung": null
+                "Träger": "Netzwerk Spiel/Kultur Prenzlauer Berg e.V."
             }
         },
         {
@@ -3409,13 +2831,10 @@
                 "Lfd Nummer": "GG-122",
                 "Name": "Käthes Garten",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "vertraglich unbefristet bestehend",
                 "Straße": "Käthe-Dorsch-Ring 2-8",
                 "PLZ": "12353 Berlin",
                 "Bezirk": "Neukölln",
-                "Social Media": null,
                 "Kontakt": "lodesfelix@himmelbeet.de",
                 "Seit wann": "2016",
                 "Flächengröße m2": "500",
@@ -3437,17 +2856,13 @@
                 "Lfd Nummer": "GG-123",
                 "Name": "Kids Garden",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Hobrechtstraße 67 und Friedelstraße 39",
                 "PLZ": "12047 Berlin",
                 "Bezirk": "Neukölln",
                 "Social Media": "http://kidsgardenberlin.wordpress.com",
-                "Kontakt": null,
                 "Seit wann": "1999",
                 "Flächengröße m2": "3000",
-                "Organisationsform": null,
                 "Träger": "Grün für Kinder e.V.",
                 "Nutzung": "Bildung"
             }
@@ -3465,19 +2880,12 @@
                 "Lfd Nummer": "GG-124",
                 "Name": "Kids-Kiezgarten in der KGA Bornholm II",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "befristet bestehend",
                 "Straße": "Ibsenstraße 20",
                 "PLZ": "10439 Berlin",
                 "Bezirk": "Pankow",
                 "Social Media": "https://www.schreberjugend.berlin/de/projekte/kids_kiezgarten",
-                "Kontakt": "kai.pchalek@schreberjugend.berlin",
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Kontakt": "kai.pchalek@schreberjugend.berlin"
             }
         },
         {
@@ -3493,8 +2901,6 @@
                 "Lfd Nummer": "GG-125",
                 "Name": "Kiezgarten Donaustraße",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "befristet bestehend",
                 "Straße": "Donaustraße 120",
                 "PLZ": "12043 Berlin",
@@ -3521,8 +2927,6 @@
                 "Lfd Nummer": "GG-126",
                 "Name": "Kiezgarten Fischerstraße",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "vertraglich befristet bestehend",
                 "Straße": "Fischerstraße 19, Ecke Zobtener Straße 61",
                 "PLZ": "10317 Berlin",
@@ -3549,19 +2953,11 @@
                 "Lfd Nummer": "GG-127",
                 "Name": "Kiezgarten Friedrichshagen",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Aßmannstraße",
                 "PLZ": "12587 Berlin",
                 "Bezirk": "Treptow-Köpenick",
-                "Social Media": null,
-                "Kontakt": "sylvia.nietzold[at]ba-tk.berlin.de",
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Kontakt": "sylvia.nietzold[at]ba-tk.berlin.de"
             }
         },
         {
@@ -3577,8 +2973,6 @@
                 "Lfd Nummer": "GG-128",
                 "Name": "Kiezgarten Heinrichtreff",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Heinrichstraße 32",
                 "PLZ": "10317 Berlin",
@@ -3587,9 +2981,7 @@
                 "Kontakt": "info@heinrichtreff.de",
                 "Seit wann": "2010",
                 "Flächengröße m2": "1400",
-                "Organisationsform": null,
-                "Träger": "Evangelisch-Freikirchliche Gemeinde Berlin-Lichtenberg",
-                "Nutzung": null
+                "Träger": "Evangelisch-Freikirchliche Gemeinde Berlin-Lichtenberg"
             }
         },
         {
@@ -3605,18 +2997,13 @@
                 "Lfd Nummer": "GG-129",
                 "Name": "Kiezgarten Schliemannstraße",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "vertraglich ungeregelt bestehend",
                 "Straße": "Schliemannstraße 8",
                 "PLZ": "10437 Berlin",
                 "Bezirk": "Pankow",
                 "Social Media": "https://gruenanteil.net/projects/de/kiezgarten",
                 "Kontakt": "kiezgarten@yahoo.de",
-                "Seit wann": null,
                 "Flächengröße m2": "300",
-                "Organisationsform": null,
-                "Träger": null,
                 "Nutzung": "sozialer Austausch, Raumproduktion"
             }
         },
@@ -3633,8 +3020,6 @@
                 "Lfd Nummer": "GG-130",
                 "Name": "Kiezinseln Schöneberg ",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Cherusker Straße 23a",
                 "PLZ": "10829 Berlin",
@@ -3642,10 +3027,7 @@
                 "Social Media": "http://www.taeks.de/familie-und-nachbarschaft/kiezinseln/",
                 "Kontakt": "kiezinseln@taeks.de, inselgarten@ueberdentellerrand.org",
                 "Seit wann": " ",
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": "TÄKS e.V.",
-                "Nutzung": null
+                "Träger": "TÄKS e.V."
             }
         },
         {
@@ -3661,19 +3043,10 @@
                 "Lfd Nummer": "GG-131",
                 "Name": "Kinderbauernhof am Mauerplatz",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Adalbertstraße 71",
                 "PLZ": "10999 Berlin",
-                "Bezirk": "Friedrichshain-Kreuzberg",
-                "Social Media": null,
-                "Kontakt": null,
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -3689,19 +3062,10 @@
                 "Lfd Nummer": "GG-132",
                 "Name": "Kinderbauernhof Franz-Künstler-Straße",
                 "Gartentyp": "beendeter Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "beendet",
                 "Straße": "Franz-Künstler-Straße 10",
                 "PLZ": "10967 Berlin",
-                "Bezirk": "Friedrichshain-Kreuzberg",
-                "Social Media": null,
-                "Kontakt": null,
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -3717,8 +3081,6 @@
                 "Lfd Nummer": "GG-133",
                 "Name": "Kinderbauernhof Knirpsenfarm",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Malchower Chaussee 2",
                 "PLZ": "13051 Berlin",
@@ -3726,10 +3088,7 @@
                 "Social Media": "http://www.malchower-grashuepfer.de/",
                 "Kontakt": "info@malchower-grashüpfer.de",
                 "Seit wann": "1991",
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": "Malchower Grashüpfer e.V.",
-                "Nutzung": null
+                "Träger": "Malchower Grashüpfer e.V."
             }
         },
         {
@@ -3745,19 +3104,10 @@
                 "Lfd Nummer": "GG-134",
                 "Name": "Kinderbauernhof NUSZ ufafabrik e.V.",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Vikoriastraße 13",
                 "PLZ": "12105 Berlin",
-                "Bezirk": "Tempelhof-Schöneberg",
-                "Social Media": null,
-                "Kontakt": null,
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Bezirk": "Tempelhof-Schöneberg"
             }
         },
         {
@@ -3773,19 +3123,10 @@
                 "Lfd Nummer": "GG-135",
                 "Name": "Kinderbauernhof Pinke-Panke",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Am Bürgerpark 15-18",
                 "PLZ": "13156 Berlin",
-                "Bezirk": "Pankow",
-                "Social Media": null,
-                "Kontakt": null,
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Bezirk": "Pankow"
             }
         },
         {
@@ -3801,19 +3142,12 @@
                 "Lfd Nummer": "GG-136",
                 "Name": "Klimagarten im Kinder- und Jugendklub Maxim",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "vertraglich unbefristet bestehend",
                 "Straße": "Charlottenburger Straße 117",
                 "PLZ": "13086 Berlin",
                 "Bezirk": "Pankow",
                 "Social Media": "http://www.im-maxim.de/",
-                "Kontakt": "info@im-maxim.de",
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Kontakt": "info@im-maxim.de"
             }
         },
         {
@@ -3829,8 +3163,6 @@
                 "Lfd Nummer": "GG-137",
                 "Name": "Klimaschaugarten der KGA Grüne Aue e.V.",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "vertraglich unbefristet bestehend",
                 "Straße": "in der Kleingartenanlage Grüne Aue, Kleingartenparzelle 189a (Schwalben-, Ecke Asternweg)",
                 "PLZ": "12157 Berlin",
@@ -3857,8 +3189,6 @@
                 "Lfd Nummer": "GG-138",
                 "Name": "Klunkergarten Klunkerkranich",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Karl-Marx-Straße 66",
                 "PLZ": "12043 Berlin",
@@ -3866,7 +3196,6 @@
                 "Social Media": "http://www.horstwirtschaft.de",
                 "Kontakt": "klunkergarten@horstwirtschaft.de",
                 "Seit wann": "2013",
-                "Flächengröße m2": null,
                 "Organisationsform": "Verein (e.V.)",
                 "Träger": "Horstwirtschaft e.V.",
                 "Nutzung": "Erholung, sozialer Austausch"
@@ -3885,13 +3214,10 @@
                 "Lfd Nummer": "GG-139",
                 "Name": "Kosmonautengarten",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "vertraglich unbefristet bestehend",
                 "Straße": "Allee der Kosmonauten 65 (Innenhof)",
                 "PLZ": " 12681 Berlin",
                 "Bezirk": "Marzahn-Hellersdorf",
-                "Social Media": null,
                 "Kontakt": "catharina.wendt@degewo.de",
                 "Seit wann": "2021",
                 "Flächengröße m2": "800",
@@ -3913,19 +3239,12 @@
                 "Lfd Nummer": "GG-140",
                 "Name": "Krummer Garten Charlottenburg",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Krumme Straße 9",
                 "PLZ": "10585 Berlin",
                 "Bezirk": "Charlottenburg-Wilmersdorf",
-                "Social Media": null,
                 "Kontakt": " info@krummergarten.de",
-                "Seit wann": "2011",
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Seit wann": "2011"
             }
         },
         {
@@ -3941,8 +3260,6 @@
                 "Lfd Nummer": "GG-141",
                 "Name": "Kunstgemüse",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "vertraglich ungeregelt bestehend",
                 "Straße": "Eldenaer Str. 45",
                 "PLZ": "10247 Berlin",
@@ -3969,13 +3286,10 @@
                 "Lfd Nummer": "GG-142",
                 "Name": "Lerngarten KirschNuss",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "vertraglich befristet bestehend",
                 "Straße": "Ulmenallee 35 (auf dem Gelände)",
                 "PLZ": "14050 Berlin",
                 "Bezirk": "Charlottenburg-Wilmersdorf",
-                "Social Media": null,
                 "Kontakt": "info@ulme35.de",
                 "Seit wann": "2023",
                 "Flächengröße m2": "200",
@@ -3997,19 +3311,13 @@
                 "Lfd Nummer": "GG-143",
                 "Name": "Lern- und Nachbarschaftsgarten Kottbusser Damm",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Kottbusser Damm 80a",
                 "PLZ": "10967 Berlin",
                 "Bezirk": "Neukölln ",
-                "Social Media": null,
                 "Kontakt": "info@ajb-berlin.de",
                 "Seit wann": "2009",
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": "Allgemeine Jugendberatung (ajb) e.V.",
-                "Nutzung": null
+                "Träger": "Allgemeine Jugendberatung (ajb) e.V."
             }
         },
         {
@@ -4025,8 +3333,6 @@
                 "Lfd Nummer": "GG-144",
                 "Name": "Lichtenberger Stadtgarten ",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "unbefristet bestehend",
                 "Straße": "Allee der Kosmonauten 23a",
                 "PLZ": "10315 Berlin",
@@ -4035,9 +3341,7 @@
                 "Kontakt": "info@stadtgarten.org",
                 "Seit wann": "2011",
                 "Flächengröße m2": "450",
-                "Organisationsform": null,
-                "Träger": "Lichtenberger Stadtgarten e.V.",
-                "Nutzung": null
+                "Träger": "Lichtenberger Stadtgarten e.V."
             }
         },
         {
@@ -4053,15 +3357,11 @@
                 "Lfd Nummer": "GG-145",
                 "Name": "Lichtenrader Volkspark",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Carl-Steffeck-Straße / Im Domstift 7f",
                 "PLZ": "12309 Berlin",
                 "Bezirk": "Tempelhof-Schöneberg",
                 "Social Media": "https://dervolksparklichtenrade-ev.jimdofree.com",
-                "Kontakt": null,
-                "Seit wann": null,
                 "Flächengröße m2": "42000",
                 "Organisationsform": "Verein (e.V.)",
                 "Träger": "Lichtenrade Volkspark e.V.",
@@ -4081,19 +3381,12 @@
                 "Lfd Nummer": "GG-146",
                 "Name": "Garten der Liebermann-Villa",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Colomierstraße 3",
                 "PLZ": "14109 Berlin",
                 "Bezirk": "Steglitz-Zehlendorf",
                 "Social Media": "http://www.liebermann-villa.de",
-                "Kontakt": null,
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": "Max-Liebermann-Gesellschaft Berlin e.V.",
-                "Nutzung": null
+                "Träger": "Max-Liebermann-Gesellschaft Berlin e.V."
             }
         },
         {
@@ -4109,19 +3402,11 @@
                 "Lfd Nummer": "GG-147",
                 "Name": "Märkisches Grünland",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Golliner Straße 11",
                 "PLZ": "12679 Berlin",
                 "Bezirk": "Marzahn-Hellersdorf",
-                "Social Media": null,
-                "Kontakt": "info@rwlq.de",
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Kontakt": "info@rwlq.de"
             }
         },
         {
@@ -4137,8 +3422,6 @@
                 "Lfd Nummer": "GG-148",
                 "Name": "Mauergarten - Interkultureller Gemeinschaftsgarten im Mauerpark",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Lortzingstraße/Gleimstraße",
                 "PLZ": "13355 Berlin",
@@ -4146,10 +3429,8 @@
                 "Social Media": "http://mauergarten.net/",
                 "Kontakt": "info@mauergarten.net",
                 "Seit wann": "2012",
-                "Flächengröße m2": null,
                 "Organisationsform": "Verein (e.V.)",
-                "Träger": "mauergarten e.V",
-                "Nutzung": null
+                "Träger": "mauergarten e.V"
             }
         },
         {
@@ -4165,19 +3446,13 @@
                 "Lfd Nummer": "GG-149",
                 "Name": "Max Pflanzen",
                 "Gartentyp": "Offener Schulgarten und Nachbarschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Singerstraße 8a",
                 "PLZ": "10179 Berlin",
                 "Bezirk": "Mitte",
                 "Social Media": "https://maxpflanzen.wordpress.com/ https://www.facebook.com/groups/maxpflanzen",
-                "Kontakt": null,
                 "Seit wann": "2015",
-                "Flächengröße m2": "2000",
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Flächengröße m2": "2000"
             }
         },
         {
@@ -4193,8 +3468,6 @@
                 "Lfd Nummer": "GG-150",
                 "Name": "MenschenskinderGarten",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "vertraglich ungeregelt bestehend",
                 "Straße": "Fürstenwalder Straße 30",
                 "PLZ": "10243 Berlin",
@@ -4221,19 +3494,14 @@
                 "Lfd Nummer": "GG-151",
                 "Name": "Mietergarten am Auerbacher Ring",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Auerbacher Ring 36-44",
                 "PLZ": "12619 Berlin",
                 "Bezirk": "Marzahn-Hellersdorf",
                 "Social Media": "https://www.nationale-stadtentwicklungspolitik.de/NSP/SharedDocs/Projekte/WSProjekte_DE/Berlin_Marzahn_Hellersdorf_AuerbacherRing.html",
-                "Kontakt": null,
                 "Seit wann": "2002",
                 "Flächengröße m2": "5000",
-                "Organisationsform": null,
-                "Träger": "WVB Wohnpark Verwaltungs - und Betreuungs GmbH",
-                "Nutzung": null
+                "Träger": "WVB Wohnpark Verwaltungs - und Betreuungs GmbH"
             }
         },
         {
@@ -4249,8 +3517,6 @@
                 "Lfd Nummer": "GG-152",
                 "Name": "Mischgemüse",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "vertraglich unbefristet bestehend",
                 "Straße": "Havensteinstraße 18/22",
                 "PLZ": "12249 Berlin",
@@ -4277,14 +3543,11 @@
                 "Lfd Nummer": "GG-153",
                 "Name": "Mitmachgarten im Stadtpark I",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "vertraglich unbefristet bestehend",
                 "Straße": "Waghäuseler Straße 10b, Reiherweg",
                 "PLZ": "10715 Berlin",
                 "Bezirk": "Charlottenburg-Wilmersdorf",
                 "Social Media": "https://www.kolonie-am-stadtpark.de/mitmachgarten-aktiv/",
-                "Kontakt": null,
                 "Seit wann": "2017",
                 "Flächengröße m2": "73",
                 "Organisationsform": "eingetragener Verein (e.V.)",
@@ -4305,8 +3568,6 @@
                 "Lfd Nummer": "GG-154",
                 "Name": "Moabiter Kinder-Hof",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Seydlitzstraße 12",
                 "PLZ": "10557 Berlin",
@@ -4314,10 +3575,7 @@
                 "Social Media": "http://www.moabiterkinderhof.de",
                 "Kontakt": "moabiter.kinderhof@berlin.de",
                 "Seit wann": "1993",
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": "Stadtteilgruppe Moabit e.V. ",
-                "Nutzung": null
+                "Träger": "Stadtteilgruppe Moabit e.V. "
             }
         },
         {
@@ -4333,8 +3591,6 @@
                 "Lfd Nummer": "GG-155",
                 "Name": "Mörchenpark",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Holzmarktstraße 25",
                 "PLZ": "10243 Berlin",
@@ -4342,10 +3598,8 @@
                 "Social Media": "http://moerchenpark.de",
                 "Kontakt": "kontakt@moerchenpark.de",
                 "Seit wann": "2012",
-                "Flächengröße m2": null,
                 "Organisationsform": "Verein (e.V.)",
-                "Träger": "Mörchenpark e.V.",
-                "Nutzung": null
+                "Träger": "Mörchenpark e.V."
             }
         },
         {
@@ -4361,19 +3615,11 @@
                 "Lfd Nummer": "GG-156",
                 "Name": "Moros Garten",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Karpfenteichstraße 13",
                 "PLZ": "12435 Berlin",
                 "Bezirk": "Treptow-Köpenick",
-                "Social Media": null,
-                "Kontakt": "Morosgarten@gmx.de, stephi.klose@posteo.de",
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Kontakt": "Morosgarten@gmx.de, stephi.klose@posteo.de"
             }
         },
         {
@@ -4389,14 +3635,10 @@
                 "Lfd Nummer": "GG-157",
                 "Name": "Mühsamstr. 43 - Urban Gardening",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "vertraglich unbefristet bestehend",
                 "Straße": "Mühsamstr. 43",
                 "PLZ": "10249 Berlin",
                 "Bezirk": "Friedrichshain-Kreuzberg",
-                "Social Media": null,
-                "Kontakt": null,
                 "Seit wann": "2019",
                 "Flächengröße m2": "300 m² / 5 Pachtparzellen",
                 "Organisationsform": "sonstige Organisationsform",
@@ -4417,19 +3659,12 @@
                 "Lfd Nummer": "GG-158",
                 "Name": "Multitude-Gemeinschaftsgarten",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Karpfenteichstraße 13",
                 "PLZ": "12435 Berlin",
                 "Bezirk": "Treptow-Köpenick",
                 "Social Media": "https://www.multitude-berlin.de/aktivitaeten/",
-                "Kontakt": "antiragarten@lists.riseup.net",
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Kontakt": "antiragarten@lists.riseup.net"
             }
         },
         {
@@ -4445,19 +3680,10 @@
                 "Lfd Nummer": "GG-159",
                 "Name": "Mustergärten der Grünen Liga",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Prenzlauer Allee 230",
                 "PLZ": "10405 Berlin",
-                "Bezirk": "Pankow",
-                "Social Media": null,
-                "Kontakt": null,
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Bezirk": "Pankow"
             }
         },
         {
@@ -4473,8 +3699,6 @@
                 "Lfd Nummer": "GG-160",
                 "Name": "NABU Naturgarten Pankow",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "vertraglich unbefristet bestehend",
                 "Straße": "in der Kleingartenanlage Am Anger, Parzelle 357, Uhlandstr. 36/ Ecke Dehmelstraße",
                 "PLZ": "13158 Berlin",
@@ -4482,7 +3706,6 @@
                 "Social Media": "https://berlin.nabu.de/wir-ueber-uns/fachgruppen/naturgarten/index.html",
                 "Kontakt": "fgnaturgaten@nabu-berlin.de",
                 "Seit wann": "2011",
-                "Flächengröße m2": null,
                 "Organisationsform": "Arbeitsgemeinschaft (AG)",
                 "Träger": "NABU Fachgruppe Naturgarten",
                 "Nutzung": "Bildung"
@@ -4501,19 +3724,12 @@
                 "Lfd Nummer": "GG-161",
                 "Name": "Nachbarschaftsgarten Brunnengarten",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "unbekannt",
                 "Straße": "Swinemünder Straße",
                 "PLZ": "13355 Berlin",
                 "Bezirk": "Mitte",
-                "Social Media": null,
                 "Kontakt": "brunnengaerten@brunnenviertel.de",
-                "Seit wann": "2021",
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Seit wann": "2021"
             }
         },
         {
@@ -4529,19 +3745,13 @@
                 "Lfd Nummer": "GG-162",
                 "Name": "Nachbarschaftsgarten Alt-Treptow",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "unbefristet bestehend",
                 "Straße": "Bouchéstraße 75",
                 "PLZ": "12435 Berlin",
                 "Bezirk": "Treptow-Köpenick",
-                "Social Media": null,
                 "Kontakt": "garten@klima.kungerkiez.de",
                 "Seit wann": "2017",
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": "Kungerkiezinitiative e.V.",
-                "Nutzung": null
+                "Träger": "Kungerkiezinitiative e.V."
             }
         },
         {
@@ -4557,14 +3767,10 @@
                 "Lfd Nummer": "GG-163",
                 "Name": "Nachbarschaftsgarten Hagenower Ring",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "vertraglich befristet bestehend",
                 "Straße": "Hagenower Ring 47/49",
                 "PLZ": "13059 Berlin",
                 "Bezirk": "Lichtenberg",
-                "Social Media": null,
-                "Kontakt": null,
                 "Seit wann": "2017",
                 "Flächengröße m2": "200",
                 "Organisationsform": "sonstige Organisationsform",
@@ -4585,16 +3791,12 @@
                 "Lfd Nummer": "GG-164",
                 "Name": "Nachbarschaftsgarten Haus Müggelspree",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Am Schloßberg 1",
                 "PLZ": "12559 Berlin",
                 "Bezirk": "Treptow-Köpenick",
-                "Social Media": null,
                 "Kontakt": "mueggelspree@stephanus.org",
                 "Seit wann": "2014",
-                "Flächengröße m2": null,
                 "Organisationsform": "gGmbH",
                 "Träger": "Stephanus gGmbH",
                 "Nutzung": "Erholung, Lebensmittel, sozialer Austausch, Therapie"
@@ -4613,8 +3815,6 @@
                 "Lfd Nummer": "GG-165",
                 "Name": "Nachbarschaftsgarten Helmholtzplatz",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "vertraglich unbefristet bestehend",
                 "Straße": "Helmholtzplatz",
                 "PLZ": "10437 Berlin",
@@ -4641,8 +3841,6 @@
                 "Lfd Nummer": "GG-166",
                 "Name": "Nachbarschaftsgarten Kreuzberg",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "vertraglich befristet bestehend",
                 "Straße": "Ecke Golßener Straße/ Züllichauer Straße",
                 "PLZ": "10965 Berlin",
@@ -4669,8 +3867,6 @@
                 "Lfd Nummer": "GG-167",
                 "Name": "Nachbarschaftsgarten Rosa Rose",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Jessnerstraße 13",
                 "PLZ": "10247 Berlin",
@@ -4679,9 +3875,7 @@
                 "Kontakt": " rosarotrose@web.de",
                 "Seit wann": "2004",
                 "Flächengröße m2": "2000",
-                "Organisationsform": null,
-                "Träger": "workstation Ideenwerkstatt Berlin e.V.",
-                "Nutzung": null
+                "Träger": "workstation Ideenwerkstatt Berlin e.V."
             }
         },
         {
@@ -4697,19 +3891,12 @@
                 "Lfd Nummer": "GG-168",
                 "Name": "Nachbarschaftsgärtnern Wachse, wachse und gedeihe",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Steinmetzstraße",
                 "PLZ": "10827 Berlin",
                 "Bezirk": "Tempelhof-Schöneberg",
-                "Social Media": null,
-                "Kontakt": null,
                 "Seit wann": "2015 (I), 2018 (II)",
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": "Pestalotzi-Fröbel-Haus (I), PFH (II)",
-                "Nutzung": null
+                "Träger": "Pestalotzi-Fröbel-Haus (I), PFH (II)"
             }
         },
         {
@@ -4725,18 +3912,14 @@
                 "Lfd Nummer": "GG-169",
                 "Name": "Nachbarschaftsgarten Wiecker Straße",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "akut bedroht",
                 "Straße": "Wiecker Str. 8-10",
                 "PLZ": "13051 Berlin",
                 "Bezirk": "Lichtenberg",
-                "Social Media": null,
                 "Kontakt": "Sabine-Rosemann@alice-dsl.de",
                 "Seit wann": "2012",
                 "Flächengröße m2": "zuvor 6000",
                 "Organisationsform": "sonstige Organisationsform",
-                "Träger": null,
                 "Nutzung": "Erholung, Anbau von Lebensmitteln, sozialer Austausch"
             }
         },
@@ -4753,19 +3936,12 @@
                 "Lfd Nummer": "GG-170",
                 "Name": "Naturkindergarten Tante Josefine",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Pankgrafenstraße 12 d",
                 "PLZ": "13125 Berlin",
                 "Bezirk": "Pankow",
                 "Social Media": "https://de-de.facebook.com/Naturkindergarten-Tante-Josefine-306111556431875/",
-                "Kontakt": "buero.kiga@pankgraefin.de",
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Kontakt": "buero.kiga@pankgraefin.de"
             }
         },
         {
@@ -4781,19 +3957,12 @@
                 "Lfd Nummer": "GG-171",
                 "Name": "Naturnaher Mehrgenerationengarten",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Sonnenallee 187",
                 "PLZ": "12059 Berlin",
                 "Bezirk": "Neukölln",
-                "Social Media": null,
                 "Kontakt": "koloniencr@gmx.de",
-                "Seit wann": null,
-                "Flächengröße m2": "478",
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Flächengröße m2": "478"
             }
         },
         {
@@ -4809,8 +3978,6 @@
                 "Lfd Nummer": "GG-172",
                 "Name": "Offener Garten im KuBiZ",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Bernkasteler Straße 78",
                 "PLZ": "13088 Berlin",
@@ -4819,9 +3986,7 @@
                 "Kontakt": "garten@kubiz-wallenberg.de",
                 "Seit wann": "2009",
                 "Flächengröße m2": "6000",
-                "Organisationsform": null,
-                "Träger": "KuBIZ / Trägerwerk e.V.",
-                "Nutzung": null
+                "Träger": "KuBIZ / Trägerwerk e.V."
             }
         },
         {
@@ -4837,8 +4002,6 @@
                 "Lfd Nummer": "GG-173",
                 "Name": "Ökogarten am Buschgraben - Ein Garten für alle",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Ludwigsfelder Straße 30",
                 "PLZ": "14165 Berlin",
@@ -4847,9 +4010,7 @@
                 "Kontakt": "gerhard.borne@freenet.de",
                 "Seit wann": "1981",
                 "Flächengröße m2": "1500",
-                "Organisationsform": null,
-                "Träger": "Ökogarten Am Buschgraben e.V",
-                "Nutzung": null
+                "Träger": "Ökogarten Am Buschgraben e.V"
             }
         },
         {
@@ -4865,8 +4026,6 @@
                 "Lfd Nummer": "GG-174",
                 "Name": "Ökogarten Neues Land",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Birkholzer Weg, Eingang über Straße 10",
                 "PLZ": "13059 Berlin",
@@ -4874,10 +4033,7 @@
                 "Social Media": "http://www.dorfkate-falkenberg-berlin.de ",
                 "Kontakt": "info@dorfkate-falkenberg-berlin.de",
                 "Seit wann": "2012",
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": "Förderverein Landschaftspark Nordost e. V.",
-                "Nutzung": null
+                "Träger": "Förderverein Landschaftspark Nordost e. V."
             }
         },
         {
@@ -4893,8 +4049,6 @@
                 "Lfd Nummer": "GG-175",
                 "Name": "Ökogarten Siedlung Wartenberg",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "akut bedroht",
                 "Straße": "zwischen Straße 6 Nr 14 u. Straße 5 Nr 13",
                 "PLZ": "13059 Berlin",
@@ -4902,10 +4056,7 @@
                 "Social Media": "http://www.dorfkate-falkenberg-berlin.de",
                 "Kontakt": "info@dorfkate-falkenberg-berlin.de",
                 "Seit wann": "2012",
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": "Förderverein Landschaftspark Nordost e. V.",
-                "Nutzung": null
+                "Träger": "Förderverein Landschaftspark Nordost e. V."
             }
         },
         {
@@ -4921,17 +4072,10 @@
                 "Lfd Nummer": "GG-176",
                 "Name": "Öko-Station",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Statthaus Böcklerpark, Prinzenstraße 1",
                 "PLZ": "10969 Berlin",
                 "Bezirk": "Friedrichshain-Kreuzberg",
-                "Social Media": null,
-                "Kontakt": null,
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
                 "Träger": "Türkisch-Deutsches Umweltzentrum",
                 "Nutzung": " "
             }
@@ -4949,18 +4093,12 @@
                 "Lfd Nummer": "GG-177",
                 "Name": "OMA's Garten",
                 "Gartentyp": "beendeter Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "beendet",
                 "Straße": "Holzmarktstraße 1923",
                 "PLZ": "10243 Berlin",
                 "Bezirk": "Friedrichshain-Kreuzberg",
-                "Social Media": null,
-                "Kontakt": null,
                 "Seit wann": "2017",
                 "Flächengröße m2": "200",
-                "Organisationsform": null,
-                "Träger": null,
                 "Nutzung": "Erholung, sozialer Austausch"
             }
         },
@@ -4977,8 +4115,6 @@
                 "Lfd Nummer": "GG-178",
                 "Name": "Paulus-Garten",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "vertraglich unbefristet bestehend",
                 "Straße": "Grunewaldstraße 77a",
                 "PLZ": "10823 Berlin",
@@ -5005,19 +4141,14 @@
                 "Lfd Nummer": "GG-179",
                 "Name": "Pallasseum-Gemeinschaftsgarten",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Pallasstraße 6",
                 "PLZ": "10781 Berlin",
                 "Bezirk": "Tempelhof-Schöneberg",
                 "Social Media": "https://pallasgaerten.wordpress.com/",
                 "Kontakt": "pallasgaerten@gmx.de",
-                "Seit wann": null,
-                "Flächengröße m2": null,
                 "Organisationsform": "Verein (e.V.)",
-                "Träger": "Pallasgärten e.V.",
-                "Nutzung": null
+                "Träger": "Pallasgärten e.V."
             }
         },
         {
@@ -5033,8 +4164,6 @@
                 "Lfd Nummer": "GG-180",
                 "Name": "Paradiesgärten Berlin - Naschgarten",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "vertraglich unbefristet bestehend",
                 "Straße": "Kiezpark Schönagelstraße 68",
                 "PLZ": "12685 Berlin",
@@ -5044,7 +4173,6 @@
                 "Seit wann": "2018/2019",
                 "Flächengröße m2": "1100",
                 "Organisationsform": "AG",
-                "Träger": null,
                 "Nutzung": "Erholung, Lebensmittel, sozialer Austausch"
             }
         },
@@ -5061,8 +4189,6 @@
                 "Lfd Nummer": "GG-181",
                 "Name": "Paradiesgärten Berlin - Panoramagarten",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "vertraglich unbefristet bestehend",
                 "Straße": "Hellersdorfer Graben auf Höhe von Albert-Kuntz-Str. 41",
                 "PLZ": "12627 Berlin",
@@ -5072,7 +4198,6 @@
                 "Seit wann": "2019/2020",
                 "Flächengröße m2": "600",
                 "Organisationsform": "AG",
-                "Träger": null,
                 "Nutzung": "Erholung, Lebensmittel, sozialer Austausch"
             }
         },
@@ -5089,8 +4214,6 @@
                 "Lfd Nummer": "GG-182",
                 "Name": "Paradiesgärten Berlin - Sonnengarten",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "vertraglich unbefristet bestehend",
                 "Straße": "Bruno-Baum-Grünzug, Höhe Paul-Schwenk-Str. 3",
                 "PLZ": "12681 Berlin",
@@ -5100,7 +4223,6 @@
                 "Seit wann": "2019/2020",
                 "Flächengröße m2": "600",
                 "Organisationsform": "AG",
-                "Träger": null,
                 "Nutzung": "Erholung, Lebensmittel, sozialer Austausch"
             }
         },
@@ -5117,8 +4239,6 @@
                 "Lfd Nummer": "GG-183",
                 "Name": "Peace of Land",
                 "Gartentyp": "beendeter Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "beendet",
                 "Straße": "Am Weingarten 14 ",
                 "PLZ": "10407 Berlin",
@@ -5145,19 +4265,10 @@
                 "Lfd Nummer": "GG-184",
                 "Name": "Philosophiegarten Campus Hannah Höch",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Finsterwalder Straße 52-56",
                 "PLZ": "13435 Berlin",
-                "Bezirk": "Reinickendorf",
-                "Social Media": null,
-                "Kontakt": null,
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Bezirk": "Reinickendorf"
             }
         },
         {
@@ -5173,8 +4284,6 @@
                 "Lfd Nummer": "GG-185",
                 "Name": "Prinzengarten",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "akut bedroht",
                 "Straße": "3. Hinterhof Prinzenallee 58",
                 "PLZ": "13359 Berlin",
@@ -5201,8 +4310,6 @@
                 "Lfd Nummer": "GG-186",
                 "Name": "Prinzessinnengarten Moritzplatz",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "vertraglich befristet bestehend",
                 "Straße": "Prinzenstraße 35",
                 "PLZ": "10969 Berlin",
@@ -5229,14 +4336,11 @@
                 "Lfd Nummer": "GG-187",
                 "Name": "Prinzessinnengarten Kollektiv",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "vertraglich befristet bestehend",
                 "Straße": "Hermannstraße 99-105",
                 "PLZ": "12051 Berlin",
                 "Bezirk": "Neukölln",
                 "Social Media": "www.prinzessinnengarten-kollektiv.net",
-                "Kontakt": null,
                 "Seit wann": "2018",
                 "Flächengröße m2": "75000",
                 "Organisationsform": "sonstige Organisationsform",
@@ -5257,8 +4361,6 @@
                 "Lfd Nummer": "GG-188",
                 "Name": "Pyramidengarten",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Columbiadamm 120",
                 "PLZ": "10965 Berlin",
@@ -5285,17 +4387,10 @@
                 "Lfd Nummer": "GG-189",
                 "Name": "RHIZOM Antirasistische Garteninitiative",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Karpfenteichstraße 13",
                 "PLZ": "12435 Berlin",
                 "Bezirk": "Treptow-Köpenick",
-                "Social Media": null,
-                "Kontakt": null,
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
                 "Träger": "RHIZOM   Antirasistische Garteninitiative",
                 "Nutzung": " "
             }
@@ -5313,19 +4408,10 @@
                 "Lfd Nummer": "GG-190",
                 "Name": "Rostlaube Containerfarm at Efficient City Farming, ",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Bessemerstraße 2-14",
                 "PLZ": "12103 Berlin",
-                "Bezirk": "Tempelhof-Schöneberg",
-                "Social Media": null,
-                "Kontakt": null,
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Bezirk": "Tempelhof-Schöneberg"
             }
         },
         {
@@ -5341,8 +4427,6 @@
                 "Lfd Nummer": "GG-191",
                 "Name": "Schleifengarten",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "vertraglich unbefristet bestehend",
                 "Straße": "Ibsenstraße, Ecke Björnsonstraße",
                 "PLZ": "10439 Berlin",
@@ -5369,19 +4453,11 @@
                 "Lfd Nummer": "GG-192",
                 "Name": "Solidarischer Garten der Jugendtheaterwerkstatt ",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "unbefristet bestehend",
                 "Straße": "Gelsenkircher Straße 20",
                 "PLZ": "13583 Berlin",
                 "Bezirk": "Spandau",
-                "Social Media": null,
-                "Kontakt": "kristina@jtw-spandau.de",
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Kontakt": "kristina@jtw-spandau.de"
             }
         },
         {
@@ -5397,8 +4473,6 @@
                 "Lfd Nummer": "GG-193",
                 "Name": "Sonnengarten Berlin-Neukölln",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Sangerhauser Weg 12",
                 "PLZ": "12349 Berlin",
@@ -5406,10 +4480,7 @@
                 "Social Media": "http://www.ibbc-berlin.de/projekt-sonnengarten-ibbc-berlin.html",
                 "Kontakt": "info@ibbc-berlin.de",
                 "Seit wann": "2011",
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": "IBBC e.V. (Interkulturelles Beratungs- und Begegnungscentrum)",
-                "Nutzung": null
+                "Träger": "IBBC e.V. (Interkulturelles Beratungs- und Begegnungscentrum)"
             }
         },
         {
@@ -5425,8 +4496,6 @@
                 "Lfd Nummer": "GG-194",
                 "Name": "Spiel Feld Marzahn",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Mühlenbecker Weg",
                 "PLZ": "12679 Berlin",
@@ -5453,19 +4522,11 @@
                 "Lfd Nummer": "GG-195",
                 "Name": "Spiritueller Garten an der Panke",
                 "Gartentyp": "beendeter Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "beendet",
                 "Straße": "Uferstraße 12",
                 "PLZ": "13357 Berlin",
                 "Bezirk": "Mitte",
-                "Social Media": null,
-                "Kontakt": null,
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": "Kino & Café am Ufer",
-                "Nutzung": null
+                "Träger": "Kino & Café am Ufer"
             }
         },
         {
@@ -5481,8 +4542,6 @@
                 "Lfd Nummer": "GG-196",
                 "Name": "Spreeacker",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Wilhelmine-Gemberg-Weg 10-14",
                 "PLZ": "10179 Berlin",
@@ -5490,10 +4549,7 @@
                 "Social Media": "http://spreeacker.de/ https://www.facebook.com/spreeacker",
                 "Kontakt": "info@spreeacker.de",
                 "Seit wann": "2014",
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": "Spreeacker e.V.",
-                "Nutzung": null
+                "Träger": "Spreeacker e.V."
             }
         },
         {
@@ -5509,8 +4565,6 @@
                 "Lfd Nummer": "GG-197",
                 "Name": "Stadtacker",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Columbiadamm 91 (Tempelhofer Feld)",
                 "PLZ": "10695 Berlin",
@@ -5519,9 +4573,7 @@
                 "Kontakt": "kontakt@albatrosggmbh.de",
                 "Seit wann": "2011",
                 "Flächengröße m2": "1000",
-                "Organisationsform": null,
-                "Träger": "Albatros gemeinnützige Gesellschaft für soziale und gesundheitliche Dienstleistungen mbH",
-                "Nutzung": null
+                "Träger": "Albatros gemeinnützige Gesellschaft für soziale und gesundheitliche Dienstleistungen mbH"
             }
         },
         {
@@ -5537,17 +4589,13 @@
                 "Lfd Nummer": "GG-198",
                 "Name": "Stadtgarten Heizkraftwerk Mitte",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "vertraglich unbefristet bestehend",
                 "Straße": "Köpenicker Straße 60",
                 "PLZ": " 10179 Berlin",
                 "Bezirk": "Mitte",
                 "Social Media": "https://pflanz-was.vattenfall.de/unsere-stadtgaerten/heizkraftwerk-mitte/",
-                "Kontakt": null,
                 "Seit wann": "2017",
                 "Flächengröße m2": "1500",
-                "Organisationsform": null,
                 "Träger": "Traeger",
                 "Nutzung": "Erholung, Anbau von Lebensmitteln, Sozialer Austausch, sonstige Nutzung(en)"
             }
@@ -5565,19 +4613,11 @@
                 "Lfd Nummer": "GG-199",
                 "Name": "Stadtgarten im Landschaftspark Herzberge",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Herzbergstraße 79",
                 "PLZ": "10365 Berlin",
                 "Bezirk": "Lichtenberg",
-                "Social Media": null,
-                "Kontakt": "info@agrar-boerse-ev.de",
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Kontakt": "info@agrar-boerse-ev.de"
             }
         },
         {
@@ -5593,17 +4633,13 @@
                 "Lfd Nummer": "GG-200",
                 "Name": "Stadtgarten Neue Grünstraße",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "vertraglich unbefristet bestehend",
                 "Straße": "Neue Grünstraße 13-14",
                 "PLZ": " 10117 Berlin",
                 "Bezirk": "Mitte",
                 "Social Media": "https://pflanz-was.vattenfall.de/unsere-stadtgaerten/neue-gruenstrasse/",
-                "Kontakt": null,
                 "Seit wann": "2016",
                 "Flächengröße m2": "500",
-                "Organisationsform": null,
                 "Träger": "Traeger",
                 "Nutzung": "Erholung, Anbau von Lebensmitteln, Sozialer Austausch, sonstige Nutzung(en)"
             }
@@ -5621,17 +4657,13 @@
                 "Lfd Nummer": "GG-201",
                 "Name": "StadtGut Blankenfelde",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "befristet bestehend",
                 "Straße": "Hauptstraße 30",
                 "PLZ": "13159 Berlin",
                 "Bezirk": "Pankow",
                 "Social Media": "http://stadtgut-blankenfelde.de/",
                 "Kontakt": "kontor@stadtgut-blankenfelde.de",
-                "Seit wann": null,
                 "Flächengröße m2": "50000",
-                "Organisationsform": null,
                 "Träger": "StadtGut Blankenfelde e.V.",
                 "Nutzung": "Lebensmittelanbau"
             }
@@ -5649,19 +4681,14 @@
                 "Lfd Nummer": "GG-202",
                 "Name": "Stadtteilgarten Schillerkiez",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Oderstraße (Tempelhofer Feld)",
                 "PLZ": "12049 Berlin",
                 "Bezirk": "Neukölln ",
                 "Social Media": "http://schillerkiez.blogsport.de/",
                 "Kontakt": "schillerkiez@gmx.de",
-                "Seit wann": null,
                 "Flächengröße m2": "1000",
-                "Organisationsform": null,
-                "Träger": "Teilhabe e.V.",
-                "Nutzung": null
+                "Träger": "Teilhabe e.V."
             }
         },
         {
@@ -5677,8 +4704,6 @@
                 "Lfd Nummer": "GG-203",
                 "Name": "Stadtteilgarten Tempelhof",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "vertraglich befristet bestehend",
                 "Straße": "Tempelhofer Feld in unmittelbarer Nähe des Eingangs S+U Tempelhof",
                 "PLZ": "12099 Berlin",
@@ -5705,19 +4730,13 @@
                 "Lfd Nummer": "GG-204",
                 "Name": "Straßengarten im Donaukiez",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Donaustraße 120",
                 "PLZ": "12043 Berlin",
                 "Bezirk": "Neukölln",
                 "Social Media": "https://gruener-donaukiez.de/kiezgarten/",
                 "Kontakt": "info@gruener-donaukiez.de",
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": "LIFE - Bildung Umwelt Chancengleichheit e.V. (I), Life e.V. (II)",
-                "Nutzung": null
+                "Träger": "LIFE - Bildung Umwelt Chancengleichheit e.V. (I), Life e.V. (II)"
             }
         },
         {
@@ -5733,19 +4752,12 @@
                 "Lfd Nummer": "GG-205",
                 "Name": "Tierhof Alt-Marzahn",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Alt-Marzahn 63",
                 "PLZ": "12685 Berlin",
                 "Bezirk": "Marzahn-Hellersdorf",
                 "Social Media": "http://www.agrar-boerse-ev.de/standorte-projekte/marzahn-hellersdorf/tierhof/",
-                "Kontakt": null,
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": "Agrarbörse",
-                "Nutzung": null
+                "Träger": "Agrarbörse"
             }
         },
         {
@@ -5761,8 +4773,6 @@
                 "Lfd Nummer": "GG-206",
                 "Name": "Tomate sucht Gießkanne",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Greifswalder Straße 229 (Eingang 1) und Heinrich-Roller-Straße 18  (Eingang 2)",
                 "PLZ": "10405 Berlin",
@@ -5770,10 +4780,7 @@
                 "Social Media": "https://www.grueneliga-berlin.de/themen-projekte2/stadtbegruenung/tomate-sucht-giesskanne/",
                 "Kontakt": "anke.kuettner@grueneliga-berlin.de",
                 "Seit wann": "2015",
-                "Flächengröße m2": "2000",
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Flächengröße m2": "2000"
             }
         },
         {
@@ -5789,19 +4796,10 @@
                 "Lfd Nummer": "GG-207",
                 "Name": "Tucholsky Gärten",
                 "Gartentyp": "beendeter Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "beendet",
                 "Straße": "Tucholskystraße 75",
                 "PLZ": "10117 Berlin",
-                "Bezirk": "Mitte",
-                "Social Media": null,
-                "Kontakt": null,
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Bezirk": "Mitte"
             }
         },
         {
@@ -5817,8 +4815,6 @@
                 "Lfd Nummer": "GG-208",
                 "Name": "Umweltgarten für Geflüchtete am Tempelhofer Feld",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Tempelhofer Damm 103",
                 "PLZ": "12099 Berlin",
@@ -5826,10 +4822,7 @@
                 "Social Media": "http://tempelhofer-berg.berlin/umweltgarten/",
                 "Kontakt": "vorstand@tempelhofer-berg.berlin",
                 "Seit wann": "2016",
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": "Temperhofer Berg e.V.",
-                "Nutzung": null
+                "Träger": "Temperhofer Berg e.V."
             }
         },
         {
@@ -5845,8 +4838,6 @@
                 "Lfd Nummer": "GG-209",
                 "Name": "UniGardening@SUSTAIN IT! FU Berlin",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Unter den Eichen 8",
                 "PLZ": "12203 Berlin",
@@ -5855,7 +4846,6 @@
                 "Kontakt": "sustain-it@fu-berlin.de",
                 "Seit wann": "2014",
                 "Flächengröße m2": "500",
-                "Organisationsform": null,
                 "Träger": "Nachhaltigkeitsinitiative SUSTAIN IT! der Freien Universität Berlin",
                 "Nutzung": "Anbau von Lebensmitteln, Bildung, sozialer Austausch, sonstige Nutzung(en)"
             }
@@ -5873,19 +4863,11 @@
                 "Lfd Nummer": "GG-210",
                 "Name": "UniGardening HU Adlershof",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Newtonstraße 16",
                 "PLZ": "12489 Berlin",
                 "Bezirk": "Treptow-Köpenick",
-                "Social Media": "https://unigardening.de/netzwerk/unigardening-hu-adlershof/ https://www.facebook.com/unigardeninghu",
-                "Kontakt": null,
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Social Media": "https://unigardening.de/netzwerk/unigardening-hu-adlershof/ https://www.facebook.com/unigardeninghu"
             }
         },
         {
@@ -5901,14 +4883,11 @@
                 "Lfd Nummer": "GG-211",
                 "Name": "Unter den Pappeln, Offener Bürger- und Familiengarten",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "vertraglich unbefristet bestehend",
                 "Straße": "Else-Jahn-Straße 41",
                 "PLZ": "13088 Berlin",
                 "Bezirk": "Pankow",
                 "Social Media": "https://www.vielfarb.de/familienzentren/familienzentrum-berlin-else-jahn-strasse/",
-                "Kontakt": null,
                 "Seit wann": "2016",
                 "Flächengröße m2": "400",
                 "Organisationsform": "sonstige Organisationsform",
@@ -5929,19 +4908,12 @@
                 "Lfd Nummer": "GG-212",
                 "Name": "Urban Garden HTW",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Wilheminenhofstraße 75a",
                 "PLZ": "12437 Berlin",
                 "Bezirk": "Treptow-Köpenick",
                 "Social Media": "http://megaschoeneweide.blogspot.com/2016/07/urban-gardening-der-htw.html https://www.facebook.com/pg/urbangarden.htw.berlin/about/?ref=page_internal",
-                "Kontakt": null,
-                "Seit wann": "2016",
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Seit wann": "2016"
             }
         },
         {
@@ -5957,19 +4929,13 @@
                 "Lfd Nummer": "GG-213",
                 "Name": "Urban-Gardening-Projekt Farbfelder",
                 "Gartentyp": "beendeter Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "beendet",
                 "Straße": "DGZ-Ring",
                 "PLZ": "13086 Berlin",
                 "Bezirk": "Pankow",
                 "Social Media": "https://www.facebook.com/gartencorner/",
                 "Kontakt": "farbfelder@googlemail.com",
-                "Seit wann": "2011",
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Seit wann": "2011"
             }
         },
         {
@@ -5985,19 +4951,11 @@
                 "Lfd Nummer": "GG-214",
                 "Name": "Urbangarten",
                 "Gartentyp": "beendeter Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "beendet",
                 "Straße": "Graefestraße 61a",
                 "PLZ": "10967 Berlin",
                 "Bezirk": "Friedrichshain-Kreuzberg",
-                "Social Media": "https://www.facebook.com/pg/UrbangartenKreuzberg/about/?ref=page_internal",
-                "Kontakt": null,
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Social Media": "https://www.facebook.com/pg/UrbangartenKreuzberg/about/?ref=page_internal"
             }
         },
         {
@@ -6013,8 +4971,6 @@
                 "Lfd Nummer": "GG-215",
                 "Name": "Urbaner Waldgarten Berlin-Britz",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "vertraglich unbefristet bestehend",
                 "Straße": " Leonberger Ring 54",
                 "PLZ": " 12349 Berlin",
@@ -6041,8 +4997,6 @@
                 "Lfd Nummer": "GG-216",
                 "Name": "Waldgarten Wagendorf Karow",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": " Pankgrafenstrasse 12d",
                 "PLZ": "13125 Berlin",
@@ -6050,10 +5004,8 @@
                 "Social Media": "http://pankgraefin.de/Waldgarten.html",
                 "Kontakt": "info@pankgraefin.de",
                 "Seit wann": "2012?",
-                "Flächengröße m2": null,
                 "Organisationsform": "Verein (e.V.)",
-                "Träger": "Pankgräfin e.V.",
-                "Nutzung": null
+                "Träger": "Pankgräfin e.V."
             }
         },
         {
@@ -6069,19 +5021,10 @@
                 "Lfd Nummer": "GG-217",
                 "Name": "Weddinger Kinderfarm",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Luxemburger Straße 25",
                 "PLZ": "13353 Berlin",
-                "Bezirk": "Mitte",
-                "Social Media": null,
-                "Kontakt": null,
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Bezirk": "Mitte"
             }
         },
         {
@@ -6097,8 +5040,6 @@
                 "Lfd Nummer": "GG-218",
                 "Name": "Weinberg Tempelhof",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "vertraglich unbefristet bestehend",
                 "Straße": "Colditzstraße 26-28",
                 "PLZ": " 12099 Berlin",
@@ -6125,8 +5066,6 @@
                 "Lfd Nummer": "GG-219",
                 "Name": "Wilde17",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "vertraglich befristet bestehend",
                 "Straße": "Böttgerstr. 17",
                 "PLZ": "13357 Berlin",
@@ -6153,19 +5092,11 @@
                 "Lfd Nummer": "GG-220",
                 "Name": "Willkommens-Kultur-Garten",
                 "Gartentyp": "beendeter Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "beendet",
                 "Straße": "Askanierring 71a",
                 "PLZ": "13585 Berlin",
                 "Bezirk": "Spandau",
-                "Social Media": "https://www.ubb.de/index.php/gemeinschaftsgaerten-3/48-gaerten-entwurf-2 https://www.facebook.com/pages/Willkommens-Kultur-Garten/388774254645913",
-                "Kontakt": null,
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Social Media": "https://www.ubb.de/index.php/gemeinschaftsgaerten-3/48-gaerten-entwurf-2 https://www.facebook.com/pages/Willkommens-Kultur-Garten/388774254645913"
             }
         },
         {
@@ -6181,8 +5112,6 @@
                 "Lfd Nummer": "GG-221",
                 "Name": "Wriezener Freiraumlabor",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Helsingforser Straße",
                 "PLZ": "10243 Berlin",
@@ -6191,9 +5120,7 @@
                 "Kontakt": "info@workstation-berlin.org",
                 "Seit wann": "2009",
                 "Flächengröße m2": "13145",
-                "Organisationsform": null,
-                "Träger": "Wriezener Freiraumlabor / workstation Ideenwerkstatt Berlin e.V.",
-                "Nutzung": null
+                "Träger": "Wriezener Freiraumlabor / workstation Ideenwerkstatt Berlin e.V."
             }
         },
         {
@@ -6209,8 +5136,6 @@
                 "Lfd Nummer": "GG-222",
                 "Name": "WunderVolles Grün am Jugendzentrum Lessinghöhe",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Mittelweg 30",
                 "PLZ": "12053 Berlin",
@@ -6218,10 +5143,7 @@
                 "Social Media": "https://www.baufachfrau-berlin.de/project/wundervolles-gruen/",
                 "Kontakt": "post@baufachfrau-berlin.de Ilka Holtorf",
                 "Seit wann": "2018",
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": " BAUFACHFRAU Berlin e.V. ",
-                "Nutzung": null
+                "Träger": " BAUFACHFRAU Berlin e.V. "
             }
         },
         {
@@ -6237,19 +5159,12 @@
                 "Lfd Nummer": "GG-223",
                 "Name": "Wutzkygarten im Nachbarschaftszentrum",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Wutzkyallee 88",
                 "PLZ": "12353 Berlin",
                 "Bezirk": "Neukölln",
                 "Social Media": "http://wutzkyallee.de/index.php/wutzkygaerten.html",
-                "Kontakt": "team@wutzkyallee.de",
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Kontakt": "team@wutzkyallee.de"
             }
         },
         {
@@ -6265,19 +5180,12 @@
                 "Lfd Nummer": "GG-224",
                 "Name": "Zaubergarten",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Invalidenstraße 42",
                 "PLZ": "10115 Berlin",
                 "Bezirk": "Mitte",
                 "Social Media": "https://www.agrar.hu-berlin.de/de/institut/studfach/AK/zaubergarten",
-                "Kontakt": "fachschaft-ti@hu-berlin.de",
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Kontakt": "fachschaft-ti@hu-berlin.de"
             }
         },
         {
@@ -6293,17 +5201,12 @@
                 "Lfd Nummer": "GG-225",
                 "Name": "Ziegenhof Dankelmannstraße",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Danckelmannstraße 16",
                 "PLZ": "14059 Berlin",
                 "Bezirk": "Charlottenburg-Wilmersdorf",
                 "Social Media": "http://www.ziegenhof-berlin.de",
-                "Kontakt": null,
                 "Seit wann": "1982",
-                "Flächengröße m2": null,
-                "Organisationsform": null,
                 "Träger": "Blockinitiative 128  Ziegenhof  e.V.",
                 "Nutzung": "Lebensmittelanbau"
             }
@@ -6321,19 +5224,12 @@
                 "Lfd Nummer": "GG-226",
                 "Name": "Zolagarten",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Zolastraße",
                 "PLZ": "10178 Berlin",
                 "Bezirk": "Mitte",
                 "Social Media": "https://gruenanteil.net/projects/de/zola-garten",
-                "Kontakt": null,
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": "Grünanteil",
-                "Nutzung": null
+                "Träger": "Grünanteil"
             }
         },
         {
@@ -6349,19 +5245,11 @@
                 "Lfd Nummer": "GG-227",
                 "Name": "ZusammenWachsen in der Gartenkolonie Buschkrug",
                 "Gartentyp": "Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "Status unbekannt",
                 "Straße": "Buschkrugallee 175",
                 "PLZ": "12359 Berlin",
                 "Bezirk": "Neukölln",
-                "Social Media": null,
-                "Kontakt": " ",
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Kontakt": " "
             }
         },
         {
@@ -6377,19 +5265,10 @@
                 "Lfd Nummer": "GG-228",
                 "Name": "Zwischennutzung auf Privatgrundstücken im Samariterviertel",
                 "Gartentyp": "beendeter Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "beendet",
                 "Straße": "Dolzigerstraße 25-26",
                 "PLZ": "10247 Berlin",
-                "Bezirk": "Friedrichshain-Kreuzberg",
-                "Social Media": null,
-                "Kontakt": null,
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -6405,19 +5284,10 @@
                 "Lfd Nummer": "GG-229",
                 "Name": "Zwischennutzung auf Privatgrundstücken im Samariterviertel",
                 "Gartentyp": "beendeter Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "beendet",
                 "Straße": "Voigtstraße 15",
                 "PLZ": "10247 Berlin",
-                "Bezirk": "Friedrichshain-Kreuzberg",
-                "Social Media": null,
-                "Kontakt": null,
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -6433,19 +5303,10 @@
                 "Lfd Nummer": "GG-230",
                 "Name": "Zwischennutzung auf Privatgrundstücken im Samariterviertel",
                 "Gartentyp": "beendeter Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "beendet",
                 "Straße": "Voigtstraße 34",
                 "PLZ": "10247 Berlin",
-                "Bezirk": "Friedrichshain-Kreuzberg",
-                "Social Media": null,
-                "Kontakt": null,
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         },
         {
@@ -6461,19 +5322,10 @@
                 "Lfd Nummer": "GG-231",
                 "Name": "Zwischennutzung auf Privatgrundstücken im Samariterviertel",
                 "Gartentyp": "beendeter Gemeinschaftsgarten",
-                "Über uns": null,
-                "öffentlich zugänglich": null,
                 "Status": "beendet",
                 "Straße": "Schreinerstraße 43",
                 "PLZ": "10247 Berlin",
-                "Bezirk": "Friedrichshain-Kreuzberg",
-                "Social Media": null,
-                "Kontakt": null,
-                "Seit wann": null,
-                "Flächengröße m2": null,
-                "Organisationsform": null,
-                "Träger": null,
-                "Nutzung": null
+                "Bezirk": "Friedrichshain-Kreuzberg"
             }
         }
     ]

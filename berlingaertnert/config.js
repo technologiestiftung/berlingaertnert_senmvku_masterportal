@@ -17,7 +17,7 @@ const Config = {
   restConf: "./resources/rest-services.json",
   styleConf: "./resources/style_v3.json",
   wfsImgPath: "./resources/img/",
-  ignoredKeys: ["BOUNDEDBY", "SHAPE", "SHAPE_LENGTH", "SHAPE_AREA", "OBJECTID", "GLOBALID", "GEOMETRY", "SHP", "SHP_AREA", "SHP_LENGTH","GEOM"],
+  ignoredKeys: ["BOUNDEDBY", "SHAPE", "SHAPE_LENGTH", "SHAPE_AREA", "OBJECTID", "GLOBALID", "GEOMETRY", "SHP", "SHP_AREA", "SHP_LENGTH","GEOM", "Lfd Nummer"],
   portalLanguage: {
     enabled: true,
     debug: false,
