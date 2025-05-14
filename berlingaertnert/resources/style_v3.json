@@ -29,7 +29,7 @@
         "style": {
           "legendValue": "Nicht mehr aktiver Gemeinschaftsgarten",
           "type": "icon",
-          "imageName": "Gemeinschaftsgaerten_inaktiv_grey.png",
+          "imageName": "Gemeinschaftsgaerten_inaktiv.png",
           "imageScale": 0.15
         }
       },

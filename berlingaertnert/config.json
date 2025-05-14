@@ -20,23 +20,23 @@
       "mapMarker":{
         "pointStyleId": "BerlinMapMarkerPoint",
         "polygonStyleId": "BerlinMapMarkerPolygon"
-    },
-      "getFeatureInfo": {
-      "highlightVectorRules": {
-          "fill": {
-              "color": [230,152,54,0.8]
-          },
-          "image": {
-              "scale": 1.5
-          },
-          "stroke": {
-              "width": 2,
-              "color": [145,133,190,0.8]    
-          }
       },
-      "showPolygonMarkerForWMS": true,
-      "hideMapMarkerOnVectorHighlight": true
-    },
+      "getFeatureInfo": {
+        "highlightVectorRules": {
+            "fill": {
+                "color": [230,152,54,0.8]
+            },
+            "image": {
+                "scale": 1.5
+            },
+            "stroke": {
+                "width": 2,
+                "color": [145,133,190,0.8]    
+            }
+        },
+        "showPolygonMarkerForWMS": true,
+        "hideMapMarkerOnVectorHighlight": true
+      },
       "treeType": "light"
     },
     "portalFooter": {
@@ -44,7 +44,7 @@
         {
           "bezeichnung": "common:modules.portalFooter.designation",
           "url": "https://www.berlin.de/sen/uvk/",
-          "alias": "-",
+          "alias": "Kartographie und Gestaltung: Open Data Informationstelle Berlin. Impressum: Technologie Stiftung Berlin",
           "alias_mobil": "SenMVKU"
         }
       ]
@@ -86,7 +86,7 @@
         [
           {
             "type": "legend",
-            "icon": ""
+            "icon": "icon-berlin-placemarker"
           },
           {
             "icon": "icon-berlin-bulb",
