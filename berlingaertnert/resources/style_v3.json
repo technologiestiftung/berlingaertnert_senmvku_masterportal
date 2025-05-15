@@ -141,31 +141,6 @@
     "styleId": "kitaschulgaerten",
     "rules": [
       {
-        "conditions": {
-          "properties": [
-            {
-              "attrName": {
-                "name": "Gartentyp",
-                "type": "string",
-                "conditions": "contains"
-              },
-              "value": ["Offener Schulgarten und Nachbarschaftsgarten"]
-          }
-        ]
-        },
-        "style": {
-          "legendValue": "Kitagarten",
-          "type": "icon",
-          "imageName": "Kitagaerten.png",
-          "imageScale": 0.15
-        }
-      },
-      {
-        "conditions": {
-          "properties": {
-            "Gartentyp" : "Schulgarten"
-          }
-        },
         "style": {
           "legendValue": "Schulgarten",
           "type": "icon",
@@ -175,7 +150,8 @@
       }
     ]
   },
-  {"styleId": "building",
+  {
+    "styleId": "building",
     "rules":[
       {
         "style": {
@@ -187,7 +163,8 @@
       }
     ]
   },
-  {"styleId": "tree",
+  {
+    "styleId": "tree",
     "rules":[
       {
         "style": {
