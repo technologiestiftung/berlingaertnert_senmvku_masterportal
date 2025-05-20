@@ -1,6 +1,6 @@
 # Berlin gaertnert
 
-## Bckground
+## Background
 
 The Berlin Senate Department for Mobility, Transport, Climate Protection and the Environment has relaunched a new digital information portal for both active urban gardeners and newcomers. The aim is to make the numerous community gardens across Berlin — and the overall diversity of urban gardens and gardening projects — visible on a citywide level. 
 
