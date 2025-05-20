@@ -2,9 +2,9 @@
 
 # Berlin gaertnert
 
-The Berlin Senate Department for Mobility, Transport, Climate Protection and the Environment has relaunched a new digital information portal for both active urban gardeners and newcomers. The aim is to make the numerous community gardens across Berlin — and the overall diversity of urban gardens and gardening projects—visible on a citywide level. 
+The Berlin Senate Department for Mobility, Transport, Climate Protection and the Environment has relaunched a new digital information portal for both active urban gardeners and newcomers. The aim is to make the numerous community gardens across Berlin — and the overall diversity of urban gardens and gardening projects — visible on a citywide level. 
 
-Therefore Berlin Gärtnert is a map-based representation of various garden types and open spaces, including community gardens, parklets, school garden or  solidarity agriculture..
+Therefore Berlin Gärtnert is a map-based representation of various garden types and open spaces, including community gardens, parklets, school gardens or solidarity agriculture..
 
 Berlin Gärtnert has been developed in close cooperation between the Berlin Senate Department for Mobility, Transport, Climate Protection and the Environment (SenMVKU) and Open Data Informationsstelle Berlin.
 
@@ -14,9 +14,9 @@ The Masterportal is a tool-kit to create geo web applications based on [OpenLaye
 
 The Masterportal is a project by [Geowerkstatt Hamburg](https://www.hamburg.de/geowerkstatt/).
 
-## Contributing
+## Data
 
-Before you create a pull request, write an issue so we can discuss your changes.
+Some of the datasets will soon be available as open data.
 
 ## Contributors
 
