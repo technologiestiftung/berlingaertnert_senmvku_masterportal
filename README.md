@@ -1,18 +1,14 @@
 # Berlin gaertnert
 
-Berlin This is a functional MVP of a map-based 'Umweltatlas' prototype that is implemented with the master v2 portal software. On the one hand, this is intended to explore the technical feasibility and the effort required to implement the proposals and, on the other hand, to provide an improved decision-making basis for final requirements for an extension or further development of the existing environmental atlas.
+# Berlin gaertnert
 
-Update: It was decided to implement the new map-based 'Umweltatlas' using the masterportal v3 software. The repo can be found [here](https://github.com/technologiestiftung/umweltatlas-masterportal-v3)
+The Berlin Senate Department for Mobility, Transport, Climate Protection and the Environment has relaunched a new digital information portal for both active urban gardeners and newcomers. 
 
-The climate dashboard provides an insight into current climate data and climate measures in Friedrichshain-Kreuzberg.
+The aim is to make the numerous community gardens across Berlin—and the overall diversity of urban gardens and gardening projects—visible on a citywide level. 
 
-- Where do greenhouse gas emissions occur in Xhain?
-- Where are we as a district on the road to climate neutrality in Berlin?
-- And where are the impacts of climate change already evident in the district?
+Therefore Berlin Gärtnert is a map-based representation of various garden types and open spaces, including community gardens, parklets, school garden or  solidarity agriculture..
 
-The basis for this is the analyses from the climate mitigation and climate adaptation strategies. These two strategies were developed by the climate team and politically adopted in December 2024 as a planning and decision-making basis.
-
-Berlin gaertnert has been developed in close cooperation between the Berlin Senate Department for Mobility, Transport, Climate Protection and the Environment and Open Data Infortmationsstelle Berlin.
+Berlin Gärtnert has been developed in close cooperation between the Berlin Senate Department for Mobility, Transport, Climate Protection and the Environment (SenMVKU) and Open Data Informationsstelle Berlin.
 
 ## Masterportal
 
