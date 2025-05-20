@@ -6,7 +6,7 @@ The Berlin Senate Department for Mobility, Transport, Climate Protection and the
 
 Therefore Berlin Gärtnert is a map-based representation of various garden types and open spaces, including community gardens, parklets, school gardens or solidarity agriculture..
 
-Berlin Gärtnert has been developed in close cooperation between the Berlin Senate Department for Mobility, Transport, Climate Protection and the Environment (SenMVKU) and Open Data Informationsstelle Berlin.
+Berlin Gärtnert has been developed in close cooperation between the [Berlin Senate Department for Mobility, Transport, Climate Protection and the Environment (SenMVKU)]([https://www.hamburg.de/geowerkstatt/](https://www.berlin.de/gemeinschaftsgaertnern/) and  [Open Data Informationsstelle Berlin](https://www.hamburg.de/geowerkstatt/).
 
 ## Masterportal
 
