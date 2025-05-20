@@ -1,4 +1,4 @@
-# Berlin gaertnert
+# Berlin Gärtnert
 
 ## Background
 
