@@ -2,9 +2,7 @@
 
 # Berlin gaertnert
 
-The Berlin Senate Department for Mobility, Transport, Climate Protection and the Environment has relaunched a new digital information portal for both active urban gardeners and newcomers. 
-
-The aim is to make the numerous community gardens across Berlin—and the overall diversity of urban gardens and gardening projects—visible on a citywide level. 
+The Berlin Senate Department for Mobility, Transport, Climate Protection and the Environment has relaunched a new digital information portal for both active urban gardeners and newcomers. The aim is to make the numerous community gardens across Berlin — and the overall diversity of urban gardens and gardening projects—visible on a citywide level. 
 
 Therefore Berlin Gärtnert is a map-based representation of various garden types and open spaces, including community gardens, parklets, school garden or  solidarity agriculture..
 
