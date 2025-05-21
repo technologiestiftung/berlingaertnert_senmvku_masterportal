@@ -16,7 +16,7 @@ The Masterportal is a project by [Geowerkstatt Hamburg](https://www.hamburg.de/g
 
 ## Data
 
-Some of the datasets will soon be available as open data.
+The datasets will soon be available as open data.
 
 ## Contributors
 
