@@ -26,8 +26,20 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
-  <tr>
-  </tr>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://hanshack.com/"><img src="https://avatars.githubusercontent.com/u/8025164?v=4?s=64" width="64px;" alt="Hans Hack"/><br /><sub><b>Hans Hack</b></sub></a><br /><a href="https://github.com/technologiestiftung/ihk-vis/commits?author=hanshack" title="Code">💻</a> <a href="https://github.com/technologiestiftung/ihk-vis/commits?author=hanshack" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Lisa-Stubert"><img src="https://avatars.githubusercontent.com/u/61182572?v=4?s=64" width="64px;" alt="Lisa-Stubert"/><br /><sub><b>Lisa-Stubert</b></sub></a><br /><a href="https://github.com/technologiestiftung/ihk-vis/commits?author=Lisa-Stubert" title="Code">💻</a> <a href="https://github.com/technologiestiftung/ihk-vis/commits?author=Lisa-Stubert" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://fabianmoronzirfas.me"><img src="https://avatars.githubusercontent.com/u/315106?v=4?s=64" width="64px;" alt="Fabian Morón Zirfas"/><br /><sub><b>Fabian Morón Zirfas</b></sub></a><br /><a href="https://github.com/technologiestiftung/ihk-vis/commits?author=ff6347" title="Code">💻</a> <a href="https://github.com/technologiestiftung/ihk-vis/commits?author=ff6347" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://fhp.incom.org/profile/9200/projects"><img src="https://avatars.githubusercontent.com/u/46717848?v=4?s=64" width="64px;" alt="anna"/><br /><sub><b>anna</b></sub></a><br /><a href="#design-annameide" title="Design">🎨</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/KlemensM"><img src="https://avatars.githubusercontent.com/u/98896505?v=4?s=64" width="64px;" alt="Klemens"/><br /><sub><b>Klemens</b></sub></a><br /><a href="#ideas-KlemensM" title="Ideas, Planning, & Feedback">🤔</a> <a href="#data-KlemensM" title="Data">🔣</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/raphael-arce"><img src="https://avatars.githubusercontent.com/u/8709861?v=4?s=64" width="64px;" alt="Raphael.A"/><br /><sub><b>Raphael.A</b></sub></a><br /><a href="https://github.com/technologiestiftung/ihk-vis/commits?author=raphael-arce" title="Code">💻</a> <a href="https://github.com/technologiestiftung/ihk-vis/pulls?q=is%3Apr+reviewed-by%3Araphael-arce" title="Reviewed Pull Requests">👀</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Jaszkowic"><img src="https://avatars.githubusercontent.com/u/10830180?v=4?s=64" width="64px;" alt="Jonas Jaszkowic"/><br /><sub><b>Jonas Jaszkowic</b></sub></a><br /><a href="https://github.com/technologiestiftung/ihk-vis/commits?author=Jaszkowic" title="Code">💻</a> <a href="https://github.com/technologiestiftung/ihk-vis/pulls?q=is%3Apr+reviewed-by%3AJaszkowic" title="Reviewed Pull Requests">👀</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/dnsos"><img src="https://avatars.githubusercontent.com/u/15640196?v=4?s=64" width="64px;" alt="Dennis Ostendorf"/><br /><sub><b>Dennis Ostendorf</b></sub></a><br /><a href="#design-dnsos" title="Design">🎨</a></td>
+    </tr>
+  </tbody>
 </table>
 
 <!-- markdownlint-restore -->
@@ -37,18 +49,41 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
+## Content Licensing
+
+Texts and content available as [CC BY](https://creativecommons.org/licenses/by/3.0/de/).
+
 ## Credits
 
 <table>
   <tr>
     <td>
-      A project by <a href="https://www.technologiestiftung-berlin.de/">
+      Made by: <a href="https://odis-berlin.de">
         <br />
         <br />
-        <img width="150" src="https://logos.citylab-berlin.org/logo-technologiestiftung-berlin-de.svg" />
+        <img width="200" src="https://logos.citylab-berlin.org/logo-odis-berlin.svg" />
+      </a>
+    </td>
+    <td>
+      Together with: <a href="https://citylab-berlin.org/en/start/">
+        <br />
+        <br />
+        <img width="200" src="https://logos.citylab-berlin.org/logo-citylab-berlin.svg" />
+      </a>
+    </td>
+    <td>
+      A project by: <a href="https://www.technologiestiftung-berlin.de/en/">
+        <br />
+        <br />
+        <img width="150" src="https://logos.citylab-berlin.org/logo-technologiestiftung-berlin-en.svg" />
+      </a>
+    </td>
+    <td>
+      Supported by <a href="https://www.berlin.de/rbmskzl/">
+        <br />
+        <br />
+        <img width="80" src="https://citylab-berlin.org/wp-content/uploads/2021/12/B_RBmin_Skzl_Logo_DE_V_PT_RGB-300x200.png" />
       </a>
     </td>
   </tr>
 </table>
-
-## Related Projects
