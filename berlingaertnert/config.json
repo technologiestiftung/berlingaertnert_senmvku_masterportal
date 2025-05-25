@@ -85,7 +85,7 @@
         [
           {
             "type": "legend",
-            "icon": "bi-layers"
+            "icon": "icon-b_icon_buch_n_rgb-1"
           },
           {
             "icon": "icon-berlin-bulb",
@@ -95,7 +95,8 @@
           },
           {
             "type": "language",
-            "icon": "icon-berlin-placemarker"
+            "icon": "icon-b_flagge_5_n_rgb-1"
+          },
           }
         ],
         [
