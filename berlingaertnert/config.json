@@ -42,20 +42,8 @@
     "portalFooter": {
       "urls": [
         {
-          "bezeichnung": "common:modules.portalFooter.designation",
-          "url": "https://www.berlin.de/sen/uvk/",
-          "alias": "Open Data Informationsstelle Berlin",
-          "alias_mobile": "ODIS"
-        },
-        {
-          "bezeichnung": "Gartendaten:",
-          "url": "https://www.berlin.de/sen/uvk/",
-          "alias": "Senatsverwaltung für Mobilität, Verkehr, Klimaschutz und Umwelt",
-          "alias_mobil": "SenMVKU"
-        },
-        {
         "url": "https://www.technologiestiftung-berlin.de/impressum/",
-        "alias": "Impressum"
+        "alias": "common:modules.about.imprintTitle"
         }
       ]
     },
@@ -65,9 +53,10 @@
         "text": "",
         "logo": "./resources/img/berlin_gaertnert_logo.svg",
         "link": "",
-        "toolTip": "Berlin gärtnert"
+        "toolTip": "Berlin gärtnert!"
       },
       "searchBar": {
+        "placeholder": "common:modules.searchBar.placeholder.searchFor",
         "searchInterfaces": [
           {
             "type": "komootPhoton",
