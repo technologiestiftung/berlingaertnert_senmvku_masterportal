@@ -217,31 +217,17 @@
     "featureNS": "gruenanlagen",
     "datasets": [
       {
-        "md_name": "Grünanlagenbestand Berlin (einschliesslich der öffentlichen Spielplätze)",
+        "md_name": "Grünanlagenbestand Berlin",
         "md_id": "848d2266-d757-36d2-9db6-8636bd5f2216",
         "rs_id": "https://registry.gdi-de.org/id/de.be.csw/19f9a3e9-d99a-39c2-8557-418ecb5f1f21",
         "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
       }
     ],
-    "gfiAttributes": "showAll"
-  },
-  {
-    "id": "gruenflaechen",
-    "name": "Grünflächen 2022",
-    "crs": "urn:ogc:def:crs:EPSG::25833",
-    "url": "https://gdi.berlin.de/services/wfs/ua_klimaanalyse_2022",
-    "typ": "WFS",
-    "featureType": "ua_klimaanalyse_2022:tl_kak_gruenfl_2022",
-    "featureNS": "ua_klimaanalyse_2022",
-    "datasets": [
-      {
-        "md_name": "Klimaanalysekarten 2022 (Umweltatlas)",
-        "md_id": "8ea601b2-9a12-4123-bb19-b5774fe3003b",
-        "rs_id": "https://registry.gdi-de.org/id/de.be.csw/78c87800-446e-3e83-8171-03ca776eaa7f",
-        "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
+    "gfiAttributes": {
+      "namenr": "common:modules.gfiAttributes.gruenanlagen.namenr",
+      "namezusatz": "common:modules.gfiAttributes.gruenanlagen.namezusatz",
+      "bezirkname": "common:modules.gfiAttributes.gruenanlagen.bezirkname"
       }
-    ],
-    "gfiAttributes": "showAll"
   },
   {
     "id": "baumbestand:wfs:anlagenbaeume",
@@ -253,13 +239,23 @@
     "featureNS": "baumbestand",
     "datasets": [
       {
-        "md_name": "Baumbestand Berlin",
+        "md_name": "Bestand Anlagenbäumen",
         "md_id": "3368004a-d596-336a-8fdf-c4391f3313dd",
         "rs_id": "https://registry.gdi-de.org/id/de.be.csw/101a1c6e-4991-3df3-afbd-078495cb2f37",
         "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
       }
     ],
-    "gfiAttributes": "showAll"
+  "gfiAttributes": {
+      "namenr": "common:modules.gfiAttributes.baumbestand.namenr",
+      "art_dtsch": "common:modules.gfiAttributes.baumbestand.art_dtsch",
+      "art_bot": "common:modules.gfiAttributes.baumbestand.art_bot",
+      "art_gruppe": "common:modules.gfiAttributes.baumbestand.art_gruppe",
+      "pflanzjahr": "common:modules.gfiAttributes.baumbestand.pflanzjahr",
+      "baumhoehe": "common:modules.gfiAttributes.baumbestand.baumhoehe",
+      "kronedurch": "common:modules.gfiAttributes.baumbestand.kronedurch",
+      "stammumfg": "common:modules.gfiAttributes.baumbestand.stammumfg",
+      "bezirk": "common:modules.gfiAttributes.baumbestand.bezirk"
+    }
   },
   {
     "id": "baumbestand:wfs:strassenbaeume",
@@ -271,31 +267,23 @@
     "featureNS": "baumbestand",
     "datasets": [
       {
-        "md_name": "Baumbestand Berlin",
+        "md_name": "Bestand Strassenbäume",
         "md_id": "3368004a-d596-336a-8fdf-c4391f3313dd",
         "rs_id": "https://registry.gdi-de.org/id/de.be.csw/101a1c6e-4991-3df3-afbd-078495cb2f37",
         "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
       }
     ],
-    "gfiAttributes": "showAll"
-  },
-  {
-    "id": "baumbestand_gruen_berlin:wfs:anlagenbaum_gruenberlin",
-    "name": "Baumbestand in den Liegenschaften der GrÃ¼n Berlin GmbH (AnlagenbÃ¤ume)",
-    "crs": "urn:ogc:def:crs:EPSG::25833",
-    "url": "https://gdi.berlin.de/services/wfs/baumbestand_gruen_berlin",
-    "typ": "WFS",
-    "featureType": "baumbestand_gruen_berlin:anlagenbaum_gruenberlin",
-    "featureNS": "baumbestand_gruen_berlin",
-    "datasets": [
-      {
-        "md_name": "Baumbestand in den Liegenschaften der GrÃ¼n Berlin GmbH (AnlagenbÃ¤ume)",
-        "md_id": "558eed2a-2d05-4447-a580-e26e7dccd48a",
-        "rs_id": "https://registry.gdi-de.org/id/de.be.csw/1a704001-5f6e-3135-afa9-eb2f95bd7a66",
-        "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
-      }
-    ],
-    "gfiAttributes": "showAll"
+    "gfiAttributes": {
+    "namenr": "common:modules.gfiAttributes.baumbestand.namenr",
+    "art_dtsch": "common:modules.gfiAttributes.baumbestand.art_dtsch",
+    "art_bot": "common:modules.gfiAttributes.baumbestand.art_bot",
+    "art_gruppe": "common:modules.gfiAttributes.baumbestand.art_gruppe",
+    "pflanzjahr": "common:modules.gfiAttributes.baumbestand.pflanzjahr",
+    "baumhoehe": "common:modules.gfiAttributes.baumbestand.baumhoehe",
+    "kronedurch": "common:modules.gfiAttributes.baumbestand.kronedurch",
+    "stammumfg": "common:modules.gfiAttributes.baumbestand.stammumfg",
+    "bezirk": "common:modules.gfiAttributes.baumbestand.bezirk"
+    }
   },
   {
     "id": "ua_gruendaecher_2020:wfs:d_gebaeude",
@@ -313,43 +301,13 @@
             "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
         }
     ],
-    "gfiAttributes": "showAll"
-},
-  {
-    "id": "sp_gruene_wege_wander",
-    "name": "20 Grüne Hauptwege - Wanderkarte",
-    "crs": "urn:ogc:def:crs:EPSG:6.9:25833",
-    "url": "https://fbinter.stadt-berlin.de/fb/wfs/data/senstadt/sp_gruene_wege_wander",
-    "typ": "WFS",
-    "featureType": "fis:sp_gruene_wege_wander",
-    "featureNS": "http://www.berlin.de/broker",
-    "datasets": [
-      {
-        "md_name": "20 Grüne Hauptwege - Wanderkarte",
-        "md_id": "769e0768-7efc-3328-93ea-2c54c45c9dee",
-        "rs_id": "https://registry.gdi-de.org/id/de.be.csw/42a8b8a8-a611-383a-9559-2a6c2d1cac3a",
-        "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
+    "gfiAttributes": {
+        "geb_nutz": "common:modules.gfiAttributes.gruendaecher.geb_nutz",
+        "gruendach":	"common:modules.gfiAttributes.gruendaecher.gruendach",
+        "gruen20_m2": "common:modules.gfiAttributes.gruendaecher.gruen20_m2",
+        "gint20_m2": "common:modules.gfiAttributes.gruendaecher.gint20_m2",
+        "gex20_m2":	"common:modules.gfiAttributes.gruendaecher.gex20_m2"
       }
-    ],
-    "gfiAttributes": "showAll"
-  },
-  {
-    "id": "ua_bodenarten_2020:wfs:bodenarten2020",
-    "name": "Bodenarten 2020",
-    "crs": "urn:ogc:def:crs:EPSG::25833",
-    "url": "https://gdi.berlin.de/services/wfs/ua_bodenarten_2020",
-    "typ": "WFS",
-    "featureType": "ua_bodenarten_2020:bodenarten2020",
-    "featureNS": "ua_bodenarten_2020",
-    "datasets": [
-      {
-        "md_name": "Bodenarten 2020 (Umweltatlas)",
-        "md_id": "70b9fe9c-bdcc-4672-9b37-e2c8d49c4fb5",
-        "rs_id": "https://registry.gdi-de.org/id/de.be.csw/20ad8cd6-d70f-3ae7-8254-49b1b2de2a06",
-        "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
-      }
-    ],
-    "gfiAttributes": "showAll"
   },
   {
     "id": "ua_versiegelung_2021:wfs:versieg2021",
@@ -367,61 +325,51 @@
             "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
         }
     ],
-    "gfiAttributes": "showAll"
-},
-{
-  "id": "ua_versiegelung_2021:wfs:versieg2021_str",
-  "name": "Versiegelung der Strassenflächen 2021",
-  "crs": "urn:ogc:def:crs:EPSG::25833",
-  "url": "https://gdi.berlin.de/services/wfs/ua_versiegelung_2021",
-  "typ": "WFS",
-  "featureType": "ua_versiegelung_2021:versieg2021_str",
-  "featureNS": "ua_versiegelung_2021",
-  "datasets": [
-      {
-          "md_name": "Versiegelung 2021 (Umweltatlas)",
-          "md_id": "2c8a769b-364e-4596-ace4-4c05cd8eb872",
-          "rs_id": "https://registry.gdi-de.org/id/de.be.csw/25091cc2-3b41-3d21-b479-b2895fd9ec8a",
-          "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
-      }
-  ],
-  "gfiAttributes": "showAll"
-},
-  {
-    "id": "ua_boden_ertragfkt_2020:wfs:ertrag2020",
-    "name": "Ertragsfunktion der Böden für Kulturpflanzen 2020",
-    "crs": "urn:ogc:def:crs:EPSG::25833",
-    "url": "https://gdi.berlin.de/services/wfs/ua_boden_ertragfkt_2020",
-    "typ": "WFS",
-    "featureType": "ua_boden_ertragfkt_2020:ertrag2020",
-    "featureNS": "ua_boden_ertragfkt_2020",
-    "datasets": [
-      {
-        "md_name": "Ertragsfunktion der Böden für Kulturpflanzen 2020 (Umweltatlas)",
-        "md_id": "35c5a667-b395-4c22-8d52-30c6ad299eda",
-        "rs_id": "https://registry.gdi-de.org/id/de.be.csw/f11dff3b-0db9-38f8-a905-219b077fba07",
-        "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
-      }
-    ],
-    "gfiAttributes": "showAll"
+    "gfiAttributes": {
+      "flalle": "common:modules.gfiAttributes.versiegelung.flalle",
+      "typklar": "common:modules.gfiAttributes.versiegelung.typklar",
+      "wozklar": "common:modules.gfiAttributes.versiegelung.wozklar",
+      "vg_2021": "common:modules.gfiAttributes.versiegelung.vg_2021",               
+      "provgneu_2021": "common:modules.gfiAttributes.versiegelung.provgneu_2021",   
+      "probau_2021": "common:modules.gfiAttributes.versiegelung.probau_2021",               
+      "grzklar": "common:modules.gfiAttributes.versiegelung.grzklar",    
+      "vg_2016": "common:modules.gfiAttributes.versiegelung.vg_2016",          
+      "vg_dif21_16": "common:modules.gfiAttributes.versiegelung.vg_dif21_16"        
+    }
   },
   {
-    "id": "ua_boden_humus_2020:wfs:humus2020",
-    "name": "Humusmenge der Böden 2020",
+    "id": "ua_boden_2_2020:wfs:bodenkennwerte",
+    "name": "Bodenkundliche Kennwerte",
     "crs": "urn:ogc:def:crs:EPSG::25833",
-    "url": "https://gdi.berlin.de/services/wfs/ua_boden_humus_2020",
+    "url": "https://gdi.berlin.de/services/wfs/ua_boden_2_2020",
     "typ": "WFS",
-    "featureType": "ua_boden_humus_2020:humus2020",
-    "featureNS": "ua_boden_humus_2020",
+    "featureType": "ua_boden_2_2020:ua_boden_wfs2_2020",
+    "featureNS": "ua_boden_2_2020",
     "datasets": [
       {
-        "md_name": "Humusmenge der Böden 2020 (Umweltatlas)",
-        "md_id": "70b9fe9c-bdcc-4672-9b37-e2c8d49c4fb5",
-        "rs_id": "https://registry.gdi-de.org/id/de.be.csw/20ad8cd6-d70f-3ae7-8254-49b1b2de2a06",
+        "md_name": "Bodenkennwerte 2020 (Umweltatlas)",
+        "md_id": "3f101f01-b2d0-3e87-ad31-d5dfe0b31535",
+        "rs_id": "https://registry.gdi-de.org/id/de.be.csw/a0d15a87-76a4-3ed6-9ae8-e79017554d9a",
         "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
       }
     ],
-    "gfiAttributes": "showAll"
+    "gfiAttributes": {
+      "hba_ob_bez": "common:modules.gfiAttributes.boden.hba_ob_bez",
+      "gba_ob_bez": "common:modules.gfiAttributes.boden.gba_ob_bez",
+      "ph_ob_typ": "common:modules.gfiAttributes.boden.ph_ob_typ",
+      "humus": "common:modules.gfiAttributes.boden.humus",
+      "humusm": "common:modules.gfiAttributes.boden.humusm",
+      "ld": "common:modules.gfiAttributes.boden.ld",
+      "fk_ob_dm": "common:modules.gfiAttributes.boden.fk_ob_dm",
+      "nfk30_dur": "common:modules.gfiAttributes.boden.nfk30_dur",
+      "nfkwe": "common:modules.gfiAttributes.boden.nfkwe",
+      "bs": "common:modules.gfiAttributes.boden.bs",
+      "swert": "common:modules.gfiAttributes.boden.swert",
+      "corg_vorrat": "common:modules.gfiAttributes.boden.corg_vorrat",
+      "kf_ob": "common:modules.gfiAttributes.boden.kf_ob",
+      "kak_ob": "common:modules.gfiAttributes.boden.kak_ob",
+      "ba_gruppe": "common:modules.gfiAttributes.boden.ba_gruppe"     
+    }
   },
   {
     "id": "schulen:wfs:schulen",
@@ -433,13 +381,22 @@
     "featureNS": "schulen",
     "datasets": [
       {
-        "md_name": "Schulen",
+        "md_name": "Grund- und Oberschulen",
         "md_id": "2656f411-e4e9-3e57-8dc7-b4533426e048",
         "rs_id": "https://registry.gdi-de.org/id/de.be.csw/decd827f-58cf-3a56-b2b7-5c72bbc5d984",
         "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
       }
     ],
-    "gfiAttributes": "showAll"
+    "gfiAttributes": {
+      "schulname": "common:modules.gfiAttributes.schule.schulname",
+      "schulart": "common:modules.gfiAttributes.schule.schulart",
+      "plz": "common:modules.gfiAttributes.schule.plz",
+      "strasse": "common:modules.gfiAttributes.schule.strasse",
+      "telefon": "common:modules.gfiAttributes.schule.telefon",
+      "fax": "common:modules.gfiAttributes.schule.fax",
+      "email": "common:modules.gfiAttributes.schule.email",
+      "internet": "common:modules.gfiAttributes.schule.internet"
+    }
   },
   {
     "id": "kita:wfs:kita",
@@ -457,7 +414,13 @@
         "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
       }
     ],
-    "gfiAttributes": "showAll"
+    "gfiAttributes": {
+      "e_name": "common:modules.gfiAttributes.kita.e_name",
+      "e_plz": "common:modules.gfiAttributes.kita.e_plz",
+      "e_strasse": "common:modules.gfiAttributes.kita.e_strasse",
+      "e_tel": "common:modules.gfiAttributes.kita.e_tel",
+      "e_web": "common:modules.gfiAttributes.kita.e_web"
+    }
   },
   {
     "id": "jfe:wfs:jfe",
@@ -475,7 +438,13 @@
         "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
       }
     ],
-    "gfiAttributes": "showAll"
+    "gfiAttributes": {
+      "e_name": "common:modules.gfiAttributes.kita.e_name",
+      "e_plz": "common:modules.gfiAttributes.kita.e_plz",
+      "e_strasse": "common:modules.gfiAttributes.kita.e_strasse",
+      "e_tel": "common:modules.gfiAttributes.kita.e_tel",
+      "e_web": "common:modules.gfiAttributes.kita.e_web"
+    }
   },
   {
     "id": "pflegeeinrichtungen:wfs:a_pflegeeinrichtungen_voll",
@@ -487,13 +456,17 @@
     "featureNS": "pflegeeinrichtungen",
     "datasets": [
       {
-        "md_name": "AusgewÃ¤hlte Pflege- und pflegeflankierende Angebote in Berlin",
+        "md_name": "Pflege- und pflegeflankierende Angebote",
         "md_id": "b0122abe-5bdc-4f1a-bfdf-7f544d99d81a",
         "rs_id": "https://registry.gdi-de.org/id/de.be.csw/c54eebcb-9eae-3b60-b112-bcb291eeddc7",
         "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
       }
     ],
-    "gfiAttributes": "showAll"
+    "gfiAttributes": {
+        "einrichtung_name": "common:modules.gfiAttributes.pflege.einrichtung_name",
+        "gc_strasse": "common:modules.gfiAttributes.pflege.gc_strasse",
+        "gc_plz": "common:modules.gfiAttributes.pflege.gc_plz"
+      }
   },
   {
     "id": "ua_einwohnerdichte_2023:wfs:einwohnerdichte2023_entw",
@@ -505,63 +478,9 @@
     "featureNS": "ua_einwohnerdichte_2023",
     "datasets": [
       {
-        "md_name": "Einwohnerdichte 2023 (Umweltatlas)",
+        "md_name": "Wohngebiete mit mehr als 400 Einwohner pro Hektar",
         "md_id": "ca78eb01-db63-4f50-9823-73c2adbc541b",
         "rs_id": "https://registry.gdi-de.org/id/de.be.csw/d46e6c1e-05fd-3e99-a48f-5699f1140d46",
-        "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
-      }
-    ],
-    "gfiAttributes": "showAll"
-  },
-  {
-    "id": "s06_05gruenversorg2020_gruenanl",
-    "name": "Versorgung mit öffentlichen, wohnungsnahen Grünanlagen 2020 - Grünanlagen (Umweltatlas)",
-    "crs": "urn:ogc:def:crs:EPSG:6.9:25833",
-    "url": "https://fbinter.stadt-berlin.de/fb/wfs/data/senstadt/s06_05gruenversorg2020_gruenanl",
-    "typ": "WFS",
-    "featureType": "fis:s06_05gruenversorg2020_gruenanl",
-    "featureNS": "http://www.berlin.de/broker",
-    "datasets": [
-      {
-        "md_name": "Versorgung mit Ã¶ffentlichen, wohnungsnahen GrÃ¼nanlagen 2020 - GrÃ¼nanlagen (Umweltatlas)",
-        "md_id": "e7419261-f29e-403d-a235-41f53fa540f0",
-        "rs_id": "https://registry.gdi-de.org/id/de.be.csw/be9f12f5-5f4f-34ac-9725-7690b644f01c",
-        "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
-      }
-    ],
-    "gfiAttributes": "showAll"
-  },
-  {
-    "id": "s09_01_8UGthematisch_2013",
-    "name": "Umweltgerechtigkeit: Integrierte Mehrfachbelastungskarte - thematisch 2013 (Umweltatlas)",
-    "crs": "urn:ogc:def:crs:EPSG:6.9:25833",
-    "url": "https://fbinter.stadt-berlin.de/fb/wfs/data/senstadt/s09_01_8UGthematisch_2013",
-    "typ": "WFS",
-    "featureType": "fis:s09_01_8UGthematisch_2013",
-    "featureNS": "http://www.berlin.de/broker",
-    "datasets": [
-      {
-        "md_name": "Umweltgerechtigkeit: Integrierte Mehrfachbelastungskarte - thematisch 2013 (Umweltatlas)",
-        "md_id": "e8c64e5c-e00f-3a9c-96bd-adffdb212975",
-        "rs_id": "https://registry.gdi-de.org/id/de.be.csw/0b0d7137-54a7-37c6-b3bf-99213a025212",
-        "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
-      }
-    ],
-    "gfiAttributes": "showAll"
-  },
-  {
-    "id": "liegenschaftsplan:wfs:liegenschaftsplan",
-    "name": "Liegenschaftsplan",
-    "crs": "urn:ogc:def:crs:EPSG::25833",
-    "url": "https://gdi.berlin.de/services/wfs/liegenschaftsplan",
-    "typ": "WFS",
-    "featureType": "liegenschaftsplan:liegenschaftsplan",
-    "featureNS": "liegenschaftsplan",
-    "datasets": [
-      {
-        "md_name": "Liegenschaftsplan",
-        "md_id": "2a8ab3ce-f999-434b-8723-d2c492277f38",
-        "rs_id": "https://registry.gdi-de.org/id/de.be.csw/84cb1a65-22f6-33a5-a5f1-eba950a89445",
         "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
       }
     ],
@@ -577,19 +496,19 @@
     "featureNS": "kleingarten",
     "datasets": [
       {
-        "md_name": "Kleingartenbestand Berlin",
+        "md_name": "Kleingartenbestand",
         "md_id": "f3c8b4d4-ce97-33d7-bc12-f74d930169bd",
         "rs_id": "https://registry.gdi-de.org/id/de.be.csw/0cd68b02-ee11-31b0-801f-e8fe5814b8a6",
         "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
       }
     ],
     "gfiAttributes": {
-      "anlagennummer": "Anlagennummer",
-      "objektname": "Name der Anlage",
-      "strasse": "Straße",
-      "flaechengroesse": "Größe der Anlage in m2",
-      "parzellenanzahl": "Parzellen",
-      "zwischenpaechter": "Verpächter"
+      "anlagennummer": "common:modules.gfiAttributes.kleingarten.anlagennummer",
+      "objektname": "common:modules.gfiAttributes.kleingarten.objektname",
+      "strasse": "common:modules.gfiAttributes.kleingarten.strasse",
+      "flaechengroesse": "common:modules.gfiAttributes.kleingarten.flaechengroesse",
+      "parzellenanzahl": "common:modules.gfiAttributes.kleingarten.parzellenanzahl",
+      "zwischenpaechter": "common:modules.gfiAttributes.kleingarten.zwischenpaechter"
 
    }
   }

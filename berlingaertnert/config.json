@@ -31,7 +31,7 @@
             },
             "stroke": {
                 "width": 2,
-                "color": [145,133,190,0.8]    
+                "color": [255,255,255,1]    
             }
         },
         "showPolygonMarkerForWMS": true,
@@ -234,26 +234,27 @@
           "type": "folder",
           "elements": [
             {
-              "id": "gruenanlagen:wfs:gruenanlagen",
+              "id": "ua_gruendaecher_2020:wfs:d_gebaeude",
               "name": "common:modules.layerName.gruendaecher",
               "styleId": "gruendaecher_polygon_selection",
               "visibility": false
             },
             {
-              "id": "gruenflaechen",
+              "id": "gruenanlagen:wfs:gruenanlagen",
               "name": "common:modules.layerName.gruenanlagen",
-              "styleId": "defaultpolygonlayer",
+              "styleId": "mini_triangle",
               "visibility": false
             },
             {
               "id": "baumbestand:wfs:anlagenbaeume",
               "name": "common:modules.layerName.anlagenbaeume",
-              "styleId": "tree",
+              "styleId": "tree_dot",
               "visibility": false
             },
             {
               "id": "baumbestand:wfs:strassenbaeume",
               "name": "common:modules.layerName.strassenbaeume",
+              "styleId": "tree_dot",
               "visibility": false
             }
           ]
@@ -263,31 +264,33 @@
           "type": "folder",
           "elements": [
             {
-              "id": "ua_versiegelung_2021:wfs:versieg2021",
+              "id": "ua_boden_2_2020:wfs:bodenkennwerte",
               "name": "common:modules.layerName.bodenkennwerte",
               "styleId": "defaultpolygonlayer",
               "visibility": false
             },
             {
+              "id": "ua_versiegelung_2021:wfs:versieg2021",
               "name": "common:modules.layerName.versiegelung",
+              "styleId": "versiegelung_polygon_selection",
               "visibility": false
             }
           ]
         },
         {
-          "name": "Soziale Einrichtungen",
+          "name": "Soziales",
           "type": "folder",
           "elements": [
             {
               "id": "schulen:wfs:schulen",
               "name": "common:modules.layerName.schulen",
-              "styleId": "building",
+              "styleId": "schule",
               "visibility": false
             },
             {
               "id": "kita:wfs:kita",
               "name": "common:modules.layerName.kitas",
-              "styleId": "building",
+              "styleId": "kita",
               "visibility": false
             },
             {
@@ -299,18 +302,13 @@
             {
               "id": "pflegeeinrichtungen:wfs:a_pflegeeinrichtungen_voll",
               "name": "common:modules.layerName.pflegeeinrichtungen",
-              "styleId": "building",
+              "styleId": "pflege",
               "visibility": false
-            }
-          ]
         },
-        {
-          "name": "Stadtentwicklung",
-          "type": "folder",
-          "elements": [
             {
               "id": "ua_einwohnerdichte_2023:wfs:einwohnerdichte2023_entw",
               "name": "common:modules.layerName.einwohnerdichte",
+              "styleId": "einwohner_polygon_selection",
               "visibility": false
             }
           ]

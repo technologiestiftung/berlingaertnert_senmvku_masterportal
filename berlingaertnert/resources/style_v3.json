@@ -4,14 +4,14 @@
     "rules": [
       {
         "style": {
-          "polygonStrokeColor": [145,133,190,0.5],
+          "polygonStrokeColor": [95,169,133,1],
           "polygonStrokeWidth": 2,
           "polygonFillHatch": {
-            "pattern": "triangle",
+            "pattern": "diagonal",
             "lineWidth": 1.5,
             "size": 40,
             "backgroundColor": [155,207,175,0.3],
-            "patternColor": [145,133,190,0.65]
+            "patternColor": [95,169,133,1]
         }
         }
       }
@@ -157,8 +157,47 @@
         "style": {
           "legendValue": "Gebäude",
           "type": "icon",
-          "imageName": "house-fill.svg",
-          "imageScale": 0.9
+          "imageName": "building.svg",
+          "imageScale": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "styleId": "schule",
+    "rules":[
+      {
+        "style": {
+          "legendValue": "Schule",
+          "type": "icon",
+          "imageName": "buildings-fill.svg",
+          "imageScale": 1.3
+        }
+      }
+    ]
+  },
+  {
+    "styleId": "kita",
+    "rules":[
+      {
+        "style": {
+          "legendValue": "Kindertagesstätte",
+          "type": "icon",
+          "imageName": "buildings.svg",
+          "imageScale": 1.3
+        }
+      }
+    ]
+  },
+  {
+    "styleId": "pflege",
+    "rules":[
+      {
+        "style": {
+          "legendValue": "Pflegeeinrichtung",
+          "type": "icon",
+          "imageName": "building-fill.svg",
+          "imageScale": 1.0
         }
       }
     ]
@@ -177,13 +216,43 @@
     ]
   },
   {
+    "styleId": "tree_dot",
+    "rules":[
+      {
+        "style": {
+          "legendValue": "Baum",
+          "type": "circle",
+          "circleRadius": 4,
+          "circleStrokeWidth": 0,
+          "circleStrokeColor": [0,0,0,1],
+          "circleFillColor": [30,126,77,1]
+        }
+      }
+    ]
+  },
+  {
+    "styleId": "tree_dot_cluster",
+    "rules":[
+      {
+        "style": {
+          "legendValue": "Baum",
+          "clusterType": "circle",
+          "circleRadius": 6,
+          "circleStrokeWidth": 1,
+          "circleStrokeColor": [0,0,0,1],
+          "circleFillColor": [95,169,133,1]
+        }
+      }
+    ]
+  },
+  {
     "styleId": "BerlinMapMarkerPoint",
     "rules":[
       { 
         "style": {
           "legendValue": "MapMarker",
           "type": "icon",
-          "imageName": "marker.svg",
+          "imageName": "marker_berlin_ci.svg",
           "imageScale": 0.5
         }
       }
@@ -220,5 +289,98 @@
         }
       }
     ]
+  },
+  {
+    "styleId": "mini_triangle",
+    "rules": [
+      {
+        "style": {
+          "polygonStrokeColor": [95,169,133,1],
+          "polygonStrokeWidth": 2,
+          "polygonFillHatch": {
+            "pattern": "triangle",
+            "lineWidth": 1.5,
+            "size": 40,
+            "backgroundColor": [155,207,175,0],
+            "patternColor": [95,169,133,1]
+        }
+        }
+      }
+    ]
+  },
+  {
+    "styleId": "gruendaecher_polygon_selection",
+    "rules": [
+      {
+        "conditions": {
+          "properties": {
+              "gruendach": "vorhanden"
+          }
+        },
+        "style": {
+          "polygonStrokeColor": [255,255,255,0.5],
+          "polygonStrokeWidth": 2,
+          "polygonFillHatch": {
+            "pattern": "circle",
+            "lineWidth": 1.5,
+            "size": 40,
+            "backgroundColor": [95,169,133],
+            "patternColor": [255,255,255,1]
+          }
+        }
+      }    
+        ]
+  },
+  {
+    "styleId": "versiegelung_polygon_selection",
+    "rules": [
+      {
+        "conditions": {
+          "properties": [
+            {
+              "attrName": {
+                "name": "vg_2021",
+                "condition": "contains"
+              },
+              "value": [0,25]
+            }
+          ]
+        },
+        "style": {
+          "polygonStrokeColor": [145,133,190,0.5],
+          "polygonStrokeWidth": 2,
+          "polygonFillHatch": {
+            "pattern": "diagonal",
+            "lineWidth": 1.5,
+            "size": 40,
+            "backgroundColor": [155,207,175,0.3],
+            "patternColor": [145,133,190,0.65]
+          }
+        }
+      }    
+        ]
+  },
+  {
+    "styleId": "einwohner_polygon_selection",
+    "rules": [
+      {
+        "conditions": {
+          "properties": {
+              "ew_ha_2023": [400, 10000]
+          }
+        },
+        "style": {
+          "polygonStrokeColor": [255,255,255,1],
+          "polygonStrokeWidth": 2,
+          "polygonFillHatch": {
+            "pattern": "zig-line",
+            "lineWidth": 0,
+            "size": 40,
+            "backgroundColor": [0,79,159,0.5],
+            "patternColor": [255,255,255,1]
+          }
+        }
+      }    
+        ]
   }
 ]
