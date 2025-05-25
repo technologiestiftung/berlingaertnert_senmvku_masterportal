@@ -1,12 +1,11 @@
 [
   {
     "id": "Basemap",
-    "name": "Basemap",
+    "name": "Hintergrundkarte",
     "epsg": "EPSG:3857",
     "url": "https://sgx.geodatenzentrum.de/gdz_basemapde_vektor/tiles/v2/bm_web_de_3857/{z}/{x}/{y}.pbf",
     "typ": "VectorTile",
     "transparency": 0,
-    "visibility": true,
     "legend": false,
     "gfiAttributes": "ignore",
     "gfiTheme": "default",
@@ -16,6 +15,34 @@
         "name": "Tagesansicht",
         "url": "resources/basemap_style.json",
         "defaultStyle": true
+      },
+      {
+        "id": "basemap_style_dark",
+        "name": "Nachtansicht",
+        "url": "resources/basemap_style_dark_colors.json",
+        "defaultStyle": false
+      }
+    ],
+    "preview": {
+      "src": "./resources/img/vectortile_preview.png"
+    }
+  },
+  {
+    "id": "Basemap_dark",
+    "name": "common:modules.layerName.basemap_style_dark",
+    "epsg": "EPSG:3857",
+    "url": "https://sgx.geodatenzentrum.de/gdz_basemapde_vektor/tiles/v2/bm_web_de_3857/{z}/{x}/{y}.pbf",
+    "typ": "VectorTile",
+    "transparency": 0,
+    "legend": false,
+    "gfiAttributes": "ignore",
+    "gfiTheme": "default",
+    "vtStyles": [
+      {
+        "id": "basemap_style_dark",
+        "name": "Nachtansicht",
+        "url": "resources/basemap_style_dark_colors.json",
+        "defaultStyle": true
       }
     ],
     "preview": {
@@ -24,7 +51,7 @@
   },
   {
     "id": "Luftbild",
-    "name": "Luftbild 2024",
+    "name": "common:modules.layerName.luftbild",
     "name_lang": "Digitale farbige TrueOrthophotos 2024 (DOP20RGBI)",
     "crs": "EPSG:25833",
     "url": "https://gdi.berlin.de/services/wms/truedop_2024",
@@ -164,7 +191,6 @@
     "gfiAttributes": "showAll",
     "legendURL": "resources/img/Selbsterntegaerten_legend.png",
     "gfiTheme": "default",
-    "zIndex": 1000,
     "datasets": [{
       "md_id": "selbsterntegaerten.xml",
       "csw_url": "resources/data/metadata/selbsterntegaerten.xml",
@@ -227,7 +253,7 @@
       "namenr": "common:modules.gfiAttributes.gruenanlagen.namenr",
       "namezusatz": "common:modules.gfiAttributes.gruenanlagen.namezusatz",
       "bezirkname": "common:modules.gfiAttributes.gruenanlagen.bezirkname"
-      }
+   }    
   },
   {
     "id": "baumbestand:wfs:anlagenbaeume",
@@ -307,7 +333,7 @@
         "gruen20_m2": "common:modules.gfiAttributes.gruendaecher.gruen20_m2",
         "gint20_m2": "common:modules.gfiAttributes.gruendaecher.gint20_m2",
         "gex20_m2":	"common:modules.gfiAttributes.gruendaecher.gex20_m2"
-      }
+    }
   },
   {
     "id": "ua_versiegelung_2021:wfs:versieg2021",

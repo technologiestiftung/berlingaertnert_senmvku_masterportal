@@ -110,12 +110,18 @@
     },
     "tree": {
       "singleBaselayer": true,
+      "allowBaselayerDrag": false,
       "addLayerButton": {
         "active": true,
         "searchBar": {
           "active": true,
-          "searchInterfaceInstanceId": "elasticSearch_0",
-          "searchCategory": "Thema (externe Fachdaten)"
+            "searchInterfaceInstances": [
+              {
+                  "id": "topicTree",
+                  "searchCategory": "Thema"
+              }
+
+            ]
         }
       },
       "highlightedFeatures": {
@@ -146,15 +152,12 @@
       "elements": [
         {
           "id": "Luftbild",
-          "name": "Luftbild",
           "visibility": false
         },
-
         {
           "id": "Basemap",
-          "name": "Hintergrundkarte",
-          "visibility": true,
-          "styleId": "basemap_style"
+          "vtStyle": "basemap_style",
+          "visibility": true
         }
       ]
     },

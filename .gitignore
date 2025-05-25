@@ -399,3 +399,5 @@ FodyWeavers.xsd
 .DS_Store
 .vscode/settings.json
 berlingaertnert/resources/services_excluded.json
+data/layer_filter_examples.json
+data/ueberberlingaertnert.html
