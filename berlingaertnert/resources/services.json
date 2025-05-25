@@ -77,7 +77,7 @@
     "url": "resources/data/gemeinschaftsgaerten.geojson",
     "typ": "GeoJSON",
     "gfiAttributes": "showAll",
-    "legendURL": "",
+    "legendURL": "resources/img/Gemeinschaftsgaerten_legend.png",
     "gfiTheme": "default",
     "datasets": [{
       "md_id": "gemeinschaftsgarten.xml",
@@ -94,7 +94,7 @@
     "url": "resources/data/beetpatenschaften.geojson",
     "typ": "GeoJSON",
     "gfiAttributes": "showAll",
-    "legendURL": "",
+    "legendURL": "resources/img/Beetpatenschaft_legend.png",
     "gfiTheme": "default",
     "datasets": [{
       "md_id": "beetpatenschaften.xml",
@@ -111,7 +111,7 @@
     "url": "resources/data/gartenarbeitsschulen.geojson",
     "typ": "GeoJSON",
     "gfiAttributes": "showAll",
-    "legendURL": "",
+    "legendURL": "resources/img/Gartenarbeitsschule_legend.png",
     "gfiTheme": "default",
     "datasets": [{
       "md_id": "gartenarbeitschulen.xml",
@@ -128,7 +128,7 @@
     "url": "resources/data/kitaschulgaerten.geojson",
     "typ": "GeoJSON",
     "gfiAttributes": "showAll",
-    "legendURL": "",
+    "legendURL": "resources/img/Schulgaerten_legend.png",
     "gfiTheme": "default",
     "datasets": [{
       "md_id": "kitaschulgaerten.xml",
@@ -145,7 +145,7 @@
     "url": "resources/data/parklets.geojson",
     "typ": "GeoJSON",
     "gfiAttributes": "showAll",
-    "legendURL": "",
+    "legendURL": "resources/img/Parklet_legend.png",
     "gfiTheme": "default",
     "datasets": [{
       "md_id": "parklets.xml",
@@ -162,7 +162,7 @@
     "url": "resources/data/selbsterntegaerten.geojson",
     "typ": "GeoJSON",
     "gfiAttributes": "showAll",
-    "legendURL": "",
+    "legendURL": "resources/img/Selbsterntegaerten_legend.png",
     "gfiTheme": "default",
     "zIndex": 1000,
     "datasets": [{
@@ -180,7 +180,7 @@
     "url": "resources/data/solidarischelandwirtschaft.geojson",
     "typ": "GeoJSON",
     "gfiAttributes": "showAll",
-    "legendURL": "",
+    "legendURL": "resources/img/SoLawi_1_legend.png",
     "gfiTheme": "default",
     "datasets": [{
       "md_id": "solidarischelandwirtschaft.xml",
@@ -197,7 +197,7 @@
     "url": "resources/data/flaechenpotentiale.geojson",
     "typ": "GeoJSON",
     "gfiAttributes": "showAll",
-    "legendURL": "",
+    "legendURL": "resources/img/Flaechenpotentiale_legend.png",
     "gfiTheme": "default",
     "datasets": [{
       "md_id": "flaechenpotentiale.xml",
