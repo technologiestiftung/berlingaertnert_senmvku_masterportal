@@ -574,6 +574,19 @@
         "sort": "Sort values"
       }
     },
+    "gfiAttributes": {
+      "gruenanlagen": {
+        "namenr": "Location",
+        "art_dtsch": "Tree species (German)",
+        "art_bot": "Tree species (botanical)",
+        "art_gruppe": "Tree type",
+        "pflanzjahr": "Year of planting",
+        "baumhoehe": "Height [m]",
+        "kronedurch": "Crown diameter [m]",
+        "stammumfg": "Trunk circumference [cm]",
+        "bezirk": "District"
+      }
+    },  
     "info": {
       "name": "Info",
       "disclaimer": "Legal disclaimer",
