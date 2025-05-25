@@ -13,12 +13,41 @@
     <title>Berlin Gärtnert</title>
     <!-- enter your own Portal Title for the website at this -->
     <link rel="stylesheet" href="./mastercode/3_7_0/css/masterportal.css" />
-    <link rel="stylesheet" href="" />
+    <!-- <link rel="stylesheet" href="" /> -->
+    <link rel="stylesheet" href="./resources/css/berlin_icons.css">
     <!-- Here you can configure your own fonts as url -->
     <style>
       .mp-menu-logo img {
         max-height: 100px !important;
       }
+      /* map Berlin CI icons onto Master Portal defaults*/
+      .bi-info-circle:before {
+        content: "\e826";
+        font-family: "berlin_icons" !important;
+        position: relative;
+        top: 0px;
+        left: 0;
+        font-size: 30px;
+      }
+
+      .bi-info-circle-fill:before {
+        content: "\e826";
+        font-family: "berlin_icons" !important;
+        position: relative;
+        top: 0px;
+        left: 0;
+        font-size: 30px;
+      }
+
+      .bi-globe:before {
+        content: "\e835";
+        font-family: "berlin_icons" !important;
+        position: relative;
+        top: 0px;
+        left: 0;
+        font-size: 24px;
+      }
+
       @font-face {
         font-family: "fontello";
         src: url("./resources/font/fontello.eot?17504900");
