@@ -91,7 +91,7 @@
             "icon": "icon-berlin-bulb",
             "type": "customMenuElement",
             "name": "common:modules.about.description",
-            "htmlContent": "<div><p>Mit der Plattform „<a href=\"http://www.berlin.de/gaertnern\" target=\"_blank\">Berlin gärtnert!</a>“ und der dazugehörigen Kartenanwendung stellt die <a href=\"https://www.berlin.de/sen/uvk/\" target=\"_blank\">Berliner Senatsverwaltung für Mobilität, Verkehr, Klimaschutz und Umwelt</a> Informationen zur Verfügung, wie und wo von den Berliner:innen gegärtnert werden kann – vom Kleingarten und Gemeinschaftsgarten bis hin zum Schulgarten oder zur Beetpatenschaft im öffentlichen Raum.</p> <p>„Berlin gärtnert!“ ist das Ergebnis eines umfangreichen Beteiligungsprozesses, der von Anfang 2024 bis Februar 2025 mit interessierten Bürger:innen und mehreren Stellen der Berliner Verwaltung (Senatsverwaltung für Mobilität, Verkehr, Klimaschutz und Umwelt; Senatsverwaltung für Bildung, Jugend und Familie; Senatsverwaltung für Justiz und Verbraucherschutz; Bezirksämter) erfolgt ist. In diesem Prozess wurden diese Inhalte gemeinsam entwickelt und abgestimmt. Sie vereinen die verschiedenen urbanen Gartenformen in Berlin (siehe Kategorien) und geben einen Überblick über die Möglichkeiten gärtnerisch aktiv zu werden.</p> <h5>Wie kann ich die Kartenanwendung „Berlin gärtnert!“ nutzen?</h5><p>Im Menü können über die Suche und über den Themenbaum alle verfügbaren Daten zu den verschiedenen Gartenformen gefunden und in die Kartenansicht hinzugeladen werden. Über den Infobutton lassen sich zu jedem Datensatz zusätzliche Information anzeigen. Dort findet sich auch der Link zu den ausführlichen Informationen eines Themas mit Datengrundlagen, Methode und Kartenbeschreibung. Neben den Gartenformen stehen auch weitere Fachdaten zur Verfügung, die aus dem <a href=\"https://gdi.berlin.de/viewer/main/\" target=\"_blank\">Geoportal Berlin</a> stammen und bei Bedarf ebenfalls angezeigt werden können. Für das professionelle Arbeiten stehen zu jedem Thema sogenannte Geodienste (WMS, WFS, ATOM-Feed) zur Verfügung, die eine individuelle Weiternutzung der Daten in Geoinformationssystemen oder Fachprogrammen ermöglichen. Zum Download steht alternativ auch eine GeoJSON zur Verfügung. Über die Werkzeugleiste lassen sich weitere Tools hinzu schalten. </p> <h5>Wer steht hinter der Kartenanwendung „Berlin gärtnert!“?</h5> <p>Die Gesamt-Projektleitung von „Berlin gärtnert!“ und Pflege der Karten-Datenbank wurde und wird durch Toni Karge (SenMVKU) wahrgenommen. Die Umsetzung von „Berlin gärtnert!“ erfolgte durch das Planungsbüro <a href=\"https://gruppef.com/\" target=\"_blank\">gruppe F – Freiraum für alle GmbH</a> sowie die Agentur <a href=\"https://www.georgundgeorg.de/\" target=\"_blank\">georg+georg GmbH</a> – in Zusammenarbeit mit vielen interessierten Einwohner:innen Berlins sowie zahlreichen Mitarbeiter:innen der Berliner Senatsverwaltungen und den Bezirksämtern. Die Kartenanwendung wurde durch die <a href=\"https://odis-berlin.de/\" target=\"_blank\">Open Data Informationsstelle Berlin</a> erstellt, ein Projekt der Technologiestiftung Berlin, gefördert von der Senatskanzlei Berlin und der Investitionsbank Berlin aus den Mitteln des Landes Berlin. Die Anwendung basiert auf dem Open Source Code des <a href=\"https://www.masterportal.org/\" target=\"_blank\">Masterportals</a>.</p> <h5>Weitere Informationen</h5> <p>Mehr Informationen und häufig gestellte Fragen und Antworten finden Sie unter <a href=\"http://www.berlin.de/gaertnern/faq\" target=\"_blank\">FAQ</a>. Offen gebliebene Fragen können Sie an <a href=\"mailto:gemeinschaftsgaerten@senmvku.berlin.de\" target=\"_blank\">gemeinschaftsgaerten@senmvku.berlin.de</a> senden.</p></div>"
+            "htmlContent": "<div><img src='resources/img/berlin_gaertnert_baer.png' alt='Logo' style='max-width:80%;height:auto; display:block; margin: 0 auto;'><p style='margin-top: 20px;'>Mit der Plattform „<a href=\"http://www.berlin.de/gaertnern\" target=\"_blank\">Berlin gärtnert!</a>“ und der dazugehörigen Kartenanwendung stellt die <a href=\"https://www.berlin.de/sen/uvk/\" target=\"_blank\">Berliner Senatsverwaltung für Mobilität, Verkehr, Klimaschutz und Umwelt</a> Informationen zur Verfügung, wie und wo von den Berliner:innen gegärtnert werden kann – vom Kleingarten und Gemeinschaftsgarten bis hin zum Schulgarten oder zur Beetpatenschaft im öffentlichen Raum.</p> <p>„Berlin gärtnert!“ ist das Ergebnis eines umfangreichen Beteiligungsprozesses, der von Anfang 2024 bis Februar 2025 mit interessierten Bürger:innen und mehreren Stellen der Berliner Verwaltung (Senatsverwaltung für Mobilität, Verkehr, Klimaschutz und Umwelt; Senatsverwaltung für Bildung, Jugend und Familie; Senatsverwaltung für Justiz und Verbraucherschutz; Bezirksämter) erfolgt ist. In diesem Prozess wurden diese Inhalte gemeinsam entwickelt und abgestimmt. Sie vereinen die verschiedenen urbanen Gartenformen in Berlin (siehe Kategorien) und geben einen Überblick über die Möglichkeiten gärtnerisch aktiv zu werden.</p> <h5>Wie kann ich die Kartenanwendung „Berlin gärtnert!“ nutzen?</h5><p>Im Menü können über die Suche und über den Themenbaum alle verfügbaren Daten zu den verschiedenen Gartenformen gefunden und in die Kartenansicht hinzugeladen werden. Über den Infobutton lassen sich zu jedem Datensatz zusätzliche Information anzeigen. Dort findet sich auch der Link zu den ausführlichen Informationen eines Themas mit Datengrundlagen, Methode und Kartenbeschreibung. Neben den Gartenformen stehen auch weitere Fachdaten zur Verfügung, die aus dem <a href=\"https://gdi.berlin.de/viewer/main/\" target=\"_blank\">Geoportal Berlin</a> stammen und bei Bedarf ebenfalls angezeigt werden können. Für das professionelle Arbeiten stehen zu jedem Thema sogenannte Geodienste (WMS, WFS, ATOM-Feed) zur Verfügung, die eine individuelle Weiternutzung der Daten in Geoinformationssystemen oder Fachprogrammen ermöglichen. Zum Download steht alternativ auch eine GeoJSON zur Verfügung. Über die Werkzeugleiste lassen sich weitere Tools hinzu schalten. </p> <h5>Wer steht hinter der Kartenanwendung „Berlin gärtnert!“?</h5> <img src='resources/img/Baer_Logo.png' alt='Logo' style='max-width:60%;height:auto; display:block; margin: 0 auto;'><p style='margin-top: 20px;'>Die Gesamt-Projektleitung von „Berlin gärtnert!“ und Pflege der Karten-Datenbank wurde und wird durch Toni Karge (SenMVKU) wahrgenommen. Die Umsetzung von „Berlin gärtnert!“ erfolgte durch das Planungsbüro <a href=\"https://gruppef.com/\" target=\"_blank\">gruppe F – Freiraum für alle GmbH</a> sowie die Agentur <a href=\"https://www.georgundgeorg.de/\" target=\"_blank\">georg+georg GmbH</a> – in Zusammenarbeit mit vielen interessierten Einwohner:innen Berlins sowie zahlreichen Mitarbeiter:innen der Berliner Senatsverwaltungen und den Bezirksämtern. Die Kartenanwendung wurde durch die <a href=\"https://odis-berlin.de/\" target=\"_blank\">Open Data Informationsstelle Berlin</a> erstellt, ein Projekt der Technologiestiftung Berlin, gefördert von der Senatskanzlei Berlin und der Investitionsbank Berlin aus den Mitteln des Landes Berlin. Die Anwendung basiert auf dem Open Source Code des <a href=\"https://www.masterportal.org/\" target=\"_blank\">Masterportals</a>.</p> <h5>Weitere Informationen</h5> <p>Mehr Informationen und häufig gestellte Fragen und Antworten finden Sie unter <a href=\"http://www.berlin.de/gaertnern/faq\" target=\"_blank\">FAQ</a>. Offen gebliebene Fragen können Sie an <a href=\"mailto:gemeinschaftsgaerten@senmvku.berlin.de\" target=\"_blank\">gemeinschaftsgaerten@senmvku.berlin.de</a> senden.</p></div>"
           },
           {
             "type": "language",
@@ -117,7 +117,7 @@
       "addLayerButton": {
         "active": true,
         "searchBar": {
-          "active": true,
+            "active": true,
             "searchInterfaceInstances": [
               {
                   "id": "topicTree",
@@ -125,7 +125,7 @@
               }
 
             ]
-        }
+          }
       },
       "highlightedFeatures": {
         "active": false
@@ -170,7 +170,7 @@
           "name": "Gartenformen",
           "type": "folder",
           "elements": [
-{
+            {
               "id": "kleingarten:wfs:kleingarten",
               "name": "common:modules.layerName.kleingarten",
               "styleId": "kleingarten",
@@ -310,7 +310,7 @@
               "name": "common:modules.layerName.pflegeeinrichtungen",
               "styleId": "pflege",
               "visibility": false
-        },
+            },
             {
               "id": "ua_einwohnerdichte_2023:wfs:einwohnerdichte2023_entw",
               "name": "common:modules.layerName.einwohnerdichte",
