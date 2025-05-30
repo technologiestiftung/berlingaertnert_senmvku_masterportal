@@ -969,7 +969,7 @@
                 "PLZ": "13088 Berlin",
                 "Bezirk": "Treptow-Köpenick",
                 "Social Media": "https://lichtgarten.blogger.de/",
-                "Kontakt": "NadinFreitag@gmx.de",
+                "Kontakt": null,
                 "Seit wann": "2007",
                 "Flächengröße m2": "Schatteng: 600 / Lichtg: ?",
                 "Nutzung": " "
@@ -1108,7 +1108,7 @@
                 "Straße": "Mehringdamm 114",
                 "PLZ": "10965 Berlin",
                 "Bezirk": "Friedrichshain-Kreuzberg",
-                "Kontakt": "jeanine.fornacon@googlemail.com, familienzentrum-mehringdamm@pfh-berlin.de"
+                "Kontakt": "familienzentrum-mehringdamm@pfh-berlin.de"
             }
         },
         {
@@ -1270,7 +1270,7 @@
                 "PLZ": "13593 Berlin",
                 "Bezirk": "Spandau",
                 "Social Media": "https://gruppef.com/gemeinschaftsgarten-gruene-blase-und-kistengaerten/",
-                "Kontakt": "walther@gruppef.com, marie.gurke@web.de",
+                "Kontakt": "walther@gruppef.com",
                 "Seit wann": "2015",
                 "Flächengröße m2": "600",
                 "Träger": "Gruppe F Landschaftsarchitekten"
@@ -1337,7 +1337,7 @@
                 "PLZ": "10963 Berlin",
                 "Bezirk": "Friedrichshain-Kreuzberg",
                 "Social Media": "https://pog-berlin.de/",
-                "Träger": "Kleingartenkolonie Potsdamer Güterbahnhof  POG",
+                "Träger": "Kleingartenkolonie Potsdamer Güterbahnhof POG",
                 "Nutzung": "  "
             }
         },
@@ -1408,7 +1408,7 @@
                 "PLZ": "13585 Berlin",
                 "Bezirk": "Spandau",
                 "Social Media": "http://neustadtoasen.de/",
-                "Kontakt": "team@neustadtoasen.de, jeanine.fornacon@googlemail.com",
+                "Kontakt": "team@neustadtoasen.de",
                 "Seit wann": "2012",
                 "Träger": "Kompaxx"
             }
@@ -2024,7 +2024,7 @@
                 "PLZ": "10317 Berlin",
                 "Bezirk": "Lichtenberg",
                 "Social Media": "http://lichte-weiten.de/garten.html",
-                "Kontakt": "rudibells@web.de",
+                "Kontakt": null,
                 "Seit wann": "2009",
                 "Flächengröße m2": "1800",
                 "Organisationsform": "Arbeitsgemeinschaft (AG)",
@@ -2207,7 +2207,7 @@
                 "Straße": "Rudower Straße 51",
                 "PLZ": "12557 Berlin",
                 "Bezirk": "Treptow-Köpenick",
-                "Kontakt": "artur.ebert.20@googlemail.com, buero@agenda21-treptow-koepenick.de",
+                "Kontakt": "buero@agenda21-treptow-koepenick.de",
                 "Seit wann": "2007",
                 "Flächengröße m2": "3000",
                 "Organisationsform": "Verein (e.V.)",
@@ -2353,7 +2353,7 @@
                 "Straße": "Kirchgasse 5",
                 "PLZ": "12043 Berlin",
                 "Bezirk": "Neukölln",
-                "Kontakt": "manal-9@live.de",
+                "Kontakt": null,
                 "Träger": "netzwerk stadtraumkultur e.V"
             }
         },
@@ -2462,7 +2462,7 @@
                 "Straße": "Kottmeierstraße 2-4",
                 "PLZ": "12459 Berlin",
                 "Bezirk": "Treptow-Köpenick",
-                "Kontakt": " ahmad-isa@arcor.de",
+                "Kontakt": null,
                 "Seit wann": "2005",
                 "Träger": "ISA Indische Solidaritätsaktion e.V"
             }
@@ -2654,7 +2654,7 @@
                 "PLZ": "13583 Berlin",
                 "Bezirk": "Spandau",
                 "Social Media": " ",
-                "Kontakt": "mi.fleischhauer@web.de, michaelfly@web.de",
+                "Kontakt": null,
                 "Seit wann": "2007"
             }
         },
@@ -2678,7 +2678,7 @@
                 "Kontakt": "generationengarten@nusz.de, IKGG@nusz.de",
                 "Seit wann": "2009",
                 "Flächengröße m2": "5000",
-                "Träger": "Nachbarschafts- und Selbsthilfezentrum in der ufaFabrik e. V",
+                "Träger": "Nachbarschafts- und Selbsthilfezentrum in der ufaFabrik e.V.",
                 "Nutzung": " "
             }
         },
@@ -2724,7 +2724,7 @@
                 "Bezirk": "Mitte",
                 "Social Media": "https://www.ueberleben.org/unsere-arbeit/schwerpunkte/gartentherapie/",
                 "Kontakt": "r.rohner@bzfo.de,  info@bzfo.de",
-                "Träger": "Behandlungszentrums für Folteropfer e.V. (bzfo)"
+                "Träger": "Behandlungszentrum für Folteropfer e.V. (bzfo)"
             }
         },
         {
@@ -2794,7 +2794,7 @@
                 "Social Media": "http://www.alte-fasanerie-luebars.de/",
                 "Kontakt": "altefasanerie@elisabethstift-berlin.de",
                 "Seit wann": "1978",
-                "Träger": "Elisabethstift Berlin "
+                "Träger": "Elisabethstift Berlin"
             }
         },
         {
@@ -2958,7 +2958,7 @@
                 "Straße": "Aßmannstraße",
                 "PLZ": "12587 Berlin",
                 "Bezirk": "Treptow-Köpenick",
-                "Kontakt": "sylvia.nietzold[at]ba-tk.berlin.de"
+                "Kontakt": "sylvia.nietzold@ba-tk.berlin.de"
             }
         },
         {
@@ -3620,7 +3620,7 @@
                 "Straße": "Karpfenteichstraße 13",
                 "PLZ": "12435 Berlin",
                 "Bezirk": "Treptow-Köpenick",
-                "Kontakt": "Morosgarten@gmx.de, stephi.klose@posteo.de"
+                "Kontakt": "Morosgarten@gmx.de"
             }
         },
         {
@@ -3873,7 +3873,7 @@
                 "PLZ": "10247 Berlin",
                 "Bezirk": "Friedrichshain-Kreuzberg",
                 "Social Media": "http://www.rosarose-garten.net",
-                "Kontakt": " rosarotrose@web.de",
+                "Kontakt": "rosarotrose@web.de",
                 "Seit wann": "2004",
                 "Flächengröße m2": "2000",
                 "Träger": "workstation Ideenwerkstatt Berlin e.V."
@@ -3917,7 +3917,7 @@
                 "Straße": "Wiecker Str. 8-10",
                 "PLZ": "13051 Berlin",
                 "Bezirk": "Lichtenberg",
-                "Kontakt": "Sabine-Rosemann@alice-dsl.de",
+                "Kontakt": null,
                 "Seit wann": "2012",
                 "Flächengröße m2": "zuvor 6000",
                 "Organisationsform": "sonstige Organisationsform",
@@ -4008,7 +4008,7 @@
                 "PLZ": "14165 Berlin",
                 "Bezirk": "Steglitz-Zehlendorf",
                 "Social Media": "https://schoenow-buschgraben.de/gemeindeleben/oekogarten.html",
-                "Kontakt": "gerhard.borne@freenet.de",
+                "Kontakt": null,
                 "Seit wann": "1981",
                 "Flächengröße m2": "1500",
                 "Träger": "Ökogarten Am Buschgraben e.V"
@@ -4392,7 +4392,7 @@
                 "Straße": "Karpfenteichstraße 13",
                 "PLZ": "12435 Berlin",
                 "Bezirk": "Treptow-Köpenick",
-                "Träger": "RHIZOM   Antirasistische Garteninitiative",
+                "Träger": "RHIZOM Antirasistische Garteninitiative",
                 "Nutzung": " "
             }
         },
@@ -5142,7 +5142,7 @@
                 "PLZ": "12053 Berlin",
                 "Bezirk": "Neukölln",
                 "Social Media": "https://www.baufachfrau-berlin.de/project/wundervolles-gruen/",
-                "Kontakt": "post@baufachfrau-berlin.de Ilka Holtorf",
+                "Kontakt": "post@baufachfrau-berlin.de",
                 "Seit wann": "2018",
                 "Träger": " BAUFACHFRAU Berlin e.V. "
             }

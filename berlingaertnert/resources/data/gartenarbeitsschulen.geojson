@@ -26,7 +26,7 @@
                 "PLZ": "10245 Berlin",
                 "Bezirk": "Friedrichshain-Kreuzberg",
                 "Website  Social Media": "https://august-sander-schule.de/schulportrait/gartenarbeitsschule",
-                "EMail  Kontakt": "Tel: +49 30 2936880 E-Mail: schulfarm@august-sander-schule.de",
+                "EMail  Kontakt": "schulfarm@august-sander-schule.de",
                 "Seit wann": "1960er",
                 "Flächengröße m²": 15000.0
             }
@@ -49,7 +49,7 @@
                 "PLZ": "13405 Berlin",
                 "Bezirk": "Mitte",
                 "Website  Social Media": "www.schulumweltzentrum.de",
-                "EMail  Kontakt": "Tel: +49 30 39494206 E-Mail: info@schulumweltzentrum.de",
+                "EMail  Kontakt": "info@schulumweltzentrum.de",
                 "Organisationsform": "sonstige Organisationsform",
                 "Träger": "Schul-Umwelt-Zentrum Mitte",
                 "Nutzung": "Bildung"
@@ -73,7 +73,7 @@
                 "PLZ": "10551 Berlin",
                 "Bezirk": "Mitte",
                 "Website  Social Media": "www.schulumweltzentrum.de",
-                "EMail  Kontakt": "Tel: +49 30 39494206 E-Mail: info@schulumweltzentrum.de",
+                "EMail  Kontakt": "info@schulumweltzentrum.de",
                 "Organisationsform": "sonstige Organisationsform",
                 "Träger": "Schul-Umwelt-Zentrum Mitte",
                 "Nutzung": "Bildung"
@@ -97,7 +97,7 @@
                 "PLZ": "10829 Berlin",
                 "Bezirk": "Tempelhof-Schöneberg",
                 "Website  Social Media": "http://www.berlin.de/ba-tempelhof-schoeneberg/gartenarbeitsschule",
-                "EMail  Kontakt": "Tel: +49 30 902774389 +49 1575 4441510 E-Mail: info@gartenarbeits.schule",
+                "EMail  Kontakt": "info@gartenarbeits.schule",
                 "Seit wann": "1922",
                 "Flächengröße m²": 25000.0,
                 "Organisationsform": "sonstige Organisationsform",
@@ -123,7 +123,7 @@
                 "PLZ": "10318 Berlin",
                 "Bezirk": "Lichtenberg",
                 "Website  Social Media": "www.berlin.de/ba-lichtenberg/gartenarbeitsschule",
-                "EMail  Kontakt": "Tel: +49 30 5099628 E-Mail: gartenarbeitsschule-lichtenberg@gmx.de",
+                "EMail  Kontakt": "gartenarbeitsschule-lichtenberg@gmx.de",
                 "Seit wann": "1968",
                 "Flächengröße m²": 10000.0,
                 "Organisationsform": "sonstige Organisationsform",
@@ -149,7 +149,7 @@
                 "PLZ": "13187 Berlin",
                 "Bezirk": "Pankow",
                 "Website  Social Media": "www.gartenarbeitsschule-pankow.de",
-                "EMail  Kontakt": "Tel: +49 30 4761343 E-Mail: gas-pankow@gmx.de",
+                "EMail  Kontakt": "gas-pankow@gmx.de",
                 "Seit wann": "1950er",
                 "Organisationsform": "sonstige Organisationsform",
                 "Träger": "Bezirksamt Pankow, Förderverein der Gartenarbeitsschule Pankow e.V.",
@@ -174,7 +174,7 @@
                 "PLZ": "14199 Berlin",
                 "Bezirk": "Charlottenburg-Wilmersdorf",
                 "Website  Social Media": "http://www.gartenarbeitsschule.de/",
-                "EMail  Kontakt": "Tel: +49 30 51654858 +49 30 51654755 E-Mail: gruener-lernort@gartenarbeitsschule-ilse-demme.de",
+                "EMail  Kontakt": "gruener-lernort@gartenarbeitsschule-ilse-demme.de",
                 "Seit wann": "1921",
                 "Organisationsform": "sonstige Organisationsform",
                 "Träger": "Förderverein der Gartenarbeitsschule Wilmersdorf e.V.",
@@ -199,7 +199,7 @@
                 "PLZ": "12203 Berlin",
                 "Bezirk": "Steglitz-Zehlendorf",
                 "Website  Social Media": "www.schulumweltzentrum-sz.de/",
-                "EMail  Kontakt": "E-Mail: gartenarbeitsschule@schulumweltzentrum-sz.de",
+                "EMail  Kontakt": "gartenarbeitsschule@schulumweltzentrum-sz.de",
                 "Seit wann": "1920er",
                 "Organisationsform": "sonstige Organisationsform",
                 "Nutzung": "Bildung"
@@ -223,7 +223,7 @@
                 "PLZ": "13583 Berlin",
                 "Bezirk": "Spandau",
                 "Website  Social Media": "https://www.gas-borkzeile.de/",
-                "EMail  Kontakt": "Tel: +49 30 26305345 E-Mail: borkzeile@suz-spandau.de",
+                "EMail  Kontakt": "borkzeile@suz-spandau.de",
                 "Seit wann": "1964",
                 "Organisationsform": "sonstige Organisationsform",
                 "Nutzung": "Bildung"
@@ -247,7 +247,7 @@
                 "PLZ": "13587 Berlin",
                 "Bezirk": "Spandau",
                 "Website  Social Media": "http://gas-hakenfelde.de/",
-                "EMail  Kontakt": "Tel: +49 30 3351852 E-Mail: hakenfelde@suz-spandau.de",
+                "EMail  Kontakt": "hakenfelde@suz-spandau.de",
                 "Seit wann": "1946",
                 "Flächengröße m²": 23000.0,
                 "Organisationsform": "sonstige Organisationsform",
@@ -273,7 +273,7 @@
                 "PLZ": "13507 Berlin",
                 "Bezirk": "Reinickendorf",
                 "Website  Social Media": "www.gartenreinickendorf.de/",
-                "EMail  Kontakt": "Tel: +49 151 16253611 E-Mail: gartenarbeitsschule@reinickendorf.berlin.de",
+                "EMail  Kontakt": "gartenarbeitsschule@reinickendorf.berlin.de",
                 "Seit wann": "1952, Neueröffnung 2018",
                 "Organisationsform": "sonstige Organisationsform",
                 "Träger": "Bezirksamt Reinickendorf",
@@ -298,7 +298,7 @@
                 "PLZ": "12359 Berlin",
                 "Bezirk": "Neukölln",
                 "Website  Social Media": "http://www.ahgasn.de",
-                "EMail  Kontakt": "Tel: +49 30 60258874 E-Mail: buero@ahgasn.de leitung@ahgasn.de",
+                "EMail  Kontakt": "buero@ahgasn.de",
                 "Seit wann": "1920",
                 "Flächengröße m²": 33000.0,
                 "Organisationsform": "sonstige Organisationsform",
@@ -324,7 +324,7 @@
                 "PLZ": "12555 Berlin",
                 "Bezirk": "Treptow-Köpenick",
                 "Website  Social Media": "www.gartenarbeitsschule-tk.de/",
-                "EMail  Kontakt": "Tel: +49 30 6560960 E-Mail: info@gartenarbeitsschule-tk.de",
+                "EMail  Kontakt": "info@gartenarbeitsschule-tk.de",
                 "Flächengröße m²": 10000.0,
                 "Organisationsform": "sonstige Organisationsform",
                 "Nutzung": "Bildung"
@@ -372,7 +372,7 @@
                 "PLZ": "13347 Berlin",
                 "Bezirk": "Mitte",
                 "Website  Social Media": "www.schulumweltzentrum.de",
-                "EMail  Kontakt": "Tel: +49 30 45022373 E-Mail: info@schulumweltzentrum.de",
+                "EMail  Kontakt": "info@schulumweltzentrum.de",
                 "Organisationsform": "sonstige Organisationsform"
             }
         },
@@ -395,7 +395,7 @@
                 "PLZ": "12207 Berlin",
                 "Bezirk": "Steglitz-Zehlendorf",
                 "Website  Social Media": "www.schulumweltzentrum-sz.de/",
-                "EMail  Kontakt": "Tel: +49 30 70177772 E-Mail: dreher@f-d-gs.de",
+                "EMail  Kontakt": "dreher@f-d-gs.de",
                 "Organisationsform": "sonstige Organisationsform"
             }
         },
@@ -418,7 +418,7 @@
                 "PLZ": "14165 Berlin",
                 "Bezirk": "Steglitz-Zehlendorf",
                 "Website  Social Media": "www.schulumweltzentrum-sz.de/",
-                "EMail  Kontakt": "Tel: +49 30 8183612",
+                "EMail  Kontakt": null,
                 "Flächengröße m²": 30000.0,
                 "Organisationsform": "sonstige Organisationsform"
             }
