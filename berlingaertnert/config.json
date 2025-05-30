@@ -24,14 +24,14 @@
       "getFeatureInfo": {
         "highlightVectorRules": {
             "fill": {
-                "color": [230,152,54,0.8]
+                "color": [245,180,203,0.8]
             },
             "image": {
                 "scale": 1.5
             },
             "stroke": {
-                "width": 2,
-                "color": [255,255,255,1]    
+                "width": 1,
+                "color": [145,133,190,1]    
             }
         },
         "showPolygonMarkerForWMS": true,
@@ -268,7 +268,7 @@
             {
               "id": "ua_boden_2_2020:wfs:bodenkennwerte",
               "name": "common:modules.layerName.bodenkennwerte",
-              "styleId": "defaultpolygonlayer",
+              "styleId": "boden_polygon",
               "visibility": false
             },
             {

@@ -5,12 +5,12 @@
       {
         "style": {
           "polygonStrokeColor": [95,169,133,1],
-          "polygonStrokeWidth": 2,
+          "polygonStrokeWidth": 1,
           "polygonFillHatch": {
             "pattern": "diagonal",
-            "lineWidth": 1.5,
-            "size": 40,
-            "backgroundColor": [155,207,175,0.3],
+            "lineWidth": 2,
+            "size": 20,
+            "backgroundColor": [155,207,175,0.8],
             "patternColor": [95,169,133,1]
         }
         }
@@ -224,8 +224,8 @@
           "type": "circle",
           "circleRadius": 4,
           "circleStrokeWidth": 0,
-          "circleStrokeColor": [0,0,0,1],
-          "circleFillColor": [30,126,77,1]
+          "circleStrokeColor": [0,69,52,1],
+          "circleFillColor": [0,114,86,1]
         }
       }
     ]
@@ -295,14 +295,32 @@
     "rules": [
       {
         "style": {
-          "polygonStrokeColor": [95,169,133,1],
-          "polygonStrokeWidth": 2,
+          "polygonStrokeColor": [0,114,86,1],
+          "polygonStrokeWidth": 1,
           "polygonFillHatch": {
             "pattern": "triangle",
             "lineWidth": 1.5,
             "size": 40,
-            "backgroundColor": [155,207,175,0],
+            "backgroundColor": [155,207,175,1],
             "patternColor": [95,169,133,1]
+        }
+        }
+      }
+    ]
+  },
+  {
+    "styleId": "boden_polygon",
+    "rules": [
+      {
+        "style": {
+          "polygonStrokeColor": [61, 37, 0,1],
+          "polygonStrokeWidth": 1,
+          "polygonFillHatch": {
+            "pattern": "diagonal",
+            "lineWidth": 2,
+            "size": 20,
+            "backgroundColor": [121, 73, 0,0.1],
+            "patternColor": [182, 110, 0,1]
         }
         }
       }
@@ -318,21 +336,16 @@
           }
         },
         "style": {
-          "polygonStrokeColor": [255,255,255,0.5],
-          "polygonStrokeWidth": 2,
-          "polygonFillHatch": {
-            "pattern": "circle",
-            "lineWidth": 1.5,
-            "size": 40,
-            "backgroundColor": [95,169,133],
-            "patternColor": [255,255,255,1]
-          }
+          "polygonStrokeColor": [0,114,86,1],
+          "polygonStrokeWidth": 1,
+          "polygonFillColor": [155,207,175,1]
         }
       }    
         ]
   },
   {
     "styleId": "versiegelung_polygon_selection",
+    "styleMultiGeomOnlyWithRule": true,
     "rules": [
       {
         "conditions": {
@@ -347,18 +360,19 @@
           ]
         },
         "style": {
-          "polygonStrokeColor": [145,133,190,0.5],
-          "polygonStrokeWidth": 2,
+          "polygonStrokeColor": [0,40,86,1],
+          "polygonStrokeWidth": 1,
           "polygonFillHatch": {
             "pattern": "diagonal",
-            "lineWidth": 1.5,
-            "size": 40,
-            "backgroundColor": [155,207,175,0.3],
-            "patternColor": [145,133,190,0.65]
-          }
+            "lineWidth": 2,
+            "size": 20,
+            "backgroundColor": [170,201,231,0.8],
+            "patternColor": [79,144,205,1]
+          },
+          "legendValue": "Versiegelung weniger als 25%"
         }
-      }    
-        ]
+      }  
+    ]
   },
   {
     "styleId": "einwohner_polygon_selection",
@@ -370,14 +384,14 @@
           }
         },
         "style": {
-          "polygonStrokeColor": [255,255,255,1],
-          "polygonStrokeWidth": 2,
+          "polygonStrokeColor": [66,56,105,1],
+          "polygonStrokeWidth": 1,
           "polygonFillHatch": {
-            "pattern": "zig-line",
-            "lineWidth": 0,
-            "size": 40,
-            "backgroundColor": [0,79,159,0.5],
-            "patternColor": [255,255,255,1]
+            "pattern": "diagonal",
+            "lineWidth": 2,
+            "size": 20,
+            "backgroundColor": [145,133,190,0.8],
+            "patternColor": [100,84,158,1]
           }
         }
       }    
