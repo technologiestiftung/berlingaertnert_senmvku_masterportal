@@ -584,7 +584,7 @@
         "strasse": "Straße",
         "plz": "PLZ",
         "bezirk": "Bezirk",
-        "website_social_media": "Social",
+        "website_social_media": "Website",
         "kontakt": "Kontakt",
         "seit_wann": "Seit wann",
         "flaechengroesse": "Flächengröße [m²]",
@@ -885,6 +885,26 @@
       "einrichtung_name": "Einrichtungsname",
       "gc_strasse": "Strasse",
       "gc_plz": "Postleitzahl"
+    },
+    "einwohnerdichte": {
+      "schluessel": "Schlüssel der ISU5-Fläche",
+      "ew2022": "Einwohneranzahl 2022",
+      "ew2023": "Einwohneranzahl 2023",
+      "flalle": "Flächengröße [m²]",
+      "ha": "Flächengröße [ha]",
+      "ew_ha_2022": "Einwohner pro Hektar 2022",
+      "ew_ha_2023": "Einwohner pro Hektar 2023",
+      "alter_u6": "Einwohner unter 6 Jahre",
+      "alter_6_u10": "Einwohner 6 bis unter 10 Jahre",
+      "alter_10_u18": "Einwohner 10 bis unter 18 Jahre",
+      "alter_18_u65": "Einwohner 18 bis unter 65 Jahre",
+      "alter_65_u70": "Einwohner 65 bis unter 70 Jahre",
+      "alter_70_u75": "Einwohner 70 bis unter 75 Jahre",
+      "alter_75_u80": "Einwohner 75 bis unter 80 Jahre",
+      "alter_80plus": "Einwohner ab 80 Jahre",
+      "diff_2023_2022": "Einwohnerentwicklung 2022–2023 (Differenz)",
+      "typklar": "Flächentyp",
+      "etypklar": "Flächentyp (EN)"
     }
     },
     "info": {

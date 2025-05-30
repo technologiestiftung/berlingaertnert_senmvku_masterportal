@@ -610,7 +610,17 @@
         "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
       }
     ],
-    "gfiAttributes": "showAll"
+    "gfiAttributes": {
+      "ew2022": "common:modules.gfiAttributes.einwohnerdichte.ew2022",
+      "ew2023": "common:modules.gfiAttributes.einwohnerdichte.ew2023",
+      "flalle": "common:modules.gfiAttributes.einwohnerdichte.flalle",
+      "ha": "common:modules.gfiAttributes.einwohnerdichte.ha",
+      "ew_ha_2022": "common:modules.gfiAttributes.einwohnerdichte.ew_ha_2022",
+      "ew_ha_2023": "common:modules.gfiAttributes.einwohnerdichte.ew_ha_2023",
+      "diff_2023_2022": "common:modules.gfiAttributes.einwohnerdichte.diff_2023_2022",
+      "typklar": "common:modules.gfiAttributes.einwohnerdichte.typklar",
+      "etypklar": "common:modules.gfiAttributes.einwohnerdichte.etypklar"
+    }
   },
   {
     "id": "kleingarten:wfs:kleingarten",
