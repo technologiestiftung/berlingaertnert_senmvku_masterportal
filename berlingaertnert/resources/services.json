@@ -9,6 +9,12 @@
     "legend": false,
     "gfiAttributes": "ignore",
     "gfiTheme": "default",
+   "datasets": [{
+      "md_id": "basemap.xml",
+      "csw_url": "resources/data/metadata/basemap.xml",
+      "show_doc_url": "resources/data/metadata/",
+      "md_name": "common:modules.layerName.basemap"
+    }],
     "vtStyles": [
       {
         "id": "basemap_style",
@@ -51,7 +57,7 @@
   },
   {
     "id": "Luftbild",
-    "name": "common:modules.layerName.luftbild",
+    "name": "Luftbild",
     "name_lang": "Digitale farbige TrueOrthophotos 2024 (DOP20RGBI)",
     "crs": "EPSG:25833",
     "url": "https://gdi.berlin.de/services/wms/truedop_2024",
@@ -244,6 +250,7 @@
     "datasets": [
       {
         "md_name": "Grünanlagenbestand Berlin",
+        "show_doc_url": "https://gdi.berlin.de/geonetwork/geonetwork/api/records/",
         "md_id": "848d2266-d757-36d2-9db6-8636bd5f2216",
         "rs_id": "https://registry.gdi-de.org/id/de.be.csw/19f9a3e9-d99a-39c2-8557-418ecb5f1f21",
         "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
@@ -266,6 +273,7 @@
     "datasets": [
       {
         "md_name": "Bestand Anlagenbäumen",
+        "show_doc_url": "https://gdi.berlin.de/geonetwork/geonetwork/api/records/",
         "md_id": "3368004a-d596-336a-8fdf-c4391f3313dd",
         "rs_id": "https://registry.gdi-de.org/id/de.be.csw/101a1c6e-4991-3df3-afbd-078495cb2f37",
         "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
@@ -294,6 +302,7 @@
     "datasets": [
       {
         "md_name": "Bestand Strassenbäume",
+        "show_doc_url": "https://gdi.berlin.de/geonetwork/geonetwork/api/records/",
         "md_id": "3368004a-d596-336a-8fdf-c4391f3313dd",
         "rs_id": "https://registry.gdi-de.org/id/de.be.csw/101a1c6e-4991-3df3-afbd-078495cb2f37",
         "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
@@ -322,6 +331,7 @@
     "datasets": [
       {
         "md_name": "Gründächer 2020 (Umweltatlas)",
+        "show_doc_url": "https://gdi.berlin.de/geonetwork/geonetwork/api/records/",
             "md_id": "2dc1787a-2ab8-49aa-ac07-1b4a116071b4",
             "rs_id": "https://registry.gdi-de.org/id/de.be.csw/6513504d-2375-3a73-a2c1-345e5007cae0",
             "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
@@ -346,6 +356,7 @@
     "datasets": [
         {
             "md_name": "Versiegelung 2021 (Umweltatlas)",
+            "show_doc_url": "https://gdi.berlin.de/geonetwork/geonetwork/api/records/",
             "md_id": "2c8a769b-364e-4596-ace4-4c05cd8eb872",
             "rs_id": "https://registry.gdi-de.org/id/de.be.csw/25091cc2-3b41-3d21-b479-b2895fd9ec8a",
             "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
@@ -374,6 +385,7 @@
     "datasets": [
       {
         "md_name": "Bodenkennwerte 2020 (Umweltatlas)",
+        "show_doc_url": "https://gdi.berlin.de/geonetwork/geonetwork/api/records/",
         "md_id": "3f101f01-b2d0-3e87-ad31-d5dfe0b31535",
         "rs_id": "https://registry.gdi-de.org/id/de.be.csw/a0d15a87-76a4-3ed6-9ae8-e79017554d9a",
         "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
@@ -408,6 +420,7 @@
     "datasets": [
       {
         "md_name": "Grund- und Oberschulen",
+        "show_doc_url": "https://gdi.berlin.de/geonetwork/geonetwork/api/records/",
         "md_id": "2656f411-e4e9-3e57-8dc7-b4533426e048",
         "rs_id": "https://registry.gdi-de.org/id/de.be.csw/decd827f-58cf-3a56-b2b7-5c72bbc5d984",
         "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
@@ -435,6 +448,7 @@
     "datasets": [
       {
         "md_name": "Kindertagesstätten",
+        "show_doc_url": "https://gdi.berlin.de/geonetwork/geonetwork/api/records/",
         "md_id": "9d60f82f-7a3d-441e-8ffa-89ba87995196",
         "rs_id": "https://registry.gdi-de.org/id/de.be.csw/cd8414c7-f1b0-37c7-b9d5-18751942c4c3",
         "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
@@ -459,6 +473,7 @@
     "datasets": [
       {
         "md_name": "Jugendfreizeiteinrichtungen",
+        "show_doc_url": "https://gdi.berlin.de/geonetwork/geonetwork/api/records/",
         "md_id": "66acf6d2-5180-4668-96e3-caf7c65d60cd",
         "rs_id": "https://registry.gdi-de.org/id/de.be.csw/d619c84e-aeae-3f7e-be41-46d8ebf96997",
         "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
@@ -483,6 +498,7 @@
     "datasets": [
       {
         "md_name": "Pflege- und pflegeflankierende Angebote",
+        "show_doc_url": "https://gdi.berlin.de/geonetwork/geonetwork/api/records/",
         "md_id": "b0122abe-5bdc-4f1a-bfdf-7f544d99d81a",
         "rs_id": "https://registry.gdi-de.org/id/de.be.csw/c54eebcb-9eae-3b60-b112-bcb291eeddc7",
         "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
@@ -505,6 +521,7 @@
     "datasets": [
       {
         "md_name": "Wohngebiete mit mehr als 400 Einwohner pro Hektar",
+        "show_doc_url": "https://gdi.berlin.de/geonetwork/geonetwork/api/records/",
         "md_id": "ca78eb01-db63-4f50-9823-73c2adbc541b",
         "rs_id": "https://registry.gdi-de.org/id/de.be.csw/d46e6c1e-05fd-3e99-a48f-5699f1140d46",
         "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
@@ -523,6 +540,7 @@
     "datasets": [
       {
         "md_name": "Kleingartenbestand",
+        "show_doc_url": "https://gdi.berlin.de/geonetwork/geonetwork/api/records/",
         "md_id": "f3c8b4d4-ce97-33d7-bc12-f74d930169bd",
         "rs_id": "https://registry.gdi-de.org/id/de.be.csw/0cd68b02-ee11-31b0-801f-e8fe5814b8a6",
         "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
