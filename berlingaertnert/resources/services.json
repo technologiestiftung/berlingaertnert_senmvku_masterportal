@@ -85,31 +85,11 @@
     }
   },
   {
-    "id": "gemeinschaftsgaerten_epsg25833",
-    "name": "lokale GeoJSON",
-    "crs": "urn:ogc:def:crs:EPSG::25833",
-    "url": "resources/data/gemeinschaftsgaerten.geojson",
-    "typ": "GeoJSON",
-    "gfiAttributes": "showAll",
-    "layerAttribution": "nicht vorhanden",
-    "legendURL": "",
-    "gfiTheme": "default",
-    "datasets": [{
-      "md_id": "gemeinschaftsgarten.xml",
-      "csw_url": "resources/data/metadata/gemeinschaftsgarten.xml",
-      "show_doc_url": "resources/data/metadata/",
-      "md_name": "Gemeinschaftsgärten",
-      "bbox": "13.079,52.3284,13.7701,52.6877"
-    }
-  ] 
-  },
-  {
     "id": "gemeinschaftsgaerten",
     "name": "Gemeinschaftsgaerten",
     "crs": "urn:ogc:def:crs:EPSG::4326",
     "url": "resources/data/gemeinschaftsgaerten.geojson",
     "typ": "GeoJSON",
-    "gfiAttributes": "showAll",
     "legendURL": "resources/img/Gemeinschaftsgaerten_legend.png",
     "gfiTheme": "default",
     "datasets": [{
@@ -118,7 +98,27 @@
       "show_doc_url": "resources/data/metadata/",
       "md_name": "Gemeinschaftsgärten",
       "bbox": "13.079,52.3284,13.7701,52.6877"
-    }]
+    }],
+    "gfiAttributes": {
+      "name": "common:modules.gfiAttributes.gemeinschaftsgaerten.name",
+      "gartentyp": "common:modules.gfiAttributes.gemeinschaftsgaerten.gartentyp",
+      "über uns": "common:modules.gfiAttributes.gemeinschaftsgaerten.selbstbeschreibung",
+      "öffentlich zugänglich": "common:modules.gfiAttributes.gemeinschaftsgaerten.oeffentlich",
+      "status": "common:modules.gfiAttributes.gemeinschaftsgaerten.status",
+      "straße": "common:modules.gfiAttributes.gemeinschaftsgaerten.strasse",
+      "plz": "common:modules.gfiAttributes.gemeinschaftsgaerten.plz",
+      "bezirk": "common:modules.gfiAttributes.gemeinschaftsgaerten.bezirk",
+      "social media": "common:modules.gfiAttributes.gemeinschaftsgaerten.website_social_media",
+      "kontakt": "common:modules.gfiAttributes.gemeinschaftsgaerten.kontakt",
+      "seit wann": "common:modules.gfiAttributes.gemeinschaftsgaerten.seit_wann",
+      "flächengröße m2": "common:modules.gfiAttributes.gemeinschaftsgaerten.flaechengroesse",
+      "organisationsform": "common:modules.gfiAttributes.gemeinschaftsgaerten.organisationsform",
+      "träger": "common:modules.gfiAttributes.gemeinschaftsgaerten.traeger",
+      "nutzung": "common:modules.gfiAttributes.gemeinschaftsgaerten.nutzung",
+      "ausleih möglichkeiten": "common:modules.gfiAttributes.gemeinschaftsgaerten.ausleihmoeglichkeiten",
+      "mitmach möglichkeiten": "common:modules.gfiAttributes.gemeinschaftsgaerten.mitmachmoeglichkeiten",
+      "foto url": "common:modules.gfiAttributes.gemeinschaftsgaerten.foto_url"
+    }
   },
   {
     "id": "beetpatenschaften",
@@ -126,7 +126,6 @@
     "crs": "urn:ogc:def:crs:EPSG::4326",
     "url": "resources/data/beetpatenschaften.geojson",
     "typ": "GeoJSON",
-    "gfiAttributes": "showAll",
     "legendURL": "resources/img/Beetpatenschaft_legend.png",
     "gfiTheme": "default",
     "datasets": [{
@@ -135,7 +134,18 @@
       "show_doc_url": "resources/data/metadata/",
       "md_name": "Beetpatenschaften",
       "bbox": "13.079,52.3284,13.7701,52.6877"
-    }]
+    }],
+    "gfiAttributes": {
+      "name": "common:modules.gfiAttributes.beetpatenschaften.name",
+      "gartentyp": "common:modules.gfiAttributes.beetpatenschaften.gartentyp",
+      "status": "common:modules.gfiAttributes.beetpatenschaften.status",
+      "straße": "common:modules.gfiAttributes.beetpatenschaften.strasse",
+      "plz": "common:modules.gfiAttributes.beetpatenschaften.plz",
+      "bezirk": "common:modules.gfiAttributes.beetpatenschaften.bezirk",
+      "website  social media": "common:modules.gfiAttributes.beetpatenschaften.website_social_media",
+      "email  kontakt": "common:modules.gfiAttributes.beetpatenschaften.kontakt",
+      "seit wann": "common:modules.gfiAttributes.beetpatenschaften.seit_wann"
+    }
   },
   {
     "id": "gartenarbeitsschule",
@@ -143,7 +153,6 @@
     "crs": "urn:ogc:def:crs:EPSG::4326",
     "url": "resources/data/gartenarbeitsschulen.geojson",
     "typ": "GeoJSON",
-    "gfiAttributes": "showAll",
     "legendURL": "resources/img/Gartenarbeitsschule_legend.png",
     "gfiTheme": "default",
     "datasets": [{
@@ -152,7 +161,23 @@
       "show_doc_url": "resources/data/metadata/",
       "md_name": "Gartenarbeitsschulen",
       "bbox": "13.079,52.3284,13.7701,52.6877"
-    }]
+    }],
+    "gfiAttributes": {
+      "name": "common:modules.gfiAttributes.gartenarbeitsschulen.name",
+      "gartentyp": "common:modules.gfiAttributes.gartenarbeitsschulen.gartentyp",
+      "über uns  selbstbeschreibung": "common:modules.gfiAttributes.gartenarbeitsschulen.selbstbeschreibung",
+      "status": "common:modules.gfiAttributes.gartenarbeitsschulen.status",
+      "straße": "common:modules.gfiAttributes.gartenarbeitsschulen.strasse",
+      "plz": "common:modules.gfiAttributes.gartenarbeitsschulen.plz",
+      "bezirk": "common:modules.gfiAttributes.gartenarbeitsschulen.bezirk",
+      "website  social media": "common:modules.gfiAttributes.gartenarbeitsschulen.website_social_media",
+      "email  kontakt": "common:modules.gfiAttributes.gartenarbeitsschulen.kontakt",
+      "seit wann": "common:modules.gfiAttributes.gartenarbeitsschulen.seit_wann",
+      "flächengröße m²": "common:modules.gfiAttributes.gartenarbeitsschulen.flaechengroesse",
+      "organisationsform": "common:modules.gfiAttributes.gartenarbeitsschulen.organisationsform",
+      "träger": "common:modules.gfiAttributes.gartenarbeitsschulen.traeger",
+      "nutzung": "common:modules.gfiAttributes.gartenarbeitsschulen.nutzung"
+    }
   },
   {
     "id": "kitaschulgaerten",
@@ -160,7 +185,6 @@
     "crs": "urn:ogc:def:crs:EPSG::4326",
     "url": "resources/data/kitaschulgaerten.geojson",
     "typ": "GeoJSON",
-    "gfiAttributes": "showAll",
     "legendURL": "resources/img/Schulgaerten_legend.png",
     "gfiTheme": "default",
     "datasets": [{
@@ -169,7 +193,21 @@
       "show_doc_url": "resources/data/metadata/",
       "md_name": "Kita- und Schulgärten",
       "bbox": "13.079,52.3284,13.7701,52.6877"
-    }]
+    }],
+    "gfiAttributes": {
+      "name": "common:modules.gfiAttributes.kitaschulgaerten.name",
+      "gartentyp": "common:modules.gfiAttributes.kitaschulgaerten.gartentyp",
+      "über uns  selbstbeschreibung": "common:modules.gfiAttributes.kitaschulgaerten.selbstbeschreibung",
+      "öffentlich zugänglich": "common:modules.gfiAttributes.kitaschulgaerten.oeffentlich",
+      "straße": "common:modules.gfiAttributes.kitaschulgaerten.strasse",
+      "plz": "common:modules.gfiAttributes.kitaschulgaerten.plz",
+      "bezirk": "common:modules.gfiAttributes.kitaschulgaerten.bezirk",
+      "website  social media": "common:modules.gfiAttributes.kitaschulgaerten.website_social_media",
+      "email  kontakt": "common:modules.gfiAttributes.kitaschulgaerten.kontakt",
+      "seit wann": "common:modules.gfiAttributes.kitaschulgaerten.seit_wann",
+      "flächengröße m²": "common:modules.gfiAttributes.kitaschulgaerten.flaechengroesse",
+      "träger": "common:modules.gfiAttributes.kitaschulgaerten.traeger"
+    }
   },
   {
     "id": "parklets",
@@ -177,7 +215,6 @@
     "crs": "urn:ogc:def:crs:EPSG::4326",
     "url": "resources/data/parklets.geojson",
     "typ": "GeoJSON",
-    "gfiAttributes": "showAll",
     "legendURL": "resources/img/Parklet_legend.png",
     "gfiTheme": "default",
     "datasets": [{
@@ -186,7 +223,13 @@
       "show_doc_url": "resources/data/metadata/",
       "md_name": "Parklets",
       "bbox": "13.079,52.3284,13.7701,52.6877"
-    }]
+    }],
+    "gfiAttributes": {
+      "name": "common:modules.gfiAttributes.parklets.name",
+      "straße": "common:modules.gfiAttributes.parklets.strasse",
+      "plz": "common:modules.gfiAttributes.parklets.plz",
+      "bezirk": "common:modules.gfiAttributes.parklets.bezirk"
+    }
   },
   {
     "id": "selbsterntegaerten",
@@ -194,7 +237,6 @@
     "crs": "urn:ogc:def:crs:EPSG::4326",
     "url": "resources/data/selbsterntegaerten.geojson",
     "typ": "GeoJSON",
-    "gfiAttributes": "showAll",
     "legendURL": "resources/img/Selbsterntegaerten_legend.png",
     "gfiTheme": "default",
     "datasets": [{
@@ -203,7 +245,24 @@
       "show_doc_url": "resources/data/metadata/",
       "md_name": "Selbsterntegärten",
       "bbox": "13.079,52.3284,13.7701,52.6877"
-    }]
+    }],
+    "gfiAttributes": {
+      "name": "common:modules.gfiAttributes.selbsterntegaerten.name",
+      "gartentyp": "common:modules.gfiAttributes.selbsterntegaerten.gartentyp",
+      "über uns  selbstbeschreibung": "common:modules.gfiAttributes.selbsterntegaerten.selbstbeschreibung",
+      "status": "common:modules.gfiAttributes.selbsterntegaerten.status",
+      "straße": "common:modules.gfiAttributes.selbsterntegaerten.strasse",
+      "plz": "common:modules.gfiAttributes.selbsterntegaerten.plz",
+      "bezirk": "common:modules.gfiAttributes.selbsterntegaerten.bezirk",
+      "website  social media": "common:modules.gfiAttributes.selbsterntegaerten.website_social_media",
+      "email": "common:modules.gfiAttributes.selbsterntegaerten.kontakt",
+      "seit wann": "common:modules.gfiAttributes.selbsterntegaerten.seit_wann",
+      "flächengröße m²": "common:modules.gfiAttributes.selbsterntegaerten.flaechengroesse",
+      "organisationsform": "common:modules.gfiAttributes.selbsterntegaerten.organisationsform",
+      "träger": "common:modules.gfiAttributes.selbsterntegaerten.traeger",
+      "nutzung": "common:modules.gfiAttributes.selbsterntegaerten.nutzung",
+      "mitmachmöglichkeiten": "common:modules.gfiAttributes.selbsterntegaerten.mitmachmoeglichkeiten"
+    }
   },
   {
     "id": "solidarischelandwirtschaft",
@@ -213,14 +272,28 @@
     "typ": "GeoJSON",
     "gfiAttributes": "showAll",
     "legendURL": "resources/img/SoLawi_1_legend.png",
-    "gfiTheme": "default",
     "datasets": [{
       "md_id": "solidarischelandwirtschaft.xml",
       "csw_url": "resources/data/metadata/solidarischelandwirtschaft.xml",
       "show_doc_url": "resources/data/metadata/",
-      "md_name": "Solidarische Landwirtschaft",
+      "md_name": "Solidarische Landwirtschaft (SoLaWi)",
       "bbox": "13.079,52.3284,13.7701,52.6877"
-    }]
+    }],
+    "gfiAttributes": {
+      "name": "common:modules.gfiAttributes.solawi.name",
+      "gartentyp": "common:modules.gfiAttributes.solawi.gartentyp",
+      "über uns  selbstbeschreibung": "common:modules.gfiAttributes.solawi.selbstbeschreibung",
+      "straße": "common:modules.gfiAttributes.solawi.strasse",
+      "plz": "common:modules.gfiAttributes.solawi.plz",
+      "bezirk": "common:modules.gfiAttributes.solawi.bezirk",
+      "adresse": "common:modules.gfiAttributes.solawi.adresse",
+      "website  social media": "common:modules.gfiAttributes.solawi.website_social_media",
+      "email": "common:modules.gfiAttributes.solawi.kontakt",
+      "seit wann": "common:modules.gfiAttributes.solawi.seit_wann",
+      "flächengröße m": "common:modules.gfiAttributes.solawi.flaechengroesse",
+      "nutzung": "common:modules.gfiAttributes.solawi.nutzung",
+      "mitmachmöglichkeiten": "common:modules.gfiAttributes.solawi.mitmachmoeglichkeiten"
+    }
   },
   {
     "id": "flaechenpotentiale",
@@ -228,7 +301,6 @@
     "crs": "urn:ogc:def:crs:EPSG::4326",
     "url": "resources/data/flaechenpotentiale.geojson",
     "typ": "GeoJSON",
-    "gfiAttributes": "showAll",
     "legendURL": "resources/img/Flaechenpotentiale_legend.png",
     "gfiTheme": "default",
     "datasets": [{
@@ -237,7 +309,18 @@
       "show_doc_url": "resources/data/metadata/",
       "md_name": "Flächenpotentiale",
       "bbox": "13.079,52.3284,13.7701,52.6877"
-    }]
+    }],
+    "gfiAttributes": {
+      "name": "common:modules.gfiAttributes.flaechenpotentiale.name",
+      "ausstattung": "common:modules.gfiAttributes.flaechenpotentiale.ausstattung",
+      "straße": "common:modules.gfiAttributes.flaechenpotentiale.strasse",
+      "plz": "common:modules.gfiAttributes.flaechenpotentiale.plz",
+      "bezirk": "common:modules.gfiAttributes.flaechenpotentiale.bezirk",
+      "flächengröße m²": "common:modules.gfiAttributes.flaechenpotentiale.flaechengroesse",
+      "flächeneigentümerin": "common:modules.gfiAttributes.flaechenpotentiale.flaecheneigentuemer",
+      "derzeitige nutzung": "common:modules.gfiAttributes.flaechenpotentiale.derzeitige_nutzung",
+      "an wen wenden": "common:modules.gfiAttributes.flaechenpotentiale.an_wen_wenden"
+    }
   },
   {
     "id": "gruenanlagen:wfs:gruenanlagen",
@@ -332,10 +415,10 @@
       {
         "md_name": "Gründächer 2020 (Umweltatlas)",
         "show_doc_url": "https://gdi.berlin.de/geonetwork/geonetwork/api/records/",
-            "md_id": "2dc1787a-2ab8-49aa-ac07-1b4a116071b4",
-            "rs_id": "https://registry.gdi-de.org/id/de.be.csw/6513504d-2375-3a73-a2c1-345e5007cae0",
-            "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
-        }
+        "md_id": "2dc1787a-2ab8-49aa-ac07-1b4a116071b4",
+        "rs_id": "https://registry.gdi-de.org/id/de.be.csw/6513504d-2375-3a73-a2c1-345e5007cae0",
+        "csw_url": "https://gdi.berlin.de/geonetwork/srv/ger/csw"
+      }
     ],
     "gfiAttributes": {
         "geb_nutz": "common:modules.gfiAttributes.gruendaecher.geb_nutz",

@@ -13,25 +13,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.1777422,
-                    52.4747728
+                    13.179649,
+                    52.478311
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-001",
                 "Name": "SpeiseGut - Anbau",
                 "Gartentyp": "SoLaWi-Anbaufläche",
-                "Über uns  Selbstbeschreibung": null,
-                "Straße": "Havelmatensteig 1\r\n",
+                "Straße": "Havelmatensteig 1\n",
                 "PLZ": "14089 Berlin",
                 "Bezirk": "Spandau",
-                "Adresse": "Havelmatensteig 1\r\n 14089 Berlin",
                 "Website  Social Media": "https://www.speisegut.com/",
-                "EMail": null,
-                "Seit wann": null,
-                "Flächengraße m": null,
-                "Nutzung": "Anbau von Lebensmitteln ",
-                "MitmachMaglichkeiten": null
+                "Nutzung": "Anbau von Lebensmitteln "
             }
         },
         {
@@ -39,25 +33,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.1809602,
-                    52.4838295
+                    13.182292,
+                    52.48344
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-002",
                 "Name": "SpeiseGut - Anbau",
                 "Gartentyp": "SoLaWi-Anbaufläche",
-                "Über uns  Selbstbeschreibung": null,
                 "Straße": "Buchwaldzeile 56",
                 "PLZ": "14089 Berlin",
                 "Bezirk": "Spandau",
-                "Adresse": "Buchwaldzeile 56 14089 Berlin",
                 "Website  Social Media": "https://www.speisegut.com/",
-                "EMail": null,
-                "Seit wann": null,
-                "Flächengraße m": null,
-                "Nutzung": "Anbau von Lebensmitteln ",
-                "MitmachMaglichkeiten": null
+                "Nutzung": "Anbau von Lebensmitteln "
             }
         },
         {
@@ -73,17 +61,8 @@
                 "Lfd Nummer": "SO-003",
                 "Name": "SpeiseGut",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": null,
                 "Straße": "Abholstellen ohne genaue Adresse ",
-                "PLZ": null,
-                "Bezirk": null,
-                "Adresse": "Abholstellen ohne genaue Adresse  ",
-                "Website  Social Media": "https://www.speisegut.com/unsere-depots/",
-                "EMail": null,
-                "Seit wann": null,
-                "Flächengraße m": null,
-                "Nutzung": null,
-                "MitmachMaglichkeiten": null
+                "Website  Social Media": "https://www.speisegut.com/unsere-depots/"
             }
         },
         {
@@ -91,25 +70,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.2590115,
-                    52.9197913
+                    12.259072,
+                    52.919922
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-004",
-                "Name": "Kohof Waldgarten - Anbau",
+                "Name": "Ökohof Waldgarten - Anbau",
                 "Gartentyp": "SoLaWi-Anbaufläche",
-                "Über uns  Selbstbeschreibung": "Der Kohof Waldgarten ist ein Ort der Vielfalt | Der Waldgarten ist der Versuch einen natürlichen Wald mit Bäumen, Sträuchern und mehrjährigen Pflanzen nachzuempfinden. Im Mittelpunkt steht dabei die Nahrungsgewinnung, das Schaffen von stabilen nachhaltigen Kosystemen und maximale Vielfalt (Biodiversität). Waldgarten ist nicht nur ein Name sondern ein Teil des Hofkonzeptes, und damit erfüllt der Waldgarten die selbst gestellte Herausforderung, Nahrungsmittelproduktion und maximalen Naturschutz zusammen zu denken und zu führen. Der Kohof Waldgarten versteht sich als Vielfalts-Hof und hofft als Pilotprojekt zum Wandel (Transformation) der Landwirtschaft beizutragen. Ziel ist es, die Potentiale einer aufbauenden Landwirtschaft mit Hilfe von Permakulturkriterien mit zu gestalten und sichtbar zu machen.",
+                "Über uns  Selbstbeschreibung": "Der Ökohof Waldgarten ist ein Ort der Vielfalt | Der Waldgarten ist der Versuch einen natürlichen Wald mit Bäumen, Sträuchern und mehrjährigen Pflanzen nachzuempfinden. Im Mittelpunkt steht dabei die Nahrungsgewinnung, das Schaffen von stabilen nachhaltigen Ökosystemen und maximale Vielfalt (Biodiversität). Waldgarten ist nicht nur ein Name sondern ein Teil des Hofkonzeptes, und damit erfüllt der Waldgarten die selbst gestellte Herausforderung, Nahrungsmittelproduktion und maximalen Naturschutz zusammen zu denken und zu führen. Der Ökohof Waldgarten versteht sich als Vielfalts-Hof und hofft als Pilotprojekt zum Wandel (Transformation) der Landwirtschaft beizutragen. Ziel ist es, die Potentiale einer aufbauenden Landwirtschaft mit Hilfe von Permakultur – Kriterien mit zu gestalten und sichtbar zu machen.",
                 "Straße": "Schönermarker Weg 23",
                 "PLZ": "16866 Barenthin",
-                "Bezirk": null,
-                "Adresse": "Schönermarker Weg 23 16866 Barenthin",
                 "Website  Social Media": "https://www.solawi-waldgarten.de/",
-                "EMail": null,
-                "Seit wann": null,
-                "Flächengraße m": null,
-                "Nutzung": "Anbau von Lebensmitteln",
-                "MitmachMaglichkeiten": null
+                "Nutzung": "Anbau von Lebensmitteln"
             }
         },
         {
@@ -117,25 +90,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.3965256,
-                    52.5317339
+                    13.396343,
+                    52.531747
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-005",
                 "Name": "SoLaWi Waldgarten - Abholstelle Acker 22",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Der Kohof Waldgarten ist ein Ort der Vielfalt | Der Waldgarten ist der Versuch einen natürlichen Wald mit Bäumen, Sträuchern und mehrjährigen Pflanzen nachzuempfinden. Im Mittelpunkt steht dabei die Nahrungsgewinnung, das Schaffen von stabilen nachhaltigen Kosystemen und maximale Vielfalt (Biodiversität). Waldgarten ist nicht nur ein Name sondern ein Teil des Hofkonzeptes, und damit erfüllt der Waldgarten die selbst gestellte Herausforderung, Nahrungsmittelproduktion und maximalen Naturschutz zusammen zu denken und zu führen. Der Kohof Waldgarten versteht sich als Vielfalts-Hof und hofft als Pilotprojekt zum Wandel (Transformation) der Landwirtschaft beizutragen. Ziel ist es, die Potentiale einer aufbauenden Landwirtschaft mit Hilfe von Permakulturkriterien mit zu gestalten und sichtbar zu machen.",
+                "Über uns  Selbstbeschreibung": "Der Ökohof Waldgarten ist ein Ort der Vielfalt | Der Waldgarten ist der Versuch einen natürlichen Wald mit Bäumen, Sträuchern und mehrjährigen Pflanzen nachzuempfinden. Im Mittelpunkt steht dabei die Nahrungsgewinnung, das Schaffen von stabilen nachhaltigen Ökosystemen und maximale Vielfalt (Biodiversität). Waldgarten ist nicht nur ein Name sondern ein Teil des Hofkonzeptes, und damit erfüllt der Waldgarten die selbst gestellte Herausforderung, Nahrungsmittelproduktion und maximalen Naturschutz zusammen zu denken und zu führen. Der Ökohof Waldgarten versteht sich als Vielfalts-Hof und hofft als Pilotprojekt zum Wandel (Transformation) der Landwirtschaft beizutragen. Ziel ist es, die Potentiale einer aufbauenden Landwirtschaft mit Hilfe von Permakultur – Kriterien mit zu gestalten und sichtbar zu machen.",
                 "Straße": "Ackerstraße 22",
                 "PLZ": "10115 Berlin",
                 "Bezirk": "Mitte ",
-                "Adresse": "Ackerstraße 22 10115 Berlin",
                 "Website  Social Media": "https://www.solawi-waldgarten.de/",
                 "EMail": "info@solawi-waldgarten.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -143,25 +113,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.4521089,
-                    52.5261976
+                    13.451558,
+                    52.526127
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-006",
                 "Name": "SoLaWi Waldgarten - Abholstelle KGB",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Der Kohof Waldgarten ist ein Ort der Vielfalt | Der Waldgarten ist der Versuch einen natürlichen Wald mit Bäumen, Sträuchern und mehrjährigen Pflanzen nachzuempfinden. Im Mittelpunkt steht dabei die Nahrungsgewinnung, das Schaffen von stabilen nachhaltigen Kosystemen und maximale Vielfalt (Biodiversität). Waldgarten ist nicht nur ein Name sondern ein Teil des Hofkonzeptes, und damit erfüllt der Waldgarten die selbst gestellte Herausforderung, Nahrungsmittelproduktion und maximalen Naturschutz zusammen zu denken und zu führen. Der Kohof Waldgarten versteht sich als Vielfalts-Hof und hofft als Pilotprojekt zum Wandel (Transformation) der Landwirtschaft beizutragen. Ziel ist es, die Potentiale einer aufbauenden Landwirtschaft mit Hilfe von Permakulturkriterien mit zu gestalten und sichtbar zu machen.",
+                "Über uns  Selbstbeschreibung": "Der Ökohof Waldgarten ist ein Ort der Vielfalt | Der Waldgarten ist der Versuch einen natürlichen Wald mit Bäumen, Sträuchern und mehrjährigen Pflanzen nachzuempfinden. Im Mittelpunkt steht dabei die Nahrungsgewinnung, das Schaffen von stabilen nachhaltigen Ökosystemen und maximale Vielfalt (Biodiversität). Waldgarten ist nicht nur ein Name sondern ein Teil des Hofkonzeptes, und damit erfüllt der Waldgarten die selbst gestellte Herausforderung, Nahrungsmittelproduktion und maximalen Naturschutz zusammen zu denken und zu führen. Der Ökohof Waldgarten versteht sich als Vielfalts-Hof und hofft als Pilotprojekt zum Wandel (Transformation) der Landwirtschaft beizutragen. Ziel ist es, die Potentiale einer aufbauenden Landwirtschaft mit Hilfe von Permakultur – Kriterien mit zu gestalten und sichtbar zu machen.",
                 "Straße": "Ebertystraße 51",
                 "PLZ": "10249 Berlin",
                 "Bezirk": "Friedrichshain-Kreuzberg",
-                "Adresse": "Ebertystraße 51 10249 Berlin",
                 "Website  Social Media": "https://www.solawi-waldgarten.de/",
                 "EMail": "info@solawi-waldgarten.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -169,25 +136,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.456325,
-                    52.5177959
+                    13.456428,
+                    52.51791
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-007",
                 "Name": "SoLaWi Waldgarten - Abholstelle Jugend[widerstands]museum",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Der Kohof Waldgarten ist ein Ort der Vielfalt | Der Waldgarten ist der Versuch einen natürlichen Wald mit Bäumen, Sträuchern und mehrjährigen Pflanzen nachzuempfinden. Im Mittelpunkt steht dabei die Nahrungsgewinnung, das Schaffen von stabilen nachhaltigen Kosystemen und maximale Vielfalt (Biodiversität). Waldgarten ist nicht nur ein Name sondern ein Teil des Hofkonzeptes, und damit erfüllt der Waldgarten die selbst gestellte Herausforderung, Nahrungsmittelproduktion und maximalen Naturschutz zusammen zu denken und zu führen. Der Kohof Waldgarten versteht sich als Vielfalts-Hof und hofft als Pilotprojekt zum Wandel (Transformation) der Landwirtschaft beizutragen. Ziel ist es, die Potentiale einer aufbauenden Landwirtschaft mit Hilfe von Permakulturkriterien mit zu gestalten und sichtbar zu machen.",
+                "Über uns  Selbstbeschreibung": "Der Ökohof Waldgarten ist ein Ort der Vielfalt | Der Waldgarten ist der Versuch einen natürlichen Wald mit Bäumen, Sträuchern und mehrjährigen Pflanzen nachzuempfinden. Im Mittelpunkt steht dabei die Nahrungsgewinnung, das Schaffen von stabilen nachhaltigen Ökosystemen und maximale Vielfalt (Biodiversität). Waldgarten ist nicht nur ein Name sondern ein Teil des Hofkonzeptes, und damit erfüllt der Waldgarten die selbst gestellte Herausforderung, Nahrungsmittelproduktion und maximalen Naturschutz zusammen zu denken und zu führen. Der Ökohof Waldgarten versteht sich als Vielfalts-Hof und hofft als Pilotprojekt zum Wandel (Transformation) der Landwirtschaft beizutragen. Ziel ist es, die Potentiale einer aufbauenden Landwirtschaft mit Hilfe von Permakultur – Kriterien mit zu gestalten und sichtbar zu machen.",
                 "Straße": "Rigaer Straße 9/10",
                 "PLZ": "10247 Berlin",
                 "Bezirk": "Friedrichshain-Kreuzberg",
-                "Adresse": "Rigaer Straße 9/10 10247 Berlin",
                 "Website  Social Media": "https://www.solawi-waldgarten.de/",
                 "EMail": "info@solawi-waldgarten.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -195,25 +159,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.4600856,
-                    52.5131608
+                    13.459956,
+                    52.513236
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-008",
                 "Name": "SoLaWi Waldgarten - Abholstelle K19",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Der Kohof Waldgarten ist ein Ort der Vielfalt | Der Waldgarten ist der Versuch einen natürlichen Wald mit Bäumen, Sträuchern und mehrjährigen Pflanzen nachzuempfinden. Im Mittelpunkt steht dabei die Nahrungsgewinnung, das Schaffen von stabilen nachhaltigen Kosystemen und maximale Vielfalt (Biodiversität). Waldgarten ist nicht nur ein Name sondern ein Teil des Hofkonzeptes, und damit erfüllt der Waldgarten die selbst gestellte Herausforderung, Nahrungsmittelproduktion und maximalen Naturschutz zusammen zu denken und zu führen. Der Kohof Waldgarten versteht sich als Vielfalts-Hof und hofft als Pilotprojekt zum Wandel (Transformation) der Landwirtschaft beizutragen. Ziel ist es, die Potentiale einer aufbauenden Landwirtschaft mit Hilfe von Permakulturkriterien mit zu gestalten und sichtbar zu machen.",
+                "Über uns  Selbstbeschreibung": "Der Ökohof Waldgarten ist ein Ort der Vielfalt | Der Waldgarten ist der Versuch einen natürlichen Wald mit Bäumen, Sträuchern und mehrjährigen Pflanzen nachzuempfinden. Im Mittelpunkt steht dabei die Nahrungsgewinnung, das Schaffen von stabilen nachhaltigen Ökosystemen und maximale Vielfalt (Biodiversität). Waldgarten ist nicht nur ein Name sondern ein Teil des Hofkonzeptes, und damit erfüllt der Waldgarten die selbst gestellte Herausforderung, Nahrungsmittelproduktion und maximalen Naturschutz zusammen zu denken und zu führen. Der Ökohof Waldgarten versteht sich als Vielfalts-Hof und hofft als Pilotprojekt zum Wandel (Transformation) der Landwirtschaft beizutragen. Ziel ist es, die Potentiale einer aufbauenden Landwirtschaft mit Hilfe von Permakultur – Kriterien mit zu gestalten und sichtbar zu machen.",
                 "Straße": "Kreutziger Straße 19",
                 "PLZ": "10247 Berlin ",
                 "Bezirk": "Friedrichshain-Kreuzberg",
-                "Adresse": "Kreutziger Straße 19 10247 Berlin ",
                 "Website  Social Media": "https://www.solawi-waldgarten.de/",
                 "EMail": "info@solawi-waldgarten.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -221,25 +182,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.4456945,
-                    52.4995275
+                    13.44437,
+                    52.498458
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-009",
                 "Name": "SoLaWi Waldgarten - Abholstelle Kiezanker 36",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Der Kohof Waldgarten ist ein Ort der Vielfalt | Der Waldgarten ist der Versuch einen natürlichen Wald mit Bäumen, Sträuchern und mehrjährigen Pflanzen nachzuempfinden. Im Mittelpunkt steht dabei die Nahrungsgewinnung, das Schaffen von stabilen nachhaltigen Kosystemen und maximale Vielfalt (Biodiversität). Waldgarten ist nicht nur ein Name sondern ein Teil des Hofkonzeptes, und damit erfüllt der Waldgarten die selbst gestellte Herausforderung, Nahrungsmittelproduktion und maximalen Naturschutz zusammen zu denken und zu führen. Der Kohof Waldgarten versteht sich als Vielfalts-Hof und hofft als Pilotprojekt zum Wandel (Transformation) der Landwirtschaft beizutragen. Ziel ist es, die Potentiale einer aufbauenden Landwirtschaft mit Hilfe von Permakulturkriterien mit zu gestalten und sichtbar zu machen.",
+                "Über uns  Selbstbeschreibung": "Der Ökohof Waldgarten ist ein Ort der Vielfalt | Der Waldgarten ist der Versuch einen natürlichen Wald mit Bäumen, Sträuchern und mehrjährigen Pflanzen nachzuempfinden. Im Mittelpunkt steht dabei die Nahrungsgewinnung, das Schaffen von stabilen nachhaltigen Ökosystemen und maximale Vielfalt (Biodiversität). Waldgarten ist nicht nur ein Name sondern ein Teil des Hofkonzeptes, und damit erfüllt der Waldgarten die selbst gestellte Herausforderung, Nahrungsmittelproduktion und maximalen Naturschutz zusammen zu denken und zu führen. Der Ökohof Waldgarten versteht sich als Vielfalts-Hof und hofft als Pilotprojekt zum Wandel (Transformation) der Landwirtschaft beizutragen. Ziel ist es, die Potentiale einer aufbauenden Landwirtschaft mit Hilfe von Permakultur – Kriterien mit zu gestalten und sichtbar zu machen.",
                 "Straße": "Cuvrystraße 13-14a",
                 "PLZ": "10997 Berlin",
                 "Bezirk": "Friedrichshain-Kreuzberg",
-                "Adresse": "Cuvrystraße 13-14a 10997 Berlin",
                 "Website  Social Media": "https://www.solawi-waldgarten.de/",
                 "EMail": "info@solawi-waldgarten.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -247,25 +205,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.439638,
-                    52.4937266
+                    13.439798,
+                    52.493647
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-010",
                 "Name": "SoLaWi Waldgarten - Abholstelle Weltraum",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Der Kohof Waldgarten ist ein Ort der Vielfalt | Der Waldgarten ist der Versuch einen natürlichen Wald mit Bäumen, Sträuchern und mehrjährigen Pflanzen nachzuempfinden. Im Mittelpunkt steht dabei die Nahrungsgewinnung, das Schaffen von stabilen nachhaltigen Kosystemen und maximale Vielfalt (Biodiversität). Waldgarten ist nicht nur ein Name sondern ein Teil des Hofkonzeptes, und damit erfüllt der Waldgarten die selbst gestellte Herausforderung, Nahrungsmittelproduktion und maximalen Naturschutz zusammen zu denken und zu führen. Der Kohof Waldgarten versteht sich als Vielfalts-Hof und hofft als Pilotprojekt zum Wandel (Transformation) der Landwirtschaft beizutragen. Ziel ist es, die Potentiale einer aufbauenden Landwirtschaft mit Hilfe von Permakulturkriterien mit zu gestalten und sichtbar zu machen.",
+                "Über uns  Selbstbeschreibung": "Der Ökohof Waldgarten ist ein Ort der Vielfalt | Der Waldgarten ist der Versuch einen natürlichen Wald mit Bäumen, Sträuchern und mehrjährigen Pflanzen nachzuempfinden. Im Mittelpunkt steht dabei die Nahrungsgewinnung, das Schaffen von stabilen nachhaltigen Ökosystemen und maximale Vielfalt (Biodiversität). Waldgarten ist nicht nur ein Name sondern ein Teil des Hofkonzeptes, und damit erfüllt der Waldgarten die selbst gestellte Herausforderung, Nahrungsmittelproduktion und maximalen Naturschutz zusammen zu denken und zu führen. Der Ökohof Waldgarten versteht sich als Vielfalts-Hof und hofft als Pilotprojekt zum Wandel (Transformation) der Landwirtschaft beizutragen. Ziel ist es, die Potentiale einer aufbauenden Landwirtschaft mit Hilfe von Permakultur – Kriterien mit zu gestalten und sichtbar zu machen.",
                 "Straße": "Ratiborstraße 4",
                 "PLZ": "10999 Berlin",
                 "Bezirk": "Friedrichshain-Kreuzberg",
-                "Adresse": "Ratiborstraße 4 10999 Berlin",
                 "Website  Social Media": "https://www.solawi-waldgarten.de/",
                 "EMail": "info@solawi-waldgarten.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -273,25 +228,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.4492569,
-                    52.4855684
+                    13.449485,
+                    52.485555
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-011",
                 "Name": "SoLaWi Waldgarten - Abholstelle Endorphina",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Der Kohof Waldgarten ist ein Ort der Vielfalt | Der Waldgarten ist der Versuch einen natürlichen Wald mit Bäumen, Sträuchern und mehrjährigen Pflanzen nachzuempfinden. Im Mittelpunkt steht dabei die Nahrungsgewinnung, das Schaffen von stabilen nachhaltigen Kosystemen und maximale Vielfalt (Biodiversität). Waldgarten ist nicht nur ein Name sondern ein Teil des Hofkonzeptes, und damit erfüllt der Waldgarten die selbst gestellte Herausforderung, Nahrungsmittelproduktion und maximalen Naturschutz zusammen zu denken und zu führen. Der Kohof Waldgarten versteht sich als Vielfalts-Hof und hofft als Pilotprojekt zum Wandel (Transformation) der Landwirtschaft beizutragen. Ziel ist es, die Potentiale einer aufbauenden Landwirtschaft mit Hilfe von Permakulturkriterien mit zu gestalten und sichtbar zu machen.",
+                "Über uns  Selbstbeschreibung": "Der Ökohof Waldgarten ist ein Ort der Vielfalt | Der Waldgarten ist der Versuch einen natürlichen Wald mit Bäumen, Sträuchern und mehrjährigen Pflanzen nachzuempfinden. Im Mittelpunkt steht dabei die Nahrungsgewinnung, das Schaffen von stabilen nachhaltigen Ökosystemen und maximale Vielfalt (Biodiversität). Waldgarten ist nicht nur ein Name sondern ein Teil des Hofkonzeptes, und damit erfüllt der Waldgarten die selbst gestellte Herausforderung, Nahrungsmittelproduktion und maximalen Naturschutz zusammen zu denken und zu führen. Der Ökohof Waldgarten versteht sich als Vielfalts-Hof und hofft als Pilotprojekt zum Wandel (Transformation) der Landwirtschaft beizutragen. Ziel ist es, die Potentiale einer aufbauenden Landwirtschaft mit Hilfe von Permakultur – Kriterien mit zu gestalten und sichtbar zu machen.",
                 "Straße": "Elsenstraße 52",
                 "PLZ": "12059 Berlin",
                 "Bezirk": "Treptow-Köpenick",
-                "Adresse": "Elsenstraße 52 12059 Berlin",
                 "Website  Social Media": "https://www.solawi-waldgarten.de/",
                 "EMail": "info@solawi-waldgarten.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -299,25 +251,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.3908,
-                    52.4924
+                    13.388709,
+                    52.495466
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-012",
                 "Name": "SoLaWi Waldgarten - Abholstelle Rathausblock",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Der Kohof Waldgarten ist ein Ort der Vielfalt | Der Waldgarten ist der Versuch einen natürlichen Wald mit Bäumen, Sträuchern und mehrjährigen Pflanzen nachzuempfinden. Im Mittelpunkt steht dabei die Nahrungsgewinnung, das Schaffen von stabilen nachhaltigen Kosystemen und maximale Vielfalt (Biodiversität). Waldgarten ist nicht nur ein Name sondern ein Teil des Hofkonzeptes, und damit erfüllt der Waldgarten die selbst gestellte Herausforderung, Nahrungsmittelproduktion und maximalen Naturschutz zusammen zu denken und zu führen. Der Kohof Waldgarten versteht sich als Vielfalts-Hof und hofft als Pilotprojekt zum Wandel (Transformation) der Landwirtschaft beizutragen. Ziel ist es, die Potentiale einer aufbauenden Landwirtschaft mit Hilfe von Permakulturkriterien mit zu gestalten und sichtbar zu machen.",
+                "Über uns  Selbstbeschreibung": "Der Ökohof Waldgarten ist ein Ort der Vielfalt | Der Waldgarten ist der Versuch einen natürlichen Wald mit Bäumen, Sträuchern und mehrjährigen Pflanzen nachzuempfinden. Im Mittelpunkt steht dabei die Nahrungsgewinnung, das Schaffen von stabilen nachhaltigen Ökosystemen und maximale Vielfalt (Biodiversität). Waldgarten ist nicht nur ein Name sondern ein Teil des Hofkonzeptes, und damit erfüllt der Waldgarten die selbst gestellte Herausforderung, Nahrungsmittelproduktion und maximalen Naturschutz zusammen zu denken und zu führen. Der Ökohof Waldgarten versteht sich als Vielfalts-Hof und hofft als Pilotprojekt zum Wandel (Transformation) der Landwirtschaft beizutragen. Ziel ist es, die Potentiale einer aufbauenden Landwirtschaft mit Hilfe von Permakultur – Kriterien mit zu gestalten und sichtbar zu machen.",
                 "Straße": "Mehringdamm Ecke Obentrautstr.",
                 "PLZ": "10961 Berlin",
                 "Bezirk": "Friedrichshain-Kreuzberg",
-                "Adresse": "Mehringdamm Ecke Obentrautstr. 10961 Berlin",
                 "Website  Social Media": "https://www.solawi-waldgarten.de/",
                 "EMail": "info@solawi-waldgarten.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -325,25 +274,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.4470111,
-                    52.6522706
+                    13.578453,
+                    52.744064
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-013",
-                "Name": "Gemeinschaft Spargelhof - Anbau",
+                "Name": "Gemeinschaft Spörgelhof - Anbau",
                 "Gartentyp": "SoLaWi-Anbaufläche",
-                "Über uns  Selbstbeschreibung": "Wir sind ein seit Mai 2014 wachsendes Kollektiv von Menschen aus Berlin und Barnim, die gemeinsam ihr Gemüse anbauen. Zusammen mit unseren Gärtner*innen gestalten wir den Spargelhof: Inmitten von Wald und Wiesen, nahe dem Hellsee, bauen wir regenerativ Gemüse an und finanzieren es mit einer solidarischen Konomie. Die Solawi Spargelhof mit ihren ca. 2,4 Hektar Ackerfläche liegt 30 km nordastlich Berlins bei Lobetal, nahe Bernau und Wandlitz.",
+                "Über uns  Selbstbeschreibung": "Wir sind ein seit Mai 2014 wachsendes Kollektiv von Menschen aus Berlin und Barnim, die gemeinsam ihr Gemüse anbauen. Zusammen mit unseren Gärtner*innen gestalten wir den Spörgelhof: Inmitten von Wald und Wiesen, nahe dem Hellsee, bauen wir regenerativ Gemüse an und finanzieren es mit einer solidarischen Ökonomie. Die Solawi Spörgelhof mit ihren ca. 2,4 Hektar Ackerfläche liegt 30 km nordöstlich Berlins bei Lobetal, nahe Bernau und Wandlitz.",
                 "Straße": "Wiesenweg 1",
                 "PLZ": "16348 Wandlitz",
-                "Bezirk": null,
-                "Adresse": "Wiesenweg 1 16348 Wandlitz",
                 "Website  Social Media": "https://www.spoergelhof.de/",
                 "EMail": "einstieg@spoergelhof.de",
                 "Seit wann": 2014.0,
-                "Flächengraße m": 24000.0,
-                "Nutzung": "Anbau von Lebensmitteln",
-                "MitmachMaglichkeiten": null
+                "Flächengröße m²": 24000.0,
+                "Nutzung": "Anbau von Lebensmitteln"
             }
         },
         {
@@ -351,25 +297,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.4045822,
-                    52.5715555
+                    13.404497,
+                    52.571865
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-014",
-                "Name": "Gemeinschaft Spargelhof - Abholstation Schabracke",
+                "Name": "Gemeinschaft Spörgelhof - Abholstation Schabracke",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Wir sind ein seit Mai 2014 wachsendes Kollektiv von Menschen aus Berlin und Barnim, die gemeinsam ihr Gemüse anbauen. Zusammen mit unseren Gärtner*innen gestalten wir den Spargelhof: Inmitten von Wald und Wiesen, nahe dem Hellsee, bauen wir regenerativ Gemüse an und finanzieren es mit einer solidarischen Konomie. Die Solawi Spargelhof mit ihren ca. 2,4 Hektar Ackerfläche liegt 30 km nordastlich Berlins bei Lobetal, nahe Bernau und Wandlitz.",
+                "Über uns  Selbstbeschreibung": "Wir sind ein seit Mai 2014 wachsendes Kollektiv von Menschen aus Berlin und Barnim, die gemeinsam ihr Gemüse anbauen. Zusammen mit unseren Gärtner*innen gestalten wir den Spörgelhof: Inmitten von Wald und Wiesen, nahe dem Hellsee, bauen wir regenerativ Gemüse an und finanzieren es mit einer solidarischen Ökonomie. Die Solawi Spörgelhof mit ihren ca. 2,4 Hektar Ackerfläche liegt 30 km nordöstlich Berlins bei Lobetal, nahe Bernau und Wandlitz.",
                 "Straße": "Pestalozzistr. 8a",
                 "PLZ": "10187 Berlin",
                 "Bezirk": "Pankow",
-                "Adresse": "Pestalozzistr. 8a 10187 Berlin",
                 "Website  Social Media": "https://www.spoergelhof.de/",
                 "EMail": "einstieg@spoergelhof.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -377,25 +320,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.4297092,
-                    52.4697337
+                    13.429847,
+                    52.469333
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-015",
-                "Name": "Gemeinschaft Spargelhof - Abholstation St. Jacobi Friedhof",
+                "Name": "Gemeinschaft Spörgelhof - Abholstation St. Jacobi Friedhof",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Wir sind ein seit Mai 2014 wachsendes Kollektiv von Menschen aus Berlin und Barnim, die gemeinsam ihr Gemüse anbauen. Zusammen mit unseren Gärtner*innen gestalten wir den Spargelhof: Inmitten von Wald und Wiesen, nahe dem Hellsee, bauen wir regenerativ Gemüse an und finanzieren es mit einer solidarischen Konomie. Die Solawi Spargelhof mit ihren ca. 2,4 Hektar Ackerfläche liegt 30 km nordastlich Berlins bei Lobetal, nahe Bernau und Wandlitz.",
+                "Über uns  Selbstbeschreibung": "Wir sind ein seit Mai 2014 wachsendes Kollektiv von Menschen aus Berlin und Barnim, die gemeinsam ihr Gemüse anbauen. Zusammen mit unseren Gärtner*innen gestalten wir den Spörgelhof: Inmitten von Wald und Wiesen, nahe dem Hellsee, bauen wir regenerativ Gemüse an und finanzieren es mit einer solidarischen Ökonomie. Die Solawi Spörgelhof mit ihren ca. 2,4 Hektar Ackerfläche liegt 30 km nordöstlich Berlins bei Lobetal, nahe Bernau und Wandlitz.",
                 "Straße": "Hermannstraße 99 ",
                 "PLZ": "12051 Berlin",
                 "Bezirk": "Friedrichshain-Kreuzberg",
-                "Adresse": "Hermannstraße 99  12051 Berlin",
                 "Website  Social Media": "https://www.spoergelhof.de/",
                 "EMail": "einstieg@spoergelhof.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -403,25 +343,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.4677473,
-                    52.5200726
+                    13.467787,
+                    52.52019
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-016",
-                "Name": "Gemeinschaft Spargelhof - Abholstation Friedrichshain",
+                "Name": "Gemeinschaft Spörgelhof - Abholstation Friedrichshain",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Wir sind ein seit Mai 2014 wachsendes Kollektiv von Menschen aus Berlin und Barnim, die gemeinsam ihr Gemüse anbauen. Zusammen mit unseren Gärtner*innen gestalten wir den Spargelhof: Inmitten von Wald und Wiesen, nahe dem Hellsee, bauen wir regenerativ Gemüse an und finanzieren es mit einer solidarischen Konomie. Die Solawi Spargelhof mit ihren ca. 2,4 Hektar Ackerfläche liegt 30 km nordastlich Berlins bei Lobetal, nahe Bernau und Wandlitz.",
+                "Über uns  Selbstbeschreibung": "Wir sind ein seit Mai 2014 wachsendes Kollektiv von Menschen aus Berlin und Barnim, die gemeinsam ihr Gemüse anbauen. Zusammen mit unseren Gärtner*innen gestalten wir den Spörgelhof: Inmitten von Wald und Wiesen, nahe dem Hellsee, bauen wir regenerativ Gemüse an und finanzieren es mit einer solidarischen Ökonomie. Die Solawi Spörgelhof mit ihren ca. 2,4 Hektar Ackerfläche liegt 30 km nordöstlich Berlins bei Lobetal, nahe Bernau und Wandlitz.",
                 "Straße": "Eldenaer Str. 24",
                 "PLZ": "10247 Berlin",
                 "Bezirk": "Friedrichshain-Kreuzberg",
-                "Adresse": "Eldenaer Str. 24 10247 Berlin",
                 "Website  Social Media": "https://www.spoergelhof.de/",
                 "EMail": "einstieg@spoergelhof.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -429,25 +366,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.380852,
-                    52.4963645
+                    13.379884,
+                    52.496591
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-017",
-                "Name": "Gemeinschaft Spargelhof - Abholstation Kreuzberg ",
+                "Name": "Gemeinschaft Spörgelhof - Abholstation Kreuzberg ",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Wir sind ein seit Mai 2014 wachsendes Kollektiv von Menschen aus Berlin und Barnim, die gemeinsam ihr Gemüse anbauen. Zusammen mit unseren Gärtner*innen gestalten wir den Spargelhof: Inmitten von Wald und Wiesen, nahe dem Hellsee, bauen wir regenerativ Gemüse an und finanzieren es mit einer solidarischen Konomie. Die Solawi Spargelhof mit ihren ca. 2,4 Hektar Ackerfläche liegt 30 km nordastlich Berlins bei Lobetal, nahe Bernau und Wandlitz.",
+                "Über uns  Selbstbeschreibung": "Wir sind ein seit Mai 2014 wachsendes Kollektiv von Menschen aus Berlin und Barnim, die gemeinsam ihr Gemüse anbauen. Zusammen mit unseren Gärtner*innen gestalten wir den Spörgelhof: Inmitten von Wald und Wiesen, nahe dem Hellsee, bauen wir regenerativ Gemüse an und finanzieren es mit einer solidarischen Ökonomie. Die Solawi Spörgelhof mit ihren ca. 2,4 Hektar Ackerfläche liegt 30 km nordöstlich Berlins bei Lobetal, nahe Bernau und Wandlitz.",
                 "Straße": "Wartenburgstr. 7",
                 "PLZ": "10963 Berlin",
                 "Bezirk": "Friedrichshain-Kreuzberg",
-                "Adresse": "Wartenburgstr. 7 10963 Berlin",
                 "Website  Social Media": "https://www.spoergelhof.de/",
                 "EMail": "einstieg@spoergelhof.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -455,25 +389,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.3391068,
-                    52.5583852
+                    13.339321,
+                    52.558525
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-018",
-                "Name": "Gemeinschaft Spargelhof - Abholstation Centre Francais de Berlin",
+                "Name": "Gemeinschaft Spörgelhof - Abholstation Centre Français de Berlin",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Wir sind ein seit Mai 2014 wachsendes Kollektiv von Menschen aus Berlin und Barnim, die gemeinsam ihr Gemüse anbauen. Zusammen mit unseren Gärtner*innen gestalten wir den Spargelhof: Inmitten von Wald und Wiesen, nahe dem Hellsee, bauen wir regenerativ Gemüse an und finanzieren es mit einer solidarischen Konomie. Die Solawi Spargelhof mit ihren ca. 2,4 Hektar Ackerfläche liegt 30 km nordastlich Berlins bei Lobetal, nahe Bernau und Wandlitz.",
+                "Über uns  Selbstbeschreibung": "Wir sind ein seit Mai 2014 wachsendes Kollektiv von Menschen aus Berlin und Barnim, die gemeinsam ihr Gemüse anbauen. Zusammen mit unseren Gärtner*innen gestalten wir den Spörgelhof: Inmitten von Wald und Wiesen, nahe dem Hellsee, bauen wir regenerativ Gemüse an und finanzieren es mit einer solidarischen Ökonomie. Die Solawi Spörgelhof mit ihren ca. 2,4 Hektar Ackerfläche liegt 30 km nordöstlich Berlins bei Lobetal, nahe Bernau und Wandlitz.",
                 "Straße": "Müllerstraße 74",
                 "PLZ": "13349 Berlin",
                 "Bezirk": "Wedding",
-                "Adresse": "Müllerstraße 74 13349 Berlin",
                 "Website  Social Media": "https://www.spoergelhof.de/",
                 "EMail": "einstieg@spoergelhof.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -481,25 +412,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.4852738,
-                    52.6211915
+                    13.485321,
+                    52.621265
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-019",
-                "Name": "Gemeinschaft Spargelhof - Abholstation Stadtteilzentrum \"Der Turm\"",
+                "Name": "Gemeinschaft Spörgelhof - Abholstation Stadtteilzentrum \"Der Turm\"",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Wir sind ein seit Mai 2014 wachsendes Kollektiv von Menschen aus Berlin und Barnim, die gemeinsam ihr Gemüse anbauen. Zusammen mit unseren Gärtner*innen gestalten wir den Spargelhof: Inmitten von Wald und Wiesen, nahe dem Hellsee, bauen wir regenerativ Gemüse an und finanzieren es mit einer solidarischen Konomie. Die Solawi Spargelhof mit ihren ca. 2,4 Hektar Ackerfläche liegt 30 km nordastlich Berlins bei Lobetal, nahe Bernau und Wandlitz.",
+                "Über uns  Selbstbeschreibung": "Wir sind ein seit Mai 2014 wachsendes Kollektiv von Menschen aus Berlin und Barnim, die gemeinsam ihr Gemüse anbauen. Zusammen mit unseren Gärtner*innen gestalten wir den Spörgelhof: Inmitten von Wald und Wiesen, nahe dem Hellsee, bauen wir regenerativ Gemüse an und finanzieren es mit einer solidarischen Ökonomie. Die Solawi Spörgelhof mit ihren ca. 2,4 Hektar Ackerfläche liegt 30 km nordöstlich Berlins bei Lobetal, nahe Bernau und Wandlitz.",
                 "Straße": "Busonistraße 136",
                 "PLZ": "13125 Berlin",
                 "Bezirk": "Pankow",
-                "Adresse": "Busonistraße 136 13125 Berlin",
                 "Website  Social Media": "https://www.spoergelhof.de/",
                 "EMail": "einstieg@spoergelhof.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -507,25 +435,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    14.1074893,
-                    52.5309297
+                    14.107567,
+                    52.531099
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-020",
                 "Name": "Ackerwesen - Anbau (Waldpferdehof)",
                 "Gartentyp": "SoLaWi-Anbaufläche",
-                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Ko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, astlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Maglichkeit auch unter dem Jahr dazu zu kommen.",
+                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Öko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, östlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Möglichkeit auch unter dem Jahr dazu zu kommen.",
                 "Straße": "Am Weiher 6",
                 "PLZ": "15374 Müncheberg",
-                "Bezirk": null,
-                "Adresse": "Am Weiher 6 15374 Müncheberg",
                 "Website  Social Media": "https://www.ackerwesen.de/index.htm?n1=0",
                 "EMail": "willkommen@ackerwesen.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
-                "Nutzung": "Anbau von Lebensmitteln",
-                "MitmachMaglichkeiten": null
+                "Nutzung": "Anbau von Lebensmitteln"
             }
         },
         {
@@ -533,25 +456,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    14.0133247,
-                    52.5501922
+                    14.01337,
+                    52.55012
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-021",
                 "Name": "Ackerwesen - Anbau (Liebenhof)",
                 "Gartentyp": "SoLaWi-Anbaufläche",
-                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Ko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, astlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Maglichkeit auch unter dem Jahr dazu zu kommen.",
+                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Öko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, östlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Möglichkeit auch unter dem Jahr dazu zu kommen.",
                 "Straße": "Liebenhof 11",
                 "PLZ": "15345 Garzau-Garzin",
-                "Bezirk": null,
-                "Adresse": "Liebenhof 11 15345 Garzau-Garzin",
                 "Website  Social Media": "https://www.ackerwesen.de/index.htm?n1=0",
                 "EMail": "willkommen@ackerwesen.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
-                "Nutzung": "Anbau von Lebensmitteln",
-                "MitmachMaglichkeiten": null
+                "Nutzung": "Anbau von Lebensmitteln"
             }
         },
         {
@@ -559,25 +477,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    14.4317363,
-                    52.4766851
+                    14.4307,
+                    52.476712
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-022",
                 "Name": "Ackerwesen - Anbau (Heimen)",
                 "Gartentyp": "SoLaWi-Anbaufläche",
-                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Ko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, astlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Maglichkeit auch unter dem Jahr dazu zu kommen.",
+                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Öko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, östlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Möglichkeit auch unter dem Jahr dazu zu kommen.",
                 "Straße": "Lindenstraße 1",
                 "PLZ": "15306 Lindendorf",
-                "Bezirk": null,
-                "Adresse": "Lindenstraße 1 15306 Lindendorf",
                 "Website  Social Media": "https://www.ackerwesen.de/index.htm?n1=0",
                 "EMail": "willkommen@ackerwesen.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
-                "Nutzung": "Anbau von Lebensmitteln",
-                "MitmachMaglichkeiten": null
+                "Nutzung": "Anbau von Lebensmitteln"
             }
         },
         {
@@ -585,25 +498,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    14.4664212,
-                    52.2923566
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-023",
                 "Name": "Ackerwesen - Anbau (Obsthof Hauke)",
                 "Gartentyp": "SoLaWi-Anbaufläche",
-                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Ko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, astlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Maglichkeit auch unter dem Jahr dazu zu kommen.",
+                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Öko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, östlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Möglichkeit auch unter dem Jahr dazu zu kommen.",
                 "Straße": "Birnenweg 12",
                 "PLZ": "15236 Frankfurt (Oder)",
-                "Bezirk": null,
-                "Adresse": "Birnenweg 12 15236 Frankfurt (Oder)",
                 "Website  Social Media": "https://www.ackerwesen.de/index.htm?n1=0",
                 "EMail": "willkommen@ackerwesen.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
-                "Nutzung": "Anbau von Lebensmitteln",
-                "MitmachMaglichkeiten": null
+                "Nutzung": "Anbau von Lebensmitteln"
             }
         },
         {
@@ -611,25 +519,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.4492569,
-                    52.4855684
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-024",
                 "Name": "Ackerwesen - Abholstation Alt-Treptow",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Ko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, astlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Maglichkeit auch unter dem Jahr dazu zu kommen.",
+                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Öko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, östlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Möglichkeit auch unter dem Jahr dazu zu kommen.",
                 "Straße": "Elsenstr. 52",
                 "PLZ": "12059 Berlin",
                 "Bezirk": "Treptow-Köpenick",
-                "Adresse": "Elsenstr. 52 12059 Berlin",
                 "Website  Social Media": "https://www.ackerwesen.de/index.htm?n1=0",
                 "EMail": "willkommen@ackerwesen.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -637,25 +542,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.4727003,
-                    52.4654641
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-025",
                 "Name": "Ackerwesen - Abholstation Baumschulenweg",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Ko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, astlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Maglichkeit auch unter dem Jahr dazu zu kommen.",
+                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Öko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, östlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Möglichkeit auch unter dem Jahr dazu zu kommen.",
                 "Straße": "Sonnenallee 319",
                 "PLZ": "12057 Berlin",
                 "Bezirk": "Treptow-Köpenick",
-                "Adresse": "Sonnenallee 319 12057 Berlin",
                 "Website  Social Media": "https://www.ackerwesen.de/index.htm?n1=0",
                 "EMail": "willkommen@ackerwesen.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -663,25 +565,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.552149,
-                    52.5089259
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-026",
                 "Name": "Ackerwesen - Abholstation Biesdorf",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Ko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, astlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Maglichkeit auch unter dem Jahr dazu zu kommen.",
+                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Öko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, östlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Möglichkeit auch unter dem Jahr dazu zu kommen.",
                 "Straße": "Alt-Biesdorf 15",
                 "PLZ": "12683 Berlin",
                 "Bezirk": "Marzahn-Hellersdorf",
-                "Adresse": "Alt-Biesdorf 15 12683 Berlin",
                 "Website  Social Media": "https://www.ackerwesen.de/index.htm?n1=0",
                 "EMail": "willkommen@ackerwesen.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -689,25 +588,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.2994772,
-                    52.5122083
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-027",
                 "Name": "Ackerwesen - Abholstation Charlottenburg ",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Ko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, astlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Maglichkeit auch unter dem Jahr dazu zu kommen.",
+                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Öko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, östlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Möglichkeit auch unter dem Jahr dazu zu kommen.",
                 "Straße": "Fritschestr. 28",
                 "PLZ": "10585 Berlin",
                 "Bezirk": "Charlottenburg-Wilmersdorf",
-                "Adresse": "Fritschestr. 28 10585 Berlin",
                 "Website  Social Media": "https://www.ackerwesen.de/index.htm?n1=0",
                 "EMail": "willkommen@ackerwesen.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -715,25 +611,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.2733616,
-                    52.4539658
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-028",
                 "Name": "Ackerwesen - Abholstation Dahlem ",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Ko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, astlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Maglichkeit auch unter dem Jahr dazu zu kommen.",
+                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Öko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, östlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Möglichkeit auch unter dem Jahr dazu zu kommen.",
                 "Straße": "Meisenstraße 20B",
                 "PLZ": "14195 Berlin",
                 "Bezirk": "Steglitz-Zehlendorf",
-                "Adresse": "Meisenstraße 20B 14195 Berlin",
                 "Website  Social Media": "https://www.ackerwesen.de/index.htm?n1=0",
                 "EMail": "willkommen@ackerwesen.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -741,25 +634,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.6351172,
-                    52.4527664
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-029",
                 "Name": "Ackerwesen - Abholstation Friedrichshagen",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Ko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, astlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Maglichkeit auch unter dem Jahr dazu zu kommen.",
+                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Öko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, östlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Möglichkeit auch unter dem Jahr dazu zu kommen.",
                 "Straße": "Julius-Hart-Str. 3",
                 "PLZ": "12587 Berlin",
                 "Bezirk": "Treptow-Köpenick",
-                "Adresse": "Julius-Hart-Str. 3 12587 Berlin",
                 "Website  Social Media": "https://www.ackerwesen.de/index.htm?n1=0",
                 "EMail": "willkommen@ackerwesen.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -767,25 +657,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.4456714,
-                    52.5178687
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-030",
                 "Name": "Ackerwesen - Abholstation Friedrichshain 1",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Ko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, astlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Maglichkeit auch unter dem Jahr dazu zu kommen.",
+                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Öko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, östlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Möglichkeit auch unter dem Jahr dazu zu kommen.",
                 "Straße": "Weidenweg 17",
                 "PLZ": "10249 Berlin",
                 "Bezirk": "Friedrichshain-Kreuzberg",
-                "Adresse": "Weidenweg 17 10249 Berlin",
                 "Website  Social Media": "https://www.ackerwesen.de/index.htm?n1=0",
                 "EMail": "willkommen@ackerwesen.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -793,25 +680,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.4492572,
-                    52.5221762
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-031",
                 "Name": "Ackerwesen - Abholstation Friedrichshain 2",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Ko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, astlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Maglichkeit auch unter dem Jahr dazu zu kommen.",
+                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Öko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, östlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Möglichkeit auch unter dem Jahr dazu zu kommen.",
                 "Straße": "Straßmannstr. 17",
                 "PLZ": "10249 Berlin",
                 "Bezirk": "Friedrichshain-Kreuzberg",
-                "Adresse": "Straßmannstr. 17 10249 Berlin",
                 "Website  Social Media": "https://www.ackerwesen.de/index.htm?n1=0",
                 "EMail": "willkommen@ackerwesen.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -819,25 +703,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.2936906,
-                    52.6400739
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-032",
                 "Name": "Ackerwesen - Abholstation Frohnau ",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Ko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, astlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Maglichkeit auch unter dem Jahr dazu zu kommen.",
+                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Öko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, östlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Möglichkeit auch unter dem Jahr dazu zu kommen.",
                 "Straße": "Huttenstr. 10",
                 "PLZ": "13465 Berlin",
                 "Bezirk": "Reinickendorf ",
-                "Adresse": "Huttenstr. 10 13465 Berlin",
                 "Website  Social Media": "https://www.ackerwesen.de/index.htm?n1=0",
                 "EMail": "willkommen@ackerwesen.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -845,25 +726,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.3940256,
-                    52.5557803
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-033",
                 "Name": "Ackerwesen - Abholstation Gesundbrunnen 1",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Ko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, astlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Maglichkeit auch unter dem Jahr dazu zu kommen.",
+                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Öko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, östlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Möglichkeit auch unter dem Jahr dazu zu kommen.",
                 "Straße": "Grüntaler Str. 38",
                 "PLZ": "13359 Berlin ",
                 "Bezirk": "Mitte ",
-                "Adresse": "Grüntaler Str. 38 13359 Berlin ",
                 "Website  Social Media": "https://www.ackerwesen.de/index.htm?n1=0",
                 "EMail": "willkommen@ackerwesen.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -871,25 +749,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.3846017,
-                    52.5583368
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-034",
                 "Name": "Ackerwesen - Abholstation Gesundbrunnen 2",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Ko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, astlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Maglichkeit auch unter dem Jahr dazu zu kommen.",
+                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Öko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, östlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Möglichkeit auch unter dem Jahr dazu zu kommen.",
                 "Straße": "Prinzenallee 58 ",
                 "PLZ": "13359 Berlin",
                 "Bezirk": "Mitte",
-                "Adresse": "Prinzenallee 58  13359 Berlin",
                 "Website  Social Media": "https://www.ackerwesen.de/index.htm?n1=0",
                 "EMail": "willkommen@ackerwesen.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -897,25 +772,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.3976623,
-                    52.5448038
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-035",
                 "Name": "Ackerwesen - Abholstation Gesundbrunnen 3",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Ko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, astlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Maglichkeit auch unter dem Jahr dazu zu kommen.",
+                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Öko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, östlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Möglichkeit auch unter dem Jahr dazu zu kommen.",
                 "Straße": "Swinemünder Str. 51",
                 "PLZ": "13355 Berlin",
                 "Bezirk": "Mitte ",
-                "Adresse": "Swinemünder Str. 51 13355 Berlin",
                 "Website  Social Media": "https://www.ackerwesen.de/index.htm?n1=0",
                 "EMail": "willkommen@ackerwesen.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -923,25 +795,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.5810445,
-                    52.4171196
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-036",
                 "Name": "Ackerwesen - Abholstation Grünau ",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Ko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, astlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Maglichkeit auch unter dem Jahr dazu zu kommen.",
+                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Öko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, östlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Möglichkeit auch unter dem Jahr dazu zu kommen.",
                 "Straße": "Regattastr. 133",
                 "PLZ": "12527 Berlin",
                 "Bezirk": "Treptow-Köpenick",
-                "Adresse": "Regattastr. 133 12527 Berlin",
                 "Website  Social Media": "https://www.ackerwesen.de/index.htm?n1=0",
                 "EMail": "willkommen@ackerwesen.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -949,25 +818,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.3011498,
-                    52.6190878
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-037",
                 "Name": "Ackerwesen - Abholstation Hermsdorf",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Ko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, astlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Maglichkeit auch unter dem Jahr dazu zu kommen.",
+                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Öko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, östlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Möglichkeit auch unter dem Jahr dazu zu kommen.",
                 "Straße": "Friedrichsthaler Weg 29",
                 "PLZ": "13467 Berlin",
                 "Bezirk": "Reinickendorf",
-                "Adresse": "Friedrichsthaler Weg 29 13467 Berlin",
                 "Website  Social Media": "https://www.ackerwesen.de/index.htm?n1=0",
                 "EMail": "willkommen@ackerwesen.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -975,25 +841,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.5143226,
-                    52.4322484
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-038",
                 "Name": "Ackerwesen - Abholstation Johannisthal",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Ko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, astlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Maglichkeit auch unter dem Jahr dazu zu kommen.",
+                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Öko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, östlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Möglichkeit auch unter dem Jahr dazu zu kommen.",
                 "Straße": "Arthur-Müller-Str. 26",
                 "PLZ": "12487 Berlin",
                 "Bezirk": "Treptow-Köpenick",
-                "Adresse": "Arthur-Müller-Str. 26 12487 Berlin",
                 "Website  Social Media": "https://www.ackerwesen.de/index.htm?n1=0",
                 "EMail": "willkommen@ackerwesen.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -1001,25 +864,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.5250343,
-                    52.4857758
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-039",
                 "Name": "Ackerwesen - Abholstation Karlshorst ",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Ko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, astlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Maglichkeit auch unter dem Jahr dazu zu kommen.",
+                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Öko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, östlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Möglichkeit auch unter dem Jahr dazu zu kommen.",
                 "Straße": "Gundelfinger Str. 11",
                 "PLZ": "10318 Berlin",
                 "Bezirk": "Lichtenberg",
-                "Adresse": "Gundelfinger Str. 11 10318 Berlin",
                 "Website  Social Media": "https://www.ackerwesen.de/index.htm?n1=0",
                 "EMail": "willkommen@ackerwesen.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -1027,25 +887,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.5869919,
-                    52.4330586
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-040",
                 "Name": "Ackerwesen - Abholstation Köpenick",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Ko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, astlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Maglichkeit auch unter dem Jahr dazu zu kommen.",
+                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Öko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, östlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Möglichkeit auch unter dem Jahr dazu zu kommen.",
                 "Straße": "Lobitzweg 1-5",
                 "PLZ": "12557 Berlin",
                 "Bezirk": "Treptow-Köpenick",
-                "Adresse": "Lobitzweg 1-5 12557 Berlin",
                 "Website  Social Media": "https://www.ackerwesen.de/index.htm?n1=0",
                 "EMail": "willkommen@ackerwesen.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -1053,25 +910,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.4232918,
-                    52.4971457
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-041",
                 "Name": "Ackerwesen - Abholstation Kreuzberg 1",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Ko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, astlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Maglichkeit auch unter dem Jahr dazu zu kommen.",
+                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Öko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, östlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Möglichkeit auch unter dem Jahr dazu zu kommen.",
                 "Straße": "Reichenberger Straße 36",
                 "PLZ": "10999 Berlin",
                 "Bezirk": "Friedrichshain-Kreuzberg",
-                "Adresse": "Reichenberger Straße 36 10999 Berlin",
                 "Website  Social Media": "https://www.ackerwesen.de/index.htm?n1=0",
                 "EMail": "willkommen@ackerwesen.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -1079,25 +933,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.3940595,
-                    52.4910539
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-042",
                 "Name": "Ackerwesen - Abholstation Kreuzberg 2",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Ko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, astlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Maglichkeit auch unter dem Jahr dazu zu kommen.",
+                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Öko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, östlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Möglichkeit auch unter dem Jahr dazu zu kommen.",
                 "Straße": "Zossener Str. 16",
                 "PLZ": "10961 Berlin",
                 "Bezirk": "Friedrichshain-Kreuzberg",
-                "Adresse": "Zossener Str. 16 10961 Berlin",
                 "Website  Social Media": "https://www.ackerwesen.de/index.htm?n1=0",
                 "EMail": "willkommen@ackerwesen.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -1105,25 +956,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.367664,
-                    52.486245
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-043",
                 "Name": "Ackerwesen - Abholstation Kreuzberg 3",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Ko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, astlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Maglichkeit auch unter dem Jahr dazu zu kommen.",
+                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Öko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, östlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Möglichkeit auch unter dem Jahr dazu zu kommen.",
                 "Straße": "Geßlerstraße 11",
                 "PLZ": "10829 Berlin",
                 "Bezirk": "Friedrichshain-Kreuzberg",
-                "Adresse": "Geßlerstraße 11 10829 Berlin",
                 "Website  Social Media": "https://www.ackerwesen.de/index.htm?n1=0",
                 "EMail": "willkommen@ackerwesen.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -1131,25 +979,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.4212521,
-                    52.5043915
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-044",
                 "Name": "Ackerwesen - Abholstation Kreuzberg 4",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Ko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, astlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Maglichkeit auch unter dem Jahr dazu zu kommen.",
+                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Öko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, östlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Möglichkeit auch unter dem Jahr dazu zu kommen.",
                 "Straße": "Adalbertstr. 71",
                 "PLZ": "10997 Berlin",
                 "Bezirk": "Friedrichshain-Kreuzberg",
-                "Adresse": "Adalbertstr. 71 10997 Berlin",
                 "Website  Social Media": "https://www.ackerwesen.de/index.htm?n1=0",
                 "EMail": "willkommen@ackerwesen.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -1157,25 +1002,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.4884364,
-                    52.5142306
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-045",
                 "Name": "Ackerwesen - Abholstation Lichtenberg ",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Ko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, astlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Maglichkeit auch unter dem Jahr dazu zu kommen.",
+                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Öko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, östlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Möglichkeit auch unter dem Jahr dazu zu kommen.",
                 "Straße": "Magdalenenstraße 19",
                 "PLZ": "10365 Berlin",
                 "Bezirk": "Friedrichshain-Kreuzberg",
-                "Adresse": "Magdalenenstraße 19 10365 Berlin",
                 "Website  Social Media": "https://www.ackerwesen.de/index.htm?n1=0",
                 "EMail": "willkommen@ackerwesen.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -1183,25 +1025,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.4197731,
-                    52.5232018
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-046",
                 "Name": "Ackerwesen - Abholstation Mitte ",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Ko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, astlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Maglichkeit auch unter dem Jahr dazu zu kommen.",
+                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Öko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, östlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Möglichkeit auch unter dem Jahr dazu zu kommen.",
                 "Straße": "Karl-Marx Allee 1",
                 "PLZ": "10178 Berlin",
                 "Bezirk": "Mitte",
-                "Adresse": "Karl-Marx Allee 1 10178 Berlin",
                 "Website  Social Media": "https://www.ackerwesen.de/index.htm?n1=0",
                 "EMail": "willkommen@ackerwesen.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -1209,25 +1048,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.3365293,
-                    52.5338932
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-047",
                 "Name": "Ackerwesen - Abholstation Moabit 1 ",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Ko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, astlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Maglichkeit auch unter dem Jahr dazu zu kommen.",
+                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Öko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, östlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Möglichkeit auch unter dem Jahr dazu zu kommen.",
                 "Straße": "Siemensstr. 27",
                 "PLZ": "10551 Berlin ",
                 "Bezirk": "Mitte",
-                "Adresse": "Siemensstr. 27 10551 Berlin ",
                 "Website  Social Media": "https://www.ackerwesen.de/index.htm?n1=0",
                 "EMail": "willkommen@ackerwesen.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -1235,25 +1071,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.3513693,
-                    52.5265285
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-048",
                 "Name": "Ackerwesen - Abholstation Moabit 2",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Ko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, astlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Maglichkeit auch unter dem Jahr dazu zu kommen.",
+                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Öko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, östlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Möglichkeit auch unter dem Jahr dazu zu kommen.",
                 "Straße": "Turmstraße 10",
                 "PLZ": "10557 Berlin",
                 "Bezirk": "Mitte",
-                "Adresse": "Turmstraße 10 10557 Berlin",
                 "Website  Social Media": "https://www.ackerwesen.de/index.htm?n1=0",
                 "EMail": "willkommen@ackerwesen.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -1261,25 +1094,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.4200344,
-                    52.4767265
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-049",
                 "Name": "Ackerwesen - Abholstation Neukölln 1",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Ko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, astlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Maglichkeit auch unter dem Jahr dazu zu kommen.",
+                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Öko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, östlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Möglichkeit auch unter dem Jahr dazu zu kommen.",
                 "Straße": "Herrfurthstraße 21",
                 "PLZ": "10249 Berlin",
                 "Bezirk": "Neukölln",
-                "Adresse": "Herrfurthstraße 21 10249 Berlin",
                 "Website  Social Media": "https://www.ackerwesen.de/index.htm?n1=0",
                 "EMail": "willkommen@ackerwesen.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -1287,25 +1117,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.4308321,
-                    52.4703188
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-050",
                 "Name": "Ackerwesen - Abholstation Neukölln 2",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Ko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, astlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Maglichkeit auch unter dem Jahr dazu zu kommen.",
+                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Öko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, östlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Möglichkeit auch unter dem Jahr dazu zu kommen.",
                 "Straße": "Schierker Straße 26",
                 "PLZ": "12051 Berlin",
                 "Bezirk": "Neukölln",
-                "Adresse": "Schierker Straße 26 12051 Berlin",
                 "Website  Social Media": "https://www.ackerwesen.de/index.htm?n1=0",
                 "EMail": "willkommen@ackerwesen.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -1313,25 +1140,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.4429672,
-                    52.4781803
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-051",
                 "Name": "Ackerwesen - Abholstation Neukölln 3",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Ko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, astlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Maglichkeit auch unter dem Jahr dazu zu kommen.",
+                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Öko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, östlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Möglichkeit auch unter dem Jahr dazu zu kommen.",
                 "Straße": "Donaustraße 79",
                 "PLZ": "12043 Berlin",
                 "Bezirk": "Neukölln",
-                "Adresse": "Donaustraße 79 12043 Berlin",
                 "Website  Social Media": "https://www.ackerwesen.de/index.htm?n1=0",
                 "EMail": "willkommen@ackerwesen.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -1339,25 +1163,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.4250739,
-                    52.4915522
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-052",
                 "Name": "Ackerwesen - Abholstation Neukölln 4",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Ko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, astlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Maglichkeit auch unter dem Jahr dazu zu kommen.",
+                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Öko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, östlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Möglichkeit auch unter dem Jahr dazu zu kommen.",
                 "Straße": "Hobrechtstr. 55",
                 "PLZ": "12047 Berlin",
                 "Bezirk": "Neukölln",
-                "Adresse": "Hobrechtstr. 55 12047 Berlin",
                 "Website  Social Media": "https://www.ackerwesen.de/index.htm?n1=0",
                 "EMail": "willkommen@ackerwesen.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -1365,25 +1186,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.4463995,
-                    52.4783548
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-053",
                 "Name": "Ackerwesen - Abholstation Neukölln 5",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Ko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, astlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Maglichkeit auch unter dem Jahr dazu zu kommen.",
+                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Öko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, östlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Möglichkeit auch unter dem Jahr dazu zu kommen.",
                 "Straße": "Sonnenallee 154",
                 "PLZ": "12059 Berlin",
                 "Bezirk": "Neukölln",
-                "Adresse": "Sonnenallee 154 12059 Berlin",
                 "Website  Social Media": "https://www.ackerwesen.de/index.htm?n1=0",
                 "EMail": "willkommen@ackerwesen.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -1391,25 +1209,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.4350697,
-                    52.4773773
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-054",
                 "Name": "Ackerwesen - Abholstation Neukölln 6",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Ko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, astlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Maglichkeit auch unter dem Jahr dazu zu kommen.",
+                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Öko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, östlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Möglichkeit auch unter dem Jahr dazu zu kommen.",
                 "Straße": "Kienitzer Str. 26",
                 "PLZ": "12053 Berlin",
                 "Bezirk": "Neukölln",
-                "Adresse": "Kienitzer Str. 26 12053 Berlin",
                 "Website  Social Media": "https://www.ackerwesen.de/index.htm?n1=0",
                 "EMail": "willkommen@ackerwesen.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -1417,25 +1232,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.2181044,
-                    52.4258111
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-055",
                 "Name": "Ackerwesen - Abholstation Nikolassee 1 ",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Ko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, astlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Maglichkeit auch unter dem Jahr dazu zu kommen.",
+                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Öko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, östlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Möglichkeit auch unter dem Jahr dazu zu kommen.",
                 "Straße": "Himbeersteig 35",
                 "PLZ": "14129 Berlin",
                 "Bezirk": "Steglitz-Zehlendorf",
-                "Adresse": "Himbeersteig 35 14129 Berlin",
                 "Website  Social Media": "https://www.ackerwesen.de/index.htm?n1=0",
                 "EMail": "willkommen@ackerwesen.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -1443,25 +1255,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.224428,
-                    52.4249976
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-056",
                 "Name": "Ackerwesen - Abholstation Nikolassee 2",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Ko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, astlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Maglichkeit auch unter dem Jahr dazu zu kommen.",
+                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Öko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, östlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Möglichkeit auch unter dem Jahr dazu zu kommen.",
                 "Straße": "Benschallee 8",
                 "PLZ": "14163 Berlin",
                 "Bezirk": "Steglitz-Zehlendorf",
-                "Adresse": "Benschallee 8 14163 Berlin",
                 "Website  Social Media": "https://www.ackerwesen.de/index.htm?n1=0",
                 "EMail": "willkommen@ackerwesen.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -1469,25 +1278,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.4212873,
-                    52.5695869
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-057",
                 "Name": "Ackerwesen - Abholstation Pankow",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Ko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, astlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Maglichkeit auch unter dem Jahr dazu zu kommen.",
+                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Öko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, östlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Möglichkeit auch unter dem Jahr dazu zu kommen.",
                 "Straße": "Gemündener Str. 36",
                 "PLZ": "13189 Berlin",
                 "Bezirk": "Pankow",
-                "Adresse": "Gemündener Str. 36 13189 Berlin",
                 "Website  Social Media": "https://www.ackerwesen.de/index.htm?n1=0",
                 "EMail": "willkommen@ackerwesen.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -1495,25 +1301,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.4554305,
-                    52.538542
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-058",
                 "Name": "Ackerwesen - Abholstation Prenzlauer Berg 1",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Ko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, astlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Maglichkeit auch unter dem Jahr dazu zu kommen.",
+                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Öko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, östlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Möglichkeit auch unter dem Jahr dazu zu kommen.",
                 "Straße": "Ochtumweg 6",
                 "PLZ": "10407 Berlin",
                 "Bezirk": "Pankow",
-                "Adresse": "Ochtumweg 6 10407 Berlin",
                 "Website  Social Media": "https://www.ackerwesen.de/index.htm?n1=0",
                 "EMail": "willkommen@ackerwesen.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -1521,25 +1324,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.4094806,
-                    52.5537336
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-059",
                 "Name": "Ackerwesen - Abholstation Prenzlauer Berg 2",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Ko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, astlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Maglichkeit auch unter dem Jahr dazu zu kommen.",
+                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Öko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, östlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Möglichkeit auch unter dem Jahr dazu zu kommen.",
                 "Straße": "Bornholmer Str. 84",
                 "PLZ": "10439 Berlin ",
                 "Bezirk": "Pankow ",
-                "Adresse": "Bornholmer Str. 84 10439 Berlin ",
                 "Website  Social Media": "https://www.ackerwesen.de/index.htm?n1=0",
                 "EMail": "willkommen@ackerwesen.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -1547,25 +1347,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.4216718,
-                    52.5437634
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-060",
                 "Name": "Ackerwesen - Abholstation Prenzlauer Berg 3",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Ko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, astlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Maglichkeit auch unter dem Jahr dazu zu kommen.",
+                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Öko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, östlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Möglichkeit auch unter dem Jahr dazu zu kommen.",
                 "Straße": "Dunckerstraße 76",
                 "PLZ": "10437 Berlin",
                 "Bezirk": "Pankow",
-                "Adresse": "Dunckerstraße 76 10437 Berlin",
                 "Website  Social Media": "https://www.ackerwesen.de/index.htm?n1=0",
                 "EMail": "willkommen@ackerwesen.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -1573,25 +1370,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.3652593,
-                    52.5673744
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-061",
                 "Name": "Ackerwesen - Abholstation Reinickendorf",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Ko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, astlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Maglichkeit auch unter dem Jahr dazu zu kommen.",
+                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Öko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, östlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Möglichkeit auch unter dem Jahr dazu zu kommen.",
                 "Straße": "Hausotterstraße 95 ",
                 "PLZ": "13409 Berlin",
                 "Bezirk": "Reinickendorf ",
-                "Adresse": "Hausotterstraße 95  13409 Berlin",
                 "Website  Social Media": "https://www.ackerwesen.de/index.htm?n1=0",
                 "EMail": "willkommen@ackerwesen.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -1599,25 +1393,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.2069031,
-                    52.5371103
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-062",
                 "Name": "Ackerwesen - Abholstation Rummelsburg ",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Ko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, astlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Maglichkeit auch unter dem Jahr dazu zu kommen.",
+                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Öko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, östlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Möglichkeit auch unter dem Jahr dazu zu kommen.",
                 "Straße": "Fischerstraße 19",
                 "PLZ": "10317 Berlin",
                 "Bezirk": "Lichtenberg ",
-                "Adresse": "Fischerstraße 19 10317 Berlin",
                 "Website  Social Media": "https://www.ackerwesen.de/index.htm?n1=0",
                 "EMail": "willkommen@ackerwesen.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -1625,25 +1416,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.3460738,
-                    52.4883887
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-063",
                 "Name": "Ackerwesen - Abholstation Schöneberg ",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Ko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, astlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Maglichkeit auch unter dem Jahr dazu zu kommen.",
+                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Öko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, östlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Möglichkeit auch unter dem Jahr dazu zu kommen.",
                 "Straße": "Martin-Luther-Str. 77",
                 "PLZ": "10825 Berlin",
                 "Bezirk": "Tempelhof - Schöneberg",
-                "Adresse": "Martin-Luther-Str. 77 10825 Berlin",
                 "Website  Social Media": "https://www.ackerwesen.de/index.htm?n1=0",
                 "EMail": "willkommen@ackerwesen.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -1651,25 +1439,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.3856283,
-                    52.4839506
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-064",
                 "Name": "Ackerwesen - Abholstation Tempelhof 1 ",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Ko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, astlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Maglichkeit auch unter dem Jahr dazu zu kommen.",
+                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Öko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, östlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Möglichkeit auch unter dem Jahr dazu zu kommen.",
                 "Straße": "Tempelhofer Damm 2",
                 "PLZ": "12101 Berlin",
                 "Bezirk": "Tempelhof-Schöneberg",
-                "Adresse": "Tempelhofer Damm 2 12101 Berlin",
                 "Website  Social Media": "https://www.ackerwesen.de/index.htm?n1=0",
                 "EMail": "willkommen@ackerwesen.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -1677,25 +1462,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.3796659,
-                    52.4575695
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-065",
                 "Name": "Ackerwesen - Abholstation Tempelhof 2",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Ko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, astlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Maglichkeit auch unter dem Jahr dazu zu kommen.",
+                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Öko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, östlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Möglichkeit auch unter dem Jahr dazu zu kommen.",
                 "Straße": "Burgemeisterstraße 17-18",
                 "PLZ": "12103 Berlin ",
                 "Bezirk": "Tempelhof-Schöneberg",
-                "Adresse": "Burgemeisterstraße 17-18 12103 Berlin ",
                 "Website  Social Media": "https://www.ackerwesen.de/index.htm?n1=0",
                 "EMail": "willkommen@ackerwesen.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -1703,25 +1485,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.3623,
-                    52.5449
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-066",
                 "Name": "Ackerwesen - Abholstation Wedding 1",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Ko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, astlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Maglichkeit auch unter dem Jahr dazu zu kommen.",
-                "Straße": "Oudenörder Str. 16",
+                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Öko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, östlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Möglichkeit auch unter dem Jahr dazu zu kommen.",
+                "Straße": "Oudenarder Str. 16",
                 "PLZ": "13347 Berlin",
                 "Bezirk": "Mitte",
-                "Adresse": "Oudenörder Str. 16 13347 Berlin",
                 "Website  Social Media": "https://www.ackerwesen.de/index.htm?n1=0",
                 "EMail": "willkommen@ackerwesen.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -1729,25 +1508,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.3742384,
-                    52.5449968
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-067",
                 "Name": "Ackerwesen - Abholstation Wedding 2",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Ko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, astlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Maglichkeit auch unter dem Jahr dazu zu kommen.",
+                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Öko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, östlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Möglichkeit auch unter dem Jahr dazu zu kommen.",
                 "Straße": "Gerichtstr. 23",
                 "PLZ": "13347 Berlin",
                 "Bezirk": "Mitte ",
-                "Adresse": "Gerichtstr. 23 13347 Berlin",
                 "Website  Social Media": "https://www.ackerwesen.de/index.htm?n1=0",
                 "EMail": "willkommen@ackerwesen.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -1755,25 +1531,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.3380419,
-                    52.5518443
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-068",
                 "Name": "Ackerwesen - Abholstation Wedding 3",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Ko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, astlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Maglichkeit auch unter dem Jahr dazu zu kommen.",
+                "Über uns  Selbstbeschreibung": "Gemeinsam wollen wir die kleinbäuerliche regionale Öko-Landwirtschaft, das Erzeugen und die Verfügbarkeit gesunder Lebensmittel und das Bewusstsein sozialer Verantwortung in Wirtschaftsbeziehungen fördern. Damit wollen wir zu Klima-, Boden-, und Artenschutz, gesunder Ernährung, sowie zum gesellschaftlichen Strukturwandel beitragen. Der Gemüseanbau findet in der Region Müncheberg/ Seelow, östlich von Berlin statt. Die Versorgung findet zur Zeit in Berlin und Erkner statt. Wir freuen uns über neue Mitglieder, insbesondere im Frühjahr zum Saisonstart. Über unser Wechselsystem besteht aber die Möglichkeit auch unter dem Jahr dazu zu kommen.",
                 "Straße": "Afrikanische Str. 74",
                 "PLZ": "13351 Berlin",
                 "Bezirk": "Mitte ",
-                "Adresse": "Afrikanische Str. 74 13351 Berlin",
                 "Website  Social Media": "https://www.ackerwesen.de/index.htm?n1=0",
                 "EMail": "willkommen@ackerwesen.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -1781,25 +1554,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.8559134,
-                    52.7178896
+                    12.868754,
+                    52.713986
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-069",
                 "Name": "Gemüse Syndikat - Anbau (Karolinengarten)",
                 "Gartentyp": "SoLaWi-Anbaufläche",
-                "Über uns  Selbstbeschreibung": null,
                 "Straße": "Rollinsruher Weg 3a",
                 "PLZ": "16818 Kuhhorst",
-                "Bezirk": null,
-                "Adresse": "Rollinsruher Weg 3a 16818 Kuhhorst",
                 "Website  Social Media": "https://gemuese-syndikat.de/",
                 "EMail": "info@auenhof-havelland.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
-                "Nutzung": "Anbau von Lebensmitteln",
-                "MitmachMaglichkeiten": null
+                "Nutzung": "Anbau von Lebensmitteln"
             }
         },
         {
@@ -1807,25 +1574,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.2477932,
-                    52.6782652
+                    12.247754,
+                    52.67801
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-070",
                 "Name": "Gemüse Syndikat - Anbau (Auenhof)",
                 "Gartentyp": "SoLaWi-Anbaufläche",
-                "Über uns  Selbstbeschreibung": null,
                 "Straße": "Pareyer Dorfstraße 4",
                 "PLZ": "14715 Havelaue OT Parey",
-                "Bezirk": null,
-                "Adresse": "Pareyer Dorfstraße 4 14715 Havelaue OT Parey",
                 "Website  Social Media": "https://gemuese-syndikat.de/",
                 "EMail": "info@auenhof-havelland.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
-                "Nutzung": "Anbau von Lebensmitteln",
-                "MitmachMaglichkeiten": null
+                "Nutzung": "Anbau von Lebensmitteln"
             }
         },
         {
@@ -1833,25 +1594,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.3846017,
-                    52.5583368
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-071",
                 "Name": "Gemüse Syndikat - Depot PA58",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": null,
                 "Straße": "Prinzenallee 58",
                 "PLZ": "13359 Berlin",
                 "Bezirk": "Mitte ",
-                "Adresse": "Prinzenallee 58 13359 Berlin",
                 "Website  Social Media": "https://gemuese-syndikat.de/",
                 "EMail": "info@auenhof-havelland.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -1859,25 +1616,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.3923025,
-                    52.4997694
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-072",
-                "Name": "Gemüse Syndikat - Depot CafÈ MadaMe",
+                "Name": "Gemüse Syndikat - Depot Café MadaMe",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": null,
                 "Straße": "Mehringplatz 10",
                 "PLZ": "10969 Berlin",
                 "Bezirk": "Friedrichshain-Kreuzberg",
-                "Adresse": "Mehringplatz 10 10969 Berlin",
                 "Website  Social Media": "https://gemuese-syndikat.de/",
                 "EMail": "info@auenhof-havelland.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -1885,25 +1638,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.4225257,
-                    52.4743463
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-073",
                 "Name": "Gemüse Syndikat - Depot Schillerkiez ",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": null,
                 "Straße": "Schillerpromenade 16",
                 "PLZ": "12049 Berlin",
                 "Bezirk": "Neukölln ",
-                "Adresse": "Schillerpromenade 16 12049 Berlin",
                 "Website  Social Media": "https://gemuese-syndikat.de/",
                 "EMail": "info@auenhof-havelland.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -1911,25 +1660,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.4425376,
-                    52.470611
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-074",
                 "Name": "Gemüse Syndikat - Depot Trial & Error ",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": null,
                 "Straße": "Braunschweiger Str. 80",
                 "PLZ": "12055 Berlin ",
                 "Bezirk": "Neukölln",
-                "Adresse": "Braunschweiger Str. 80 12055 Berlin ",
                 "Website  Social Media": "https://gemuese-syndikat.de/",
                 "EMail": "info@auenhof-havelland.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -1937,25 +1682,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.379732,
-                    52.4574963
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-075",
                 "Name": "Gemüse Syndikat - Depot Burge 17 ",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": null,
                 "Straße": "Burgemeisterstr. 17",
                 "PLZ": "12103 Berlin",
                 "Bezirk": "Tempelhof-Schöneberg",
-                "Adresse": "Burgemeisterstr. 17 12103 Berlin",
                 "Website  Social Media": "https://gemuese-syndikat.de/",
                 "EMail": "info@auenhof-havelland.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -1963,25 +1704,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.3241358,
-                    52.4839554
+                    null,
+                    null
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-076",
                 "Name": "Gemüse Syndikat - Depot Haus der Nachbarschaft",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": null,
                 "Straße": "Str. am Schoelerpark 37",
                 "PLZ": "10715 Berlin",
                 "Bezirk": "Charlottenburg-Wilmersdorf",
-                "Adresse": "Str. am Schoelerpark 37 10715 Berlin",
                 "Website  Social Media": "https://gemuese-syndikat.de/",
                 "EMail": "info@auenhof-havelland.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -1989,25 +1726,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.2738568,
-                    52.6365232
+                    13.275398,
+                    52.654967
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-077",
                 "Name": "FrohLaWi",
                 "Gartentyp": "SoLaWi-Anbaufläche",
-                "Über uns  Selbstbeschreibung": "Der FrohLaWi e.V. entstand 2020 aus einem Uni-Projekt der TU Berlin unter der Leitung von Prof. Martin Kaupenjohann. Im September 2020 haben Studierende gemeinsam mit Nachbarn aus Frohnau den FrohLaWi-Verein gegründet. Heute sind wir Pächter einer 7 ha großen Fläche des Stolper Felds am Rand von Berlin und haben mittlerweile über 170 Mitglieder. Auf einem Teil dieser Fläche bauen wir Gemüse für die Mitglieder unseres Vereins an. Der Verein wird von einem Vorstand aus derzeit sechs Personen geleitet. Zudem haben wir viele begeisterte und motivierte Menschen, die das Vorhaben überhaupt erst maglich machen und mit deren Hilfe wir Teil eines tollen, großen Netzwerks sind. ",
+                "Über uns  Selbstbeschreibung": "Der FrohLaWi e.V. entstand 2020 aus einem Uni-Projekt der TU Berlin unter der Leitung von Prof. Martin Kaupenjohann. Im September 2020 haben Studierende gemeinsam mit Nachbarn aus Frohnau den FrohLaWi-Verein gegründet. Heute sind wir Pächter einer 7 ha großen Fläche des Stolper Felds am Rand von Berlin und haben mittlerweile über 170 Mitglieder. Auf einem Teil dieser Fläche bauen wir Gemüse für die Mitglieder unseres Vereins an. Der Verein wird von einem Vorstand aus derzeit sechs Personen geleitet. Zudem haben wir viele begeisterte und motivierte Menschen, die das Vorhaben überhaupt erst möglich machen und mit deren Hilfe wir Teil eines tollen, großen Netzwerks sind. ",
                 "Straße": "Gralsritterweg 21 ",
                 "PLZ": "13465 Berlin",
                 "Bezirk": "Reinickendorf",
-                "Adresse": "Gralsritterweg 21  13465 Berlin",
                 "Website  Social Media": "https://www.frohlawi.de/",
                 "EMail": " info@frohlawi.de",
-                "Seit wann": null,
-                "Flächengraße m": null,
                 "Nutzung": "Verteilung von Lebensmitteln ",
-                "MitmachMaglichkeiten": "Mitglied werden"
+                "MitmachMöglichkeiten": "Mitglied werden"
             }
         },
         {
@@ -2015,25 +1749,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    14.4668334,
-                    52.2966201
+                    14.464828,
+                    52.29659
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-078",
                 "Name": "PlantAge - Anbau",
                 "Gartentyp": "SoLaWi-Anbaufläche",
-                "Über uns  Selbstbeschreibung": "PlantAge eG wurde am 15. September 2018 als solidarische Landwirtschaft gegründet  mit dem Ziel, eine nachhaltige, faire und zukunftsorientierte Landwirtschaft zu schaffen. Seit Juli 2019 liefern wir wachentlich frisches, biozyklisch-vegan angebautes Gemüse von unserem eigenen Acker an Abholstationen in Berlin, Potsdam, Frankfurt (Oder) und Umgebung. Hinter PlantAge steht eine vielfältige Gemeinschaft, die durch finanzielle Unterstützung, soziales Engagement und praktisches Mitwirken das Projekt ins Leben gerufen hat. Uns vereint die Vision, Ernährung, Landwirtschaft und Umwelt in Einklang zu bringen und damit einen positiven Beitrag für unsere Gesellschaft zu leisten.",
+                "Über uns  Selbstbeschreibung": "PlantAge eG wurde am 15. September 2018 als solidarische Landwirtschaft gegründet – mit dem Ziel, eine nachhaltige, faire und zukunftsorientierte Landwirtschaft zu schaffen. Seit Juli 2019 liefern wir wöchentlich frisches, biozyklisch-vegan angebautes Gemüse von unserem eigenen Acker an Abholstationen in Berlin, Potsdam, Frankfurt (Oder) und Umgebung. Hinter PlantAge steht eine vielfältige Gemeinschaft, die durch finanzielle Unterstützung, soziales Engagement und praktisches Mitwirken das Projekt ins Leben gerufen hat. Uns vereint die Vision, Ernährung, Landwirtschaft und Umwelt in Einklang zu bringen und damit einen positiven Beitrag für unsere Gesellschaft zu leisten.",
                 "Straße": "Müllroser Chaussee 76c",
                 "PLZ": "15236 Frankfurt (Oder)",
-                "Bezirk": null,
-                "Adresse": "Müllroser Chaussee 76c 15236 Frankfurt (Oder)",
                 "Website  Social Media": "https://www.plantage.farm",
-                "EMail": "info@plantage.farm",
-                "Seit wann": null,
-                "Flächengraße m": null,
-                "Nutzung": null,
-                "MitmachMaglichkeiten": null
+                "EMail": "info@plantage.farm"
             }
         },
         {
@@ -2041,25 +1769,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.3623,
-                    52.5449
+                    13.358559,
+                    52.553416
                 ]
             },
             "properties": {
                 "Lfd Nummer": "SO-079",
                 "Name": "PlantAge - Abholstation SuperCoop",
                 "Gartentyp": "SoLaWi-Abholstation",
-                "Über uns  Selbstbeschreibung": "PlantAge eG wurde am 15. September 2018 als solidarische Landwirtschaft gegründet  mit dem Ziel, eine nachhaltige, faire und zukunftsorientierte Landwirtschaft zu schaffen. Seit Juli 2019 liefern wir wachentlich frisches, biozyklisch-vegan angebautes Gemüse von unserem eigenen Acker an Abholstationen in Berlin, Potsdam, Frankfurt (Oder) und Umgebung. Hinter PlantAge steht eine vielfältige Gemeinschaft, die durch finanzielle Unterstützung, soziales Engagement und praktisches Mitwirken das Projekt ins Leben gerufen hat. Uns vereint die Vision, Ernährung, Landwirtschaft und Umwelt in Einklang zu bringen und damit einen positiven Beitrag für unsere Gesellschaft zu leisten.",
-                "Straße": "Oudenörder Str. 16",
+                "Über uns  Selbstbeschreibung": "PlantAge eG wurde am 15. September 2018 als solidarische Landwirtschaft gegründet – mit dem Ziel, eine nachhaltige, faire und zukunftsorientierte Landwirtschaft zu schaffen. Seit Juli 2019 liefern wir wöchentlich frisches, biozyklisch-vegan angebautes Gemüse von unserem eigenen Acker an Abholstationen in Berlin, Potsdam, Frankfurt (Oder) und Umgebung. Hinter PlantAge steht eine vielfältige Gemeinschaft, die durch finanzielle Unterstützung, soziales Engagement und praktisches Mitwirken das Projekt ins Leben gerufen hat. Uns vereint die Vision, Ernährung, Landwirtschaft und Umwelt in Einklang zu bringen und damit einen positiven Beitrag für unsere Gesellschaft zu leisten.",
+                "Straße": "Oudenarder Str. 16",
                 "PLZ": "13347 Berlin",
                 "Bezirk": "Mitte",
-                "Adresse": "Oudenörder Str. 16 13347 Berlin",
                 "Website  Social Media": "https://www.plantage.farm",
-                "EMail": "info@plantage.farm",
-                "Seit wann": null,
-                "Flächengraße m": null,
-                "Nutzung": null,
-                "MitmachMaglichkeiten": null
+                "EMail": "info@plantage.farm"
             }
         }
     ]
