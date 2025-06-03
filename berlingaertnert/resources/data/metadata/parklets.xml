@@ -89,7 +89,7 @@
           </gmd:CI_Citation>
         </gmd:citation>
         <gmd:abstract>
-          <gco:CharacterString><![CDATA[Standorte von Parklets in Berlin. Der Datensatz beinhaltet Informationen zur Art des Parklets und zum Standort des Parklets (Anschrift, Bezirk).<br/>Die Angaben beruhen auf der Förderstatistik der SenMVKU und ergänzenden Recherchen durch die SenMVKU. Es werden nur Parklets dargestellt, die der SenMVKU bekannt sind.<br/><p>Kontakt:<br/><br/> Senatsverwaltung für Mobilität, Verkehr, Klimaschutz und Umwelt (SenMVKU), Referat Förderung des Rad- und Fußverkehrs <br/><br/>  E-Mail: merlin.pitz@senmvku.berlin.de]]></gco:CharacterString>
+          <gco:CharacterString><![CDATA[Standorte von Parklets in Berlin. Der Datensatz beinhaltet Informationen zur Art des Parklets und zum Standort des Parklets (Anschrift, Bezirk).<br/>Die Angaben beruhen auf der Förderstatistik der SenMVKU und ergänzenden Recherchen durch die SenMVKU. Es werden nur Parklets dargestellt, die der SenMVKU bekannt sind.<br/><p><b>Kontakt:</b><br/><br/> Senatsverwaltung für Mobilität, Verkehr, Klimaschutz und Umwelt (SenMVKU), Referat Förderung des Rad- und Fußverkehrs <br/><br/>  E-Mail: merlin.pitz@senmvku.berlin.de]]></gco:CharacterString>
         </gmd:abstract>
       </srv:SV_ServiceIdentification>
     </gmd:identificationInfo>
