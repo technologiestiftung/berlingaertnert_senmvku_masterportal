@@ -89,7 +89,7 @@
           </gmd:CI_Citation>
         </gmd:citation>
         <gmd:abstract>
-          <gco:CharacterString><![CDATA[Standorte der Gartenarbeitsschulen in Berlin. Der Datensatz beinhaltet Informationen zum Namen, Anschrift und Bezirk der Gartenarbeitsschule. Soweit vorliegend enthält der Datensatz auch Information über das Eröffnungsjahr, die Flächengröße und Trägerschaft sowie Kontaktmöglichkeiten und eine Selbstdarstellung der Gartenarbeitsschule.<br/>Die Angaben beruhen auf Daten der SenBJF.<br/><p>Ansprechpartnerin:<br/>Isabell Simonsmeier<br/>isabell.simonsmeier@senbjf.berlin.de<br/>
+          <gco:CharacterString><![CDATA[Standorte der Gartenarbeitsschulen in Berlin. Der Datensatz beinhaltet Informationen zum Namen, Anschrift und Bezirk der Gartenarbeitsschule. Soweit vorliegend enthält der Datensatz auch Information über das Eröffnungsjahr, die Flächengröße und Trägerschaft sowie Kontaktmöglichkeiten und eine Selbstdarstellung der Gartenarbeitsschule.<br/>Die Angaben beruhen auf Daten der Senatverwaltung für Bildung, Jugend und Familie (SenBJF).<br/><p>Kontakt:<br/>E-Mail: isabell.simonsmeier@senbjf.berlin.de<br/>
 ]]></gco:CharacterString>
         </gmd:abstract>
       </srv:SV_ServiceIdentification>
