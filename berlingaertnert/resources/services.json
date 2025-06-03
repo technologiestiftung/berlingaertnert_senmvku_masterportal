@@ -5,6 +5,7 @@
     "epsg": "EPSG:3857",
     "url": "https://sgx.geodatenzentrum.de/gdz_basemapde_vektor/tiles/v2/bm_web_de_3857/{z}/{x}/{y}.pbf",
     "typ": "VectorTile",
+    "zDirection": 2,
     "transparency": 0,
     "legend": false,
     "gfiAttributes": "ignore",
