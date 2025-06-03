@@ -53,7 +53,7 @@
         "text": "",
         "logo": "./resources/img/berlin_gaertnert_logo.svg",
         "link": "",
-        "toolTip": "Berlin gärtnert!"
+        "toolTip": ""
       },
       "searchBar": {
         "placeholder": "common:modules.searchBar.placeholder.searchFor",
@@ -155,8 +155,13 @@
         },
         {
           "id": "Basemap",
-          "vtStyle": "basemap_style",
+          "styleId": "basemap_style",
           "visibility": true
+        }, 
+        {
+          "id": "Basemap_dark",
+          "styleId": "basemap_style_dark",
+          "visibility": false
         }
       ]
     },

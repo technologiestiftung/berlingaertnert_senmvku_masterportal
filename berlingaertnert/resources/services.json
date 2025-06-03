@@ -10,8 +10,8 @@
     "gfiAttributes": "ignore",
     "gfiTheme": "default",
    "datasets": [{
-      "md_id": "basemap.xml",
-      "csw_url": "resources/data/metadata/basemap.xml",
+      "md_id": "basemap_bkg.xml",
+      "csw_url": "resources/data/metadata/basemap_bkg.xml",
       "show_doc_url": "resources/data/metadata/",
       "md_name": "common:modules.layerName.basemap"
     }],
@@ -93,7 +93,7 @@
     "legendURL": "resources/img/Gemeinschaftsgaerten_legend.png",
     "gfiTheme": "default",
     "datasets": [{
-      "md_id": "gemeinschaftsgarten.xml",
+      "md_id": "gemeinschaftsgaerten.xml",
       "csw_url": "resources/data/metadata/gemeinschaftsgaerten.xml",
       "show_doc_url": "resources/data/metadata/",
       "md_name": "Gemeinschaftsgärten",
