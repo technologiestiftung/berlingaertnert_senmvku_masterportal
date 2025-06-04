@@ -157,18 +157,13 @@
           "id": "Basemap",
           "styleId": "basemap_style",
           "visibility": true
-        }, 
-        {
-          "id": "Basemap_dark",
-          "styleId": "basemap_style_dark",
-          "visibility": false
         }
       ]
     },
     "subjectlayer": {
       "elements": [
         {
-          "name": "Gartenformen",
+          "name": "common:modules.folderName.gartenformen",
           "type": "folder",
           "elements": [
             {
@@ -237,7 +232,7 @@
           ]
         },
         {
-          "name": "Stadtgrün",
+          "name": "common:modules.folderName.stadtgruen",
           "type": "folder",
           "elements": [
             {
@@ -267,7 +262,7 @@
           ]
         },
         {
-          "name": "Boden",
+          "name": "common:modules.folderName.boden",
           "type": "folder",
           "elements": [
             {
@@ -285,7 +280,7 @@
           ]
         },
         {
-          "name": "Soziales",
+          "name": "common:modules.folderName.soziales",
           "type": "folder",
           "elements": [
             {

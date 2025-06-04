@@ -36,7 +36,7 @@
   },
   {
     "id": "Basemap_dark",
-    "name": "common:modules.layerName.basemap_style_dark",
+    "name": "Hintergrundkarte (Dunkel)",
     "epsg": "EPSG:3857",
     "url": "https://sgx.geodatenzentrum.de/gdz_basemapde_vektor/tiles/v2/bm_web_de_3857/{z}/{x}/{y}.pbf",
     "typ": "VectorTile",

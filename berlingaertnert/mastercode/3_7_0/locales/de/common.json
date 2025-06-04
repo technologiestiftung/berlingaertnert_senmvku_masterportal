@@ -1021,6 +1021,12 @@
       "pflegeeinrichtungen": "Pflegeeinrichtungen",
       "einwohnerdichte": "Bereiche mit hoher Einwohnerdichte"
     },
+    "folderName": {
+      "gartenformen": "Gartenformen",
+      "stadtgruen": "Stadtgrün",
+      "boden": "Boden",
+      "soziales": "Soziales"
+    },
     "legend": {
       "description": "Erhalten Sie Informationen zu den Objekten in der Karte",
       "linkToPdf": "Zur externen Legende (PDF)",
