@@ -27,10 +27,10 @@
           }
         },
         "style": {
-          "legendValue": "Nicht mehr aktiver Gemeinschaftsgarten",
+          "legendValue": "nicht aktiver Garten",
           "type": "icon",
-          "imageName": "Gemeinschaftsgaerten_inaktiv.png",
-          "imageScale": 0.15
+          "imageName": "Gemeinschaftsgaerten_inaktiv_legend.png",
+          "imageScale": 0.5
         }
       },
       {
@@ -38,10 +38,10 @@
           "properties": {}
         },
         "style": {
-          "legendValue": "Aktiver Gemeinschaftsgarten",
+          "legendValue": "aktiver Garten",
           "type": "icon",
-          "imageName": "Gemeinschaftsgaerten.png",
-          "imageScale": 0.15
+          "imageName": "Gemeinschaftsgaerten_legend.png",
+          "imageScale": 0.5
         }
       }
     ]
@@ -58,8 +58,8 @@
         "style": {
           "legendValue": "Anbaustation",
           "type": "icon",
-          "imageName": "SoLawi_1.png",
-          "imageScale": 0.15
+          "imageName": "SoLawi_1_legend.png",
+          "imageScale": 0.5
         }
       },
       {
@@ -71,8 +71,8 @@
         "style": {
           "legendValue": "Abholstation",
           "type": "icon",
-          "imageName": "SoLawi_2.png",
-          "imageScale": 0.15
+          "imageName": "SoLawi_2_legend.png",
+          "imageScale": 0.5
         }
       }
     ]
@@ -82,9 +82,10 @@
     "rules": [
       {
         "style": {
+          "legendValue": "Flächenpotential",
           "type": "icon",
-          "imageName": "Flaechenpotentiale.png",
-          "imageScale": 0.15
+          "imageName": "Flaechenpotentiale_legend.png",
+          "imageScale": 0.5
         }
       }
     ]
@@ -94,9 +95,10 @@
     "rules": [
       {
         "style":{
+          "legendValue": "Selbsterntegarten",
           "type": "icon",
-          "imageName": "Selbsterntegaerten.png",
-          "imageScale": 0.15
+          "imageName": "Selbsterntegaerten_legend.png",
+          "imageScale": 0.5
         }
       }
     ]
@@ -106,9 +108,10 @@
     "rules": [
       {
         "style": {
+          "legendValue": "Beetpatenschaft",
           "type": "icon",
-          "imageName": "Beetpatenschaft.png",
-          "imageScale": 0.15
+          "imageName": "Beetpatenschaft_legend.png",
+          "imageScale": 0.5
         }
       }
     ]
@@ -118,9 +121,10 @@
     "rules": [
       {
         "style": {
+          "legendValue": "Gartenarbeitsschule",
           "type": "icon",
-          "imageName": "Gartenarbeitsschule.png",
-          "imageScale": 0.15
+          "imageName": "Gartenarbeitsschule_legend.png",
+          "imageScale": 0.5
         }
       }
     ]
@@ -130,9 +134,10 @@
     "rules": [
       {
         "style": {
+          "legendValue": "Parklet",
           "type": "icon",
-          "imageName": "Parklet.png",
-          "imageScale": 0.15
+          "imageName": "Parklet_legend.png",
+          "imageScale": 0.5
         }
       }
     ]
@@ -141,11 +146,30 @@
     "styleId": "kitaschulgaerten",
     "rules": [
       {
+        "conditions": {
+          "properties": [
+            {
+            "attrName": "gartentyp",
+            "value": "Schulgarten"
+          }
+        ]
+        },
         "style": {
           "legendValue": "Schulgarten",
           "type": "icon",
-          "imageName": "Schulgaerten.png",
-          "imageScale": 0.15
+          "imageName": "Schulgaerten_legend.png",
+          "imageScale": 0.5
+        }
+      },
+      {
+        "conditions":{
+          "properties": {}
+        },
+        "style":{
+          "legendValue": "Kitagarten",
+          "type": "icon",
+          "imageName": "Kitagaerten_legend.png",
+          "imageScale": 0.5
         }
       }
     ]

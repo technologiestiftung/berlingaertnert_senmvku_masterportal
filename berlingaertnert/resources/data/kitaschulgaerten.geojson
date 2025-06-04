@@ -62,7 +62,7 @@
             "properties": {
                 "Lfd Nummer": "SG-003",
                 "Name": "Max Pflanzen",
-                "Gartentyp": "Offener Schulgarten und Nachbarschaftsgarten",
+                "Gartentyp": "Schulgarten",
                 "Über uns  Selbstbeschreibung": "Max Pflanzen ist ein Schul- und Gemeinschaftsgarten in der Nähe des Alexanderplatzes in Berlin. Er wurde im April 2015 von einer internationalen Gruppe junger Menschen ins Leben gerufen. Das Max-Planck-Gymnasium Berlin stellte dafür seinen alten, brach liegenden Schulgarten zur Verfügung. Von Anfang an war es die Idee, den Garten den Schülern und auch der Öffentlichkeit zugänglich zu machen. Nun bauen wir dort gemeinsam mit Kiezbewohnern auf ökologische Weise Gemüse und Blumen an.",
                 "Straße": "Singerstraße 8a",
                 "PLZ": "10179 Berlin",
@@ -85,7 +85,7 @@
             "properties": {
                 "Lfd Nummer": "SG-004",
                 "Name": "Quartiersschulgarten Pusteblume-Grundschule ",
-                "Gartentyp": "Offener Schulgarten",
+                "Gartentyp": "Schulgarten",
                 "Über uns  Selbstbeschreibung": "In der Erde wühlen, Schmetterlinge beobachten, Tomaten-Pflanzen gießen und pflegen, Erdbeeren direkt vom Beet naschen. Der Quartiersschulgarten Pusteblume bietet Schülerinnen und Schüler einen ganzheitlichen Lern- und Erfahrungsraum entlang der verschiedenen Jahreszeiten. Im Schulgarten findet handlungsorientiertes Lernen für alle Sinne statt, neben naturwissenschaftlichen Inhalten werden ebenso soziale Kompetenzen wie Teamarbeit, Planungsfähigkeit, motorisches Geschick und Geduld erlernt. Der Garten mit seinen 18 Gemüsebeeten und den vielfältigen Elementen, von Naschsträuchern über Komposthaufen bis hin zur Wetterstation, bietet anschauliches Lernmaterial zum Erfahren und Begreifen. Unterrichtsinhalte aus verschiedenen Themenfeldern und Fächern können direkt im Schulgarten durchgeführt werden: z.B. Boden und seine Bewohner untersuchen, einen Komposthaufen anlegen, Pflanzensteckbriefe anfertigen, Naturbeobachtungen durchführen und dokumentieren, Keimversuche auswerten und vieles mehr. ",
                 "Straße": "Kastanienallee 118",
                 "PLZ": "12627 Berlin",
@@ -108,7 +108,7 @@
             "properties": {
                 "Lfd Nummer": "SG-005",
                 "Name": "Inselgärtnerei und Landwirtschaft der Schulfarm Insel Scharfenberg (Staatl. Gymnasium und Internat)",
-                "Gartentyp": "Schulgarten und Landwirtschaft",
+                "Gartentyp": "Schulgarten",
                 "öffentlich zugänglich": "nein",
                 "Straße": "Schwarzer Weg 103",
                 "PLZ": "13505 Berlin",
