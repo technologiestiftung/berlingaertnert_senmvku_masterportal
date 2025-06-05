@@ -4,7 +4,7 @@
 
 The Berlin Senate Department for Mobility, Transport, Climate Protection and the Environment has relaunched a new digital information portal for both active urban gardeners and newcomers. The aim is to make the numerous community gardens across Berlin — and the overall diversity of urban gardens and gardening projects — visible on a citywide level. 
 
-Therefore Berlin Gärtnert is a map-based representation of various garden types and open spaces, including community gardens, parklets, school gardens or solidarity agriculture..
+Berlin Gärtnert is a map-based representation of various garden types and open spaces, displaying information such as type, address, and contact details for individual gardening sites. These include community gardens, parklets, school gardens, and solidarity agriculture initiatives. Moreover, Berlin Gärtnert provides gardening enthusiasts with access to supplementary Open Data, including the locations of other urban green spaces, soil characteristics, and proximity information.
 
 Berlin Gärtnert has been developed in close cooperation between the [Berlin Senate Department for Mobility, Transport, Climate Protection and the Environment (SenMVKU)](https://www.berlin.de/gemeinschaftsgaertnern/) and  [Open Data Informationsstelle Berlin](https://www.hamburg.de/geowerkstatt/).
 
@@ -16,7 +16,7 @@ The Masterportal is a project by [Geowerkstatt Hamburg](https://www.hamburg.de/g
 
 ## Data
 
-The datasets will soon be available as open data.
+The displayed urban garden datasets will be made available as open data in the near future.
 
 ## Contributors
 
@@ -28,9 +28,20 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://hanshack.com/"><img src="https://avatars.githubusercontent.com/u/8025164?v=4?s=64" width="64px;" alt="Hans Hack"/><br /><sub><b>Hans Hack</b></sub></a><br /><a href="https://github.com/technologiestiftung/ihk-vis/commits?author=hanshack" title="Code">💻</a> <a href="https://github.com/technologiestiftung/ihk-vis/commits?author=hanshack" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Lisa-Stubert"><img src="https://avatars.githubusercontent.com/u/61182572?v=4?s=64" width="64px;" alt="Lisa-Stubert"/><br /><sub><b>Lisa-Stubert</b></sub></a><br /><a href="https://github.com/technologiestiftung/ihk-vis/commits?author=Lisa-Stubert" title="Code">💻</a> <a href="https://github.com/technologiestiftung/ihk-vis/commits?author=Lisa-Stubert" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/KlemensM"><img src="https://avatars.githubusercontent.com/u/98896505?v=4?s=64" width="64px;" alt="Klemens"/><br /><sub><b>Klemens</b></sub></a><br /><a href="#ideas-KlemensM" title="Ideas, Planning, & Feedback">🤔</a> <a href="#data-KlemensM" title="Data">🔣</a></td>
+      <td align="center" valign="top" width="14.28%">
+      <a href="https://hanshack.com/" style="color: inherit; text-decoration: none;"><img src="https://avatars.githubusercontent.com/u/8025164?v=4?s=64" width="64px;" alt="Hans Hack"/><br /><sub><b>Hans Hack</b></sub></a><br />
+      <a href="https://github.com/technologiestiftung/ihk-vis/commits?author=hanshack" style="color: inherit; text-decoration: none;" title="Code">💻</a> 
+      <a href="https://github.com/technologiestiftung/ihk-vis/commits?author=hanshack" style="color: inherit; text-decoration: none;" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%">
+      <a href="https://github.com/Lisa-Stubert" style="color: inherit; text-decoration: none;"><img src="https://avatars.githubusercontent.com/u/61182572?v=4?s=64" width="64px;" alt="Lisa-Stubert"/><br /><sub><b>Lisa-Stubert</b></sub></a><br /><a href="https://github.com/technologiestiftung/ihk-vis/commits?author=Lisa-Stubert" style="color: inherit; text-decoration: none;" title="Code">💻</a> 
+      <a href="https://github.com/technologiestiftung/ihk-vis/commits?author=Lisa-Stubert" style="color: inherit; text-decoration: none;" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/KlemensM" style="color: inherit; text-decoration: none;"><img src="https://avatars.githubusercontent.com/u/98896505?v=4?s=64" width="64px;" alt="Klemens"/><br /><sub><b>Klemens</b></sub></a><br />
+      <a href="#ideas-KlemensM" style="color: inherit; text-decoration: none;" title="Ideas, Planning, & Feedback">🤔</a> <a href="#data-KlemensM" title="Data">🔣</a></td>
+      <td align="center" valign="top" width="14.28%">
+      <a href="https://github.com/basicyachtclub" style="color: inherit; text-decoration: none;"><img src="https://avatars.githubusercontent.com/u/79273303?v=4" width="64px;" alt="Phil"/><br/><sub><b>Phil</b></sub></a><br/>
+      <a href="https://github.com/technologiestiftung/ihk-vis/commits?author=basicyachtclub" style="color: inherit; text-decoration: none;" title="Code">💻 </a> 
+      <a href="https://github.com/technologiestiftung/ihk-vis/commits?author=basicyachtclub" style="color: inherit; text-decoration: none;" title="Documentation">📖 </a>
+      <a href="#data-basicyachtclub" style="color: inherit; text-decoration: none;" title="Data">🔣 </a></td>
     </tr>
   </tbody>
 </table>
@@ -54,7 +65,7 @@ Texts and content available as [CC BY](https://creativecommons.org/licenses/by/3
       Made by: <a href="https://odis-berlin.de">
         <br />
         <br />
-        <img width="200" src="https://logos.citylab-berlin.org/logo-odis-berlin.svg" />
+        <img width="200" src="https://logos.citylab-berlin.org/logo-odis-berlin-black.svg" />
       </a>
     </td>
     <td>
