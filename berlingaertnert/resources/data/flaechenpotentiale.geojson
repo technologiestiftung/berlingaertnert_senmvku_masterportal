@@ -18,6 +18,20 @@
                 ]
             },
             "properties": {
+                "Gartentyp": "DUMMY",
+                "Name": "DUMMY FOR LEGEND-ICON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.501915,
+                    52.549405
+                ]
+            },
+            "properties": {
                 "Lfd Nummer": "FP-001",
                 "Name": "Seefelder Straße",
                 "Ausstattung": "kein Zaun",
@@ -27,7 +41,8 @@
                 "Flächengröße m²": 1300,
                 "Flächeneigentümerin": "BIM",
                 "derzeitige Nutzung": "Wegenutzung",
-                "An wen wenden": "SPK Lichtenberg"
+                "An wen wenden": "SPK Lichtenberg",
+                "Gartentyp": "Flächenpotential"
             }
         }
     ]

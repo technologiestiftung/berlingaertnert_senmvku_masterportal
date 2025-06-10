@@ -81,12 +81,22 @@
     "styleId": "flaechenpotentiale",
     "rules": [
       {
+      "conditions": {
+          "properties": {
+            "Gartentyp": "Flächenpotential"
+          }
+        },
         "style": {
           "legendValue": "Flächenpotential",
           "type": "icon",
           "imageName": "Flaechenpotentiale_legend.png",
           "imageScale": 0.5
         }
+      },
+      {
+          "style": {
+            "legendValue": null
+          }
       }
     ]
   },
@@ -106,13 +116,23 @@
   {
     "styleId": "beetpatenschaften",
     "rules": [
-      {
+      { 
+        "conditions": {
+          "properties": {
+            "Gartentyp": "Beetpatenschaft"
+          }
+        },
         "style": {
           "legendValue": "Beetpatenschaft",
           "type": "icon",
           "imageName": "Beetpatenschaft_legend.png",
           "imageScale": 0.5
         }
+      },      
+      {
+          "style": {
+            "legendValue": null
+          }
       }
     ]
   },
@@ -365,7 +385,7 @@
           "polygonFillColor": [155,207,175,1]
         }
       }    
-        ]
+    ]
   },
   {
     "styleId": "versiegelung_polygon_selection",
@@ -373,15 +393,10 @@
     "rules": [
       {
         "conditions": {
-          "properties": [
+          "properties": 
             {
-              "attrName": {
-                "name": "vg_2021",
-                "condition": "contains"
-              },
-              "value": [0,25]
+              "vg_2021": [0,25]
             }
-          ]
         },
         "style": {
           "polygonStrokeColor": [0,40,86,1],
@@ -393,9 +408,9 @@
             "backgroundColor": [170,201,231,0.8],
             "patternColor": [79,144,205,1]
           },
-          "legendValue": "Versiegelung weniger als 25%"
+          "legendValue": "Versiegelung kleiner als 25%"
         }
-      }  
+      }
     ]
   },
   {
@@ -408,6 +423,7 @@
           }
         },
         "style": {
+          "legendValue": " mehr als 400 Einwohner pro km²",
           "polygonStrokeColor": [66,56,105,1],
           "polygonStrokeWidth": 1,
           "polygonFillHatch": {
@@ -419,6 +435,6 @@
           }
         }
       }    
-        ]
+    ]
   }
 ]
