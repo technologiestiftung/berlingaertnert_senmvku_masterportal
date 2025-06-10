@@ -27,7 +27,7 @@
           }
         },
         "style": {
-          "legendValue": "nicht aktiver Garten",
+          "legendValue": "common:modules.styleName.inaktiver_garten",
           "type": "icon",
           "imageName": "Gemeinschaftsgaerten_inaktiv_legend.png",
           "imageScale": 0.5
@@ -38,7 +38,7 @@
           "properties": {}
         },
         "style": {
-          "legendValue": "aktiver Garten",
+          "legendValue": "common:modules.styleName.aktiver_garten",
           "type": "icon",
           "imageName": "Gemeinschaftsgaerten_legend.png",
           "imageScale": 0.5
@@ -56,7 +56,7 @@
           }
         },
         "style": {
-          "legendValue": "Anbaustation",
+          "legendValue": "common:modules.styleName.anbaustation",
           "type": "icon",
           "imageName": "SoLawi_1_legend.png",
           "imageScale": 0.5
@@ -69,7 +69,7 @@
           }
         },
         "style": {
-          "legendValue": "Abholstation",
+          "legendValue": "common:modules.styleName.abholstation",
           "type": "icon",
           "imageName": "SoLawi_2_legend.png",
           "imageScale": 0.5

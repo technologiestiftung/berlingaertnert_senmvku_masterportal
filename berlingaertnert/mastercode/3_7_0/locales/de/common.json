@@ -997,8 +997,8 @@
       "invisibleLayerNoScale": "Dieses Thema kann in diesem Maßstab nicht angezeigt werden"
     },
     "layerName":{
-      "basemap": "Karte (Tagesansicht)",
-      "basemap_style_dark": "Karte (Nachtansicht)",
+      "basemap": "Hintergrundkarte",
+      "basemap_style_dark": "Hintergrundkarte (Dunkel)",
       "luftbild": "Luftbild",
       "kleingarten": "Kleingartenbestand",
       "flaechenpotentiale": "Flächenpotentiale",
@@ -1020,6 +1020,19 @@
       "jugendfreizeiteinrichtungen": "Jugendfreizeiteinrichtungen",
       "pflegeeinrichtungen": "Pflegeeinrichtungen",
       "einwohnerdichte": "Bereiche mit hoher Einwohnerdichte"
+    },    
+    "styleName":{
+      "aktiver_garten": "aktiver Garten",
+      "inaktiver_garten": "nicht aktiver Garten",
+      "anbaustation": "Anbaustation",
+      "abholstation": "Abholstation",
+      "schulgarten": "Schulgarten",
+      "kitagarten": "Kitagarten",
+      "parklet": "Parklet",
+      "gartenarbeitsschule": "Gartenarbeitsschule",
+      "selbsterntegarten": "Selbsterntegarten",
+      "Beetpatenschaft": "Beetpatenschaft",
+      "flaechenpotential": "Flächenpotential"
     },
     "folderName": {
       "gartenformen": "Gartenformen",

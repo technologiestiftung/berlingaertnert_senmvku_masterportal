@@ -1,7 +1,7 @@
 [
   {
     "id": "Basemap",
-    "name": "Hintergrundkarte",
+    "name": "common:modules.layerName.basemap",
     "epsg": "EPSG:3857",
     "url": "https://sgx.geodatenzentrum.de/gdz_basemapde_vektor/tiles/v2/bm_web_de_3857/{z}/{x}/{y}.pbf",
     "typ": "VectorTile",
@@ -58,7 +58,7 @@
   },
   {
     "id": "Luftbild",
-    "name": "Luftbild",
+    "name": "common:modules.layerName.luftbild",
     "name_lang": "Digitale farbige TrueOrthophotos 2024 (DOP20RGBI)",
     "crs": "EPSG:25833",
     "url": "https://gdi.berlin.de/services/wms/truedop_2024",
@@ -595,7 +595,7 @@
     "featureNS": "ua_einwohnerdichte_2023",
     "datasets": [
       {
-        "md_name": "Wohngebiete mit mehr als 400 Einwohner pro Hektar",
+        "md_name": "Wohngebiete mit mehr als 400 Einwohnern pro Hektar",
         "show_doc_url": "https://gdi.berlin.de/geonetwork/geonetwork/api/records/",
         "md_id": "ca78eb01-db63-4f50-9823-73c2adbc541b",
         "rs_id": "https://registry.gdi-de.org/id/de.be.csw/d46e6c1e-05fd-3e99-a48f-5699f1140d46",

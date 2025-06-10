@@ -792,8 +792,8 @@
       "invisibleLayerNoScale": "This topic cannot be displayed at this scale"
     },
     "layerName": {
-      "basemap": "Map (Day View)",
-      "basemap_style_dark": "Map (Night View)",
+      "basemap": "Basemap",
+      "basemap_style_dark": "Basemap (dark)",
       "luftbild": "Aerial Imagery",
       "kleingarten": "Allotment Gardens",
       "flaechenpotentiale": "Potential Areas",
@@ -816,9 +816,22 @@
       "pflegeeinrichtungen": "Care Facilities",
       "einwohnerdichte": "High Population Density Areas"
     },
+    "styleName":{
+      "aktiver_garten": "activ garden",
+      "inaktiver_garten": "inactiv garden",
+      "anbaustation": "Planting Areas",
+      "abholstation": "Collection Points",
+      "schulgarten": "School Garden",
+      "kitagarten": "Daycare Garden",
+      "parklet": "Parklet",
+      "gartenarbeitsschule": "Gardening Schools",
+      "selbsterntegarten": "Self-Harvest Gardens",
+      "Beetpatenschaft": "Garden Bed Sponsorship",
+      "flaechenpotential": "Potential Area"
+    },
     "folderName": {
-      "gartenformen": "garden type",
-      "stadtgruen": "urban green",
+      "gartenformen": "urban garden forms",
+      "stadtgruen": "urban greenspace",
       "boden": "soil",
       "soziales": "social"
     },
