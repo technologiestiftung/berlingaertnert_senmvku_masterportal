@@ -13,13 +13,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.328706,
-                    52.493085
+                    10.000000,
+                    65.000000
                 ]
             },
             "properties": {
                 "Name": "DUMMY FOR LEGEND-ICON",
-                "Gartentyp": "DUMMY"
+                "Gartentyp": "DUMMY",
+                "Status": "SHOULD BE OUT OF BOUNDS OF MAP"
             }
         },
         {

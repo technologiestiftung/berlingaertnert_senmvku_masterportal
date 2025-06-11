@@ -87,7 +87,7 @@
           }
         },
         "style": {
-          "legendValue": "common:modules.styleName.flaechenpotential",
+          "legendValue": "common:modules.styleName.null",
           "type": "icon",
           "imageName": "Flaechenpotentiale_legend.png",
           "imageScale": 0.5
@@ -105,7 +105,7 @@
     "rules": [
       {
         "style":{
-          "legendValue": "common:modules.styleName.selbsterntegarten",
+          "legendValue": "common:modules.styleName.null",
           "type": "icon",
           "imageName": "Selbsterntegaerten_legend.png",
           "imageScale": 0.5
@@ -123,7 +123,7 @@
           }
         },
         "style": {
-          "legendValue": "common:modules.styleName.beetpatenschaft",
+          "legendValue": "common:modules.styleName.null",
           "type": "icon",
           "imageName": "Beetpatenschaft_legend.png",
           "imageScale": 0.5
@@ -141,7 +141,7 @@
     "rules": [
       {
         "style": {
-          "legendValue": "common:modules.styleName.gartenarbeitsschule",
+          "legendValue": "common:modules.styleName.null",
           "type": "icon",
           "imageName": "Gartenarbeitsschule_legend.png",
           "imageScale": 0.5
@@ -154,7 +154,7 @@
     "rules": [
       {
         "style": {
-          "legendValue": "common:modules.styleName.parklet",
+          "legendValue": "common:modules.styleName.null",
           "type": "icon",
           "imageName": "Parklet_legend.png",
           "imageScale": 0.5

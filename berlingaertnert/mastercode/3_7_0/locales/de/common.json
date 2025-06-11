@@ -1022,8 +1022,9 @@
       "einwohnerdichte": "Bereiche mit hoher Einwohnerdichte"
     },    
     "styleName":{
-      "aktiver_garten": "aktiver Garten",
-      "inaktiver_garten": "nicht aktiver Garten",
+      "null": " ",
+      "aktiver_garten": "aktiv",
+      "inaktiver_garten": "nicht aktiv",
       "anbaustation": "Anbaustation",
       "abholstation": "Abholstation",
       "schulgarten": "Schulgarten",
