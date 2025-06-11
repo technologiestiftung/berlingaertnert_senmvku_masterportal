@@ -1032,7 +1032,12 @@
       "gartenarbeitsschule": "Gartenarbeitsschule",
       "selbsterntegarten": "Selbsterntegarten",
       "Beetpatenschaft": "Beetpatenschaft",
-      "flaechenpotential": "Flächenpotential"
+      "flaechenpotential": "Flächenpotential",
+      "gebaeude": "Gebäude",
+      "schule": "Schule",
+      "kita": "Kindertagesstätte",
+      "pflege": "Pflegeeinrichtung",
+      "baum": "Baum"
     },
     "folderName": {
       "gartenformen": "Gartenformen",

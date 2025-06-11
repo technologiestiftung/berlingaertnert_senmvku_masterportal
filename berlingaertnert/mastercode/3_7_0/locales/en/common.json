@@ -827,7 +827,12 @@
       "gartenarbeitsschule": "Gardening Schools",
       "selbsterntegarten": "Self-Harvest Gardens",
       "Beetpatenschaft": "Garden Bed Sponsorship",
-      "flaechenpotential": "Potential Area"
+      "flaechenpotential": "Potential Area",
+      "gebaeude": "Building",
+      "schule": "School",
+      "kita": "Day Care Center",
+      "pflege": "Retirement Home",
+      "baum": "Tree"
     },
     "folderName": {
       "gartenformen": "urban garden forms",

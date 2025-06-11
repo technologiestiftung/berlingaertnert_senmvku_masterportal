@@ -87,7 +87,7 @@
           }
         },
         "style": {
-          "legendValue": "Flächenpotential",
+          "legendValue": "common:modules.styleName.flaechenpotential",
           "type": "icon",
           "imageName": "Flaechenpotentiale_legend.png",
           "imageScale": 0.5
@@ -105,7 +105,7 @@
     "rules": [
       {
         "style":{
-          "legendValue": "Selbsterntegarten",
+          "legendValue": "common:modules.styleName.selbsterntegarten",
           "type": "icon",
           "imageName": "Selbsterntegaerten_legend.png",
           "imageScale": 0.5
@@ -123,7 +123,7 @@
           }
         },
         "style": {
-          "legendValue": "Beetpatenschaft",
+          "legendValue": "common:modules.styleName.beetpatenschaft",
           "type": "icon",
           "imageName": "Beetpatenschaft_legend.png",
           "imageScale": 0.5
@@ -141,7 +141,7 @@
     "rules": [
       {
         "style": {
-          "legendValue": "Gartenarbeitsschule",
+          "legendValue": "common:modules.styleName.gartenarbeitsschule",
           "type": "icon",
           "imageName": "Gartenarbeitsschule_legend.png",
           "imageScale": 0.5
@@ -154,7 +154,7 @@
     "rules": [
       {
         "style": {
-          "legendValue": "Parklet",
+          "legendValue": "common:modules.styleName.parklet",
           "type": "icon",
           "imageName": "Parklet_legend.png",
           "imageScale": 0.5
@@ -175,7 +175,7 @@
         ]
         },
         "style": {
-          "legendValue": "Schulgarten",
+          "legendValue": "common:modules.styleName.schulgarten",
           "type": "icon",
           "imageName": "Schulgaerten_legend.png",
           "imageScale": 0.5
@@ -186,7 +186,7 @@
           "properties": {}
         },
         "style":{
-          "legendValue": "Kitagarten",
+          "legendValue": "common:modules.styleName.kitagarten",
           "type": "icon",
           "imageName": "Kitagaerten_legend.png",
           "imageScale": 0.5
@@ -199,7 +199,7 @@
     "rules":[
       {
         "style": {
-          "legendValue": "Gebäude",
+          "legendValue": "common:modules.styleName.gebaeude",
           "type": "icon",
           "imageName": "building.svg",
           "imageScale": 1.0
@@ -212,7 +212,7 @@
     "rules":[
       {
         "style": {
-          "legendValue": "Schule",
+          "legendValue": "common:modules.styleName.schule",
           "type": "icon",
           "imageName": "buildings-fill.svg",
           "imageScale": 1.3
@@ -225,7 +225,7 @@
     "rules":[
       {
         "style": {
-          "legendValue": "Kindertagesstätte",
+          "legendValue": "common:modules.styleName.kita",
           "type": "icon",
           "imageName": "buildings.svg",
           "imageScale": 1.3
@@ -238,7 +238,7 @@
     "rules":[
       {
         "style": {
-          "legendValue": "Pflegeeinrichtung",
+          "legendValue": "common:modules.styleName.pflege",
           "type": "icon",
           "imageName": "building-fill.svg",
           "imageScale": 1.0
@@ -251,7 +251,7 @@
     "rules":[
       {
         "style": {
-          "legendValue": "Baum",
+          "legendValue": "common:modules.styleName.baum",
           "type": "icon",
           "imageName": "tree.svg",
           "imageScale": 0.9
@@ -264,7 +264,7 @@
     "rules":[
       {
         "style": {
-          "legendValue": "Baum",
+          "legendValue": "common:modules.styleName.baum",
           "type": "circle",
           "circleRadius": 4,
           "circleStrokeWidth": 0,
@@ -279,7 +279,7 @@
     "rules":[
       {
         "style": {
-          "legendValue": "Baum",
+          "legendValue": "common:modules.styleName.baum",
           "clusterType": "circle",
           "circleRadius": 6,
           "circleStrokeWidth": 1,
