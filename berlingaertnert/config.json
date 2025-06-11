@@ -136,10 +136,6 @@
           },
           {
             "type": "coordToolkit",
-            "heightLayerId": "19173",
-            "heightElementName": "value_0",
-            "heightValueWater": "-20",
-            "heightValueBuilding": "200",
             "zoomLevel": 5
           }
         ]

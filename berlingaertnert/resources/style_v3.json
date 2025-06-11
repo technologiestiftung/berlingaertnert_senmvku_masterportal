@@ -95,7 +95,9 @@
       },
       {
           "style": {
-            "legendValue": null
+            "legendValue": null,
+            "type": "circle",
+            "circleRadius": 0
           }
       }
     ]
@@ -131,7 +133,9 @@
       },      
       {
           "style": {
-            "legendValue": null
+            "legendValue": null,
+            "type": "circle",
+            "circleRadius": 0
           }
       }
     ]

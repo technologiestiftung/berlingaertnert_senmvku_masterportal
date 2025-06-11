@@ -88,7 +88,7 @@
   {
     "id": "gemeinschaftsgaerten",
     "name": "Gemeinschaftsgaerten",
-    "crs": "urn:ogc:def:crs:EPSG::4326",
+    "crs": "EPSG:4326",
     "url": "resources/data/gemeinschaftsgaerten.geojson",
     "typ": "GeoJSON",
     "gfiTheme": "default",
@@ -123,7 +123,7 @@
   {
     "id": "beetpatenschaften",
     "name": "beetpatenschaften",
-    "crs": "urn:ogc:def:crs:EPSG::4326",
+    "crs": "EPSG:4326",
     "url": "resources/data/beetpatenschaften.geojson",
     "typ": "GeoJSON",
     "gfiTheme": "default",
@@ -149,7 +149,7 @@
   {
     "id": "gartenarbeitsschule",
     "name": "gartenarbeitsschule",
-    "crs": "urn:ogc:def:crs:EPSG::4326",
+    "crs": "EPSG:4326",
     "url": "resources/data/gartenarbeitsschulen.geojson",
     "typ": "GeoJSON",
     "gfiTheme": "default",
@@ -180,7 +180,7 @@
   {
     "id": "kitaschulgaerten",
     "name": "kitaschulgaerten",
-    "crs": "urn:ogc:def:crs:EPSG::4326",
+    "crs": "EPSG:4326",
     "url": "resources/data/kitaschulgaerten.geojson",
     "typ": "GeoJSON",
     "gfiTheme": "default",
@@ -209,7 +209,7 @@
   {
     "id": "parklets",
     "name": "parklets",
-    "crs": "urn:ogc:def:crs:EPSG::4326",
+    "crs": "EPSG:4326",
     "url": "resources/data/parklets.geojson",
     "typ": "GeoJSON",
     "gfiTheme": "default",
@@ -230,7 +230,7 @@
   {
     "id": "selbsterntegaerten",
     "name": "selbsterntegaerten",
-    "crs": "urn:ogc:def:crs:EPSG::4326",
+    "crs": "EPSG:4326",
     "url": "resources/data/selbsterntegaerten.geojson",
     "typ": "GeoJSON",
     "gfiTheme": "default",
@@ -262,7 +262,7 @@
   {
     "id": "solidarischelandwirtschaft",
     "name": "solidarischelandwirtschaft",
-    "crs": "urn:ogc:def:crs:EPSG::4326",
+    "crs": "EPSG:4326",
     "url": "resources/data/solidarischelandwirtschaft.geojson",
     "typ": "GeoJSON",
     "datasets": [{
@@ -291,7 +291,7 @@
   {
     "id": "flaechenpotentiale",
     "name": "flaechenpotentiale",
-    "crs": "urn:ogc:def:crs:EPSG::4326",
+    "crs": "EPSG:4326",
     "url": "resources/data/flaechenpotentiale.geojson",
     "typ": "GeoJSON",
     "gfiTheme": "default",
