@@ -116,6 +116,42 @@
         left: 0;
         font-size: 24px;
       }
+      .icon-odis{
+        display: inline-block;
+        width: 221px;
+        height: 55px;
+        background-image: url("https://logos.citylab-berlin.org/logo-odis-berlin-black.svg"); /* or .png */
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center;
+      }
+      .icon-citylab{
+        display: inline-block; 
+        width: 200px; /* ratio -> height = width / 4.67 */
+        height: 42.8px;
+        background-image: url("https://logos.citylab-berlin.org/logo-citylab-berlin-outline.svg"); /* or .png */
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center;
+      }
+      .icon-senatskanzlei{
+        display: inline-block; 
+        width: 240px; /* ratio -> height = width / 6 */
+        height: 40px;
+        background-image: url("https://logos.citylab-berlin.org/logo-senatskanzlei-buergermeister-horizontal-schwarz.svg"); /* or .png */
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center;
+      }
+      .icon-technologiestiftung{
+        display: inline-block; 
+        width: 200px; /* ratio -> height = width / 3.33 */
+        height: 60px;
+        background-image: url("https://logos.citylab-berlin.org/logo-technologiestiftung-berlin-de.svg"); /* or .png */
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center;
+      }
       #accordion-container-layer-info-contact {
         display: none;
       }
@@ -149,12 +185,21 @@
       a[href="resources/data/metadata/basemap_bkg.xml"] {
         display: none;
       }
-      .btn-primary[data-v-cccf2576] {
-          --bs-btn-color: #423865 !important;
+      .btn-primary[id="add-layer-btn"] { /* add layer button coloring */
+          --bs-btn-color: #000000 !important;
           --bs-btn-bg: #9bcfaf !important;
-          --bs-btn-hover-color: #fff !important;
+          --bs-btn-hover-color: #ffff !important;
           --bs-btn-hover-bg: #423865 !important;
           --bs-btn-hover-border-color: #423865 !important;
+      }
+      .btn-primary[id="search-button"]{ /* search button 'color' adjustment from initial opacity */
+          --bs-btn-disabled-opacity: 1 !important;
+      }
+      .layer-component-icon-sub-menu{ /* disable opacity slider */
+        display: none !important;
+      }
+      #mp-menu-body-items-element-1-mainMenu { /* disable click of senatskanzlei button */
+        pointer-events: none;
       }
       .layerPreview[title] {
          pointer-events: none;

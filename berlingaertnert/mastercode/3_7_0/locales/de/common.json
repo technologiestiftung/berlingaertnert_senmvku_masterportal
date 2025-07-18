@@ -1475,7 +1475,7 @@
         "unknownProjection": "Ergebnisse in unbekanntem Koordinatensystem"
       },
       "placeholder": {
-        "searchFor": "Suche nach",
+        "searchFor": "Suche nach Adresse",
         "address": "Suche nach Adresse",
         "addressDistrict": "Suche Adresse, Stadtteil",
         "addressHospitalBplan": "Suche nach Adresse/Krankenhaus/B-Plan",

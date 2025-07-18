@@ -11,7 +11,7 @@
         }
       },
       "mapView": {
-        "backgroundImage": "./resources/img/backgroundCanvas_color.jpeg",
+        "backgroundImage": "./resources/img/blank.png",
         "startCenter": [1487994.33, 6891924.15],
         "extent": [1444000, 6860000, 1538000, 6925000],
         "startZoomLevel": 0.5,
@@ -42,8 +42,15 @@
     "portalFooter": {
       "urls": [
         {
+        "bezeichnung": "entwickelt von der ", 
+        "url": "https://odis-berlin.de/",
+        "alias": "Open Data Informationsstelle Berlin",
+        "alias_mobile": "ODIS"
+        },
+        {
         "url": "https://www.technologiestiftung-berlin.de/impressum/",
-        "alias": "common:modules.about.imprintTitle"
+        "alias": "common:modules.about.imprintTitle",
+        "alias_mobile": "common:modules.about.imprintTitle"
         }
       ]
     },
@@ -103,6 +110,20 @@
             "type": "shareView",
             "name": "common:modules.shareView.name",
             "icon": "icon-berlin-outline-heart"
+          }
+        ],
+        [
+          {
+           "icon": "icon-odis",
+            "type": "customMenuElement",
+            "name": " ",
+            "htmlContent": "<div><img src='resources/img/logo-odis-berlin-black.svg' alt='ODIS Logo' style='max-width:80%;height:auto; display:block; margin: 0 auto;'><p style='margin-top: 20px;'>Die Kartenanwendung wurde durch die <a href='https://odis-berlin.de/' target='_blank'>Open Data Informationsstelle Berlin (ODIS)</a> erstellt. Die ODIS ist eine Anlaufstelle für das Thema Open Data in Berlin. Sie unterstützt die Berliner Verwaltung bei der Bereitstellung offener Daten und begleitet datenbasierte Projekte – von der Konzeption über die technische Umsetzung bis hin zur Kommunikation mit der Öffentlichkeit.</p><p>Die Open Data Informationsstelle Berlin ist  ein Projekt der <a href='https://www.technologiestiftung-berlin.de/' target='_blank'>Technologiestiftung Berlin</a>, gefördert von der <a href='https://www.technologiestiftung-berlin.de/' target='_blank'>Senatskanzlei Berlin</a> und der Investitionsbank Berlin aus den Mitteln des Landes Berlin.</p></div>"
+          },
+          {
+           "icon": "icon-senatskanzlei",
+            "type": "customMenuElement",
+            "name": " ",
+            "pathToContent": null
           }
         ]
       ]
@@ -166,6 +187,7 @@
               "id": "kleingarten:wfs:kleingarten",
               "name": "common:modules.layerName.kleingarten",
               "styleId": "kleingarten",
+              "transparency": false,
               "visibility": true,
               "showInLayerTree": true
             },
